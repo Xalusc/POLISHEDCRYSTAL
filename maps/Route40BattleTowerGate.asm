@@ -20,12 +20,12 @@ Route40BattleTowerGate_MapScriptHeader:
 
 Route40BattleTowerGateOfficer:
 	text "Are you going to"
-	line "the Battle Tower?"
+	line "the BATTLE TOWER?"
 
 	para "If you win a whole"
 	line "lot, you can earn"
 
-	para "Battle Points and"
+	para "BATTLE POINTS and"
 	line "trade them in for"
 	cont "special items."
 	done
@@ -36,15 +36,15 @@ Route40BattleTowerGateRockerScript:
 	jumpthistextfaceplayer
 
 	text "Did you come to"
-	line "see the Battle"
-	cont "Tower too?"
+	line "see the BATTLE"
+	cont "TOWER too?"
 
 	para "But I guess you"
 	line "can't go in yet."
 	done
 
 .OpenText:
-	text "Battle Tower has"
+	text "BATTLE TOWER has"
 	line "opened."
 
 	para "I want to go, but"
@@ -60,15 +60,15 @@ Route40BattleTowerGateTwinScript:
 	jumpthistextfaceplayer
 
 	text "I'm going to train"
-	line "my #mon so I'll"
+	line "my #MON so I'll"
 
 	para "be all ready for"
-	line "the Battle Tower."
+	line "the BATTLE TOWER."
 	done
 
 .OpenText:
 	text "The levels of the"
-	line "#mon I want to"
+	line "#MON I want to"
 
 	para "use are all"
 	line "different."

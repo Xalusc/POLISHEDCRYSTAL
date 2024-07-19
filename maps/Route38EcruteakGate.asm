@@ -46,9 +46,9 @@ Route38EcruteakGateOfficerText:
 	text "Where did you say"
 	line "you're from?"
 
-	para "New Bark Town?"
+	para "NEW BARK TOWN?"
 
-	para "Prof.Elm lives"
+	para "PROF.ELM lives"
 	line "over there, right?"
 
 	para "You've come a long"
@@ -57,10 +57,10 @@ Route38EcruteakGateOfficerText:
 
 ProfOaksAide2HiText:
 	text "Hello there! I'm"
-	line "Prof.Oak's aide."
+	line "PROF.OAK's AIDE."
 
 	para "If you caught 30"
-	line "kinds of #mon,"
+	line "kinds of #MON,"
 
 	para "I'm supposed to"
 	line "give you an item."
@@ -69,7 +69,7 @@ ProfOaksAide2HiText:
 	line "have you caught"
 
 	para "at least 30 kinds"
-	line "of #mon?"
+	line "of #MON?"
 	done
 
 ProfOaksAide2UhOhText:
@@ -79,7 +79,7 @@ ProfOaksAide2UhOhText:
 	para "caught "
 	text_decimal wTempPokedexCaughtCount, 1, 3
 	text " kinds"
-	line "of #mon."
+	line "of #MON."
 
 	para "Come back and see"
 	line "me when you catch"
@@ -93,7 +93,7 @@ ProfOaksAide2HereYouGoText:
 	para "caught "
 	text_decimal wTempPokedexCaughtCount, 1, 3
 	text " kinds"
-	line "of #mon."
+	line "of #MON."
 
 	para "Congratulations!"
 	line "Here you go!"
@@ -106,13 +106,13 @@ ProfOaksAide2NoRoomText:
 	done
 
 ProfOaksAide2ExplainText:
-	text "That Exp.Share"
-	line "helps a #mon"
+	text "That EXP.SHARE"
+	line "helps a #MON"
 
 	para "gain experience"
 	line "without even"
 	cont "battling."
 
 	para "Use it to com-"
-	line "plete the #dex!"
+	line "plete the #DEX!"
 	done

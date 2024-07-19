@@ -39,7 +39,7 @@ GenericTrainerPokemaniacAidan:
 	generictrainer POKEMANIAC, AIDAN, EVENT_BEAT_POKEMANIAC_AIDAN, PokemaniacAidanSeenText, PokemaniacAidanBeatenText
 
 	text "Sometimes a"
-	line "#mon in a"
+	line "#MON in a"
 
 	para "certain area will"
 	line "know a rare move."
@@ -72,19 +72,19 @@ BattleGirlKagamiBeatenText:
 	done
 
 PokemaniacAidanSeenText:
-	text "My #mon!"
+	text "My #MON!"
 
 	para "Let me show"
 	line "you them!"
 	done
 
 PokemaniacAidanBeatenText:
-	text "My #mon…"
+	text "My #MON…"
 	done
 
 HikerSteveSeenText:
 	text "They call me a"
-	line "Hiker, but right"
+	line "HIKER, but right"
 
 	para "now I'm a spelunk-"
 	line "er!"

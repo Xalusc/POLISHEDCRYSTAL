@@ -70,10 +70,10 @@ ScaryCave1FMiraScript:
 	end
 
 .ChallengeText:
-	text "I'm Mira…"
+	text "I'm MIRA…"
 	line "I was catching"
 
-	para "#mon, but this"
+	para "#MON, but this"
 	line "cave is too scary…"
 
 	para "I want to get"
@@ -86,17 +86,17 @@ ScaryCave1FMiraScript:
 	done
 
 .YesText:
-	text "Yes! Mira will"
+	text "Yes! MIRA will"
 	line "show you her #-"
-	cont "mon!"
+	cont "MON!"
 	done
 
 .NoText:
-	text "Mira is sad…"
+	text "MIRA is sad…"
 	done
 
 .BeatenText:
-	text "Mira wants to get"
+	text "MIRA wants to get"
 	line "a lot, lot strong-"
 	cont "er, like <PLAYER>!"
 	done
@@ -107,28 +107,28 @@ ScaryCave1FMiraScript:
 
 	para "because you're al-"
 	line "ways with your"
-	cont "#mon?"
+	cont "#MON?"
 
 	para "Yes! That has to"
 	line "be it!"
 
-	para "Mira is beginning"
+	para "MIRA is beginning"
 	line "to understand!"
 
 	para "Thank you,"
 	line "<PLAYER>!"
 
-	para "Mira wants you to"
+	para "MIRA wants you to"
 	line "have this!"
 	done
 
 .GoodbyeText:
-	text "Mira will try like"
+	text "MIRA will try like"
 	line "you, <PLAYER>!"
 
 	para "I'll get stronger"
-	line "at the Battle"
-	cont "Tower!"
+	line "at the BATTLE"
+	cont "TOWER!"
 
 	para "<PLAYER>,"
 	line "bye-bye!"
@@ -167,23 +167,23 @@ ScaryCave1FPharmacistScript:
 	cont "hit them first!"
 
 	para "Give 'em a good"
-	line "surprise Sucker"
-	cont "Punch!"
+	line "surprise SUCKER"
+	cont "PUNCH!"
 	done
 
 .QuestionText:
 	text "I'll teach you to"
-	line "Sucker Punch, but"
+	line "SUCKER PUNCH, but"
 
-	para "I want a Silver"
-	line "Leaf."
+	para "I want a SILVER"
+	line "LEAF."
 	done
 
 .NoSilverLeaf
 	waitbutton
 	jumpthisopenedtext
 
-	text "No Silver Leaf?"
+	text "No SILVER LEAF?"
 	line "Forget it then."
 	done
 
@@ -192,7 +192,7 @@ ScaryCave1FPharmacistScript:
 	jumpthisopenedtext
 
 	text "Now you can use"
-	line "Sucker Punch!"
+	line "SUCKER PUNCH!"
 
 	para "If a foe is about"
 	line "to hit you, you"
@@ -248,43 +248,43 @@ GenericTrainerSuper_nerdMako:
 GenericTrainerCoupleJoeandjo1:
 	generictrainer COUPLE, JOEANDJO1, EVENT_BEAT_COUPLE_JOE_AND_JO, .SeenText, .BeatenText
 
-	text "Joe: We're on a"
+	text "JOE: We're on a"
 	line "ghost hunt, but"
 
 	para "I'm not scared as"
 	line "long as I have my"
-	cont "Jo beside me!"
+	cont "JO beside me!"
 	done
 
 .SeenText:
-	text "Joe: A ghost!"
+	text "JOE: A ghost!"
 	line "Stay close, my"
-	cont "dear Jo!"
+	cont "dear JO!"
 	done
 
 .BeatenText:
-	text "Joe: Oh. It was"
+	text "JOE: Oh. It was"
 	line "just a trainer."
 	done
 
 GenericTrainerCoupleJoeandjo2:
 	generictrainer COUPLE, JOEANDJO2, EVENT_BEAT_COUPLE_JOE_AND_JO, .SeenText, .BeatenText
 
-	text "Jo: I'm so lucky"
+	text "JO: I'm so lucky"
 	line "to have my wonder-"
-	cont "ful Joe to ward"
+	cont "ful JOE to ward"
 
 	para "off any creepy"
 	line "ghosts."
 	done
 
 .SeenText:
-	text "Jo: Eek! Hold me"
-	line "tight, Joe!"
+	text "JO: Eek! Hold me"
+	line "tight, JOE!"
 	done
 
 .BeatenText:
-	text "Jo: Aren't you"
+	text "JO: Aren't you"
 	line "scared?"
 	done
 

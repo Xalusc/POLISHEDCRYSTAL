@@ -196,12 +196,12 @@ Route22Past_CelebiFloatsMovementData:
 	step_end
 
 Route22PastLyraWhereAreWeText:
-	text "Lyra: Where are"
+	text "LYRA: Where are"
 	line "we…?"
 	done
 
 Route22PastLyraIlexForestDisappearedText:
-	text "Lyra: Ilex Forest"
+	text "LYRA: ILEX FOREST"
 	line "has disappeared!"
 
 	para "…That's not it."
@@ -211,14 +211,14 @@ Route22PastLyraIlexForestDisappearedText:
 	done
 
 Route22PastLyraExplainsTimeTravelText:
-	text "Lyra: <PLAYER>, my"
-	line "#gear radio"
+	text "LYRA: <PLAYER>, my"
+	line "#GEAR radio"
 
 	para "said the date is"
 	line "from three years"
 	cont "ago!"
 
-	para "Celebi must have"
+	para "CELEBI must have"
 	line "used its power to"
 
 	para "take us back in"
@@ -297,7 +297,7 @@ Route22PastGiovanniSilverArgumentText:
 	line "ness one day the"
 
 	para "revival of me and"
-	line "my Team Rocket!"
+	line "my TEAM ROCKET!"
 	done
 
 Route22PastSilverProtestsText:
@@ -349,7 +349,7 @@ Route22PastSilverInsultText:
 	done
 
 Route22PastLyraConclusionText:
-	text "Lyra: Who does he"
+	text "LYRA: Who does he"
 	line "think he is?"
 
 	para "That was"
@@ -358,11 +358,11 @@ Route22PastLyraConclusionText:
 	para "But they were"
 	line "talking about the"
 
-	para "revival of Team"
-	line "Rocket…"
+	para "revival of TEAM"
+	line "ROCKET…"
 
-	para "Team Rocket was"
-	line "removed from Kanto"
+	para "TEAM ROCKET was"
+	line "removed from KANTO"
 
 	para "by a child three"
 	line "years ago."
@@ -372,10 +372,10 @@ Route22PastLyraConclusionText:
 	done
 
 Route22PastLyraOhNoText:
-	text "Lyra: Oh no!"
+	text "LYRA: Oh no!"
 	line "It's happening"
 	cont "again…!"
 
-	para "It's Celebi's"
-	line "Time Travel!"
+	para "It's CELEBI's"
+	line "TIME TRAVEL!"
 	done

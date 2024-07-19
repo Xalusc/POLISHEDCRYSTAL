@@ -72,7 +72,7 @@ GenericTrainerCamperJerry:
 	generictrainer CAMPER, JERRY, EVENT_BEAT_CAMPER_JERRY, CamperJerrySeenText, CamperJerryBeatenText
 
 	text "Hey, you! Trainer"
-	line "from Johto! Brock"
+	line "from JOHTO! BROCK"
 
 	para "is tough. He'll"
 	line "punish you if you"
@@ -102,19 +102,19 @@ PewterGymStatue:
 	jumpstd gymstatue2
 
 BrockIntroText:
-	text "Brock: Wow, it's"
+	text "BROCK: Wow, it's"
 	line "not often that we"
 
 	para "get a challenger"
-	line "from Johto."
+	line "from JOHTO."
 
-	para "I'm Brock, the"
-	line "Pewter Gym Leader."
+	para "I'm BROCK, the"
+	line "PEWTER GYM LEADER."
 
 	para "I'm an expert on"
-	line "Rock-type #mon."
+	line "rock-type #MON."
 
-	para "My #mon are im-"
+	para "My #MON are im-"
 	line "pervious to most"
 
 	para "physical attacks."
@@ -127,8 +127,8 @@ BrockIntroText:
 	done
 
 BrockWinLossText:
-	text "Brock: Your #-"
-	line "mon's powerful at-"
+	text "BROCK: Your #-"
+	line "MON's powerful at-"
 	cont "tacks overcame my"
 	cont "rock-hard defense…"
 
@@ -136,16 +136,16 @@ BrockWinLossText:
 	line "than I expected…"
 
 	para "Go ahead--take"
-	line "this Badge."
+	line "this BADGE."
 	done
 
 ReceivedBoulderBadgeText:
 	text "<PLAYER> received"
-	line "the Boulder Badge."
+	line "the BOULDER BADGE."
 	done
 
 BrockBoulderBadgeText:
-	text "Brock: <PLAYER>,"
+	text "BROCK: <PLAYER>,"
 	line "thanks. I enjoyed"
 
 	para "battling you, even"
@@ -153,12 +153,12 @@ BrockBoulderBadgeText:
 	cont "upset."
 
 	para "I'll give you the"
-	line "TM for Rock Slide,"
+	line "TM for ROCK SLIDE,"
 	cont "too."
 	done
 
 BrockFightDoneText:
-	text "Brock: The world"
+	text "BROCK: The world"
 	line "is huge. There are"
 
 	para "still many strong"
@@ -172,11 +172,11 @@ BrockFightDoneText:
 
 CamperJerrySeenText:
 	text "The trainers of"
-	line "this Gym use Rock-"
-	cont "type #mon."
+	line "this GYM use rock-"
+	cont "type #MON."
 
-	para "The Rock-type has"
-	line "high Defense."
+	para "The rock-type has"
+	line "high DEFENSE."
 
 	para "Battles could end"
 	line "up going a long"
@@ -199,25 +199,25 @@ HikerEdwinBeatenText:
 	done
 
 PewterGymGuyText:
-	text "Yo! Champ in"
+	text "Yo! CHAMP in"
 	line "making! You're"
 
 	para "really rocking."
 	line "Are you battling"
 
-	para "the Gym Leaders of"
-	line "Kanto?"
+	para "the GYM LEADERS of"
+	line "KANTO?"
 
 	para "They're strong and"
 	line "dedicated people,"
 
-	para "just like Johto's"
-	line "Gym Leaders."
+	para "just like JOHTO's"
+	line "GYM LEADERS."
 	done
 
 PewterGymGuyWinText:
-	text "Yo! Champ in"
-	line "making! That Gym"
+	text "Yo! CHAMP in"
+	line "making! That GYM"
 
 	para "didn't give you"
 	line "much trouble."

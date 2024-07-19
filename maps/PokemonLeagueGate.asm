@@ -42,30 +42,30 @@ VictoryRoadGateOfficerText:
 	line "have proven them-"
 	cont "selves may pass."
 
-	para "You took the Johto"
-	line "Gym challenge?"
+	para "You took the JOHTO"
+	line "GYM challenge?"
 
 	para "The guards ahead"
 	line "will check your"
-	cont "badges."
+	cont "BADGES."
 
 	para "Go on now."
 	done
 
 VictoryRoadGateLeftBlackBeltText:
 	text "This way leads to"
-	line "Mt.Silver."
+	line "MT.SILVER."
 
 	para "You'll see scary-"
-	line "strong #mon out"
+	line "strong #MON out"
 	cont "there."
 	done
 
 VictoryRoadGateRightBlackBeltText:
-	text "Off to the #mon"
-	line "League, are you?"
+	text "Off to the #MON"
+	line "LEAGUE, are you?"
 
-	para "The Elite Four are"
+	para "The ELITE FOUR are"
 	line "so strong it's"
 
 	para "scary, and they're"

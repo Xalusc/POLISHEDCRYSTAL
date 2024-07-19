@@ -80,8 +80,8 @@ KogaScript:
 .SeenText:
 	text "Fwahahahaha!"
 
-	para "I am Koga of the"
-	line "Elite Four."
+	para "I am KOGA of the"
+	line "ELITE FOUR."
 
 	para "I live in shadows,"
 	line "a ninja!"
@@ -99,7 +99,7 @@ KogaScript:
 
 	para "Fwahahahaha!"
 
-	para "#mon is not"
+	para "#MON is not"
 	line "merely about brute"
 
 	para "force--you shall"

@@ -18,9 +18,9 @@ FuchsiaMart_MapScriptHeader:
 
 FuchsiaMartFisherText:
 	text "I was hoping to"
-	line "buy some Safari"
+	line "buy some SAFARI"
 
-	para "Zone souvenirs,"
+	para "ZONE souvenirs,"
 	line "but they're not"
 
 	para "being sold any"
@@ -28,8 +28,8 @@ FuchsiaMartFisherText:
 	done
 
 FuchsiaMartCooltrainerFText:
-	text "The Safari Zone"
-	line "Warden's grand-"
+	text "The SAFARI ZONE"
+	line "WARDEN's grand-"
 	cont "daughter lives in"
 	cont "town."
 	done

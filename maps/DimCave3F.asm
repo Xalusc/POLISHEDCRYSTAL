@@ -92,7 +92,7 @@ GenericTrainerBlackbeltTakeo:
 .SeenText:
 	text "I'm training here"
 	line "alone with my"
-	cont "#mon."
+	cont "#MON."
 
 	para "Leave at once!"
 	done
@@ -105,7 +105,7 @@ GenericTrainerBlackbeltTakeo:
 GenericTrainerHikerFloyd:
 	generictrainer HIKER, FLOYD, EVENT_BEAT_HIKER_FLOYD, .SeenText, .BeatenText
 
-	text "I am SO lost in"
+	text "I am so lost in"
 	line "here!"
 
 	para "I should stick to"
@@ -114,7 +114,7 @@ GenericTrainerHikerFloyd:
 
 .SeenText:
 	text "This cave makes me"
-	line "so ANGRY!"
+	line "so angry!"
 
 	para "I'll battle to let"
 	line "off some steam!"
@@ -134,7 +134,7 @@ DimCave3FPokefanmScript:
 	jumpthisopenedtext
 
 	text "What?! Do you"
-	line "have a map?"
+	line "have a MAP?"
 	done
 
 .QuestionText:
@@ -144,9 +144,9 @@ DimCave3FPokefanmScript:
 .YesText:
 	text "Me too!"
 
-	para "The Power Plant"
+	para "The POWER PLANT"
 	line "messes with my"
 
 	para "compass, and I"
-	line "don't have a map."
+	line "don't have a MAP."
 	done

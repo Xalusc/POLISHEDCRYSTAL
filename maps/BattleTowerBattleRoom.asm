@@ -73,15 +73,15 @@ Script_BattleRoomLoop:
 		line "on your winning"
 		cont "streak, trainer!"
 
-		para "The Tower Tycoon"
+		para "The TOWER TYCOON"
 		line "has sent word that"
 
 		para "he is impressed"
 		line "with your skill."
 
 		para "Are you ready to"
-		line "battle the Tower"
-		cont "Tycoon?"
+		line "battle the TOWER"
+		cont "TYCOON?"
 		done
 .ShownText
 	yesorno
@@ -107,8 +107,8 @@ Script_BattleRoomLoop:
 	special SoftReset
 .DontSaveAndEndTheSession:
 	writethistext
-		text "Cancel your Battle"
-		line "Room challenge?"
+		text "Cancel your BATTLE"
+		line "ROOM challenge?"
 
 		para "Beware, it counts"
 		line "as a loss."

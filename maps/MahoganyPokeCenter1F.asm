@@ -23,13 +23,13 @@ PokemonJournalPryceScript:
 	setflag ENGINE_READ_PRYCE_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Leader Pryce!"
+	para "SPECIAL FEATURE:"
+	line "LEADER PRYCE!"
 
-	para "Pryce's middle name"
-	line "is Willow."
+	para "PRYCE's middle name"
+	line "is WILLOW."
 
 	para "His fighting style"
 	line "is said to be as"
@@ -44,17 +44,17 @@ PokemonJournalPryceScript:
 	done
 
 MahoganyPokeCenter1FPokefanmText:
-	text "What's this? Team"
-	line "Rocket has come"
+	text "What's this? TEAM"
+	line "ROCKET has come"
 	cont "back?"
 
 	para "I saw some men in"
-	line "black at Lake of"
-	cont "Rage…"
+	line "black at LAKE OF"
+	cont "RAGE…"
 	done
 
 MahoganyPokeCenter1FYoungsterText:
-	text "I stop my #mon"
+	text "I stop my #MON"
 	line "from evolving too"
 	cont "early."
 
@@ -65,7 +65,7 @@ MahoganyPokeCenter1FYoungsterText:
 	done
 
 MahoganyPokeCenter1FCooltrainerfText:
-	text "#mon do become"
+	text "#MON do become"
 	line "stronger when they"
 
 	para "evolve, but they"

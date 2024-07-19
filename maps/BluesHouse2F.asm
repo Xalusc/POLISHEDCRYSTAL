@@ -21,8 +21,8 @@ BluesHouse2FPCText:
 	line "simulating a bat-"
 	cont "tle between a"
 
-	para "Blastoise and a"
-	line "Dragonite."
+	para "BLASTOISE and a"
+	line "DRAGONITE."
 	done
 
 BluesHouse2FSNESText:

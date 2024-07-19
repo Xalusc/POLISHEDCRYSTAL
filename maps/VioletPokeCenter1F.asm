@@ -27,16 +27,16 @@ PokemonJournalFalknerScript:
 	setflag ENGINE_READ_FALKNER_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Leader Falkner!"
+	para "SPECIAL FEATURE:"
+	line "LEADER FALKNER!"
 
 	para "People say that"
-	line "Falkner reveres"
+	line "FALKNER reveres"
 	cont "his father, who"
 
-	para "led the Violet Gym"
+	para "led the VIOLET GYM"
 	line "before him."
 	done
 
@@ -80,21 +80,21 @@ VioletPokeCenter1FElmsAideScript:
 .PartyAndBoxFull:
 	text "Oh, no. You can't"
 	line "carry any more"
-	cont "#mon with you."
+	cont "#MON with you."
 
 	para "You have no space"
-	line "in your box, too."
+	line "in your BOX, too."
 
 	para "I'll wait here"
 	line "while you make"
-	cont "room for the Egg."
+	cont "room for the EGG."
 	done
 
 .RefusedEgg:
 	setevent EVENT_REFUSED_TO_TAKE_EGG_FROM_ELMS_AIDE
 	jumpthisopenedtext
 
-	text "B-but… Prof.Elm"
+	text "B-but… PROF.ELM"
 	line "asked for you…"
 	done
 
@@ -103,42 +103,42 @@ VioletPokeCenter1FElmsAideScript:
 	line "time, no see."
 
 	para "I was browsing the"
-	line "#mon Journal"
+	line "#MON JOURNAL"
 	cont "while I waited."
 
 	para "Its gossip is a"
 	line "good pastime…"
 
-	para "Anyway, Prof.Elm"
+	para "Anyway, PROF.ELM"
 	line "has another favor"
 	cont "to ask you."
 
 	para "Would you take the"
-	line "#mon Egg?"
+	line "#MON EGG?"
 	done
 
 .QuestionText:
 	text "<PLAYER>, will you"
-	line "take the Egg?"
+	line "take the EGG?"
 	done
 
 .GoodbyeText:
 	text "We discovered that"
-	line "a #mon will not"
+	line "a #MON will not"
 
 	para "hatch until it"
-	line "grows in the Egg."
+	line "grows in the EGG."
 
 	para "It also has to be"
 	line "with other active"
-	cont "#mon to hatch."
+	cont "#MON to hatch."
 
 	para "<PLAYER>, you're"
 	line "the only person"
 	cont "we can rely on."
 
-	para "Please call Prof."
-	line "Elm when that Egg"
+	para "Please call PROF."
+	line "ELM when that EGG"
 	cont "hatches!"
 	done
 
@@ -164,8 +164,8 @@ VioletPokeCenter1FElmsAideScript:
 	step_end
 
 VioletPokeCenter1FGameboyKidText:
-	text "A guy named Bill"
-	line "made the #mon"
+	text "A guy named BILL"
+	line "made the #MON"
 	cont "PC storage system."
 	done
 
@@ -173,9 +173,9 @@ VioletPokeCenter1FGentlemanText:
 	text "It was around"
 	line "three years ago."
 
-	para "Team Rocket was up"
+	para "TEAM ROCKET was up"
 	line "to no good with"
-	cont "#mon."
+	cont "#MON."
 
 	para "But justice pre-"
 	line "vailed--a young"
@@ -183,14 +183,14 @@ VioletPokeCenter1FGentlemanText:
 	done
 
 VioletPokeCenter1FYoungsterText:
-	text "#mon are smart."
+	text "#MON are smart."
 	line "They won't obey a"
 
 	para "trainer they don't"
 	line "respect."
 
 	para "Without the right"
-	line "Gym Badges, they"
+	line "GYM BADGES, they"
 
 	para "will just do as"
 	line "they please."

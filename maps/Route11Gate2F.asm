@@ -33,9 +33,9 @@ Route11Gate2FBinoculars2Text:
 	line "binoculars."
 
 	para "The only way to"
-	line "get from Cerulean"
-	cont "City to Lavender"
+	line "get from CERULEAN"
+	cont "CITY to LAVENDER"
 
 	para "is by way of the"
-	line "Rock Tunnel."
+	line "ROCK TUNNEL."
 	done

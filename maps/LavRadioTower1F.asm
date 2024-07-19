@@ -51,7 +51,7 @@ LavRadioTower1FGentlemanScript:
 	line "you can tune into"
 
 	para "the radio programs"
-	line "here in Kanto."
+	line "here in KANTO."
 
 	para "Gahahahaha!"
 	done
@@ -62,7 +62,7 @@ LavRadioTower1FGentlemanScript:
 	para "We've been off the"
 	line "air ever since the"
 
-	para "Power Plant shut"
+	para "POWER PLANT shut"
 	line "down."
 
 	para "All my efforts to"
@@ -78,7 +78,7 @@ LavRadioTower1FGentlemanScript:
 	text "Ah! So you're the"
 	line "<PLAYER> who solved"
 
-	para "the Power Plant's"
+	para "the POWER PLANT's"
 	line "problem?"
 
 	para "Thanks to you, I"
@@ -92,7 +92,7 @@ LavRadioTower1FGentlemanScript:
 	done
 
 .expncardname
-	db "Expn.Card@"
+	db "EXPN.CARD@"
 
 LavRadioTower1FSuperNerd2Script:
 	checkflag ENGINE_EXPN_CARD
@@ -102,16 +102,16 @@ LavRadioTower1FSuperNerd2Script:
 	text "Hey there!"
 
 	para "I am the super"
-	line "Music Director!"
+	line "MUSIC DIRECTOR!"
 
-	para "Huh? Your #gear"
+	para "Huh? Your #GEAR"
 	line "can't tune into my"
 
 	para "music programs."
 	line "How unfortunate!"
 
-	para "If you get a Expn."
-	line "Card upgrade, you"
+	para "If you get a EXPN."
+	line "CARD upgrade, you"
 
 	para "can tune in. You'd"
 	line "better get one!"
@@ -130,8 +130,8 @@ LavRadioTower1FOfficerText:
 	line "only tour the"
 	cont "ground floor."
 
-	para "Ever since Johto's"
-	line "Radio Tower was"
+	para "Ever since JOHTO's"
+	line "RADIO TOWER was"
 
 	para "taken over by a"
 	line "criminal gang, we"
@@ -144,8 +144,8 @@ LavRadioTower1FSuperNerd1Text:
 	text "Many people are"
 	line "hard at work here"
 
-	para "in the Radio"
-	line "Tower."
+	para "in the RADIO"
+	line "TOWER."
 
 	para "They must be doing"
 	line "their best to put"
@@ -156,7 +156,7 @@ LavRadioTower1FSuperNerd2Text_GotExpnCard:
 	text "Hey there!"
 
 	para "I am the super"
-	line "Music Director!"
+	line "MUSIC DIRECTOR!"
 
 	para "I'm responsible"
 	line "for the gorgeous"
@@ -170,28 +170,28 @@ LavRadioTower1FSuperNerd2Text_GotExpnCard:
 	done
 
 LavRadioTower1FDirectoryText:
-	text "1F Reception"
-	line "2F Sales"
+	text "1F RECEPTION"
+	line "2F SALES"
 
-	para "3F Personnel"
-	line "4F Production"
+	para "3F PERSONNEL"
+	line "4F PRODUCTION"
 
-	para "5F Director's"
-	line "   Office"
+	para "5F DIRECTOR'S"
+	line "   OFFICE"
 	done
 
 LavRadioTower1FPokeFluteSignText:
-	text "Perk Up #mon"
+	text "Perk Up #MON"
 	line "with Mellow Sounds"
 
-	para "of the # Flute"
+	para "of the # FLUTE"
 	line "on Channel 20"
 	done
 
 ; TODO: use this text
 LavRadioTower1FReferenceLibraryText:
 	text "Wow! A full rack"
-	line "of #mon CDs and"
+	line "of #MON CDs and"
 	cont "videos."
 
 	para "This must be the"

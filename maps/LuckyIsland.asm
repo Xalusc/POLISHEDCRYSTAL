@@ -50,7 +50,7 @@ GenericTrainerFisherHall:
 	done
 
 .SeenText:
-	text "Dopefish lives!"
+	text "DOPEFISH lives!"
 	done
 
 .BeatenText:
@@ -140,43 +140,43 @@ GenericTrainerArtistAlina:
 GenericTrainerSightseersLiandsu1:
 	generictrainer SIGHTSEERS, LIANDSU1, EVENT_BEAT_SIGHTSEERS_LI_AND_SU, .SeenText, .BeatenText
 
-	text "Li: Su and I keep"
+	text "LI: SU and I keep"
 	line "arguing about"
 	cont "this."
 	done
 
 .SeenText:
-	text "Li: What came"
+	text "LI: What came"
 	line "first?"
 
-	para "The #mon or"
-	line "the Egg?"
+	para "The #MON or"
+	line "the EGG?"
 	done
 
 .BeatenText:
-	text "Li: I say it's the"
-	line "#mon!"
+	text "LI: I say it's the"
+	line "#MON!"
 	done
 
 GenericTrainerSightseersLiandsu2:
 	generictrainer SIGHTSEERS, LIANDSU2, EVENT_BEAT_SIGHTSEERS_LI_AND_SU, .SeenText, .BeatenText
 
-	text "Su: Are there any"
-	line "#mon that don't"
-	cont "come from Eggs?"
+	text "SU: Are there any"
+	line "#MON that don't"
+	cont "come from EGGS?"
 	done
 
 .SeenText:
-	text "Su: What came"
+	text "SU: What came"
 	line "first?"
 
-	para "The #mon or"
-	line "the Egg?"
+	para "The #MON or"
+	line "the EGG?"
 	done
 
 .BeatenText:
-	text "Su: I think the"
-	line "Egg came first!"
+	text "SU: I think the"
+	line "EGG came first!"
 	done
 
 LuckyIslandLuckyEgg:
@@ -200,5 +200,5 @@ LuckyIslandLuckyEgg:
 
 .Text:
 	text "<PLAYER> found"
-	line "Lucky Egg!"
+	line "LUCKY EGG!"
 	done

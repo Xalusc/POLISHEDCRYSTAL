@@ -36,8 +36,8 @@ GenericTrainerScientistDennett:
 	generictrainer SCIENTIST, DENNETT, EVENT_BEAT_SCIENTIST_DENNETT, ScientistDennettSeenText, ScientistDennettBeatenText
 
 	text "Together with"
-	line "Blaine, we will"
-	cont "rebuild our Gym!"
+	line "BLAINE, we will"
+	cont "rebuild our GYM!"
 	done
 
 GenericTrainerSupernerdCary:
@@ -120,8 +120,8 @@ SeafoamGymBlaineScript:
 	setevent EVENT_GOT_TM61_WILL_O_WISP
 	jumpthisopenedtext
 
-	text "It's called Will-"
-	line "O-Wisp!"
+	text "It's called WILL-"
+	line "O-WISP!"
 
 	para "It weakens your"
 	line "foe by inflicting"
@@ -132,7 +132,7 @@ SeafoamGymBlaineScript:
 	cont "to win next time."
 
 	para "When I rebuild my"
-	line "Cinnabar Gym,"
+	line "CINNABAR GYM,"
 
 	para "we'll have to have"
 	line "a rematch."
@@ -151,7 +151,7 @@ SeafoamGymGuyScript:
 
 	para "Sorry, sorry!"
 
-	para "Cinnabar Gym was"
+	para "CINNABAR GYM was"
 	line "gone, so I didn't"
 
 	para "know where to find"
@@ -178,18 +178,18 @@ ScientistLowellBeatenText:
 	done
 
 ScientistDennettSeenText:
-	text "Blaine may have"
-	line "lost his Gym, but"
+	text "BLAINE may have"
+	line "lost his GYM, but"
 	cont "he never gives up!"
 	done
 
 ScientistDennettBeatenText:
-	text "Blaine's persever-"
+	text "BLAINE's persever-"
 	line "ance motivates me!"
 	done
 
 SupernerdCarySeenText:
-	text "Wow, a Gym in a"
+	text "Wow, a GYM in a"
 	line "cave like this?"
 
 	para "I'd love to"
@@ -202,8 +202,8 @@ SupernerdCaryBeatenText:
 	done
 
 ScientistLindenSeenText:
-	text "We lost the Gym on"
-	line "Cinnabar Island,"
+	text "We lost the GYM on"
+	line "CINNABAR ISLAND,"
 	cont "but we came here."
 	done
 
@@ -235,13 +235,13 @@ SupernerdMerleBeatenText:
 	done
 
 BlaineIntroText:
-	text "Blaine: Waaah!"
+	text "BLAINE: Waaah!"
 
-	para "My Gym in Cinnabar"
+	para "My GYM in CINNABAR"
 	line "burned down."
 
 	para "My fire-breathing"
-	line "#mon and I are"
+	line "#MON and I are"
 
 	para "homeless because"
 	line "of the volcano."
@@ -249,30 +249,30 @@ BlaineIntroText:
 	para "Waaah!"
 
 	para "But I'm back in"
-	line "business as a Gym"
+	line "business as a GYM"
 
-	para "Leader here in"
+	para "LEADER here in"
 	line "this cave."
 
 	para "If you can beat"
 	line "me, I'll give you"
-	cont "a Badge."
+	cont "a BADGE."
 
 	para "Ha! You'd better"
-	line "have Burn Heal!"
+	line "have BURN HEAL!"
 	done
 
 BlaineWinLossText:
-	text "Blaine: Awesome."
+	text "BLAINE: Awesome."
 	line "I've burned out…"
 
 	para "You've earned the"
-	line "Volcano Badge!"
+	line "VOLCANO BADGE!"
 	done
 
 ReceivedVolcanoBadgeText:
 	text "<PLAYER> received"
-	line "the Volcano Badge."
+	line "the VOLCANO BADGE."
 	done
 
 BlaineAfterBattleText:
@@ -281,19 +281,19 @@ BlaineAfterBattleText:
 	done
 
 BlaineFightDoneText:
-	text "Blaine: My fire"
-	line "#mon will be"
+	text "BLAINE: My fire"
+	line "#MON will be"
 
 	para "even stronger."
 	line "Just you watch!"
 	done
 
 SeafoamGymGuyWinText2:
-	text "A #mon Gym can"
+	text "A #MON GYM can"
 	line "be anywhere as"
 
-	para "long as the Gym"
-	line "Leader is there."
+	para "long as the GYM"
+	line "LEADER is there."
 
 	para "There's no need"
 	line "for a building."

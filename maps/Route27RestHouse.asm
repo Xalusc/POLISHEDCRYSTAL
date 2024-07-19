@@ -38,7 +38,7 @@ Route27RestHouseGranny:
 	line "tough going."
 
 	para "Trust is the tie"
-	line "that binds #mon"
+	line "that binds #MON"
 	cont "and trainers."
 	done
 
@@ -60,14 +60,14 @@ Route27RestHouseGranny:
 	jumpthisopenedtext
 
 	text "You've not found"
-	line "any Silver Leaves…"
+	line "any SILVER LEAVES…"
 	done
 
 .TeachMove
 	takeitem SILVER_LEAF
 	jumpthisopenedtext
 
-	text "Skill Swap is a"
+	text "SKILL SWAP is a"
 	line "move that swaps"
 
 	para "your ability with"
@@ -83,12 +83,12 @@ Route27RestHouseGranny:
 
 .IntroText:
 	text "Where are you off"
-	line "to with #mon?"
+	line "to with #MON?"
 
-	para "The #mon"
-	line "League?"
+	para "The #MON"
+	line "LEAGUE?"
 
-	para "Are your #mon"
+	para "Are your #MON"
 	line "loyal enough for"
 	cont "you to win?"
 
@@ -97,11 +97,11 @@ Route27RestHouseGranny:
 
 .HeardIntroText:
 	text "Let me see your"
-	line "#mon…"
+	line "#MON…"
 	done
 
 .QuestionText:
-	text "Ah! Your #mon"
+	text "Ah! Your #MON"
 	line "trusts you very"
 	cont "much."
 
@@ -111,7 +111,7 @@ Route27RestHouseGranny:
 	para "I can teach it my"
 	line "secret technique,"
 
-	para "Skill Swap, if"
+	para "SKILL SWAP, if"
 	line "you'd like."
 	done
 

@@ -109,16 +109,16 @@ GenericTrainerGentlemanGregory:
 	generictrainer GENTLEMAN, GREGORY, EVENT_BEAT_GENTLEMAN_GREGORY, GentlemanGregorySeenText, GentlemanGregoryBeatenText
 
 	text "When I was still"
-	line "in the army, Lt."
+	line "in the army, LT."
 
-	para "Surge saved my"
+	para "SURGE saved my"
 	line "life."
 	done
 
 GenericTrainerGuitaristmVincent:
 	generictrainer GUITARISTM, VINCENT, EVENT_BEAT_GUITARISTM_VINCENT, GuitaristmVincentSeenText, GuitaristmVincentBeatenText
 
-	text "Lt.Surge is pro-"
+	text "LT.SURGE is pro-"
 	line "tected by electric"
 
 	para "fences so you"
@@ -133,13 +133,13 @@ GenericTrainerJugglerHorton:
 	line "fortable about"
 
 	para "beating me…"
-	line "Lt.Surge is tough."
+	line "LT.SURGE is tough."
 	done
 
 GenericTrainerGuitaristfJanet:
 	generictrainer GUITARISTF, JANET, EVENT_BEAT_GUITARISTF_JANET, GuitaristfJanetSeenText, GuitaristfJanetBeatenText
 
-	text "Lt.Surge hid both"
+	text "LT.SURGE hid both"
 	line "switches for the"
 
 	para "electric fences"
@@ -203,7 +203,7 @@ VermilionGymStatue:
 	jumpstd gymstatue2
 
 LtSurgeIntroText:
-	text "Surge: Hey, you"
+	text "SURGE: Hey, you"
 	line "little tyke!"
 
 	para "I have to hand it"
@@ -214,7 +214,7 @@ LtSurgeIntroText:
 	cont "it takes guts!"
 
 	para "When it comes to"
-	line "electric #mon,"
+	line "electric #MON,"
 	cont "I'm number one!"
 
 	para "I've never lost on"
@@ -226,25 +226,25 @@ LtSurgeIntroText:
 	done
 
 LtSurgeWinLossText:
-	text "Surge: Arrrgh!"
+	text "SURGE: Arrrgh!"
 	line "You are strong!"
 
 	para "OK, kid. You get"
-	line "the Thunder Badge!"
+	line "the THUNDER BADGE!"
 	done
 
 ReceivedThunderBadgeText:
 	text "<PLAYER> received"
-	line "the Thunder Badge."
+	line "the THUNDER BADGE."
 	done
 
 LtSurgeThunderBadgeText:
-	text "Surge: Consider it"
+	text "SURGE: Consider it"
 	line "proof that you"
 	cont "defeated me."
 
 	para "Looks good on your"
-	line "Trainer Card,"
+	line "TRAINER CARD,"
 	cont "doesn't it?"
 
 	para "You wear it"
@@ -256,24 +256,24 @@ LtSurgeThunderBadgeText:
 
 SurgeOutroText:
 	text "That TM contains"
-	line "Wild Charge. Use"
+	line "WILD CHARGE. Use"
 
 	para "it to go like"
 	line "lightning!"
 	done
 
 LtSurgeFightDoneText:
-	text "Surge: Hey, kid!"
+	text "SURGE: Hey, kid!"
 	line "Still slugging and"
 	cont "chugging away?"
 
-	para "My #mon and I"
+	para "My #MON and I"
 	line "are still at it!"
 	done
 
 GentlemanGregorySeenText:
 	text "You're here to"
-	line "defeat Lt.Surge?"
+	line "defeat LT.SURGE?"
 
 	para "Not if I can help"
 	line "it!"
@@ -281,16 +281,16 @@ GentlemanGregorySeenText:
 
 GentlemanGregoryBeatenText:
 	text "Sorry I failed"
-	line "you, Lt.Surge,"
+	line "you, LT.SURGE,"
 	cont "sir!"
 	done
 
 GuitaristmVincentSeenText:
-	text "Lt.Surge recog-"
+	text "LT.SURGE recog-"
 	line "nized my potential"
 
-	para "with Electric"
-	line "#mon."
+	para "with electric"
+	line "#MON."
 
 	para "Think you can beat"
 	line "me?"
@@ -322,22 +322,22 @@ GuitaristfJanetBeatenText:
 	done
 
 VermilionGymGuyText:
-	text "Yo! Champ in"
+	text "Yo! CHAMP in"
 	line "making!"
 
-	para "Lt.Surge is very"
+	para "LT.SURGE is very"
 	line "cautious. He has"
 
 	para "traps set all over"
-	line "the Gym."
+	line "the GYM."
 
 	para "But you're good at"
-	line "Gym puzzles by"
+	line "GYM puzzles by"
 	cont "now, aren't you?"
 
 	para "You'll have no"
 	line "problem getting to"
-	cont "Lt.Surge."
+	cont "LT.SURGE."
 	done
 
 VermilionGymGuyWinText:

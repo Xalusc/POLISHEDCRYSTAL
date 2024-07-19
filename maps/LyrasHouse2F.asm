@@ -48,9 +48,9 @@ LyrasHouseRadio:
 	endtext
 
 LyrasHouseLyraText:
-	text "Lyra: Hi, <PLAYER>!"
+	text "LYRA: Hi, <PLAYER>!"
 
-	para "Hmm… My #mon"
+	para "Hmm… My #MON"
 	line "may be putting"
 
 	para "on some weight"
@@ -58,27 +58,27 @@ LyrasHouseLyraText:
 	done
 
 LyrasHousePidgeotText:
-	text "Pidgeot: Pijiii!"
+	text "PIDGEOT: Pijiii!"
 	done
 
 LyrasRadioText1:
-	text "Prof.Oak's #mon"
-	line "Talk! Please tune"
+	text "PROF.OAK's #MON"
+	line "TALK! Please tune"
 	cont "in next time!"
 	done
 
 LyrasRadioText2:
-	text "#mon Channel!"
+	text "#MON CHANNEL!"
 	done
 
 LyrasRadioText3:
-	text "This is DJ Mary,"
+	text "This is DJ MARY,"
 	line "your co-host!"
 	done
 
 LyrasRadioText4:
-	text "#mon!"
-	line "#mon Channel…"
+	text "#MON!"
+	line "#MON CHANNEL…"
 	done
 
 LyrasHousePCText:
@@ -89,6 +89,6 @@ LyrasHousePCText:
 
 LyrasHouseN64Text:
 	text "It's a limited-"
-	line "edition Pikachu"
+	line "edition PIKACHU"
 	cont "N64!"
 	done

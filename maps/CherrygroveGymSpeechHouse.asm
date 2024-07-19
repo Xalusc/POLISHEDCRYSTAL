@@ -19,22 +19,22 @@ CherrygroveGymSpeechHousePokefanMText:
 	text "You're trying to"
 	line "see how good you"
 
-	para "are as a #mon"
+	para "are as a #MON"
 	line "trainer?"
 
 	para "You better visit"
-	line "the #mon Gyms"
+	line "the #MON GYMS"
 
-	para "all over Johto and"
-	line "collect Badges."
+	para "all over JOHTO and"
+	line "collect BADGES."
 	done
 
 CherrygroveGymSpeechHouseBugCatcherText:
 	text "When I get older,"
 	line "I'm going to be a"
-	cont "Gym Leader!"
+	cont "GYM LEADER!"
 
-	para "I make my #mon"
+	para "I make my #MON"
 	line "battle with my"
 
 	para "friend's to make"

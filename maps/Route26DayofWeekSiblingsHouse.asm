@@ -39,7 +39,7 @@ DayOfWeekSiblingsHousePokedexText2:
 	line "sisters:"
 
 	para "We take pride in"
-	line "serving #mon"
+	line "serving #MON"
 	cont "trainers."
 
 	para "When trainers talk"
@@ -47,30 +47,30 @@ DayOfWeekSiblingsHousePokedexText2:
 	cont "something useful."
 
 	para "Love,"
-	line "Monica"
+	line "MONICA"
 
 	para "Keep reading?"
 	done
 
 DayOfWeekSiblingsHousePokedexText3:
-	text "Monday, Monica"
-	line "Route 40"
+	text "Monday, MONICA"
+	line "ROUTE 40"
 
-	para "Tuesday, Tuscany"
-	line "Route 29"
+	para "Tuesday, TUSCANY"
+	line "ROUTE 29"
 
-	para "Wednesday, Wesley"
-	line "Lake of Rage"
+	para "Wednesday, WESLEY"
+	line "LAKE OF RAGE"
 
-	para "Thursday, Arthur"
-	line "Route 36"
+	para "Thursday, ARTHUR"
+	line "ROUTE 36"
 
-	para "Friday, Frieda"
-	line "Route 32"
+	para "Friday, FRIEDA"
+	line "ROUTE 32"
 
-	para "Saturday, Santos"
-	line "Blackthorn City"
+	para "Saturday, SANTOS"
+	line "BLACKTHORN CITY"
 
-	para "Sunday, Sunny"
-	line "Route 37"
+	para "Sunday, SUNNY"
+	line "ROUTE 37"
 	done

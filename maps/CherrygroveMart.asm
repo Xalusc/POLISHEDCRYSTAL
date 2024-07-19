@@ -30,29 +30,29 @@ CherrygroveMartCooltrainerMScript:
 	jumpthistextfaceplayer
 
 	text "They're fresh out"
-	line "of # Balls!"
+	line "of # BALLS!"
 
 	para "When will they get"
 	line "more of them?"
 	done
 
 CherrygroveMartCooltrainerMText_PokeBallsInStock:
-	text "# Balls are in"
+	text "# BALLS are in"
 	line "stock! Now I can"
-	cont "catch #mon!"
+	cont "catch #MON!"
 	done
 
 CherrygroveMartYoungsterText:
 	text "When I was walking"
 	line "in the grass, a"
 
-	para "bug #mon poi-"
-	line "soned my #mon!"
+	para "bug #MON poi-"
+	line "soned my #MON!"
 
 	para "I just kept going,"
-	line "and my #mon"
+	line "and my #MON"
 	cont "barely recovered."
 
 	para "You should keep an"
-	line "Antidote with you."
+	line "ANTIDOTE with you."
 	done

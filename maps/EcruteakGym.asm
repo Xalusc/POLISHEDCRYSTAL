@@ -111,17 +111,17 @@ EcruteakGymClosed:
 GenericTrainerSageJeffrey:
 	generictrainer SAGE, JEFFREY, EVENT_BEAT_SAGE_JEFFREY, SageJeffreySeenText, SageJeffreyBeatenText
 
-	text "Where did #mon"
+	text "Where did #MON"
 	line "come from?"
 	done
 
 GenericTrainerSagePing:
 	generictrainer SAGE, PING, EVENT_BEAT_SAGE_PING, SagePingSeenText, SagePingBeatenText
 
-	text "We use only Ghost-"
-	line "type #mon."
+	text "We use only ghost-"
+	line "type #MON."
 
-	para "No Normal-type"
+	para "No normal-type"
 	line "attack can harm"
 	cont "them!"
 	done
@@ -173,14 +173,14 @@ MortyIntroText:
 	text "Good of you to"
 	line "have come."
 
-	para "Here in Ecruteak,"
-	line "#mon have been"
+	para "Here in ECRUTEAK,"
+	line "#MON have been"
 	cont "revered."
 
 	para "It's said that a"
 	line "rainbow-colored"
 
-	para "#mon will come"
+	para "#MON will come"
 	line "down to appear"
 
 	para "before a truly"
@@ -202,7 +202,7 @@ MortyIntroText:
 	line "more, I could see"
 
 	para "a future in which"
-	line "I meet the #mon"
+	line "I meet the #MON"
 	cont "of rainbow colors."
 
 	para "You're going to"
@@ -215,23 +215,23 @@ MortyWinLossText:
 	line "enough yet…"
 
 	para "All right. This"
-	line "Badge is yours."
+	line "BADGE is yours."
 	done
 
 Text_ReceivedFogBadge:
 	text "<PLAYER> received"
-	line "the Fog Badge."
+	line "the FOG BADGE."
 	done
 
 MortyText_FogBadgeSpeech:
-	text "By having the Fog"
-	line "Badge, #mon up"
+	text "By having the FOG"
+	line "BADGE, #MON up"
 
 	para "to <LV>50 will obey"
 	line "you."
 
-	para "Also, #mon that"
-	line "know Surf will be"
+	para "Also, #MON that"
+	line "know SURF will be"
 
 	para "able to use that"
 	line "move anytime."
@@ -241,11 +241,11 @@ MortyText_FogBadgeSpeech:
 	done
 
 MortyText_ShadowBallSpeech:
-	text "It's Shadow Ball."
+	text "It's SHADOW BALL."
 	line "It causes damage"
 
 	para "and may reduce"
-	line "Spcl.Def."
+	line "SPCL.DEF."
 
 	para "Use it if it"
 	line "appeals to you."
@@ -268,7 +268,7 @@ MortyFightDoneText:
 
 SageJeffreySeenText:
 	text "I spent the spring"
-	line "with my #mon."
+	line "with my #MON."
 
 	para "Then summer, fall"
 	line "and winter…"
@@ -288,7 +288,7 @@ SageJeffreyBeatenText:
 SagePingSeenText:
 	text "Can you inflict"
 	line "any damage on our"
-	cont "#mon?"
+	cont "#MON?"
 	done
 
 SagePingBeatenText:
@@ -324,7 +324,7 @@ EcruteakGymGuyText:
 	line "may tell you some"
 
 	para "deep secrets about"
-	line "Ecruteak."
+	line "ECRUTEAK."
 	done
 
 EcruteakGymGuyWinText:
@@ -337,8 +337,8 @@ EcruteakGymGuyWinText:
 	done
 
 EcruteakGymClosedText:
-	text "Morty, the Gym"
-	line "Leader, is absent."
+	text "MORTY, the GYM"
+	line "LEADER, is absent."
 
 	para "Sorry, but you'll"
 	line "have to leave."

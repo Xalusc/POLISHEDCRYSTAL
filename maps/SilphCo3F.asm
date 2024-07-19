@@ -41,29 +41,29 @@ SilphCo3FSilphEmployeeScript:
 .Text2:
 	text "That's a very"
 	line "rare type of"
-	cont "# Ball."
+	cont "# BALL."
 
 	para "Don't waste it!"
 	done
 
 .Text1:
 	text "I'm from a family"
-	line "of # Ball"
+	line "of # BALL"
 	cont "creators."
 
-	para "My father Kurt is"
+	para "My father KURT is"
 	line "teaching my daugh-"
 	cont "ter how to make"
 
-	para "Apricorn Balls"
+	para "APRICORN BALLS"
 	line "while I'm busy"
 	cont "working here."
 
 	para "You helped them"
-	line "out in Azalea"
-	cont "Town? Great!"
+	line "out in AZALEA"
+	cont "TOWN? Great!"
 
-	para "I'm glad my Maizie"
+	para "I'm glad my MAIZIE"
 	line "is doing well."
 
 	para "Take this as a"
@@ -71,9 +71,9 @@ SilphCo3FSilphEmployeeScript:
 	done
 
 SilphCo3FScientist1Text:
-	text "Silph just entered"
+	text "SILPH just entered"
 	line "a partnership with"
-	cont "Devon Corp."
+	cont "DEVON CORP."
 
 	para "We licensed some"
 	line "of each others'"
@@ -81,13 +81,13 @@ SilphCo3FScientist1Text:
 	done
 
 SilphCo3FScientist2Text:
-	text "# Balls work on"
+	text "# BALLS work on"
 	line "the same principle"
 
 	para "as the PC Storage"
 	line "System."
 
-	para "#mon are con-"
+	para "#MON are con-"
 	line "verted into"
 	cont "digital data and"
 
@@ -108,20 +108,20 @@ SilphCo3FOfficerText:
 
 SilphCo3FGentlemanText:
 	text "I'm visiting from"
-	line "Devon Corporation."
+	line "DEVON CORPORATION."
 
 	para "We are working to-"
 	line "gether to advance"
 
-	para "# Ball techno-"
+	para "# BALL techno-"
 	line "logy even further!"
 	done
 
 SilphCo3FDeptSignText:
-	text "Silph Co. 3F"
-	line "# Ball Tech"
+	text "SILPH CO. 3F"
+	line "# BALL TECH"
 	done
 
 SilphCo3FElevatorText:
-	text "Out Of Order"
+	text "OUT OF ORDER"
 	done

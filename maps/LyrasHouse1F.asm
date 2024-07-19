@@ -36,16 +36,16 @@ LyrasDadScript:
 
 LyrasDadInsideText:
 	text "Hi, <PLAYER>!"
-	line "Lyra is upstairs."
+	line "LYRA is upstairs."
 
 	para "She's playing"
-	line "with her #mon"
+	line "with her #MON"
 	cont "as usual."
 	done
 
 LyrasDadHelpingText:
 	text "Hi, <PLAYER>!"
-	line "Lyra isn't here."
+	line "LYRA isn't here."
 
 	para "She's been busy"
 	line "helping the prof-"
@@ -54,11 +54,11 @@ LyrasDadHelpingText:
 
 LyrasDadTrainingText:
 	text "Hi, <PLAYER>!"
-	line "Lyra isn't here."
+	line "LYRA isn't here."
 
 	para "She's collecting"
-	line "Badges all over"
-	cont "Johto!"
+	line "BADGES all over"
+	cont "JOHTO!"
 	done
 
 LyrasFridgeScript:
@@ -67,7 +67,7 @@ LyrasFridgeScript:
 	text "Let's see what's"
 	line "in the fridge…"
 
-	para "Fresh Water and"
+	para "FRESH WATER and"
 	line "rice balls!"
 	done
 

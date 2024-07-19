@@ -39,12 +39,12 @@ GenericTrainerBikerReilly:
 	generictrainer BIKER, REILLY, EVENT_BEAT_BIKER_REILLY, BikerReillySeenText, BikerReillyBeatenText
 
 	text "Don't get cocky,"
-	line "you Johto punk!"
+	line "you JOHTO punk!"
 	done
 
 BikerReillySeenText:
 	text "Hey, you! You're"
-	line "from Johto, huh?"
+	line "from JOHTO, huh?"
 	done
 
 BikerReillyBeatenText:
@@ -64,7 +64,7 @@ GenericTrainerBikerJoel:
 
 BikerJoelSeenText:
 	text "Wow. That's a cool"
-	line "Bicycle!"
+	line "BICYCLE!"
 	done
 
 BikerJoelBeatenText:
@@ -77,7 +77,7 @@ GenericTrainerBikerGlenn:
 
 	text "Hands-free riding"
 	line "is considered cool"
-	cont "on Cycling Road."
+	cont "on CYCLING ROAD."
 	done
 
 BikerGlennSeenText:
@@ -113,7 +113,7 @@ GenericTrainerBikerJacob:
 
 	text "Chopper? Oh, I"
 	line "was talking about"
-	cont "my Bicycle!"
+	cont "my BICYCLE!"
 	done
 
 BikerJacobSeenText:
@@ -187,7 +187,7 @@ GenericTrainerBikerTeddy:
 
 BikerTeddySeenText:
 	text "Hey, that's a cool"
-	line "Bike you're riding!"
+	line "BIKE you're riding!"
 	done
 
 BikerTeddyBeatenText:
@@ -244,7 +244,7 @@ RoughneckMarkeySeenText:
 	text "Hey hey hey!"
 	line "You're in my way!"
 
-	para "IN MY WAY!"
+	para "in my way!"
 	done
 
 RoughneckMarkeyBeatenText:
@@ -261,10 +261,10 @@ Route17Notice1Text:
 Route17TrainerTips1Text:
 	text "Trainer Tips"
 
-	para "All #mon are"
+	para "All #MON are"
 	line "unique."
 
-	para "Two #mon of the"
+	para "Two #MON of the"
 	line "same species and"
 	cont "level may still"
 
@@ -273,9 +273,9 @@ Route17TrainerTips1Text:
 	done
 
 Route17TrainerTips2Text:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "Open the Start"
+	para "Open the START"
 	line "menu to stay in"
 	cont "place while on a"
 	cont "slope."
@@ -286,5 +286,5 @@ Route17Notice2Text:
 
 	para "Don't throw the"
 	line "game, throw #"
-	cont "Balls instead!"
+	cont "BALLS instead!"
 	done

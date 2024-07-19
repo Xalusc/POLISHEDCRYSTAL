@@ -24,8 +24,8 @@ Route1617Gate2FBinoculars1Text:
 	text "Looked into the"
 	line "binoculars."
 
-	para "It's Celadon Dept."
-	line "Store!"
+	para "It's CELADON DEPT."
+	line "STORE!"
 	done
 
 Route1617Gate2FBinoculars2Text:

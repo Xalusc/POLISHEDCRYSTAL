@@ -61,13 +61,13 @@ ShamoutiHotelRestaurantChallengeScript:
 
 .GreetingText:
 	text "Welcome to the"
-	line "Oasis Restaurant."
+	line "OASIS RESTAURANT."
 
 	para "Here you can par-"
 	line "take, not just in"
 
 	para "food, but in #-"
-	line "mon battles."
+	line "MON battles."
 
 	para "Every day we have"
 	line "a new menu."

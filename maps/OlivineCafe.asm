@@ -49,7 +49,7 @@ BakerChelsieAfterText:
 	line "mins to my bread."
 
 	para "They make my #-"
-	line "mon stronger."
+	line "MON stronger."
 	done
 
 OlivineCafeLyraScript:
@@ -80,7 +80,7 @@ OlivineCafeMovementData_LyraLeaves:
 	step_end
 
 OlivineCafeFishingGuruText:
-	text "Olivine Café's"
+	text "OLIVINE CAFE's"
 	line "menu is chock full"
 
 	para "of hearty fare for"
@@ -92,7 +92,7 @@ OlivineCafeSailorText:
 	line "into this town, I"
 
 	para "always visit the"
-	line "Olivine Café."
+	line "OLIVINE CAFE."
 
 	para "Everything on the"
 	line "menu makes me feel"
@@ -102,7 +102,7 @@ OlivineCafeSailorText:
 	done
 
 BakerChelsieGreetingText:
-	text "My #mon are on"
+	text "My #MON are on"
 	line "the rise!"
 
 	para "I raised them with"
@@ -126,12 +126,12 @@ BakerChelsieBeatenText:
 
 BakerChelsieNoBattleText:
 	text "My bread-raised"
-	line "#mon are un-"
+	line "#MON are un-"
 	cont "beatable!"
 	done
 
 OlivineCafeLyraText1:
-	text "Lyra: Hi, <PLAYER>!"
+	text "LYRA: Hi, <PLAYER>!"
 	line "You should try the"
 
 	para "food here. It's"
@@ -156,9 +156,9 @@ OlivineCafeLyraText2:
 	line "get going."
 
 	para "I want to see the"
-	line "Yellow Forest in"
+	line "YELLOW FOREST in"
 
-	para "Cianwood before I"
+	para "CIANWOOD before I"
 	line "go back home."
 
 	para "See you,"

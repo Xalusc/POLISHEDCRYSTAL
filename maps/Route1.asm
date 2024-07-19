@@ -98,8 +98,8 @@ CooltrainerfQuinnBeatenText:
 	done
 
 Route1SignText:
-	text "Route 1"
+	text "ROUTE 1"
 
-	para "Pallet Town -"
-	line "Viridian City"
+	para "PALLET TOWN -"
+	line "VIRIDIAN CITY"
 	done

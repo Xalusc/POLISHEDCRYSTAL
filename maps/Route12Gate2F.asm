@@ -31,6 +31,6 @@ Route12Gate2FBinoculars2Text:
 	text "Looked into the"
 	line "binoculars."
 
-	para "It's the Radio"
-	line "Tower!"
+	para "It's the RADIO"
+	line "TOWER!"
 	done

@@ -50,5 +50,5 @@ CelebrityText2:
 	done
 
 CelebritysSkarmoryText:
-	text "Skarmory: Scree!"
+	text "SKARMORY: Scree!"
 	done

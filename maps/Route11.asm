@@ -39,7 +39,7 @@ GenericTrainerYoungsterOwen:
 
 YoungsterOwenSeenText:
 	text "There's no cheat-"
-	line "ing in #mon."
+	line "ing in #MON."
 
 	para "Let's keep it fair"
 	line "and square!"
@@ -54,7 +54,7 @@ GenericTrainerYoungsterJason:
 	generictrainer YOUNGSTER, JASON, EVENT_BEAT_YOUNGSTER_JASON, YoungsterJasonSeenText, YoungsterJasonBeatenText
 
 	text "I'm going to catch"
-	line "more #mon in"
+	line "more #MON in"
 	cont "the grass."
 	done
 
@@ -113,7 +113,7 @@ GenericTrainerPsychicFidel:
 
 	para "You're strong be-"
 	line "cause you believe"
-	cont "in your #mon."
+	cont "in your #MON."
 	done
 
 PsychicFidelSeenText:
@@ -131,8 +131,8 @@ PsychicFidelBeatenText:
 GenericTrainerPsychicUri:
 	generictrainer PSYCHIC_T, URI, EVENT_BEAT_PSYCHIC_URI, .SeenText, .BeatenText
 
-	text "Prof.Oak won't"
-	line "give me a #dex."
+	text "PROF.OAK won't"
+	line "give me a #DEX."
 	cont "I wonder why?"
 	done
 
@@ -142,7 +142,7 @@ GenericTrainerPsychicUri:
 	cont "with ESP awoke in"
 
 	para "bed transformed"
-	line "into Kadabra!"
+	line "into KADABRA!"
 	done
 
 .BeatenText:
@@ -173,7 +173,7 @@ GenericTrainerEngineerCamden:
 
 	text "Building a bridge"
 	line "and building a"
-	cont "team of #mon"
+	cont "team of #MON"
 
 	para "both require know-"
 	line "ledge and skill."
@@ -181,8 +181,8 @@ GenericTrainerEngineerCamden:
 
 .SeenText:
 	text "I learned engin-"
-	line "eering at Celadon"
-	cont "University!"
+	line "eering at CELADON"
+	cont "UNIVERSITY!"
 	done
 
 .BeatenText:
@@ -227,5 +227,5 @@ GenericTrainerGuitaristfRitsuko:
 	done
 
 Route11SignText:
-	text "Route 11"
+	text "ROUTE 11"
 	done

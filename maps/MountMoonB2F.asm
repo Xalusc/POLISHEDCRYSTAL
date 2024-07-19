@@ -33,7 +33,7 @@ GenericTrainerYoungsterJosh:
 	generictrainer YOUNGSTER, YOUNGSTER_JOSH, EVENT_BEAT_YOUNGSTER_JOSH, YoungsterJoshSeenText, YoungsterJoshBeatenText
 
 	text "With that team of"
-	line "#mon, you must"
+	line "#MON, you must"
 
 	para "have explored a"
 	line "lot of places."
@@ -52,7 +52,7 @@ GenericTrainerBird_keeperMick:
 	para "I should go hang"
 	line "out with other"
 
-	para "Bird Keepers some-"
+	para "BIRD KEEPERS some-"
 	line "where sensible."
 	done
 
@@ -80,7 +80,7 @@ GenericTrainerSuperNerdMiguel:
 	generictrainer SUPER_NERD, MIGUEL, EVENT_BEAT_SUPER_NERD_MIGUEL, SuperNerdMiguelSeenText, SuperNerdMiguelBeatenText
 
 	text "Maybe if I had"
-	line "an Aerodactyl…"
+	line "an AERODACTYL…"
 	done
 
 YoungsterJoshSeenText:
@@ -115,7 +115,7 @@ HexManiacEstherSeenText:
 	line "on the wall,"
 
 	para "who will throw"
-	line "their # Ball?"
+	line "their # BALL?"
 	done
 
 HexManiacEstherBeatenText:

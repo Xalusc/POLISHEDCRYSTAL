@@ -116,7 +116,7 @@ CeladonPrizeRoom_TMMenuDataHeader:
 	db "TM32    {d:CELADONGAMECORNERPRIZEROOM_TM32_COINS}@"
 	db "TM06    {d:CELADONGAMECORNERPRIZEROOM_TM06_COINS}@"
 	db "TM68    {d:CELADONGAMECORNERPRIZEROOM_TM68_COINS}@"
-	db "Cancel@"
+	db "CANCEL@"
 
 CeladonGameCornerPokemonVendor:
 	faceplayer
@@ -197,13 +197,13 @@ CeladonGameCornerPokemonVendor:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Mr.Mime    {d:CELADONGAMECORNERPRIZEROOM_MR__MIME_COINS}@"
-	db "Eevee      {d:CELADONGAMECORNERPRIZEROOM_EEVEE_COINS}@"
-	db "Porygon    {d:CELADONGAMECORNERPRIZEROOM_PORYGON_COINS}@"
-	db "Cancel@"
+	db "MR.MIME    {d:CELADONGAMECORNERPRIZEROOM_MR__MIME_COINS}@"
+	db "EEVEE      {d:CELADONGAMECORNERPRIZEROOM_EEVEE_COINS}@"
+	db "PORYGON    {d:CELADONGAMECORNERPRIZEROOM_PORYGON_COINS}@"
+	db "CANCEL@"
 
 CeladonGameCornerPrizeRoomGentlemanText:
-	text "I wanted Porygon,"
+	text "I wanted PORYGON,"
 	line "but I was short by"
 	cont "100 coins…"
 	done
@@ -275,5 +275,5 @@ CeladonPrizeRoom_ComeAgainText:
 
 CeladonPrizeRoom_NoCoinCaseText:
 	text "Oh? You don't have"
-	line "a Coin Case."
+	line "a COIN CASE."
 	done

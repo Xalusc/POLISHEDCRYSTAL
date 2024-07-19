@@ -142,8 +142,8 @@ OlivineLighthouseJasmineLeavesRightMovement:
 	step_end
 
 JasmineCianwoodPharmacyText:
-	text "Jasmine: …This"
-	line "#mon always"
+	text "JASMINE: …This"
+	line "#MON always"
 
 	para "kept the sea lit"
 	line "at night."
@@ -155,14 +155,14 @@ JasmineCianwoodPharmacyText:
 	para "…I understand"
 	line "that there is a"
 
-	para "wonderful Pharmacy"
-	line "in Cianwood…"
+	para "wonderful PHARMACY"
+	line "in CIANWOOD…"
 
 	para "But that's across"
 	line "the sea…"
 
 	para "And I can't leave"
-	line "Amphy unattended…"
+	line "AMPHY unattended…"
 	done
 
 JasmineGetSomeMedicineText:
@@ -172,36 +172,36 @@ JasmineGetSomeMedicineText:
 	done
 
 JasmineCureAmphyText:
-	text "Jasmine: …Will"
+	text "JASMINE: …Will"
 	line "that medicine cure"
-	cont "Amphy?"
+	cont "AMPHY?"
 	done
 
 PlayerHandedSecretpotionText:
 	text "<PLAYER> handed the"
-	line "SecretPotion to"
-	cont "Jasmine."
+	line "SECRETPOTION to"
+	cont "JASMINE."
 	done
 
 JasmineDontBeOffendedText:
-	text "Jasmine: …Um,"
+	text "JASMINE: …Um,"
 	line "please don't be"
 	cont "offended…"
 
-	para "…Amphy will not"
+	para "…AMPHY will not"
 	line "take anything from"
 	cont "anyone but me…"
 	done
 
 JasmineAmphyHowAreYouFeelingText:
-	text "Jasmine: …"
+	text "JASMINE: …"
 
-	para "Amphy, how are you"
+	para "AMPHY, how are you"
 	line "feeling?"
 	done
 
 JasmineThankYouText:
-	text "Jasmine: …Oh, I'm"
+	text "JASMINE: …Oh, I'm"
 	line "so relieved…"
 
 	para "This is just so"
@@ -211,19 +211,19 @@ JasmineThankYouText:
 	line "very much."
 
 	para "…I will return to"
-	line "the Gym…"
+	line "the GYM…"
 	done
 
 JasmineISeeText:
-	text "Jasmine: …I see…"
+	text "JASMINE: …I see…"
 	done
 
 JasmineAmphyHangOnText:
-	text "…Amphy, hang on!"
+	text "…AMPHY, hang on!"
 	done
 
 AmphyPalPalooText:
-	text "Amphy: …"
+	text "AMPHY: …"
 	line "…Pa… paloo…"
 	done
 
@@ -233,6 +233,6 @@ AmphyBreathingLaboredText:
 	done
 
 AmphyPaluPaluluText:
-	text "Amphy: Palu!"
+	text "AMPHY: Palu!"
 	line "Palulu!"
 	done

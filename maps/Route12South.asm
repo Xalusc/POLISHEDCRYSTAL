@@ -40,7 +40,7 @@ GenericTrainerFisherMartin:
 FisherMartinSeenText:
 	text "Patience is the"
 	line "key to both fish-"
-	cont "ing and #mon."
+	cont "ing and #MON."
 	done
 
 FisherMartinBeatenText:
@@ -51,7 +51,7 @@ GenericTrainerFisherStephen:
 	generictrainer FISHER, STEPHEN, EVENT_BEAT_FISHER_STEPHEN, FisherStephenSeenText, FisherStephenBeatenText
 
 	text "Have you checked"
-	line "out Kanto's radio"
+	line "out KANTO's radio"
 
 	para "programs? We get a"
 	line "good variety here."
@@ -84,7 +84,7 @@ GenericTrainerFisherBarney:
 	para "have made such a"
 	line "fuss when the"
 
-	para "Power Plant went"
+	para "POWER PLANT went"
 	line "out of commission."
 	done
 
@@ -104,19 +104,19 @@ GenericTrainerFisherKyler:
 
 	text "Really? Rather"
 	line "than always catch-"
-	cont "ing new #mon,"
+	cont "ing new #MON,"
 
 	para "it's good to train"
 	line "them?"
 	done
 
 .SeenText:
-	text "#mon battles"
+	text "#MON battles"
 	line "lure people in!"
 	done
 
 .BeatenText:
-	text "My #mon bucket"
+	text "My #MON bucket"
 	line "is empty!"
 	done
 
@@ -156,45 +156,45 @@ GenericTrainerBird_keeperGail:
 GenericTrainerCoupleVicandtara1:
 	generictrainer COUPLE, VICANDTARA1, EVENT_BEAT_COUPLE_VIC_AND_TARA, .SeenText, .BeatenText
 
-	text "Vic: Tara already"
+	text "VIC: TARA already"
 	line "saw me humiliated…"
 	done
 
 .SeenText:
-	text "Vic: All right!"
+	text "VIC: All right!"
 	line "I'll be able to"
-	cont "show off for Tara!"
+	cont "show off for TARA!"
 	done
 
 .BeatenText:
-	text "Vic: Oh no, my"
+	text "VIC: Oh no, my"
 	line "plans!"
 	done
 
 GenericTrainerCoupleVicandtara2:
 	generictrainer COUPLE, VICANDTARA2, EVENT_BEAT_COUPLE_VIC_AND_TARA, .SeenText, .BeatenText
 
-	text "Tara: Even though"
+	text "TARA: Even though"
 	line "my boyfriend lost,"
 	cont "he's still wonder-"
 	cont "ful."
 	done
 
 .SeenText:
-	text "Tara: I love to"
+	text "TARA: I love to"
 	line "look at my boy-"
 	cont "friend's face while"
 	cont "he's battling!"
 	done
 
 .BeatenText:
-	text "Tara: Oh no,"
+	text "TARA: Oh no,"
 	line "oh no…"
 	done
 
 Route12SignText:
-	text "Route 12"
+	text "ROUTE 12"
 
-	para "North to Lavender"
-	line "Town"
+	para "North to LAVENDER"
+	line "TOWN"
 	done

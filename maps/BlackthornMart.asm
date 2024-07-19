@@ -18,31 +18,31 @@ BlackthornMart_MapScriptHeader:
 	object_event 11,  3, SPRITE_POKEMANIAC, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, 0, OBJECTTYPE_COMMAND, jumptextfaceplayer, BlackthornMartSuperNerdText, -1
 
 BlackthornMartCooltrainermText:
-	text "You can't buy Max"
-	line "Revive, but it"
+	text "You can't buy MAX"
+	line "REVIVE, but it"
 
 	para "fully restores a"
-	line "fainted #mon."
+	line "fainted #MON."
 
 	para "Beware--it won't"
 	line "restore PP, the"
 
-	para "Power Points"
+	para "POWER POINTS"
 	line "needed for moves."
 	done
 
 BlackthornMartBlackbeltText:
-	text "Max Repel keeps"
-	line "weak #mon away"
+	text "MAX REPEL keeps"
+	line "weak #MON away"
 	cont "from you."
 
 	para "It's the longest"
 	line "lasting of the"
-	cont "Repel sprays."
+	cont "REPEL sprays."
 	done
 
 BlackthornMartSuperNerdText:
-	text "The towns in Johto"
+	text "The towns in JOHTO"
 	line "are all named"
 	cont "after plants."
 

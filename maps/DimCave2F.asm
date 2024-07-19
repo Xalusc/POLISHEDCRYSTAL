@@ -41,14 +41,14 @@ GenericTrainerEngineerLang:
 	generictrainer ENGINEER, LANG, EVENT_BEAT_ENGINEER_LANG, .SeenText, .BeatenText
 
 	text "Three years ago"
-	line "the Power Plant"
+	line "the POWER PLANT"
 	cont "was a wreck."
 
 	para "We got it up and"
 	line "running to power"
 
-	para "the Magnet Train"
-	line "to Johto."
+	para "the MAGNET TRAIN"
+	line "to JOHTO."
 	done
 
 .SeenText:
@@ -56,7 +56,7 @@ GenericTrainerEngineerLang:
 	line "this mountain to"
 
 	para "refurbish the"
-	line "Power Plant!"
+	line "POWER PLANT!"
 	done
 
 .BeatenText:
@@ -70,7 +70,7 @@ GenericTrainerHikerDerrick:
 	line "saying, but I love"
 
 	para "hiking with my"
-	line "#mon."
+	line "#MON."
 	done
 
 .SeenText:

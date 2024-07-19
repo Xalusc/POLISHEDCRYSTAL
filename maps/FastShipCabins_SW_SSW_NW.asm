@@ -37,8 +37,8 @@ GenericTrainerBug_catcherKen:
 	generictrainer BUG_CATCHER, KEN, EVENT_BEAT_BUG_CATCHER_KEN, Bug_catcherKenSeenText, Bug_catcherKenBeatenText
 
 	text "You can find lots"
-	line "of #mon in the"
-	cont "trees of Johto!"
+	line "of #MON in the"
+	cont "trees of JOHTO!"
 	done
 
 GenericTrainerRichBoyWinston:
@@ -55,7 +55,7 @@ GenericTrainerBeautyCassie:
 	line "for getting over"
 	cont "a broken heart."
 
-	para "But a Fast Ship"
+	para "But a FAST SHIP"
 	line "trip is too short"
 	cont "for grieving."
 	done
@@ -107,7 +107,7 @@ UnknownScript_0x75af7:
 	end
 
 FirebreatherLyleSeenText:
-	text "I'm going to Kanto"
+	text "I'm going to KANTO"
 	line "to put on fire-"
 	cont "breathing shows!"
 	done
@@ -139,7 +139,7 @@ RichBoyWinstonSeenText:
 
 RichBoyWinstonBeatenText:
 	text "Wow! Who'd you buy"
-	line "your #mon from?"
+	line "your #MON from?"
 	done
 
 BeautyCassieSeenText:
@@ -156,8 +156,8 @@ GuitaristmClydeSeenText:
 	text "I'm going to audi-"
 	line "tion my songs at"
 
-	para "Goldenrod's Radio"
-	line "Station."
+	para "GOLDENROD's RADIO"
+	line "STATION."
 	done
 
 GuitaristmClydeBeatenText:
@@ -167,7 +167,7 @@ GuitaristmClydeBeatenText:
 
 GuitaristClydeAfterBattleText:
 	text "Speaking of the"
-	line "Radio Station,"
+	line "RADIO STATION,"
 
 	para "what's this week's"
 	line "lucky number?"
@@ -176,10 +176,10 @@ GuitaristClydeAfterBattleText:
 GuitaristClydeAfterBattleMobileText:
 	text "I was going to"
 	line "make my debut at"
-	cont "the Battle Tower…"
+	cont "the BATTLE TOWER…"
 
 	para "I should go back"
-	line "to Vermilion and"
+	line "to VERMILION and"
 	cont "redo my training…"
 	done
 
@@ -194,13 +194,13 @@ FastShipBedText2:
 	done
 
 FastShipArrivedOlivineText:
-	text "Fast Ship S.S.Aqua"
+	text "FAST SHIP S.S.AQUA"
 	line "has arrived in"
-	cont "Olivine City."
+	cont "OLIVINE CITY."
 	done
 
 FastShipArrivedVermilionText:
-	text "Fast Ship S.S.Aqua"
+	text "FAST SHIP S.S.AQUA"
 	line "has arrived in"
-	cont "Vermilion City."
+	cont "VERMILION CITY."
 	done

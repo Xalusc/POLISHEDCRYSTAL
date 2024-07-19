@@ -21,29 +21,29 @@ PokemonJournalBillScript:
 	setflag ENGINE_READ_BILL_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "#Maniac Bill!"
+	para "SPECIAL FEATURE:"
+	line "#MANIAC BILL!"
 
-	para "Bill invented the"
-	line "#mon Storage"
-	cont "System to hold his"
+	para "BILL invented the"
+	line "#MON storage"
+	cont "system to hold his"
 
-	para "own vast #mon"
+	para "own vast #MON"
 	line "collection."
 
 	para "Apparently, the"
 	line "first one he"
 
 	para "caught was an"
-	line "Abra."
+	line "ABRA."
 	done
 
 BillsHousePCText:
 	text "There's a spinning"
 	line "3D model of a"
-	cont "Porygon."
+	cont "PORYGON."
 	done
 
 BillsHouseBillScript:
@@ -69,7 +69,7 @@ BillsHouseBillScript:
 	text "That was one rad"
 	line "battle!"
 
-	para "Any #Maniac"
+	para "Any #MANIAC"
 	line "would be thrilled"
 
 	para "to see what"
@@ -77,18 +77,18 @@ BillsHouseBillScript:
 	done
 
 .IntroText:
-	text "Bill: Eevee is"
+	text "BILL: EEVEE is"
 	line "such a fascinating"
-	cont "#mon."
+	cont "#MON."
 
 	para "Some say that the"
 	line "three legendary"
 
-	para "beasts of Johto"
+	para "beasts of JOHTO"
 	line "were once three"
 
-	para "#mon that"
-	line "evolve from Eevee."
+	para "#MON that"
+	line "evolve from EEVEE."
 
 	para "But that might be"
 	line "only a rumor."
@@ -107,7 +107,7 @@ BillsHouseBillScript:
 
 	para "Do you think they"
 	line "were once related"
-	cont "to Eevee?"
+	cont "to EEVEE?"
 
 	para "Oh man, now I have"
 	line "to show you my"
@@ -117,7 +117,7 @@ BillsHouseBillScript:
 	line "the three legends"
 
 	para "you battled to"
-	line "my own #mon!"
+	line "my own #MON!"
 	done
 
 .BeatenText:

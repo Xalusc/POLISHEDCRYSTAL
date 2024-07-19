@@ -36,7 +36,7 @@ GenericTrainerPokemaniacAndrew:
 	generictrainer POKEMANIAC, ANDREW, EVENT_BEAT_POKEMANIAC_ANDREW, PokemaniacAndrewSeenText, PokemaniacAndrewBeatenText
 
 	text "Just me and my"
-	line "#mon. I'm de-"
+	line "#MON. I'm de-"
 	cont "lirious with joy."
 	done
 
@@ -44,7 +44,7 @@ PokemaniacAndrewSeenText:
 	text "Who's there?"
 
 	para "Leave me and my"
-	line "#mon alone!"
+	line "#MON alone!"
 	done
 
 PokemaniacAndrewBeatenText:
@@ -61,13 +61,13 @@ GenericTrainerPokemaniacCalvin:
 
 	para "I might even be-"
 	line "come famous like"
-	cont "Prof.Elm."
+	cont "PROF.ELM."
 	done
 
 PokemaniacCalvinSeenText:
 	text "I came all the way"
 	line "here to conduct my"
-	cont "#mon research."
+	cont "#MON research."
 
 	para "Let me demonstrate"
 	line "my findings in a"
@@ -132,7 +132,7 @@ GenericTrainerFirebreatherJay:
 	line "caught on fire."
 
 	para "It looked kind of"
-	line "like a Magmar… but"
+	line "like a MAGMAR… but"
 	cont "it hurt!"
 	done
 
@@ -141,7 +141,7 @@ GenericTrainerFirebreatherJay:
 	line "breathe fire by"
 
 	para "watching my #-"
-	line "mon!"
+	line "MON!"
 	done
 
 .BeatenText:
@@ -178,7 +178,7 @@ GenericTrainerRuin_maniacGlyn:
 	done
 
 .SeenText:
-	text "My #mon were"
+	text "My #MON were"
 	line "born from fossils"
 
 	para "I found in this"

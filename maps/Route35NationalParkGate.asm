@@ -179,7 +179,7 @@ Route35NationalParkGate_NoContestToday:
 	text "We hold Contests"
 	line "regularly in the"
 
-	para "park. You should"
+	para "PARK. You should"
 	line "give it a shot."
 	done
 
@@ -207,9 +207,9 @@ Route35NationalParkGateOfficer1AskToParticipateText:
 	line "ple."
 
 	para "Using one of your"
-	line "#mon, catch a"
+	line "#MON, catch a"
 
-	para "bug #mon to be"
+	para "bug #MON to be"
 	line "judged."
 
 	para "Would you like to"
@@ -217,37 +217,37 @@ Route35NationalParkGateOfficer1AskToParticipateText:
 	done
 
 Route35NationalParkGateOfficer1GiveParkBallsText:
-	text "Here are the Park"
-	line "Balls for the"
+	text "Here are the PARK"
+	line "BALLS for the"
 	cont "Contest."
 	done
 
 Route35NationalParkGatePlayerReceivedParkBallsText:
 	text "<PLAYER> received"
-	line "{d:BUG_CONTEST_BALLS} Park Balls."
+	line "{d:BUG_CONTEST_BALLS} PARK BALLS."
 	done
 
 Route35NationalParkGateOfficer1ExplainsRulesText:
 	text "The person who"
 	line "gets the strong-"
-	cont "est bug #mon"
+	cont "est bug #MON"
 	cont "is the winner."
 
 	para "You have {d:BUG_CONTEST_MINUTES}"
 	line "minutes."
 
 	para "If you run out of"
-	line "Park Balls, you're"
+	line "PARK BALLS, you're"
 	cont "done."
 
 	para "You can keep the"
-	line "last #mon you"
+	line "last #MON you"
 	cont "catch as your own."
 
 	para "Go out and catch"
 	line "the strongest bug"
 
-	para "#mon you can"
+	para "#MON you can"
 	line "find!"
 	done
 
@@ -255,14 +255,14 @@ Route35NationalParkGateOfficer1AskToUseFirstMonText:
 	text "Uh-oh…"
 
 	para "You have more than"
-	line "one #mon."
+	line "one #MON."
 
 	para "You'll have to use"
 	line ""
 	text_ram wStringBuffer3
 	text ", the"
 
-	para "first #mon in"
+	para "first #MON in"
 	line "your party."
 
 	para "Is that OK with"
@@ -271,19 +271,19 @@ Route35NationalParkGateOfficer1AskToUseFirstMonText:
 
 Route35NationalParkGateOfficer1WellHoldYourMonText:
 	text "Fine, we'll hold"
-	line "your other #mon"
+	line "your other #MON"
 	cont "while you compete."
 	done
 
 Route35NationalParkGatePlayersMonLeftWithHelperText:
-	text "<PLAYER>'s #mon"
+	text "<PLAYER>'s #MON"
 	line "were left with the"
-	cont "Contest Helper."
+	cont "CONTEST HELPER."
 	done
 
 Route35NationalParkGateOfficer1ChooseMonAndComeBackText:
 	text "Please choose the"
-	line "#mon to be used"
+	line "#MON to be used"
 
 	para "in the Contest,"
 	line "then come see me."
@@ -297,13 +297,13 @@ Route35NationalParkGateOfficer1TakePartInFutureText:
 
 Route35NationalParkGateOfficer1FirstMonCantBattleText:
 	text "Uh-oh…"
-	line "The first #mon"
+	line "The first #MON"
 
 	para "in your party"
 	line "can't battle."
 
 	para "Please switch it"
-	line "with the #mon"
+	line "with the #MON"
 
 	para "you want to use,"
 	line "then come see me."
@@ -313,29 +313,29 @@ Route35NationalParkGateOfficer1MakeRoomText:
 	text "Uh-oh…"
 	line "Both your party"
 
-	para "and your PC Box"
+	para "and your PC BOX"
 	line "are full."
 
 	para "You have no room"
 	line "to put the bug"
-	cont "#mon you catch."
+	cont "#MON you catch."
 
 	para "Please make room"
 	line "in your party or"
 
-	para "your PC Box, then"
+	para "your PC BOX, then"
 	line "come see me."
 	done
 
 Route35NationalParkGateOfficer1EggAsFirstMonText:
 	text "Uh-oh…"
-	line "You have an Egg as"
+	line "You have an EGG as"
 
-	para "the first #mon"
+	para "the first #MON"
 	line "in your party."
 
 	para "Please switch it"
-	line "with the #mon"
+	line "with the #MON"
 
 	para "you want to use,"
 	line "then come see me."
@@ -392,7 +392,7 @@ BugCatchingContestExplanationText:
 	line "you also get to"
 
 	para "keep the bug"
-	line "#mon you may"
+	line "#MON you may"
 
 	para "have at the end of"
 	line "the contest."

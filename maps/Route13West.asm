@@ -33,7 +33,7 @@ GenericTrainerCamperClark:
 	cont "go out!"
 
 	para "Look out for wild"
-	line "#mon!"
+	line "#MON!"
 
 	para "Let's go,"
 	line "Campfire!"
@@ -47,7 +47,7 @@ GenericTrainerPicnickerGinger:
 	generictrainer PICNICKER, GINGER, EVENT_BEAT_PICNICKER_GINGER, .SeenText, .BeatenText
 
 	text "You can communi-"
-	line "cate with #mon"
+	line "cate with #MON"
 
 	para "through whistling"
 	line "instead of words!"
@@ -77,8 +77,8 @@ GenericTrainerHikerKenny:
 
 HikerKennySeenText:
 	text "I should go to"
-	line "Rock Tunnel to get"
-	cont "myself an Onix."
+	line "ROCK TUNNEL to get"
+	cont "myself an ONIX."
 	done
 
 HikerKennyBeatenText:
@@ -86,9 +86,9 @@ HikerKennyBeatenText:
 	done
 
 Route13DirectionsSignText:
-	text "North to Lavender"
-	line "Town"
+	text "North to LAVENDER"
+	line "TOWN"
 
-	para "West to Fuchsia"
-	line "City"
+	para "West to FUCHSIA"
+	line "CITY"
 	done

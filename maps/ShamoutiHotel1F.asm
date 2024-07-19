@@ -28,14 +28,14 @@ ShamoutiHotel1FRestaurantTrigger:
 
 ShamoutiHotel1FReceptionistText:
 	text "Welcome to the"
-	line "Shamouti Hotel."
+	line "SHAMOUTI HOTEL."
 
 	para "I'm afraid our"
 	line "rooms are all"
 	cont "booked, but please"
 
 	para "visit our deluxe"
-	line "Oasis Restaurant."
+	line "OASIS RESTAURANT."
 	done
 
 ShamoutiHotel1FArtistScript:
@@ -108,19 +108,19 @@ ShamoutiHotel1FCooltrainermText:
 
 ShamoutiHotel1FLadyText:
 	text "Have you ever"
-	line "found a Bottle Cap"
+	line "found a BOTTLE CAP"
 	cont "while fishing?"
 
-	para "In Alola, where I'm"
+	para "In ALOLA, where I'm"
 	line "from, there's a man"
 
-	para "who will “Hyper"
-	line "Train” your #-"
-	cont "mon--bringing out"
+	para "who will “HYPER"
+	line "TRAIN” your #-"
+	cont "MON--bringing out"
 
 	para "its full poten-"
 	line "tial--just for a"
-	cont "Bottle Cap."
+	cont "BOTTLE CAP."
 	done
 
 ShamoutiHotel1FYoungsterText:
@@ -130,5 +130,5 @@ ShamoutiHotel1FYoungsterText:
 	done
 
 ShamoutiHotelRestaurantSignText:
-	text "Oasis Restaurant"
+	text "OASIS RESTAURANT"
 	done

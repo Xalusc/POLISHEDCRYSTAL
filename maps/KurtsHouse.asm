@@ -384,21 +384,21 @@ PokemonJournalProfWestwoodScript:
 	setflag ENGINE_READ_PROF_WESTWOOD_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Prof.Westwood!"
+	para "SPECIAL FEATURE:"
+	line "PROF.WESTWOOD!"
 
-	para "Prof.Westwood V"
-	line "teaches at Celadon"
-	cont "University."
+	para "PROF.WESTWOOD V"
+	line "teaches at CELADON"
+	cont "UNIVERSITY."
 
 	para "His ancestor's re-"
 	line "search in 1925 led"
 
 	para "to the development"
 	line "of modern #"
-	cont "Balls."
+	cont "BALLS."
 	done
 
 KurtsHouseKurtGoAroundPlayerThenExitHouseMovement:
@@ -441,21 +441,21 @@ KurtsHouseKurtMakingBallsMustWaitText:
 
 	para "<PLAYER>, eh? You"
 	line "want me to make"
-	cont "some Balls?"
+	cont "some BALLS?"
 
 	para "Sorry, but that'll"
 	line "have to wait."
 
-	para "Do you know Team"
-	line "Rocket? Ah, don't"
+	para "Do you know TEAM"
+	line "ROCKET? Ah, don't"
 
 	para "worry. I'll tell"
 	line "you anyhow."
 
-	para "Team Rocket's an"
+	para "TEAM ROCKET's an"
 	line "evil gang that"
 
-	para "uses #mon for"
+	para "uses #MON for"
 	line "their dirty work."
 
 	para "They're supposed"
@@ -465,99 +465,99 @@ KurtsHouseKurtMakingBallsMustWaitText:
 	para "Anyway, they're at"
 	line "the well, cutting"
 
-	para "off SlowpokeTails"
+	para "off SLOWPOKETAILS"
 	line "for sale!"
 
 	para "So I'm going to"
 	line "go give them a"
 	cont "lesson in pain!"
 
-	para "Hang on, Slowpoke!"
-	line "Old Kurt is on his"
+	para "Hang on, SLOWPOKE!"
+	line "Old KURT is on his"
 	cont "way!"
 	done
 
 KurtsHouseKurtHonoredToMakeBallsText:
-	text "Kurt: Hi, <PLAYER>!"
+	text "KURT: Hi, <PLAYER>!"
 
 	para "You handled your-"
 	line "self like a real"
-	cont "hero at the well."
+	cont "hero at the WELL."
 
 	para "I like your style!"
 
 	para "I would be honored"
-	line "to make Balls for"
+	line "to make BALLS for"
 
 	para "a trainer like"
 	line "you."
 
 	para "But first, you'll"
-	line "need Apricorns."
+	line "need APRICORNS."
 
 	para "Here, take this"
-	line "Apricorn Box!"
+	line "APRICORN BOX!"
 	done
 
 KurtsHouseKurtBallsFromApricornsText:
-	text "Kurt: I make Balls"
-	line "from Apricorns."
+	text "KURT: I make BALLS"
+	line "from APRICORNS."
 
 	para "Collect them from"
 	line "trees and bring"
 	cont "'em to me."
 
-	para "I'll make Balls"
+	para "I'll make BALLS"
 	line "out of them."
 	done
 
 KurtsHouseKurtAskYouHaveAnApricornText:
-	text "Kurt: You have an"
-	line "Apricorn for me?"
+	text "KURT: You have an"
+	line "APRICORN for me?"
 
 	para "Fine! I'll turn it"
-	line "into a Ball."
+	line "into a BALL."
 	done
 
 KurtsHouseKurtGetStartedText:
-	text "Kurt: I'll get"
+	text "KURT: I'll get"
 	line "started right now!"
 	done
 
 KurtsHouseKurtItWillTakeADayText:
-	text "Kurt: It'll take a"
+	text "KURT: It'll take a"
 	line "while to make you"
 
-	para "a Ball. Come back"
+	para "a BALL. Come back"
 	line "for it later."
 	done
 
 KurtsHouseKurtThatsALetdownText:
-	text "Kurt: Oh…"
+	text "KURT: Oh…"
 	line "That's a letdown."
 	done
 
 KurtsHouseKurtDontBotherMeText:
-	text "Kurt: I'm working!"
+	text "KURT: I'm working!"
 	line "Don't bother me!"
 	done
 
 KurtsHouseKurtJustFinishedYourBallText:
-	text "Kurt: Ah, <PLAYER>!"
+	text "KURT: Ah, <PLAYER>!"
 	line "I just finished"
-	cont "your Ball. Here!"
+	cont "your BALL. Here!"
 	done
 
 KurtsHouseKurtTurnedOutGreatText:
-	text "Kurt: That turned"
+	text "KURT: That turned"
 	line "out great."
 
 	para "Try catching"
-	line "#mon with it."
+	line "#MON with it."
 	done
 
 KurtsHouseKurtGranddaughterHelpingWorkFasterText:
-	text "Kurt: Now that my"
+	text "KURT: Now that my"
 	line "granddaughter is"
 
 	para "helping me, I can"
@@ -571,7 +571,7 @@ KurtsHouseKurtWhatIsThatText:
 	line "one before."
 
 	para "It looks a lot"
-	line "like a # Ball,"
+	line "like a # BALL,"
 
 	para "but it appears to"
 	line "be something else."
@@ -593,7 +593,7 @@ KurtsHouseKurtAhHaISeeText:
 KurtsHouseKurtThisBallStartedToShakeText:
 	text "<PLAYER>!"
 
-	para "This Ball started"
+	para "This BALL started"
 	line "to shake while I"
 	cont "was checking it."
 
@@ -602,7 +602,7 @@ KurtsHouseKurtThisBallStartedToShakeText:
 	done
 
 KurtsGranddaughterSlowpokeGoneText:
-	text "The Slowpoke are"
+	text "The SLOWPOKE are"
 	line "gone… Were they"
 
 	para "taken away by bad"
@@ -615,7 +615,7 @@ KurtsGranddaughterLonelyText:
 	done
 
 KurtsGranddaughterSlowpokeBackText:
-	text "The Slowpoke my"
+	text "The SLOWPOKE my"
 	line "dad gave me came"
 
 	para "back! Its tail is"
@@ -623,13 +623,13 @@ KurtsGranddaughterSlowpokeBackText:
 	done
 
 KurtsGranddaughterDadText:
-	text "Dad works at Silph"
+	text "Dad works at SILPH"
 	line "where he studies"
-	cont "# Balls."
+	cont "# BALLS."
 
 	para "I have to stay"
 	line "home with Grandpa"
-	cont "and Slowpoke."
+	cont "and SLOWPOKE."
 	done
 
 KurtsGranddaughterHelpText:
@@ -637,31 +637,31 @@ KurtsGranddaughterHelpText:
 	line "Grandpa now!"
 
 	para "We'll make good"
-	line "Balls for you, so"
+	line "BALLS for you, so"
 	cont "please wait!"
 	done
 
 KurtsGranddaughterFunText:
 	text "It's fun to make"
-	line "Balls!"
+	line "BALLS!"
 	done
 
 KurtsGranddaughterGSBallText:
 	text "Grandpa's checking"
-	line "a Ball right now."
+	line "a BALL right now."
 
 	para "So I'm waiting"
 	line "till he's done."
 	done
 
 KurtsHouseSlowpokeText:
-	text "Slowpoke: …"
+	text "SLOWPOKE: …"
 	line "Yawn?"
 	done
 
 KurtsHouseOakPhotoText:
-	text "…A young Prof."
-	line "Oak?"
+	text "…A young PROF."
+	line "OAK?"
 	done
 
 KurtsHouseCelebiStatueText:

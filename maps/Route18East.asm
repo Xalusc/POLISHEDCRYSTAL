@@ -28,7 +28,7 @@ GenericTrainerBird_keeperBob:
 	generictrainer BIRD_KEEPER, BOB, EVENT_BEAT_BIRD_KEEPER_BOB, Bird_keeperBobSeenText, Bird_keeperBobBeatenText
 
 	text "If you don't have"
-	line "a Bicycle, you're"
+	line "a BICYCLE, you're"
 
 	para "not allowed to use"
 	line "the shortcut."
@@ -36,7 +36,7 @@ GenericTrainerBird_keeperBob:
 
 Bird_keeperBorisSeenText:
 	text "If you're looking"
-	line "for #mon, you"
+	line "for #MON, you"
 
 	para "have to look in"
 	line "the tall grass."
@@ -47,9 +47,9 @@ Bird_keeperBorisBeatenText:
 	done
 
 Bird_keeperBobSeenText:
-	text "Cycling Road is a"
+	text "CYCLING ROAD is a"
 	line "quick shortcut to"
-	cont "Celadon."
+	cont "CELADON."
 	done
 
 Bird_keeperBobBeatenText:
@@ -57,8 +57,8 @@ Bird_keeperBobBeatenText:
 	done
 
 Route18SignText:
-	text "Route 18"
+	text "ROUTE 18"
 
-	para "Celadon City -"
-	line "Fuchsia City"
+	para "CELADON CITY -"
+	line "FUCHSIA CITY"
 	done

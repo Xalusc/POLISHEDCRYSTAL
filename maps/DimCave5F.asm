@@ -89,7 +89,7 @@ DimCave5FRileyScript:
 	para "OK, you're"
 	line "<PLAYER>."
 
-	para "I'm Riley. I'm a"
+	para "I'm RILEY. I'm a"
 	line "trainer, yes."
 
 	para "I own a mine like"
@@ -106,7 +106,7 @@ DimCave5FRileyScript:
 	text "We're pulling out"
 	line "all the stops to"
 
-	para "put your #mon"
+	para "put your #MON"
 	line "down."
 	done
 
@@ -130,7 +130,7 @@ DimCave5FRileyScript:
 	text "Know your enemy."
 
 	para "If you know your"
-	line "opponent's #mon"
+	line "opponent's #MON"
 	cont "and moves, your"
 
 	para "chances of winning"
@@ -151,7 +151,7 @@ DimCave5FRileyScript:
 
 	para "I intend to test"
 	line "my skills in the"
-	cont "Battle Tower now."
+	cont "BATTLE TOWER now."
 
 	para "Let's meet again!"
 
@@ -165,7 +165,7 @@ GenericTrainerSuper_nerdFoote:
 	text "Save one life or"
 	line "save five?"
 
-	para "As a #mon"
+	para "As a #MON"
 	line "trainer, you may"
 
 	para "have the power to"
@@ -177,7 +177,7 @@ GenericTrainerSuper_nerdFoote:
 	line "for you!"
 
 	para "Would you push one"
-	line "#mon in front"
+	line "#MON in front"
 
 	para "of a mine cart to"
 	line "save five?"
@@ -186,24 +186,24 @@ GenericTrainerSuper_nerdFoote:
 .BeatenText:
 	text "You answered"
 	line "without words…"
-	cont "How Zen!"
+	cont "How zen!"
 	done
 
 GenericTrainerEngineerHoward:
 	generictrainer ENGINEER, HOWARD, EVENT_BEAT_ENGINEER_HOWARD, .SeenText, .BeatenText
 
 	text "Water flows south"
-	line "from Cerulean Cape"
+	line "from CERULEAN CAPE"
 
 	para "and follows a"
 	line "steady course to"
-	cont "the Power Plant."
+	cont "the POWER PLANT."
 	done
 
 .SeenText:
 	text "This waterfall"
 	line "provides energy"
-	cont "throughout Kanto!"
+	cont "throughout KANTO!"
 	done
 
 .BeatenText:

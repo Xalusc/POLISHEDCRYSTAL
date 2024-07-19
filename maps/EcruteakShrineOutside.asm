@@ -22,13 +22,13 @@ EcruteakShrineOutside_MapScriptHeader:
 	object_event  2, 10, SPRITE_SAGE, SPRITEMOVEDATA_WALK_LEFT_RIGHT, 0, 1, -1, -1, 0, OBJECTTYPE_COMMAND, jumptextfaceplayer, EcruteakShrineOutsideSageText, -1
 
 EcruteakShrineOutsideTwinText:
-	text "My Hoothoot's"
-	line "Foresight helps"
+	text "My HOOTHOOT's"
+	line "FORESIGHT helps"
 	cont "shoo away ghosts."
 	done
 
 EcruteakShrineOutsideHoothootText:
-	text "Hoothoot: Hoot!"
+	text "HOOTHOOT: Hoot!"
 	done
 
 EcruteakShrineOutsideSageText:
@@ -41,7 +41,7 @@ EcruteakShrineOutsideSageText:
 	done
 
 EcruteakShrineOutsideStatueText:
-	text "A #mon statue…"
+	text "A #MON statue…"
 
 	para "It looks very"
 	line "serene."

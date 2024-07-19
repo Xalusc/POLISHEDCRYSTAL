@@ -23,21 +23,21 @@ PokemonJournalLtSurgeScript:
 	setflag ENGINE_READ_LT_SURGE_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Leader Lt.Surge!"
+	para "SPECIAL FEATURE:"
+	line "LEADER LT.SURGE!"
 
-	para "Lt.Surge is rumor-"
+	para "LT.SURGE is rumor-"
 	line "ed to have been a"
 
 	para "pilot while home"
-	line "in America."
+	line "somewhere distant."
 
 	para "He used the elec-"
 	line "tricity generated"
 
-	para "by #mon to pow-"
+	para "by #MON to pow-"
 	line "er his plane."
 	done
 
@@ -46,9 +46,9 @@ VermilionPokeCenter1FSightseerMScript:
 	iftrue_jumptextfaceplayer .SnorlaxText
 	jumpthistextfaceplayer
 
-	text "A sleeping #mon"
+	text "A sleeping #MON"
 	line "is lying in front"
-	cont "of Diglett's Cave."
+	cont "of DIGLETT'S CAVE."
 
 	para "It's a fantastic"
 	line "opportunity to get"
@@ -59,17 +59,17 @@ VermilionPokeCenter1FSightseerMScript:
 
 .SnorlaxText:
 	text "There used to be a"
-	line "sleeping #mon"
+	line "sleeping #MON"
 
 	para "lying in front of"
-	line "Diglett's Cave."
+	line "DIGLETT'S CAVE."
 
 	para "But it seems to"
 	line "have disappeared."
 	done
 
 VermilionPokeCenter1FSailorText:
-	text "The Fast Ship is a"
+	text "The FAST SHIP is a"
 	line "great place to"
 
 	para "meet and battle"
@@ -78,9 +78,9 @@ VermilionPokeCenter1FSailorText:
 
 VermilionPokeCenter1FBugCatcherText:
 	text "Oh? You have some"
-	line "Badges I've never"
+	line "BADGES I've never"
 	cont "seen before."
 
 	para "Oh, I get it. You"
-	line "got them in Johto."
+	line "got them in JOHTO."
 	done

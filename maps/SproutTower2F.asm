@@ -33,7 +33,7 @@ GenericTrainerSageEdmond:
 	generictrainer SAGE, EDMOND, EVENT_BEAT_SAGE_EDMOND, SageEdmondSeenText, SageEdmondBeatenText
 
 	text "I tried to copy"
-	line "Bellsprout's"
+	line "BELLSPROUT's"
 
 	para "gentle movements"
 	line "for battle…"
@@ -63,7 +63,7 @@ SageEdmondBeatenText:
 	done
 
 SproutTower2FStatueText:
-	text "A #mon statue…"
+	text "A #MON statue…"
 
 	para "It looks very"
 	line "distinguished."

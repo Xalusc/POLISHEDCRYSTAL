@@ -82,14 +82,14 @@ GenericTrainerVeteranfJoanne:
 
 	text "You earned the"
 	line "right to be on"
-	cont "Victory Road!"
+	cont "VICTORY ROAD!"
 	done
 
 GenericTrainerVeteranfSylvie:
 	generictrainer VETERANF, SYLVIE, EVENT_BEAT_VETERANF_SYLVIE, VeteranfSylvieSeenText, VeteranfSylvieBeatenText
 
 	text "Did somebody"
-	line "capture Moltres"
+	line "capture MOLTRES"
 	cont "already?"
 	done
 
@@ -111,8 +111,8 @@ VictoryRoadRivalBeforeText:
 	text "Hold it."
 
 	para "…Are you going to"
-	line "take the #mon"
-	cont "League challenge?"
+	line "take the #MON"
+	cont "LEAGUE challenge?"
 
 	para "…Don't make me"
 	line "laugh."
@@ -126,7 +126,7 @@ VictoryRoadRivalBeforeText:
 	para "I now have the"
 	line "best and strongest"
 
-	para "#mon with me."
+	para "#MON with me."
 	line "I'm invincible!"
 
 	para "<PLAYER>!"
@@ -183,7 +183,7 @@ VictoryRoadRivalVictoryText:
 	done
 
 VeteranfJoanneSeenText:
-	text "Victory Road is"
+	text "VICTORY ROAD is"
 	line "the final test"
 	cont "for trainers!"
 	done
@@ -194,7 +194,7 @@ VeteranfJoanneBeatenText:
 
 VeteranfSylvieSeenText:
 	text "There's supposed"
-	line "to be a Moltres"
+	line "to be a MOLTRES"
 	cont "roosting here."
 
 	para "I'm going to catch"
@@ -204,6 +204,6 @@ VeteranfSylvieSeenText:
 VeteranfSylvieBeatenText:
 	text "I'd have won if"
 	line "I had a legendary"
-	cont "#mon…"
+	cont "#MON…"
 	done
 

@@ -131,7 +131,7 @@ CeladonDeptStore3FWiiScript:
 
 CeladonDeptStore3FClerk2Text:
 	text "There's a neat move"
-	line "called Counter."
+	line "called COUNTER."
 
 	para "Not the kind of"
 	line "counter I'm leaning"
@@ -140,21 +140,21 @@ CeladonDeptStore3FClerk2Text:
 
 Text_CeladonDeptStore3FTutorCounter:
 	text "I'll teach your"
-	line "#mon how to use"
+	line "#MON how to use"
 
-	para "Counter if you pay"
-	line "me a Silver Leaf."
+	para "COUNTER if you pay"
+	line "me a SILVER LEAF."
 	done
 
 Text_CeladonDeptStore3FTutorNoSilverLeaf:
 	text "You don't have a"
-	line "Silver Leaf…"
+	line "SILVER LEAF…"
 	done
 
 Text_CeladonDeptStore3FTutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Counter?"
+	line "your #MON"
+	cont "COUNTER?"
 	done
 
 Text_CeladonDeptStore3FTutorRefused:
@@ -162,8 +162,8 @@ Text_CeladonDeptStore3FTutorRefused:
 	done
 
 Text_CeladonDeptStore3FTutorTaught:
-	text "Now your #mon"
-	line "knows Counter."
+	text "Now your #MON"
+	line "knows COUNTER."
 	done
 
 VideoGameClerkText:
@@ -176,17 +176,17 @@ VideoGameClerkText:
 	done
 
 VideoGameClerkNoSaleText:
-	text "Clerk: Well, if"
+	text "CLERK: Well, if"
 	line "you say so."
 	done
 
 VideoGameClerkNoMoneyText:
-	text "Clerk: You can't"
+	text "CLERK: You can't"
 	line "afford it!"
 	done
 
 VideoGameClerkSellSnesText:
-	text "Clerk: That SNES"
+	text "CLERK: That SNES"
 	line "can be yours for"
 
 	para "just ¥20,000!"
@@ -194,7 +194,7 @@ VideoGameClerkSellSnesText:
 	done
 
 VideoGameClerkSellN64Text:
-	text "Clerk: That N64"
+	text "CLERK: That N64"
 	line "can be yours for"
 
 	para "just ¥25,000!"
@@ -202,15 +202,15 @@ VideoGameClerkSellN64Text:
 	done
 
 VideoGameClerkSellGameCubeText:
-	text "Clerk: That Game-"
-	line "Cube can be yours"
+	text "CLERK: That GAME-"
+	line "CUBE can be yours"
 
 	para "for just ¥30,000!"
 	line "Want one?"
 	done
 
 VideoGameClerkSellWiiText:
-	text "Clerk: That Wii"
+	text "CLERK: That WII"
 	line "can be yours for"
 
 	para "just ¥40,000!"
@@ -219,47 +219,47 @@ VideoGameClerkSellWiiText:
 
 BoughtSnesText:
 	text "<PLAYER> bought"
-	line "Super NES."
+	line "SUPER NES."
 	done
 
 SnesSentText:
-	text "Super NES"
+	text "SUPER NES"
 	line "was sent home."
 	done
 
 BoughtN64Text:
 	text "<PLAYER> bought"
-	line "Nintendo 64."
+	line "NINTENDO 64."
 	done
 
 N64SentText:
-	text "Nintendo 64"
+	text "NINTENDO 64"
 	line "was sent home."
 	done
 
 BoughtGameCubeText:
 	text "<PLAYER> bought"
-	line "GameCube."
+	line "GAMECUBE."
 	done
 
 GameCubeSentText:
-	text "GameCube"
+	text "GAMECUBE"
 	line "was sent home."
 	done
 
 BoughtWiiText:
 	text "<PLAYER> bought"
-	line "Wii."
+	line "WII."
 	done
 
 WiiSentText:
-	text "Wii"
+	text "WII"
 	line "was sent home."
 	done
 
 CeladonDeptStore3FYoungsterText:
 	text "I can't decide"
-	line "which #mon I"
+	line "which #MON I"
 
 	para "should use this"
 	line "TM on…"
@@ -269,20 +269,20 @@ CeladonDeptStore3FYoungsterText:
 	done
 
 CeladonDeptStore3FSuperNerdText:
-	text "The Tech Shop"
+	text "The TECH SHOP"
 	line "sells some cool"
 	cont "game systems."
 	done
 
 CeladonDeptStore3FDirectoryText:
-	text "Make Your #mon"
+	text "Make Your #MON"
 	line "Stronger!"
 
-	para "3F: Tech Shop"
+	para "3F: TECH SHOP"
 	done
 
 CeladonDeptStore3FSnesText:
-	text "It's a Super NES!"
+	text "It's a SUPER NES!"
 
 	para "I have one of"
 	line "those at home!"
@@ -296,14 +296,14 @@ CeladonDeptStore3FN64Text:
 	done
 
 CeladonDeptStore3FGameCubeText:
-	text "It's a GameCube!"
+	text "It's a GAMECUBE!"
 
 	para "I have one of"
 	line "those at home!"
 	done
 
 CeladonDeptStore3FWiiText:
-	text "It's a Wii!"
+	text "It's a WII!"
 
 	para "I have one of"
 	line "those at home!"

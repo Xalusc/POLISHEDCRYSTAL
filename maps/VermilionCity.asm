@@ -216,7 +216,7 @@ VermilionMachokeOwnerScript:
 	iftrue_jumptextfaceplayer VermilionMachokeOwnerText
 	jumpthistextfaceplayer
 
-	text "My #mon"
+	text "My #MON"
 	line "prepared the land"
 
 	para "to construct that"
@@ -232,33 +232,33 @@ VermilionCitySuperNerd2Script:
 	iftrue_jumptextfaceplayer VermilionCitySuperNerd2Text
 	jumpthistextfaceplayer
 
-	text "The Battle Factory"
+	text "The BATTLE FACTORY"
 	line "is brand-new!"
 
 	para "But it draws a"
 	line "huge amount of"
 	cont "power…"
 
-	para "With the Power"
-	line "Plant offline,"
+	para "With the POWER"
+	line "PLANT offline,"
 	cont "it's useless!"
 	done
 
 VermilionCityBadgeGuyBattleEdgeText:
 	text "Having a variety"
-	line "of #mon types"
+	line "of #MON types"
 
 	para "should give you an"
 	line "edge in battle."
 
-	para "I'm sure the Kanto"
-	line "Gym Badges will"
+	para "I'm sure the KANTO"
+	line "GYM BADGES will"
 	cont "help you."
 	done
 
 LawrenceOverheardText:
 	text "…So the legendary"
-	line "#mon was not"
+	line "#MON was not"
 	cont "on that island…"
 
 	para "I must continue my"
@@ -266,7 +266,7 @@ LawrenceOverheardText:
 	done
 
 LawrenceIntroText:
-	text "Lawrence: Please"
+	text "LAWRENCE: Please"
 	line "excuse me for"
 	cont "bumping into you."
 
@@ -275,28 +275,28 @@ LawrenceIntroText:
 	cont "collection."
 
 	para "My name is"
-	line "Lawrence III."
+	line "LAWRENCE III."
 
 	para "And you're the"
-	line "League Champion?"
+	line "LEAGUE CHAMPION?"
 
 	para "…Well, appearances"
 	line "can be deceiving."
 
-	para "Legendary #mon"
+	para "Legendary #MON"
 	line "have always been"
 	cont "my passion."
 
-	para "I took the Seagal-"
-	line "lop Ferry here to"
+	para "I took the SEAGAL-"
+	line "LOP FERRY here to"
 
-	para "Shamouti Island,"
+	para "SHAMOUTI ISLAND,"
 	line "but did not find"
 	cont "the one I sought."
 
 	para "Oh, you've encoun-"
-	line "tered #mon out"
-	cont "of Johto's legends?"
+	line "tered #MON out"
+	cont "of JOHTO's legends?"
 
 	para "Then our paths may"
 	line "cross again as"
@@ -308,8 +308,8 @@ LawrenceIntroText:
 	done
 
 VermilionCityTeacherText:
-	text "Vermilion Port is"
-	line "Kanto's seaside"
+	text "VERMILION PORT is"
+	line "KANTO's seaside"
 	cont "gateway."
 
 	para "Luxury liners from"
@@ -318,13 +318,13 @@ VermilionCityTeacherText:
 	done
 
 VermilionMachokeOwnerText:
-	text "My #mon"
+	text "My #MON"
 	line "prepared the land"
 
 	para "to construct that"
 	line "huge building!"
 
-	para "It was a Machop"
+	para "It was a MACHOP"
 	line "three years ago,"
 
 	para "but the effort"
@@ -332,21 +332,21 @@ VermilionMachokeOwnerText:
 	done
 
 VermilionMachokeText:
-	text "Machoke: Guooh"
+	text "MACHOKE: Guooh"
 	line "gogogoh!"
 	done
 
 VermilionCitySuperNerdText:
 	text "There are eight"
-	line "Gyms in Kanto."
+	line "GYMS in KANTO."
 
 	para "That big building"
-	line "is Vermilion's"
-	cont "#mon Gym."
+	line "is VERMILION's"
+	cont "#MON GYM."
 	done
 
 VermilionCitySuperNerd2Text:
-	text "The Battle Factory"
+	text "The BATTLE FACTORY"
 	line "is brand-new, but"
 
 	para "trainers are al-"
@@ -358,20 +358,20 @@ VermilionCitySuperNerd2Text:
 	done
 
 VermilionCityOfficerFText:
-	text "The Power Plant's"
+	text "The POWER PLANT's"
 	line "generator is shut"
 	cont "down, so it's not"
 
 	para "safe to open the"
-	line "Battle Factory."
+	line "BATTLE FACTORY."
 	done
 
 VermilionCityOfficerText:
-	text "Sorry, the Battle"
-	line "Factory is closed"
+	text "Sorry, the BATTLE"
+	line "FACTORY is closed"
 
-	para "until the Power"
-	line "Plant is up and"
+	para "until the POWER"
+	line "PLANT is up and"
 	cont "running again."
 	done
 
@@ -381,25 +381,25 @@ VermilionCitySailorText:
 	done
 
 VermilionCitySnorlaxSleepingText:
-	text "Snorlax is snoring"
+	text "SNORLAX is snoring"
 	line "peacefully…"
 	done
 
 VermilionCityRadioNearSnorlaxText:
-	text "The #gear was"
+	text "The #GEAR was"
 	line "placed near the"
-	cont "sleeping Snorlax…"
+	cont "sleeping SNORLAX…"
 
 	para "…"
 
-	para "Snorlax woke up!"
+	para "SNORLAX woke up!"
 	done
 
 VermilionCityBadgeGuyTrainerText:
 	text "Skilled trainers"
-	line "gather in Kanto."
+	line "gather in KANTO."
 
-	para "Gym Leaders are"
+	para "GYM LEADERS are"
 	line "especially strong."
 
 	para "They won't be easy"
@@ -408,8 +408,8 @@ VermilionCityBadgeGuyTrainerText:
 
 VermilionCityBadgeGuySomeBadgesText:
 	text "You've started to"
-	line "collect Kanto Gym"
-	cont "Badges?"
+	line "collect KANTO GYM"
+	cont "BADGES?"
 
 	para "Don't you agree"
 	line "that the trainers"
@@ -420,67 +420,67 @@ VermilionCityBadgeGuyMostBadgesText:
 	text "I guess you'll be"
 	line "finished with your"
 
-	para "conquest of Kanto"
-	line "Gyms soon."
+	para "conquest of KANTO"
+	line "GYMS soon."
 
 	para "Let me know if"
 	line "you get all eight"
-	cont "Badges."
+	cont "BADGES."
 	done
 
 VermilionCityBadgeGuyAllBadgesText:
 	text "Congratulations!"
 
 	para "You got all the"
-	line "Kanto Gym Badges."
+	line "KANTO GYM BADGES."
 
 	para "I've got a reward"
 	line "for your efforts."
 	done
 
 VermilionCitySignText:
-	text "Vermilion City"
+	text "VERMILION CITY"
 
 	para "The Port of"
 	line "Exquisite Sunsets"
 	done
 
 VermilionGymSignText:
-	text "Vermilion City"
-	line "#mon Gym"
-	cont "Leader: Lt.Surge"
+	text "VERMILION CITY"
+	line "#MON GYM"
+	cont "LEADER: LT.SURGE"
 
 	para "The Lightning"
 	line "American"
 	done
 
 PokemonFanClubSignText:
-	text "#mon Fan Club"
+	text "#MON FAN CLUB"
 
-	para "All #mon Fans"
+	para "All #MON Fans"
 	line "Welcome!"
 	done
 
 VermilionCityDiglettsCaveSignText:
-	text "Diglett's Cave"
+	text "DIGLETT'S CAVE"
 	done
 
 VermilionCityPortSignText:
-	text "Vermilion Port"
-	line "Entrance"
+	text "VERMILION PORT"
+	line "ENTRANCE"
 	done
 
 VermilionCityAdvancedTipsSignText:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
-	para "Your Trainer Card"
+	para "Your TRAINER CARD"
 	line "has room to show"
-	cont "sixteen Badges!"
+	cont "sixteen BADGES!"
 	done
 
 VermilionCityBattleFactorySignText:
-	text "Battle Factory"
+	text "BATTLE FACTORY"
 
 	para "Win it All with"
-	line "Rental #mon!"
+	line "Rental #MON!"
 	done

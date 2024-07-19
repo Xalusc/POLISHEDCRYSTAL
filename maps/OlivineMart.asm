@@ -17,7 +17,7 @@ OlivineMart_MapScriptHeader:
 	object_event  1,  6, SPRITE_CUTE_GIRL, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_COMMAND, jumptextfaceplayer, OlivineMartLassText, -1
 
 OlivineMartCooltrainerFText:
-	text "Do your #mon"
+	text "Do your #MON"
 	line "already know the"
 
 	para "move for carrying"
@@ -25,12 +25,12 @@ OlivineMartCooltrainerFText:
 	done
 
 OlivineMartLassText:
-	text "My Butterfree came"
+	text "My BUTTERFREE came"
 	line "from my boyfriend"
 	cont "overseas."
 
 	para "It carried some"
-	line "Mail from him."
+	line "MAIL from him."
 
 	para "Want to know what"
 	line "it says?"

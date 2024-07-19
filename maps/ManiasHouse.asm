@@ -91,10 +91,10 @@ ManiaScript:
 	jumpopenedtext ManiaText_HappinessSpeech
 
 ShuckieName:
-	rawchar "Shuckie@"
+	rawchar "SHUCKIE@"
 
 ShuckieOTName:
-	rawchar "Kirk@"
+	rawchar "KIRK@"
 
 ShuckieOTIDAndCaughtGender:
 	bigdw KIRK_SHUCKIE_ID
@@ -111,7 +111,7 @@ ManiaText_AskLookAfterShuckie:
 
 	para "He scared me into"
 	line "giving him my"
-	cont "prized #mon!"
+	cont "prized #MON!"
 
 	para "I still have one"
 	line "left, but what if"
@@ -120,7 +120,7 @@ ManiaText_AskLookAfterShuckie:
 	para "You look strong."
 	line "Could you look"
 
-	para "after my #mon"
+	para "after my #MON"
 	line "for a while?"
 	done
 
@@ -133,19 +133,19 @@ ManiaText_TakeCareOfShuckie:
 
 ManiaText_GotShuckie:
 	text "<PLAYER> received a"
-	line "#mon."
+	line "#MON."
 	done
 
 ManiaText_ShuckieSentToPC:
-	text "The #mon was"
+	text "The #MON was"
 	line "sent to "
 	text_ram wStringBuffer1
 	text "."
 	done
 
 ManiaText_PartyAndBoxFull:
-	text "Your #mon party"
-	line "and box are full."
+	text "Your #MON party"
+	line "and BOX are full."
 	done
 
 ManiaText_IfHeComesBack:
@@ -156,7 +156,7 @@ ManiaText_IfHeComesBack:
 
 ManiaText_CanIHaveMyMonBack:
 	text "Hi! How's my #-"
-	line "mon?"
+	line "MON?"
 
 	para "I think I'm safe"
 	line "now, so may I have"
@@ -169,12 +169,12 @@ ManiaText_ThankYou:
 
 ManiaText_ShuckieNotThere:
 	text "Hey, you don't"
-	line "have my #mon"
+	line "have my #MON"
 	cont "with you."
 	done
 
 ManiaText_ShuckieLikesYou:
-	text "My #mon has"
+	text "My #MON has"
 	line "come to like you."
 
 	para "All right, you"
@@ -191,7 +191,7 @@ ManiaText_SameAsBeingRobbed:
 	done
 
 ManiaText_HappinessSpeech:
-	text "For #mon, hap-"
+	text "For #MON, hap-"
 	line "piness is being"
 
 	para "with a person who"
@@ -200,7 +200,7 @@ ManiaText_HappinessSpeech:
 
 ManiaText_ShuckieIsYourLastMon:
 	text "If I take my #-"
-	line "mon back, what are"
+	line "MON back, what are"
 
 	para "you going to use"
 	line "in battle?"

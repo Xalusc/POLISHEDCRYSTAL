@@ -17,26 +17,26 @@ EcruteakMart_MapScriptHeader:
 	object_event  6,  6, SPRITE_RICH_BOY, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, PAL_NPC_PURPLE, OBJECTTYPE_COMMAND, jumptextfaceplayer, EcruteakMartGrannyText, -1
 
 EcruteakMartSuperNerdText:
-	text "My Eevee evolved"
-	line "into an Espeon."
+	text "My EEVEE evolved"
+	line "into an ESPEON."
 
 	para "But my friend's"
-	line "Eevee turned into"
-	cont "an Umbreon."
+	line "EEVEE turned into"
+	cont "an UMBREON."
 
 	para "I wonder why? We"
 	line "both were raising"
 
-	para "our Eevee in the"
+	para "our EEVEE in the"
 	line "same way…"
 	done
 
 EcruteakMartGrannyText:
-	text "The Magnet Train"
-	line "in Goldenrod is"
+	text "The MAGNET TRAIN"
+	line "in GOLDENROD is"
 	cont "great, but there"
 
 	para "were also plans to"
 	line "put a station in"
-	cont "Ecruteak at first."
+	cont "ECRUTEAK at first."
 	done

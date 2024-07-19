@@ -89,11 +89,11 @@ MagikarpLengthRaterScript:
 	done
 
 MagikarpLengthRaterText_LakeOfRageHistory:
-	text "Lake of Rage is"
+	text "LAKE OF RAGE is"
 	line "actually a crater"
 
 	para "made by rampaging"
-	line "Gyarados."
+	line "GYARADOS."
 
 	para "The crater filled"
 	line "up with rainwater"
@@ -110,7 +110,7 @@ MagikarpLengthRaterText_LakeOfRageHistory:
 	para "It used to be that"
 	line "you could catch"
 
-	para "lively Magikarp"
+	para "lively MAGIKARP"
 	line "there, but…"
 
 	para "I don't understand"
@@ -126,25 +126,25 @@ MagikarpLengthRaterText_MenInBlack:
 	done
 
 MagikarpLengthRaterText_WorldsLargestMagikarp:
-	text "Lake of Rage is"
+	text "LAKE OF RAGE is"
 	line "back to normal."
 
-	para "The Magikarp have"
+	para "The MAGIKARP have"
 	line "returned."
 
 	para "I may yet realize"
 	line "my dream of see-"
 	cont "ing the world's"
-	cont "largest Magikarp."
+	cont "largest MAGIKARP."
 
-	para "Do you have a Rod?"
+	para "Do you have a ROD?"
 	line "Please help me if"
 	cont "you do."
 	done
 
 MagikarpLengthRaterText_YouHaveAMagikarp:
 	text "Ah, you have a"
-	line "Magikarp! Let's"
+	line "MAGIKARP! Let's"
 
 	para "see how big that"
 	line "baby is."
@@ -171,5 +171,5 @@ MagikarpLengthRaterText_Bonus:
 
 MagikarpLengthRaterText_NotMagikarp:
 	text "What? That's not a"
-	line "Magikarp!"
+	line "MAGIKARP!"
 	done

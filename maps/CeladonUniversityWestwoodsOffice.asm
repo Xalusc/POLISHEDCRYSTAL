@@ -44,14 +44,14 @@ CeladonUniversityWestwoodsOfficeChildScript:
 
 	para "Where is it?"
 
-	para "I'm so ANGRY!"
+	para "I'm so angry!"
 
 	para "…Maybe I should"
 	line "quit snacking on"
 if DEF(FAITHFUL)
-	cont "RageCandyBars."
+	cont "RAGECANDYBARS."
 else
-	cont "Cakes of Rage."
+	cont "CAKES OF RAGE."
 endc
 
 	para "You can have this"
@@ -59,12 +59,12 @@ endc
 	done
 
 CeladonUniversityWestwoodsOfficeBookText:
-	text "Dear Diary,"
+	text "Dear DIARY,"
 
 	para "My work compiling"
 	line "entries for the"
 
-	para "#dex continues"
+	para "#DEX continues"
 	line "to be well-recei-"
 	cont "ved."
 
@@ -83,17 +83,17 @@ CeladonUniversityWestwoodsOfficeBookText:
 
 CeladonUniversityWestwoodsOfficeSignpost1Text:
 	text "It's a portrait of"
-	line "Westwood I."
+	line "WESTWOOD I."
 	done
 
 CeladonUniversityWestwoodsOfficeSignpost2Text:
 	text "It's a portrait of"
-	line "Westwood III."
+	line "WESTWOOD III."
 	done
 
 CeladonUniversityWestwoodsOfficeBookshelfText:
-	text "The Complete Works"
-	line "of Prof.Westwood."
+	text "THE COMPLETE WORKS"
+	line "OF PROF.WESTWOOD."
 
 	para "…Might give that"
 	line "one a miss."

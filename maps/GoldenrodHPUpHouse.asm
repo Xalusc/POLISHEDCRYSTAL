@@ -29,15 +29,15 @@ GoldenrodHPUpHousePokefanMScript:
 	jumpthisopenedtext
 
 .Text2:
-	text "The Haircut Bro-"
-	line "thers sure know"
+	text "The HAIRCUT BRO-"
+	line "THERS sure know"
 
 	para "how to make"
-	line "#mon happy."
+	line "#MON happy."
 	done
 
 .Text1:
-	text "If your #mon"
+	text "If your #MON"
 	line "gets a haircut, it"
 
 	para "seems to become"
@@ -48,10 +48,10 @@ GoldenrodHPUpHousePokefanMScript:
 	done
 
 GoldenrodHPUpHousePokefanFText:
-	text "I gave my Pichu a"
+	text "I gave my PICHU a"
 	line "haircut from the"
 
-	para "Haircut Brothers"
+	para "HAIRCUT BROTHERS"
 	line "every day."
 
 	para "Then it went and"
@@ -60,5 +60,5 @@ GoldenrodHPUpHousePokefanFText:
 	done
 
 GoldenrodHPUpHousePikachuText:
-	text "Pikachu: Pika!"
+	text "PIKACHU: Pika!"
 	done

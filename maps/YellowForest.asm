@@ -102,7 +102,7 @@ GenericTrainerSchoolgirlIsabel:
 	generictrainer SCHOOLGIRL, ISABEL, EVENT_BEAT_SCHOOLGIRL_ISABEL, SchoolgirlIsabelSeenText, SchoolgirlIsabelBeatenText
 
 	text "We're learning"
-	line "about how #mon"
+	line "about how #MON"
 
 	para "thrive together"
 	line "in the wild."
@@ -121,7 +121,7 @@ GenericTrainerTeacherKathryn:
 GenericTrainerBreederSophie:
 	generictrainer BREEDER, SOPHIE, EVENT_BEAT_BREEDER_SOPHIE, BreederSophieSeenText, BreederSophieBeatenText
 
-	text "Sometimes Pikachu"
+	text "Sometimes PIKACHU"
 	line "use their electric"
 
 	para "shocks to revive"
@@ -260,13 +260,13 @@ SchoolgirlSarahBeatenText:
 
 SchoolgirlIsabelSeenText:
 	text "Do you have cute"
-	line "#mon like the"
+	line "#MON like the"
 	cont "ones here?"
 	done
 
 SchoolgirlIsabelBeatenText:
 	text "You have really"
-	line "strong #mon!"
+	line "strong #MON!"
 	done
 
 TeacherKathrynSeenText:
@@ -285,8 +285,8 @@ TeacherKathrynBeatenText:
 
 BreederSophieSeenText:
 	text "Did you know that"
-	line "Pikachu is an"
-	cont "evolved #mon?"
+	line "PIKACHU is an"
+	cont "evolved #MON?"
 	done
 
 BreederSophieBeatenText:
@@ -295,23 +295,23 @@ BreederSophieBeatenText:
 
 YellowForestWalkerSeenText:
 	text "Hello there!"
-	line "The name's Walker."
+	line "The name's WALKER."
 
-	para "I was once the Gym"
-	line "Leader of Violet"
+	para "I was once the GYM"
+	line "LEADER of VIOLET"
 
-	para "City, but I left"
+	para "CITY, but I left"
 	line "that to my son."
 
 	para "Now I wander"
-	line "through Johto and"
+	line "through JOHTO and"
 
 	para "take in the"
 	line "sights."
 
-	para "Walker: You're"
-	line "collecting Gym"
-	cont "badges, huh?"
+	para "WALKER: You're"
+	line "collecting GYM"
+	cont "BADGES, huh?"
 
 	para "Then my son lost"
 	line "to you!"
@@ -321,26 +321,26 @@ YellowForestWalkerSeenText:
 	cont "for myself."
 
 	para "I don't have a"
-	line "badge, but you'll"
+	line "BADGE, but you'll"
 
 	para "get something"
 	line "nice if you win!"
 	done
 
 YellowForestWalkerBeatenText:
-	text "My bird #mon…"
+	text "My bird #MON…"
 	line "Taken down!"
 	done
 
 YellowForestWalkerAfterText:
-	text "Walker: Well, I"
+	text "WALKER: Well, I"
 	line "can see why you"
 
 	para "won against"
-	line "Falkner."
+	line "FALKNER."
 
 	para "You know your"
-	line "#mon inside"
+	line "#MON inside"
 	cont "and out!"
 
 	para "You've earned"
@@ -348,8 +348,8 @@ YellowForestWalkerAfterText:
 	done
 
 YellowForestWalkerFinalText:
-	text "Walker: Bird"
-	line "#mon soar"
+	text "WALKER: Bird"
+	line "#MON soar"
 
 	para "through the sky"
 	line "because that's"
@@ -371,29 +371,29 @@ YellowForestWalkerFinalText:
 	done
 
 YellowForestWalkerFlyText:
-	text "Skarmory,"
-	line "let's Fly!"
+	text "SKARMORY,"
+	line "let's FLY!"
 	done
 
 YellowForestYellowGreetingText:
-	text "Yellow: Hi!"
-	line "I'm Yellow!"
+	text "YELLOW: Hi!"
+	line "I'm YELLOW!"
 
 	para "This forest full"
-	line "of Pikachu…"
+	line "of PIKACHU…"
 
 	para "It reminds me of"
-	line "home in Kanto."
+	line "home in KANTO."
 
 	para "Where I caught my"
-	line "first #mon."
+	line "first #MON."
 
 	para "The trainer who"
 	line "helped me catch it"
 	cont "told me something."
 
 	para "That if you care"
-	line "for #mon with"
+	line "for #MON with"
 
 	para "all your heart,"
 	line "they'll always be"
@@ -402,7 +402,7 @@ YellowForestYellowGreetingText:
 	para "I can sense that"
 	line "you care about"
 
-	para "your #mon."
+	para "your #MON."
 	line "So let me see"
 
 	para "what your friends"
@@ -415,7 +415,7 @@ YellowForestYellowWinLossText:
 	done
 
 YellowForestYellowAfterText:
-	text "Yellow: Wow!"
+	text "YELLOW: Wow!"
 	line "You really are a"
 
 	para "good trainer."
@@ -426,10 +426,10 @@ YellowForestYellowAfterText:
 	done
 
 YellowForestYellowGoodbyeText:
-	text "Yellow: Give that"
-	line "Light Ball to a"
+	text "YELLOW: Give that"
+	line "LIGHT BALL to a"
 
-	para "Pikachu to raise"
+	para "PIKACHU to raise"
 	line "its power."
 	done
 
@@ -450,21 +450,21 @@ YellowForestCooltrainerMText:
 
 Text_YellowForestTutorSeedBomb:
 	text "I can teach your"
-	line "#mon how to"
+	line "#MON how to"
 
-	para "use Seed Bomb"
-	line "for a Silver Leaf."
+	para "use SEED BOMB"
+	line "for a SILVER LEAF."
 	done
 
 Text_YellowForestTutorNoSilverLeaf:
 	text "Aw, you don't have"
-	line "a Silver Leaf."
+	line "a SILVER LEAF."
 	done
 
 Text_YellowForestTutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Seed Bomb?"
+	line "your #MON"
+	cont "SEED BOMB?"
 	done
 
 Text_YellowForestTutorRefused:
@@ -473,9 +473,9 @@ Text_YellowForestTutorRefused:
 	done
 
 Text_YellowForestTutorTaught:
-	text "Now your #mon"
+	text "Now your #MON"
 	line "knows how to use"
-	cont "Seed Bomb!"
+	cont "SEED BOMB!"
 	done
 
 YellowForestSuperNerdText:
@@ -486,16 +486,16 @@ YellowForestSuperNerdText:
 	para "What inspired that"
 	line "name?"
 
-	para "Pikachu, of"
+	para "PIKACHU, of"
 	line "course!"
 	done
 
 YellowForestSurfPikachuDollText:
 	text "<PLAYER> found"
-	line "Surf Pikachu Doll."
+	line "SURF PIKACHU DOLL."
 	done
 
 YellowForestSurfPikachuDollSentText:
-	text "Surf Pikachu Doll"
+	text "SURF PIKACHU DOLL"
 	line "was sent home."
 	done

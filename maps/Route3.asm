@@ -46,16 +46,16 @@ GenericTrainerYoungsterRegis:
 	done
 
 .SeenText:
-	text "Youngster? Good-"
+	text "YOUNGSTER? Good-"
 	line "ness, how rude!"
 
-	para "Call me Shorts"
-	line "Boy!"
+	para "Call me SHORTS"
+	line "BOY!"
 	done
 
 .BeatenText:
 	text "That is…"
-	line "Fail Boy…"
+	line "FAIL BOY…"
 	done
 
 GenericTrainerYoungsterJimmy:
@@ -117,7 +117,7 @@ GenericTrainerFirebreatherBurt:
 	generictrainer FIREBREATHER, BURT, EVENT_BEAT_FIREBREATHER_BURT, .SeenText, .BeatenText
 
 	text "The greatest fire-"
-	line "breather in Kanto,"
+	line "breather in KANTO,"
 	cont "that's me."
 
 	para "But not the best"
@@ -156,7 +156,7 @@ GenericTrainerBlackbeltAnder:
 	generictrainer BLACKBELT_T, ANDER, EVENT_BEAT_BLACKBELT_ANDER, .SeenText, .BeatenText
 
 	text "You came all the"
-	line "way from Johto?"
+	line "way from JOHTO?"
 
 	para "You must be very"
 	line "persistent!"
@@ -176,11 +176,11 @@ GenericTrainerHikerBruce:
 
 	text "All right, guess I"
 	line "should carry my"
-	cont "Bag again!"
+	cont "BAG again!"
 	done
 
 .SeenText:
-	text "My Bag is digging"
+	text "My BAG is digging"
 	line "into my shoulders!"
 
 	para "I'll take a break"
@@ -221,12 +221,12 @@ GenericTrainerHikerDwight:
 GenericTrainerAceDuoZacandjen1:
 	generictrainer ACE_DUO, ZACANDJEN1, EVENT_BEAT_ACE_DUO_ZAC_AND_JEN, .SeenText, .BeatenText
 
-	text "Zac: Your future"
+	text "ZAC: Your future"
 	line "looks promising."
 	done
 
 .SeenText:
-	text "Zac: Really, you"
+	text "ZAC: Really, you"
 	line "want to battle us?"
 
 	para "You've got a lot"
@@ -235,14 +235,14 @@ GenericTrainerAceDuoZacandjen1:
 	done
 
 .BeatenText:
-	text "Zac: You weren't"
+	text "ZAC: You weren't"
 	line "bluffing…"
 	done
 
 GenericTrainerAceDuoZacandjen2:
 	generictrainer ACE_DUO, ZACANDJEN2, EVENT_BEAT_ACE_DUO_ZAC_AND_JEN, .SeenText, .BeatenText
 
-	text "Jen: I'm looking"
+	text "JEN: I'm looking"
 	line "forward to seeing"
 
 	para "what kind of"
@@ -251,13 +251,13 @@ GenericTrainerAceDuoZacandjen2:
 	done
 
 .SeenText:
-	text "Jen: Huh? You'd"
+	text "JEN: Huh? You'd"
 	line "like to go up"
 	cont "against us? Great!"
 	done
 
 .BeatenText:
-	text "Jen: You're so"
+	text "JEN: You're so"
 	line "much stronger than"
 	cont "I thought."
 	done
@@ -272,5 +272,5 @@ Route3MeteoriteText:
 	done
 
 Route3MtMoonSquareSignText:
-	text "Mt.Moon Tunnel"
+	text "MT.MOON TUNNEL"
 	done

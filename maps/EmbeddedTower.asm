@@ -79,11 +79,11 @@ EmbeddedTowerSteven2Script:
 	jumpopenedtext EmbeddedTowerSteven2AfterText
 
 EmbeddedTowerSteven1IntroText:
-	text "Hello! I'm Steven."
+	text "Hello! I'm STEVEN."
 	line "Rare stones are"
 	cont "my passion."
 
-	para "I'm from the Hoenn"
+	para "I'm from the HOENN"
 	line "region. It's a"
 
 	para "beautiful place,"
@@ -97,15 +97,15 @@ EmbeddedTowerSteven1IntroText:
 	done
 
 EmbeddedTowerSteven1TowerText:
-	text "Steven: I'm here in"
+	text "STEVEN: I'm here in"
 	line "search of stones"
 	cont "for my collection."
 
 	para "This is the"
-	line "Embedded Tower."
+	line "EMBEDDED TOWER."
 
 	para "It was built by"
-	line "people from Hoenn"
+	line "people from HOENN"
 
 	para "to bind together"
 	line "the sea, the land,"
@@ -113,20 +113,20 @@ EmbeddedTowerSteven1TowerText:
 	done
 
 EmbeddedTowerSteven1NotNowText:
-	text "Steven: Your"
-	line "#mon are look-"
+	text "STEVEN: Your"
+	line "#MON are look-"
 	cont "ing pretty good."
 
 	para "If you can beat"
-	line "the Elite Four,"
+	line "the ELITE FOUR,"
 
 	para "come back here to"
 	line "battle with me."
 	done
 
 EmbeddedTowerSteven1ChallengeText:
-	text "Steven: Your"
-	line "#mon are look-"
+	text "STEVEN: Your"
+	line "#MON are look-"
 	cont "ing pretty good."
 
 	para "Since we're both"
@@ -136,7 +136,7 @@ EmbeddedTowerSteven1ChallengeText:
 
 EmbeddedTowerSteven1NoText:
 EmbeddedTowerSteven2NoText:
-	text "Steven: Hmm."
+	text "STEVEN: Hmm."
 	line "If you change"
 
 	para "your mind, I'll"
@@ -145,7 +145,7 @@ EmbeddedTowerSteven2NoText:
 
 EmbeddedTowerSteven1YesText:
 EmbeddedTowerSteven2YesText:
-	text "Steven: I want"
+	text "STEVEN: I want"
 	line "you to hit me"
 
 	para "with it all!"
@@ -155,19 +155,19 @@ EmbeddedTowerSteven2YesText:
 EmbeddedTowerSteven1WinText:
 EmbeddedTowerSteven2WinText:
 	text "You are a truly"
-	line "noble #mon"
+	line "noble #MON"
 	cont "trainer!"
 	done
 
 EmbeddedTowerSteven1ItemText:
-	text "Steven: Congratu-"
+	text "STEVEN: Congratu-"
 	line "lations!"
 
 	para "The feelings you"
 	line "have for your"
-	cont "#mon…"
+	cont "#MON…"
 
-	para "And the #mon"
+	para "And the #MON"
 	line "that responded to"
 
 	para "those feelings"
@@ -190,12 +190,12 @@ EmbeddedTowerSteven1ItemText:
 	done
 
 EmbeddedTowerSteven1AfterText:
-	text "Steven: May our"
+	text "STEVEN: May our"
 	line "paths cross again."
 	done
 
 EmbeddedTowerSteven2ChallengeText:
-	text "Steven: We meet"
+	text "STEVEN: We meet"
 	line "again, <PLAYER>!"
 
 	para "I've found some"
@@ -206,7 +206,7 @@ EmbeddedTowerSteven2ChallengeText:
 	line "been doing?"
 
 	para "You battled the"
-	line "Elite Four and won"
+	line "ELITE FOUR and won"
 	cont "again? Great job!"
 
 	para "Why don't we have"
@@ -214,7 +214,7 @@ EmbeddedTowerSteven2ChallengeText:
 	done
 
 EmbeddedTowerSteven2AfterText:
-	text "Steven: In the"
+	text "STEVEN: In the"
 	line "end, you are still"
 	cont "the strongest."
 
@@ -225,5 +225,5 @@ EmbeddedTowerSteven2AfterText:
 	line "that I battle you,"
 
 	para "I learn more about"
-	line "#mon!"
+	line "#MON!"
 	done

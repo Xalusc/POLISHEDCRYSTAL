@@ -80,7 +80,7 @@ GenericTrainerPicnickerTanya:
 	generictrainer PICNICKER, TANYA, EVENT_BEAT_PICNICKER_TANYA, PicnickerTanyaSeenText, PicnickerTanyaBeatenText
 
 	text "Oh, look at all"
-	line "your Badges. No"
+	line "your BADGES. No"
 
 	para "wonder I couldn't"
 	line "win!"
@@ -91,16 +91,16 @@ GenericTrainerBeautyJulia:
 
 	text "How do I go about"
 	line "becoming ladylike"
-	cont "like Erika?"
+	cont "like ERIKA?"
 	done
 
 GenericTrainerAroma_ladyDahlia:
 	generictrainer AROMA_LADY, DAHLIA, EVENT_BEAT_AROMA_LADY_DAHLIA, Aroma_ladyDahliaSeenText, Aroma_ladyDahliaBeatenText
 
-	text "Gloom releases a"
+	text "GLOOM releases a"
 	line "foul fragrance,"
 
-	para "but Erika knows"
+	para "but ERIKA knows"
 	line "how to turn it"
 
 	para "into a sweet"
@@ -110,14 +110,14 @@ GenericTrainerAroma_ladyDahlia:
 GenericTrainerTwinsJoandzoe1:
 	generictrainer TWINS, JOANDZOE1, EVENT_BEAT_TWINS_JO_AND_ZOE, TwinsJoandzoe1SeenText, TwinsJoandzoe1BeatenText
 
-	text "Erika will get you"
+	text "ERIKA will get you"
 	line "back for us!"
 	done
 
 GenericTrainerTwinsJoandzoe2:
 	generictrainer TWINS, JOANDZOE2, EVENT_BEAT_TWINS_JO_AND_ZOE, TwinsJoandzoe2SeenText, TwinsJoandzoe2BeatenText
 
-	text "Erika is much,"
+	text "ERIKA is much,"
 	line "much stronger!"
 	done
 
@@ -130,7 +130,7 @@ CeladonGymStatue:
 	jumpstd gymstatue2
 
 ErikaBeforeBattleText:
-	text "Erika: Hello…"
+	text "ERIKA: Hello…"
 	line "Lovely weather,"
 
 	para "isn't it?"
@@ -139,12 +139,12 @@ ErikaBeforeBattleText:
 	para "…I'm afraid I may"
 	line "doze off…"
 
-	para "My name is Erika."
-	line "I am the Leader of"
-	cont "Celadon Gym."
+	para "My name is ERIKA."
+	line "I am the LEADER of"
+	cont "CELADON GYM."
 
 	para "…Oh? All the way"
-	line "from Johto, you"
+	line "from JOHTO, you"
 	cont "say? How nice…"
 
 	para "Oh. I'm sorry, I"
@@ -158,23 +158,23 @@ ErikaBeforeBattleText:
 	done
 
 ErikaBeatenText:
-	text "Erika: Oh!"
+	text "ERIKA: Oh!"
 	line "I concede defeat…"
 
 	para "You are remarkably"
 	line "strong…"
 
 	para "I shall give you"
-	line "the Rainbow Badge…"
+	line "the RAINBOW BADGE…"
 	done
 
 PlayerReceivedRainbowBadgeText:
 	text "<PLAYER> received"
-	line "the Rainbow Badge."
+	line "the RAINBOW BADGE."
 	done
 
 ErikaExplainTMText:
-	text "Erika: That was a"
+	text "ERIKA: That was a"
 	line "delightful match."
 
 	para "I felt inspired."
@@ -183,21 +183,21 @@ ErikaExplainTMText:
 	done
 
 ErikaOutroText:
-	text "It is Giga Drain."
+	text "It is GIGA DRAIN."
 
 	para "It is a wonderful"
 	line "move that drains"
 
 	para "half the damage it"
 	line "inflicts to heal"
-	cont "your #mon."
+	cont "your #MON."
 
 	para "Please use it if"
 	line "it pleases you…"
 	done
 
 ErikaAfterBattleText:
-	text "Erika: Losing"
+	text "ERIKA: Losing"
 	line "leaves a bitter"
 	cont "aftertaste…"
 
@@ -210,7 +210,7 @@ ErikaAfterBattleText:
 
 LassMichelleSeenText:
 	text "Do you think a"
-	line "girls-only Gym"
+	line "girls-only GYM"
 	cont "is rare?"
 	done
 
@@ -251,8 +251,8 @@ Aroma_ladyDahliaBeatenText:
 
 TwinsJoandzoe1SeenText:
 	text "We'll show you"
-	line "#mon moves that"
-	cont "Erika taught us!"
+	line "#MON moves that"
+	cont "ERIKA taught us!"
 	done
 
 TwinsJoandzoe1BeatenText:
@@ -261,7 +261,7 @@ TwinsJoandzoe1BeatenText:
 
 TwinsJoandzoe2SeenText:
 	text "We're going to"
-	line "protect Erika!"
+	line "protect ERIKA!"
 	done
 
 TwinsJoandzoe2BeatenText:

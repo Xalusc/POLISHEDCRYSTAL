@@ -22,16 +22,16 @@ PokemonJournalLanceScript:
 	setflag ENGINE_READ_LANCE_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Champion Lance!"
+	para "SPECIAL FEATURE:"
+	line "CHAMPION LANCE!"
 
-	para "Lance has been"
+	para "LANCE has been"
 	line "spotted buying"
 
-	para "his capes at Cel-"
-	line "adon Dept.Store."
+	para "his capes at CEL-"
+	line "ADON DEPT.STORE."
 	done
 
 SilverCavePokeCenterGrampsScript:
@@ -60,7 +60,7 @@ SilverCavePokeCenterGrampsScript:
 	text "You haven't read"
 	line "any? What a shame."
 
-	para "#mon Centers"
+	para "#MON CENTERS"
 	line "have most of them"
 	cont "on their shelves,"
 
@@ -78,11 +78,11 @@ SilverCavePokeCenterGrampsScript:
 	jumpthisopenedtext
 
 .AfterText:
-	text "That Belt's not"
+	text "That BELT's not"
 	line "just for show."
 
 	para "It'll power up your"
-	line "#mon if they"
+	line "#MON if they"
 	cont "hold it."
 	done
 
@@ -93,9 +93,9 @@ SilverCavePokeCenterGrampsScript:
 
 	para "Now I just read"
 	line "about others in"
-	cont "#mon Journal."
+	cont "#MON JOURNAL."
 
-	para "Are you a Journal"
+	para "Are you a JOURNAL"
 	line "reader too?"
 	done
 
@@ -103,7 +103,7 @@ SilverCavePokeCenterGrampsScript:
 	text "You've read them"
 	line "all? Then you're"
 
-	para "a Journal expert"
+	para "a JOURNAL expert"
 	line "like me!"
 
 	para "Take this to show"
@@ -112,13 +112,13 @@ SilverCavePokeCenterGrampsScript:
 
 SilverCavePokeCenter1FGrannyText:
 	text "Trainers who seek"
-	line "power climb Mt."
+	line "power climb MT."
 
-	para "Silver despite its"
+	para "SILVER despite its"
 	line "many dangers…"
 
 	para "With their trusted"
-	line "#mon, they must"
+	line "#MON, they must"
 
 	para "feel they can go"
 	line "anywhere…"

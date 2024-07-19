@@ -22,14 +22,14 @@ CeruleanBikeShopClerkScript:
 CeruleanBikeShopClerkText:
 	text "A long time ago,"
 	line "this cool boy rode"
-	cont "my Bike around,"
+	cont "my BIKE around,"
 
 	para "and that started"
-	line "a Bicycle boom."
+	line "a BICYCLE boom."
 
 	para "Then I decided to"
 	line "open a branch at"
-	cont "Goldenrod City."
+	cont "GOLDENROD CITY."
 
 	para "And they sold"
 	line "like the wind!"
@@ -39,7 +39,7 @@ CeruleanBikeShopClerkText:
 	cont "anymore."
 
 	para "All I have left"
-	line "is a bicycle pump…"
+	line "is a BICYCLE pump…"
 
 	para "Should I sell"
 	line "inflatable tubes?"

@@ -121,27 +121,27 @@ EcruteakTinTowerEntranceSageBlocksRightMovement:
 	step_end
 
 EcruteakTinTowerEntranceSageText:
-	text "Bell Tower is off"
+	text "BELL TOWER is off"
 	line "limits to anyone"
 
-	para "without Ecruteak"
-	line "Gym's Badge."
+	para "without ECRUTEAK"
+	line "GYM's BADGE."
 
 	para "Sorry, but you'll"
 	line "have to leave."
 	done
 
 EcruteakTinTowerEntranceSageText_GotFogBadge:
-	text "Bell Tower is off"
+	text "BELL TOWER is off"
 	line "limits to anyone"
 
-	para "without Ecruteak"
-	line "Gym's Badge."
+	para "without ECRUTEAK"
+	line "GYM's BADGE."
 
 	para "Ah!"
 
-	para "Ecruteak's Gym"
-	line "Badge! Please, go"
+	para "ECRUTEAK's GYM"
+	line "BADGE! Please, go"
 	cont "right through."
 	done
 
@@ -156,7 +156,7 @@ EcruteakTinTowerEntranceSageText_NoClearBell:
 	para "…What soothes the"
 	line "soul…"
 
-	para "The Wise Trio say"
+	para "The WISE TRIO say"
 	line "things that are so"
 
 	para "very difficult to"
@@ -176,7 +176,7 @@ EcruteakTinTowerEntranceSageText_HearsClearBell:
 	para "Ah!"
 
 	para "The sound of that"
-	line "Clear Bell!"
+	line "CLEAR BELL!"
 
 	para "It… It's sublime!"
 
@@ -192,7 +192,7 @@ EcruteakTinTowerEntranceSageText_HearsClearBell:
 
 	para "You may be able to"
 	line "make it through"
-	cont "Bell Tower."
+	cont "BELL TOWER."
 
 	para "Please, do go on."
 	done
@@ -210,13 +210,13 @@ EcruteakTinTowerEntranceSageText_HeardClearBell:
 
 	para "You may be able to"
 	line "make it through"
-	cont "Bell Tower."
+	cont "BELL TOWER."
 
 	para "Please, do go on."
 	done
 
 EcruteakTinTowerEntranceWanderingSageText:
-	text "The Bell Tower"
+	text "The BELL TOWER"
 	line "ahead is a nine-"
 
 	para "tier tower of"
@@ -228,8 +228,8 @@ EcruteakTinTowerEntranceWanderingSageText:
 	done
 
 EcruteakTinTowerEntranceWanderingSageText_GotClearBell:
-	text "The Bell Tower"
-	line "shook! A #mon"
+	text "The BELL TOWER"
+	line "shook! A #MON"
 
 	para "must have returned"
 	line "to the top!"
@@ -237,11 +237,11 @@ EcruteakTinTowerEntranceWanderingSageText_GotClearBell:
 
 EcruteakTinTowerEntranceGrampsText:
 	text "Two towers…"
-	line "Two #mon…"
+	line "Two #MON…"
 
 	para "But when one"
 	line "burned down, both"
 
-	para "#mon flew away,"
+	para "#MON flew away,"
 	line "never to return."
 	done

@@ -94,10 +94,10 @@ CeladonHomeDecorStore3FClerk1Script:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Red C.    ¥45000@"
-	db "Yellow C. ¥45000@"
-	db "Green C.  ¥45000@"
-	db "Cancel@"
+	db "RED C.    ¥45000@"
+	db "YELLOW C. ¥45000@"
+	db "GREEN C.  ¥45000@"
+	db "CANCEL@"
 
 CeladonHomeDecorStore3FClerk2Script:
 	checkevent EVENT_DECO_CARPET_2
@@ -135,7 +135,7 @@ CeladonHomeDecorStore3FClerk2Text:
 
 CeladonHomeDecorStore3FClerk2SaleText:
 	text "Our imported"
-	line "Royal Blue Carpet"
+	line "ROYAL BLUE CARPET"
 
 	para "is on sale right"
 	line "now for ¥35,000."
@@ -155,41 +155,41 @@ CeladonHomeDecorStore3FClerk2NoText:
 
 BoughtRedCarpetText:
 	text "<PLAYER> bought"
-	line "Red Carpet."
+	line "RED CARPET."
 	done
 
 RedCarpetSentText:
-	text "Red Carpet"
+	text "RED CARPET"
 	line "was sent home."
 	done
 
 BoughtBlueCarpetText:
 	text "<PLAYER> bought"
-	line "Blue Carpet."
+	line "BLUE CARPET."
 	done
 
 BlueCarpetSentText:
-	text "Blue Carpet"
+	text "BLUE CARPET"
 	line "was sent home."
 	done
 
 BoughtYellowCarpetText:
 	text "<PLAYER> bought"
-	line "Yellow Carpet."
+	line "YELLOW CARPET."
 	done
 
 YellowCarpetSentText:
-	text "Yellow Carpet"
+	text "YELLOW CARPET"
 	line "was sent home."
 	done
 
 BoughtGreenCarpetText:
 	text "<PLAYER> bought"
-	line "Green Carpet."
+	line "GREEN CARPET."
 	done
 
 GreenCarpetSentText:
-	text "Green Carpet"
+	text "GREEN CARPET"
 	line "was sent home."
 	done
 
@@ -211,11 +211,11 @@ CeladonHomeDecorStore3FYoungsterText:
 CeladonHomeDecorStore3FBeautyText:
 	text "Some of these"
 	line "carpets are im-"
-	cont "ported from Kalos!"
+	cont "ported from KALOS!"
 	done
 
 CeladonHomeDecorStore3FDirectoryText:
 	text "Colorful Elegance"
 
-	para "3F: Carpets"
+	para "3F: CARPETS"
 	done

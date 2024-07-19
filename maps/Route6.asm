@@ -26,7 +26,7 @@ GenericTrainerPokefanmRex:
 	generictrainer POKEFANM, REX, EVENT_BEAT_POKEFANM_REX, PokefanmRexSeenText, PokefanmRexBeatenText
 
 	text "Look how adorable"
-	line "my Phanpy acts!"
+	line "my PHANPY acts!"
 
 	para "Isn't it cute"
 	line "enough to make"
@@ -34,20 +34,20 @@ GenericTrainerPokefanmRex:
 	done
 
 PokefanmRexSeenText:
-	text "My Phanpy is the"
+	text "My PHANPY is the"
 	line "cutest in the"
 	cont "world."
 	done
 
 PokefanmRexBeatenText:
-	text "My Phanpy!"
+	text "My PHANPY!"
 	done
 
 GenericTrainerPokefanmAllan:
 	generictrainer POKEFANM, ALLAN, EVENT_BEAT_POKEFANM_ALLAN, PokefanmAllanSeenText, PokefanmAllanBeatenText
 
 	text "Look how adorable"
-	line "my Teddiursa acts!"
+	line "my TEDDIURSA acts!"
 
 	para "Isn't it cute"
 	line "enough to make"
@@ -55,44 +55,44 @@ GenericTrainerPokefanmAllan:
 	done
 
 PokefanmAllanSeenText:
-	text "My Teddiursa is"
+	text "My TEDDIURSA is"
 	line "the cutest in the"
 	cont "world."
 	done
 
 PokefanmAllanBeatenText:
-	text "My Teddiursa!"
+	text "My TEDDIURSA!"
 	done
 
 GenericTrainerTwinsDayanddani1:
 	generictrainer TWINS, DAYANDDANI1, EVENT_BEAT_TWINS_DAY_AND_DANI, TwinsDayanddani1SeenText, TwinsDayanddani1BeatenText
 
-	text "Day: You beat us…"
+	text "DAY: You beat us…"
 	done
 
 TwinsDayanddani1SeenText:
-	text "Day: Are you going"
+	text "DAY: Are you going"
 	line "to beat us?"
 	done
 
 TwinsDayanddani1BeatenText:
-	text "Day: Waah!"
+	text "DAY: Waah!"
 	done
 
 GenericTrainerTwinsDayanddani2:
 	generictrainer TWINS, DAYANDDANI2, EVENT_BEAT_TWINS_DAY_AND_DANI, TwinsDayanddani2SeenText, TwinsDayanddani2BeatenText
 
-	text "Dani: Looks like"
+	text "DANI: Looks like"
 	line "we got bounced."
 	done
 
 TwinsDayanddani2SeenText:
-	text "Dani: We'll knock"
+	text "DANI: We'll knock"
 	line "you flat!"
 	done
 
 TwinsDayanddani2BeatenText:
-	text "Dani: Eeeeh!"
+	text "DANI: Eeeeh!"
 	done
 
 GenericTrainerYoungsterChaz:
@@ -155,7 +155,7 @@ OfficerfJennyScript:
 	jumptextfaceplayer .AfterTextMale
 
 .DaytimeText:
-	text "Us Officers are"
+	text "Us OFFICERS are"
 	line "here to keep the"
 	cont "peace."
 	done
@@ -164,12 +164,12 @@ OfficerfJennyScript:
 	text "You don't look"
 	line "familiar."
 
-	para "Squirtle Squad,"
+	para "SQUIRTLE SQUAD,"
 	line "attack!"
 	done
 
 .BeatenText:
-	text "Squirtle Squad,"
+	text "SQUIRTLE SQUAD,"
 	line "retreat…"
 	done
 
@@ -193,13 +193,13 @@ Route6PokefanMText:
 	text "The road is closed"
 	line "until the problem"
 
-	para "at the Power Plant"
+	para "at the POWER PLANT"
 	line "is solved."
 	done
 
 Route6UndergroundPathSignText:
-	text "Underground Path"
+	text "UNDERGROUND PATH"
 
-	para "Cerulean City -"
-	line "Vermilion City"
+	para "CERULEAN CITY -"
+	line "VERMILION CITY"
 	done

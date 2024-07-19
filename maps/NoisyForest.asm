@@ -77,7 +77,7 @@ NoisyForestAnabelScript:
 
 .ChallengeText:
 	text "Greetings… My name"
-	line "is Anabel."
+	line "is ANABEL."
 
 	para "…You are <PLAYER>?"
 	line "I have heard sev-"
@@ -116,8 +116,8 @@ NoisyForestAnabelScript:
 	cont "on winning."
 
 	para "I will be waiting"
-	line "for you in Battle"
-	cont "Tower."
+	line "for you in BATTLE"
+	cont "TOWER."
 
 	para "Until the next"
 	line "time we meet…"
@@ -133,7 +133,7 @@ GenericTrainerBug_maniacPierre:
 	done
 
 .SeenText:
-	text "My #mon love"
+	text "My #MON love"
 	line "this forest."
 
 	para "They buzz nonstop"
@@ -204,7 +204,7 @@ GenericTrainerGuitaristmEzekiel:
 GenericTrainerHikerLester:
 	generictrainer HIKER, LESTER, EVENT_BEAT_HIKER_LESTER, .SeenText, .BeatenText
 
-	text "What, can't a Hiker"
+	text "What, can't a HIKER"
 	line "explore a forest"
 
 	para "instead of a moun-"
@@ -284,12 +284,12 @@ NoisyForestPikabluScript:
 	sjump .Leave
 
 .PikabluText:
-	text "Marill: Rill!"
+	text "MARILL: Rill!"
 	done
 
 .OwnerText1:
 	text "You found my"
-	line "Pikablu!"
+	line "PIKABLU!"
 	cont "Thank you!"
 	done
 
@@ -300,8 +300,8 @@ NoisyForestPikabluScript:
 
 .OwnerText3:
 	text "A souvenir of your"
-	line "time on Shamouti"
-	cont "Island!"
+	line "time on SHAMOUTI"
+	cont "ISLAND!"
 
 	para "Doesn't it look"
 	line "strange?"
@@ -315,7 +315,7 @@ NoisyForestPikabluScript:
 	line "it right now."
 
 	para "Come find me by"
-	line "the #mon Center"
+	line "the #MON CENTER"
 	cont "if you want it."
 	done
 
@@ -342,5 +342,5 @@ NoisyForestPikabluScript:
 	step_end
 
 NoisyForestSignpostText:
-	text "Noisy Forest"
+	text "NOISY FOREST"
 	done

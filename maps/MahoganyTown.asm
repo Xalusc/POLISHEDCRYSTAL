@@ -84,8 +84,8 @@ MahoganyTownSouvenirShopSign:
 	iftrue_jumptext MahoganyTownSouvenirShopSignText1
 	jumpthistext
 
-	text "Grandma's"
-	line "Souvenir Shop"
+	text "GRANDMA'S"
+	line "SOUVENIR SHOP"
 	done
 
 MahoganyTownRageCandyBarMerchantBlocksYouMovement:
@@ -103,17 +103,17 @@ RageCandyBarMerchantTryOneText:
 	text "Hiya, kid!"
 
 	para "I see you're new"
-	line "in Mahogany Town."
+	line "in MAHOGANY TOWN."
 
 	para "Since you're new,"
 	line "you should try a"
 
 if DEF(FAITHFUL)
-	para "yummy RageCandy-"
-	line "Bar!"
+	para "yummy RAGECANDY-"
+	line "BAR!"
 else
-	para "yummy Cake of"
-	line "Rage!"
+	para "yummy CAKE OF"
+	line "RAGE!"
 endc
 
 	para "Right now, it can"
@@ -132,9 +132,9 @@ RageCandyBarMerchantNoRoomText:
 
 RageCandyBarMerchantSoldOutText:
 if DEF(FAITHFUL)
-	text "RageCandyBars are"
+	text "RAGECANDYBARS are"
 else
-	text "Cakes of Rage are"
+	text "CAKES OF RAGE are"
 endc
 	line "sold out."
 
@@ -145,14 +145,14 @@ endc
 
 MahoganyTownGrampsText:
 	text "Are you off to see"
-	line "the Gyarados ram-"
+	line "the GYARADOS ram-"
 	cont "page at the lake?"
 	done
 
 MahoganyTownGrampsText_ClearedRocketHideout:
-	text "Magikarp have"
-	line "returned to Lake"
-	cont "of Rage."
+	text "MAGIKARP have"
+	line "returned to LAKE"
+	cont "OF RAGE."
 
 	para "That should be"
 	line "good news for the"
@@ -169,7 +169,7 @@ MahoganyTownFisherText:
 	para "You should head"
 	line "north and check"
 
-	para "out Lake of Rage"
+	para "out LAKE OF RAGE"
 	line "right now."
 	done
 
@@ -182,7 +182,7 @@ MahoganyTownLassText:
 	done
 
 MahoganyTownSignText:
-	text "Mahogany Town"
+	text "MAHOGANY TOWN"
 
 	para "Welcome to the"
 	line "Home of the Ninja"
@@ -200,9 +200,9 @@ MahoganyTownSouvenirShopSignText1:
 	done
 
 MahoganyGymSignText:
-	text "Mahogany Town"
-	line "#mon Gym"
-	cont "Leader: Pryce"
+	text "MAHOGANY TOWN"
+	line "#MON GYM"
+	cont "LEADER: PRYCE"
 
 	para "The Teacher of"
 	line "Winter's Harshness"

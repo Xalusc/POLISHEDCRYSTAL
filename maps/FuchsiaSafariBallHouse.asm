@@ -63,7 +63,7 @@ FuchsiaSafariBallHouseOfficerScript:
 
 .IntroText:
 	text "I used to manage"
-	line "the Safari Game."
+	line "the SAFARI GAME."
 
 	para "Now that it's"
 	line "closed I need to"
@@ -72,8 +72,8 @@ FuchsiaSafariBallHouseOfficerScript:
 	line "other way."
 
 	para "Want to buy some"
-	line "leftover Safari"
-	cont "Balls?"
+	line "leftover SAFARI"
+	cont "BALLS?"
 
 	para "They're a collec-"
 	line "tor's item!"

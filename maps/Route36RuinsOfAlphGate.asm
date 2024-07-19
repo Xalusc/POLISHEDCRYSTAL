@@ -33,5 +33,5 @@ Route36RuinsOfAlphGateGrampsText:
 	line "why fewer people"
 
 	para "are visiting the"
-	line "Ruins of Alph."
+	line "RUINS OF ALPH."
 	done

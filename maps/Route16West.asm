@@ -39,7 +39,7 @@ GenericTrainerLassGina:
 
 .BeatenText:
 	text "If I'd spent money"
-	line "on Potions instead"
+	line "on POTIONS instead"
 	cont "of clothes…"
 	done
 
@@ -69,7 +69,7 @@ GenericTrainerCosplayerKuroko:
 	generictrainer COSPLAYER, KUROKO, EVENT_BEAT_COSPLAYER_KUROKO, .SeenText, .BeatenText
 
 	text "One time a trainer"
-	line "threw a # Ball"
+	line "threw a # BALL"
 	cont "at me!"
 	done
 
@@ -87,9 +87,9 @@ GenericTrainerCooltrainerfSera:
 	generictrainer COOLTRAINERF, SERA, EVENT_BEAT_COOLTRAINERF_SERA, .SeenText, .BeatenText
 
 	text "I've gone out as a"
-	line "a Cosplayer, but"
+	line "a cosplayer, but"
 
-	para "an Ace Trainer's"
+	para "an ACE TRAINER's"
 	line "outfit is more"
 	cont "intimidating."
 	done
@@ -106,13 +106,13 @@ GenericTrainerCooltrainerfSera:
 GenericTrainerBeautyNicole:
 	generictrainer BEAUTY, BEAUTY_NICOLE, EVENT_BEAT_BEAUTY_NICOLE, .SeenText, .BeatenText
 
-	text "Cute #mon can"
+	text "Cute #MON can"
 	line "be strong too,"
 	cont "you know!"
 	done
 
 .SeenText:
-	text "Aren't my #mon"
+	text "Aren't my #MON"
 	line "the cutest?"
 	done
 
@@ -122,5 +122,5 @@ GenericTrainerBeautyNicole:
 	done
 
 Route16WestSignpostText:
-	text "Route 16"
+	text "ROUTE 16"
 	done

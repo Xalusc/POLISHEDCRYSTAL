@@ -16,7 +16,7 @@ SlowpokeWellEntrance_MapScriptHeader:
 	object_event  8,  9, SPRITE_KURT, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_COMMAND, jumptextfaceplayer, SlowpokeWellEntranceKurtText, EVENT_SLOWPOKE_WELL_KURT
 
 SlowpokeWellEntranceKurtText:
-	text "Kurt: Hey there,"
+	text "KURT: Hey there,"
 	line "<PLAYER>!"
 
 	para "The guard up top"
@@ -32,7 +32,7 @@ SlowpokeWellEntranceKurtText:
 	cont "so I can't move."
 
 	para "Rats! If I were"
-	line "fit, my #mon"
+	line "fit, my #MON"
 
 	para "would've punished"
 	line "them…"

@@ -19,34 +19,34 @@ MrFujisHouse_MapScriptHeader:
 	pokemon_event  1,  3, PIDGEY, -1, -1, PAL_NPC_BROWN, MrFujisPidgeyText, -1
 
 MrFujisHouseSuperNerdText:
-	text "Mr.Fuji does live"
+	text "MR.FUJI does live"
 	line "here, but he's not"
 	cont "home now."
 
 	para "He might be at the"
-	line "House of Souls."
+	line "HOUSE OF SOULS."
 	done
 
 MrFujisHouseLassText:
 	text "Some cold-hearted"
 	line "people stop caring"
-	cont "for their #mon."
+	cont "for their #MON."
 
 	para "Grandpa takes in"
 	line "the poor homeless"
 
-	para "#mon and takes"
+	para "#MON and takes"
 	line "care of them."
 	done
 
 MrFujisPsyduckText:
-	text "Psyduck: Gu-guwa?"
+	text "PSYDUCK: Gu-guwa?"
 	done
 
 MrFujisNidorinoText:
-	text "Nidorino: Gyun!"
+	text "NIDORINO: Gyun!"
 	done
 
 MrFujisPidgeyText:
-	text "Pidgey: Pijji!"
+	text "PIDGEY: Pijji!"
 	done

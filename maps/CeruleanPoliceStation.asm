@@ -32,5 +32,5 @@ CeruleanPoliceStationPokefanFText:
 	done
 
 CeruleanDiglettText:
-	text "Diglett: Dug dug."
+	text "DIGLETT: Dug dug."
 	done

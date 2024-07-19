@@ -29,16 +29,16 @@ PokemonJournalLoreleiScript:
 	setflag ENGINE_READ_LORELEI_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Ex-Elite Lorelei!"
+	para "SPECIAL FEATURE:"
+	line "EX-ELITE LORELEI!"
 
-	para "Lorelei is said to"
+	para "LORELEI is said to"
 	line "have a complete"
 
 	para "collection of"
-	line "#mon dolls."
+	line "#MON dolls."
 	done
 
 ShamoutiPokeCenter1FIvyScript:
@@ -59,11 +59,11 @@ ShamoutiPokeCenter1FIvyScript:
 	ifequal $3, .Squirtle
 	jumpthisopenedtext
 
-	text "Ivy: Hm, I thought"
+	text "IVY: Hm, I thought"
 	line "you'd be happy to"
 
 	para "raise a rare"
-	line "#mon…"
+	line "#MON…"
 	done
 
 .Bulbasaur:
@@ -118,32 +118,32 @@ ShamoutiPokeCenter1FIvyScript:
 	text "Alas, it seems"
 	line "there's no room in"
 	cont "either your party"
-	cont "or your box…"
+	cont "or your BOX…"
 	done
 
 .GreetingText:
-	text "Ivy: Oh! You're"
+	text "IVY: Oh! You're"
 	line "<PLAYER>, the new"
-	cont "Champion!"
+	cont "CHAMPION!"
 
 	para "Pleased to meet"
 	line "you!"
 
-	para "I'm Ivy, a #mon"
+	para "I'm IVY, a #MON"
 	line "professor."
 
 	para "I'm studying local"
 	line "variation in #-"
-	cont "mon phenotypes."
+	cont "MON phenotypes."
 
 	para "Did you know that"
-	line "some wild #mon"
+	line "some wild #MON"
 
 	para "know moves unique"
 	line "to their habitat?"
 
 	para "And even two of"
-	line "the same #mon"
+	line "the same #MON"
 
 	para "in one area can"
 	line "have different"
@@ -155,33 +155,33 @@ ShamoutiPokeCenter1FIvyScript:
 	done
 
 .OfferText:
-	text "Ivy: So you're"
+	text "IVY: So you're"
 	line "taking a whole new"
 
-	para "Gym challenge in"
+	para "GYM challenge in"
 	line "a new region…"
 
 	para "Aha! Why don't I"
 	line "give you a new"
-	cont "#mon too?"
+	cont "#MON too?"
 
 	para "Which one do you"
 	line "want?"
 	done
 
 .ChoseKantoStarterText:
-	text "Ivy: I think"
+	text "IVY: I think"
 	line "that's a great"
-	cont "#mon too!"
+	cont "#MON too!"
 	done
 
 .GoodbyeText:
-	text "Ivy: Prof.Elm"
+	text "IVY: PROF.ELM"
 	line "trusted you with"
-	cont "a #mon, and"
+	cont "a #MON, and"
 
-	para "Prof.Oak gave you"
-	line "a #dex, so I"
+	para "PROF.OAK gave you"
+	line "a #DEX, so I"
 
 	para "know you'll take"
 	line "good care of that"
@@ -193,9 +193,9 @@ ShamoutiPokeCenter1FIvyScript:
 	line "take a ferry back"
 
 	para "to my lab on"
-	line "Valencia Island."
+	line "VALENCIA ISLAND."
 
-	para "Say hi to Prof.Oak"
+	para "Say hi to PROF.OAK"
 	line "for me!"
 	done
 
@@ -216,7 +216,7 @@ ShamoutiPokeCenter1FIvyScript:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Bulbasaur@"
-	db "Charmander@"
-	db "Squirtle@"
-	db "Cancel@"
+	db "BULBASAUR@"
+	db "CHARMANDER@"
+	db "SQUIRTLE@"
+	db "CANCEL@"

@@ -132,7 +132,7 @@ GenericTrainerSwimmermRomeo:
 	generictrainer SWIMMERM, ROMEO, EVENT_BEAT_SWIMMERM_ROMEO, .SeenText, .BeatenText
 
 	text "Being a good"
-	line "Swimmer doesn't"
+	line "SWIMMER doesn't"
 
 	para "make me a good"
 	line "trainer…"
@@ -154,12 +154,12 @@ GenericTrainerSwimmermMalcolm:
 	text "Don't tell me,"
 	line "you visit lots of"
 
-	para "#mon Gyms,"
+	para "#MON GYMS,"
 	line "right?"
 	done
 
 .SeenText:
-	text "My #mon and I"
+	text "My #MON and I"
 	line "swim together,"
 
 	para "but we also"
@@ -179,12 +179,12 @@ GenericTrainerSwimmermArmand:
 	cont "is good, but she's"
 
 	para "distracting the"
-	line "#mon!"
+	line "#MON!"
 	done
 
 .SeenText:
 	text "Ugh. Would that"
-	line "Guitarist on the"
+	line "GUITARIST on the"
 
 	para "shore keep it"
 	line "down?"
@@ -228,7 +228,7 @@ GenericTrainerBeautyVeronica:
 	text "I don't date much,"
 	line "but when I do,"
 
-	para "Cerulean Cape is"
+	para "CERULEAN CAPE is"
 	line "the perfect spot."
 	done
 
@@ -276,7 +276,7 @@ GenericTrainerGentlemanGeoffrey:
 .SeenText:
 	text "I wanted a change,"
 	line "so I got into"
-	cont "#mon!"
+	cont "#MON!"
 	done
 
 .BeatenText:
@@ -288,7 +288,7 @@ GenericTrainerGuitaristfMorgan:
 	generictrainer GUITARISTF, MORGAN, EVENT_BEAT_GUITARISTF_MORGAN, .SeenText, .BeatenText
 
 	text "The echoing cliffs"
-	line "make the Cape a"
+	line "make the CAPE a"
 	cont "perfect sound-"
 	cont "board!"
 	done
@@ -333,7 +333,7 @@ TrainerLadyJessica:
 
 .AfterText1:
 	text "I'll have to buy a"
-	line "better #mon…"
+	line "better #MON…"
 	cont "………………"
 	cont "And a new dress…"
 	done
@@ -352,7 +352,7 @@ GenericTrainerFisherLeroy:
 	generictrainer FISHER, LEROY, EVENT_BEAT_FISHER_LEROY, .SeenText, .BeatenText
 
 	text "All I ever catch"
-	line "are Magikarp…"
+	line "are MAGIKARP…"
 
 	para "At least they all"
 	line "look unique."
@@ -360,7 +360,7 @@ GenericTrainerFisherLeroy:
 
 .SeenText:
 	text "I keep catching"
-	line "the same #mon…"
+	line "the same #MON…"
 
 	para "Maybe a battle"
 	line "will turn things"
@@ -406,7 +406,7 @@ Route25MistyLeavesMovement:
 	step_end
 
 Route25MistyDateText:
-	text "Misty: Aww! Why"
+	text "MISTY: Aww! Why"
 	line "did you have to"
 
 	para "show up and bug us"
@@ -421,25 +421,25 @@ Route25MistyDateText:
 
 	para "…"
 
-	para "…Oh? Those Badges"
+	para "…Oh? Those BADGES"
 	line "you have… Are they"
-	cont "Johto Gym Badges?"
+	cont "JOHTO GYM BADGES?"
 
 	para "If you have eight,"
 	line "you must be good."
 
 	para "OK, then. Come to"
-	line "Cerulean Gym."
+	line "CERULEAN GYM."
 
 	para "I'll be happy to"
 	line "take you on."
 
-	para "I'm Misty, the"
-	line "Gym Leader in"
-	cont "Cerulean."
+	para "I'm MISTY, the"
+	line "GYM LEADER in"
+	cont "CERULEAN."
 	done
 
 BillsHouseSignText:
-	text "Sea Cottage"
-	line "Bill's House"
+	text "SEA COTTAGE"
+	line "BILL'S HOUSE"
 	done

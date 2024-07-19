@@ -24,14 +24,14 @@ UragaChannelWestEngineerText:
 	line "detector to find"
 	cont "hidden items."
 
-	para "But an Itemfinder"
+	para "But an ITEMFINDER"
 	line "would work better…"
 	done
 
 ScaryCaveWestSignText:
-	text "Uraga Channel"
-	line "Ahead"
+	text "URAGA CHANNEL"
+	line "AHEAD"
 
 	para "Enter west from"
-	line "Route 18 only!"
+	line "ROUTE 18 only!"
 	done

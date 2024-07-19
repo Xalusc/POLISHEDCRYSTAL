@@ -46,7 +46,7 @@ AzaleaGymBugsyScript:
 	opentext
 	writethistext
 		text "<PLAYER> received"
-		line "the Hive Badge."
+		line "the HIVE BADGE."
 		done
 	playsound SFX_GET_BADGE
 	waitsfx
@@ -59,15 +59,15 @@ AzaleaGymBugsyScript:
 	writethistext
 		text "Do you know the"
 		line "benefits of the"
-		cont "Hive Badge?"
+		cont "HIVE BADGE?"
 
 		para "If you have it,"
-		line "#mon up to <LV>30"
+		line "#MON up to <LV>30"
 
 		para "will obey you,"
 		line "even traded ones."
 
-		para "#mon that know"
+		para "#MON that know"
 		line "Cut will be able"
 
 		para "to use it outside"
@@ -82,10 +82,10 @@ AzaleaGymBugsyScript:
 	jumpthisopenedtext
 
 	text "TM69 contains"
-	line "U-turn."
+	line "U-TURN."
 
 	para "It lets your #-"
-	line "mon attack, then"
+	line "MON attack, then"
 
 	para "switch out right"
 	line "away."
@@ -95,17 +95,17 @@ AzaleaGymBugsyScript:
 	done
 
 .SeenText:
-	text "I'm Bugsy!"
+	text "I'm BUGSY!"
 	line "I never lose when"
 
 	para "it comes to bug"
-	line "#mon."
+	line "#MON."
 
 	para "My research is"
 	line "going to make me"
 
 	para "the authority on"
-	line "bug #mon!"
+	line "bug #MON!"
 
 	para "Let me demonstrate"
 	line "what I've learned"
@@ -115,17 +115,17 @@ AzaleaGymBugsyScript:
 .BeatenText:
 	text "Whoa, amazing!"
 	line "You're an expert"
-	cont "on #mon!"
+	cont "on #MON!"
 
 	para "My research isn't"
 	line "complete yet."
 
 	para "OK, you win. Take"
-	line "this Badge."
+	line "this BADGE."
 	done
 
 .AfterText:
-	text "Bug #mon are"
+	text "Bug #MON are"
 	line "deep. There are"
 
 	para "many mysteries to"
@@ -142,10 +142,10 @@ AzaleaGymGuyScript:
 
 	text "Yo, challenger!"
 
-	para "Bugsy's young, but"
+	para "BUGSY's young, but"
 	line "his knowledge of"
 
-	para "bug #mon is for"
+	para "bug #MON is for"
 	line "real."
 
 	para "It's going to be"
@@ -153,7 +153,7 @@ AzaleaGymGuyScript:
 	cont "advice."
 
 	para "Let's see… Bug"
-	line "#mon don't like"
+	line "#MON don't like"
 	cont "fire."
 
 	para "Flying-type moves"
@@ -170,19 +170,19 @@ AzaleaGymGuyScript:
 
 	para "With people like"
 	line "you, the future of"
-	cont "#mon is bright!"
+	cont "#MON is bright!"
 	done
 
 GenericTrainerBug_catcherBenny:
 	generictrainer BUG_CATCHER, BENNY, EVENT_BEAT_BUG_CATCHER_BENNY, .SeenText, .BeatenText
 
-	text "#mon become"
+	text "#MON become"
 	line "stronger if they"
 	cont "evolve. Really!"
 	done
 
 .SeenText:
-	text "Bug #mon evolve"
+	text "Bug #MON evolve"
 	line "young. So they get"
 
 	para "stronger that much"
@@ -201,13 +201,13 @@ GenericTrainerBug_catcherAl:
 	line "but most girls"
 
 	para "don't like bug"
-	line "#mon."
+	line "#MON."
 
 	para "I don't know why…"
 	done
 
 .SeenText:
-	text "Bug #mon are"
+	text "Bug #MON are"
 	line "cool and tough!"
 
 	para "I'll prove it to"
@@ -229,11 +229,11 @@ GenericTrainerBug_catcherJosh:
 
 .SeenText:
 	text "You saved all the"
-	line "Slowpoke? Whew,"
+	line "SLOWPOKE? Whew,"
 	cont "you're mighty!"
 
 	para "But my grown-up"
-	line "#mon are pretty"
+	line "#MON are pretty"
 	cont "tough too!"
 	done
 
@@ -244,33 +244,33 @@ GenericTrainerBug_catcherJosh:
 GenericTrainerTwinsAmyandmay1:
 	generictrainer TWINS, AMYANDMAY1, EVENT_BEAT_TWINS_AMY_AND_MAY, .SeenText, TrainerTwinsAmyandmayBeatenText
 
-	text "Amy: You're"
+	text "AMY: You're"
 	line "really strong!"
 	done
 
 .SeenText:
-	text "Amy: Hi! Are you"
+	text "AMY: Hi! Are you"
 	line "challenging the"
-	cont "Leader? No way!"
+	cont "LEADER? No way!"
 	done
 
 GenericTrainerTwinsAmyandmay2:
 	generictrainer TWINS, AMYANDMAY2, EVENT_BEAT_TWINS_AMY_AND_MAY, .SeenText, TrainerTwinsAmyandmayBeatenText
 
-	text "Mimi: Our bug"
-	line "#mon lost!"
+	text "MIMI: Our bug"
+	line "#MON lost!"
 
 	para "Oh, what a"
 	line "shame."
 	done
 
 .SeenText:
-	text "Mimi: You want to"
-	line "see the Leader?"
+	text "MIMI: You want to"
+	line "see the LEADER?"
 	cont "We come first!"
 	done
 
 TrainerTwinsAmyandmayBeatenText:
-	text "Amy & Mimi: Oh,"
+	text "AMY & MIMI: Oh,"
 	line "double goodness!"
 	done

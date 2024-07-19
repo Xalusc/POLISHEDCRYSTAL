@@ -45,11 +45,11 @@ GenericTrainerBug_maniacDane:
 GenericTrainerBug_maniacDion:
 	generictrainer BUG_MANIAC, DION, EVENT_BEAT_BUG_MANIAC_DION, BugManiacDionSeenText, BugManiacDionBeatenText
 
-	text "Bug-type #mon"
+	text "Bug-type #MON"
 	line "make all kinds of"
 	cont "sounds."
 
-	para "For bug #mon"
+	para "For bug #MON"
 	line "fans, knowing how"
 	cont "to distinguish"
 	cont "them is key!"
@@ -61,7 +61,7 @@ GenericTrainerBug_maniacStacey:
 	text "Has anyone ever"
 	line "told you that from"
 	cont "behind you look"
-	cont "like a Venonat?"
+	cont "like a VENONAT?"
 	done
 
 GenericTrainerBug_maniacEllis:
@@ -76,7 +76,7 @@ GenericTrainerBug_maniacAbner:
 	generictrainer BUG_MANIAC, ABNER, EVENT_BEAT_BUG_MANIAC_ABNER, BugManiacAbnerSeenText, BugManiacAbnerBeatenText
 
 	text "Doesn't matter what"
-	line "kind of #mon--"
+	line "kind of #MON--"
 
 	para "as long as you"
 	line "like them, they"
@@ -85,9 +85,9 @@ GenericTrainerBug_maniacAbner:
 
 BugManiacDaneSeenText:
 	text "Welcome to"
-	line "Viridian Forest."
-	cont "Enjoy my Bug-type"
-	cont "#mon."
+	line "VIRIDIAN FOREST."
+	cont "Enjoy my bug-type"
+	cont "#MON."
 	done
 
 BugManiacDaneBeatenText:
@@ -96,7 +96,7 @@ BugManiacDaneBeatenText:
 
 BugManiacDionSeenText:
 	text "Shh! Be quiet! The"
-	line "bug #mon will"
+	line "bug #MON will"
 	cont "run away!"
 	done
 
@@ -106,7 +106,7 @@ BugManiacDionBeatenText:
 
 BugManiacStaceySeenText:
 	text "Wow, that's a HUGE"
-	line "#mon!"
+	line "#MON!"
 
 	para "…"
 	line "…What kind of"
@@ -122,7 +122,7 @@ BugManiacEllisSeenText:
 	text "There's nothing"
 	line "more efficient and"
 	cont "beautiful than a"
-	cont "Bug-type #mon."
+	cont "bug-type #MON."
 	done
 
 BugManiacEllisBeatenText:
@@ -132,28 +132,28 @@ BugManiacEllisBeatenText:
 
 BugManiacAbnerSeenText:
 	text "Many people prefer"
-	line "solid bug #mon"
+	line "solid bug #MON"
 	cont "over squishy bug"
-	cont "#mon."
+	cont "#MON."
 	done
 
 BugManiacAbnerBeatenText:
 	text "Thanks for your"
 	line "hard work, my"
-	cont "lovely #mon…"
+	cont "lovely #MON…"
 	done
 
 ViridianForestSignText1:
-	text "Leaving"
-	line "Viridian Forest"
-	cont "Pewter City Ahead"
+	text "LEAVING"
+	line "VIRIDIAN FOREST"
+	cont "PEWTER CITY AHEAD"
 	done
 
 ViridianForestSignText2:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
 	para "Hold on to that"
-	line "Big Mushroom!"
+	line "BIG MUSHROOM!"
 
 	para "Some maniacs will"
 	line "pay lots of money"
@@ -161,9 +161,9 @@ ViridianForestSignText2:
 	done
 
 ViridianForestSignText3:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "Grass-type #mon"
+	para "Grass-type #MON"
 	line "are unaffected by"
 
 	para "powder and spore"
@@ -172,22 +172,22 @@ ViridianForestSignText3:
 
 ViridianForestSignText4:
 	text "For poison, use"
-	line "Antidote! Get it"
-	cont "at #mon Marts!"
+	line "ANTIDOTE! Get it"
+	cont "at #MON MARTS!"
 	done
 
 ViridianForestSignText5:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
 	para "Poison-type #-"
-	line "mon can't be poi-"
+	line "MON can't be poi-"
 	cont "soned themselves!"
 	done
 
 ViridianForestSignText6:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "Weaken #mon"
+	para "Weaken #MON"
 	line "before attempting"
 	cont "capture!"
 

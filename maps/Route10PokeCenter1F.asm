@@ -23,14 +23,14 @@ PokemonJournalAgathaScript:
 	setflag ENGINE_READ_AGATHA_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Ex-Elite Agatha!"
+	para "SPECIAL FEATURE:"
+	line "EX-ELITE AGATHA!"
 
 	para "In their youth,"
-	line "Agatha and Prof."
-	cont "Oak were rivals"
+	line "AGATHA and PROF."
+	cont "OAK were rivals"
 
 	para "who vied for supr-"
 	line "emacy as trainers."
@@ -41,11 +41,11 @@ Route10PokeCenter1FGymGuyScript:
 	iftrue_jumptextfaceplayer .Text2
 	jumpthistextfaceplayer
 
-	text "The Power Plant's"
-	line "Manager is looking"
+	text "The POWER PLANT's"
+	line "MANAGER is looking"
 
 	para "for a strong #-"
-	line "mon trainer."
+	line "MON trainer."
 
 	para "He needs help"
 	line "getting back"
@@ -55,10 +55,10 @@ Route10PokeCenter1FGymGuyScript:
 	done
 
 .Text2:
-	text "I hear Team Rocket"
+	text "I hear TEAM ROCKET"
 	line "got back together"
 
-	para "in Johto but fell"
+	para "in JOHTO but fell"
 	line "apart right away."
 
 	para "I didn't know any-"
@@ -66,7 +66,7 @@ Route10PokeCenter1FGymGuyScript:
 	done
 
 Route10PokeCenter1FGentlemanText:
-	text "A #mon Center"
+	text "A #MON CENTER"
 	line "near a cave?"
 
 	para "That's mighty"
@@ -80,6 +80,6 @@ Route10PokeCenter1FCooltrainerfText:
 	para "the roof of a big"
 	line "building."
 
-	para "That's the Power"
-	line "Plant."
+	para "That's the POWER"
+	line "PLANT."
 	done

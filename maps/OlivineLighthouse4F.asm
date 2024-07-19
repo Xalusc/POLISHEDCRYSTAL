@@ -33,10 +33,10 @@ GenericTrainerLassConnie:
 	line "mon were hurt."
 
 	para "I'll pray for the"
-	line "#mon here, so"
+	line "#MON here, so"
 
-	para "Jasmine can come"
-	line "back to the Gym."
+	para "JASMINE can come"
+	line "back to the GYM."
 	done
 
 TrainerSailorKent:
@@ -49,9 +49,9 @@ SailorKentScript:
 	jumptextfaceplayer SailorKentAfterBattleText
 
 SailorKentSeenText:
-	text "Jasmine must be"
+	text "JASMINE must be"
 	line "worried sick about"
-	cont "the #mon here."
+	cont "the #MON here."
 
 	para "She won't even"
 	line "smile these days."
@@ -66,22 +66,22 @@ SailorKentAfterBattleText:
 	text "Speaking of sick,"
 	line "I've heard there's"
 
-	para "a good Pharmacy in"
-	line "Cianwood."
+	para "a good PHARMACY in"
+	line "CIANWOOD."
 	done
 
 SailorKentFinalText:
-	text "The #mon here"
+	text "The #MON here"
 	line "is well again."
 
-	para "Cianwood Pharmacy"
+	para "CIANWOOD PHARMACY"
 	line "lived up to its"
 	cont "reputation!"
 	done
 
 LassConnieSeenText:
-	text "Jasmine is this"
-	line "city's Gym Leader."
+	text "JASMINE is this"
+	line "city's GYM LEADER."
 
 	para "I mean to bring"
 	line "her back with me."
@@ -91,6 +91,6 @@ LassConnieSeenText:
 	done
 
 LassConnieBeatenText:
-	text "Aaack! My #mon!"
+	text "Aaack! My #MON!"
 	done
 

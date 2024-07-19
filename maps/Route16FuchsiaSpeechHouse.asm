@@ -18,10 +18,10 @@ Route16FuchsiaSpeechHouse_MapScriptHeader:
 
 Route16FuchsiaSpeechHouseSuperNerdText:
 	text "If you cruise down"
-	line "Cycling Road, you"
+	line "CYCLING ROAD, you"
 
 	para "will end up in"
-	line "Fuchsia City."
+	line "FUCHSIA CITY."
 	done
 
 Route16FuchsiaSpeechHouseLadyText:

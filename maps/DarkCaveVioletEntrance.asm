@@ -119,13 +119,13 @@ DarkCaveVioletEntranceMovementData_FalknerLeave:
 	step_end
 
 DarkCaveVioletEntranceFalknerAttackText:
-	text "Falkner: Use Wing"
-	line "Attack, Pidgeotto!"
+	text "FALKNER: Use WING"
+	line "ATTACK, PIDGEOTTO!"
 	done
 
 DarkCaveVioletEntranceFalknerReturnText:
 	text "Good job,"
-	line "Pidgeotto."
+	line "PIDGEOTTO."
 	done
 
 DarkCaveVioletEntranceFalknerIntroText:
@@ -140,35 +140,35 @@ DarkCaveVioletEntranceFalknerDarkIntroText:
 	prompt
 
 DarkCaveVioletEntranceFalknerExplanationText:
-	text "I'm Falkner, the"
-	line "Violet #mon"
-	cont "Gym Leader."
+	text "I'm FALKNER, the"
+	line "VIOLET #MON"
+	cont "GYM LEADER."
 
 	para "I don't explore"
 	line "caves for fun,"
 
-	para "but that Ursaring"
+	para "but that URSARING"
 	line "was attacking"
 
 	para "trainers too weak"
 	line "to defend them-"
 	cont "selves."
 
-	para "As a Gym Leader,"
+	para "As a GYM LEADER,"
 	line "it's my job to"
 
 	para "handle this sort"
 	line "of situation."
 
 	para "So you're here to"
-	line "earn a badge?"
+	line "earn a BADGE?"
 
 	para "Then meet me at"
-	line "the Violet Gym."
+	line "the VIOLET GYM."
 	done
 
 DarkCaveVioletEntranceFalknerDarknessText:
-	text "Falkner: Is"
+	text "FALKNER: Is"
 	line "someone there?"
 
 	para "Don't come any"
@@ -179,11 +179,11 @@ DarkCaveVioletEntranceFalknerDarknessText:
 	done
 
 DarkCaveVioletEntranceFalknerProgressAnywayText:
-	text "Falkner: Is"
+	text "FALKNER: Is"
 	line "someone there?"
 
 	para "It's reckless to"
-	line "explore Dark Cave"
+	line "explore DARK CAVE"
 	cont "without any light!"
 
 	para "I'm in the middle"

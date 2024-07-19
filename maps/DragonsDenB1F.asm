@@ -89,7 +89,7 @@ DragonsDenB1FClairTrigger:
 	done
 
 .GiveTMText:
-	text "Clair: I'm sorry"
+	text "CLAIR: I'm sorry"
 	line "about this."
 
 	para "Here, take this as"
@@ -98,7 +98,7 @@ DragonsDenB1FClairTrigger:
 
 .DescribeDragonPulseText:
 	text "That contains"
-	line "Dragon Pulse."
+	line "DRAGON PULSE."
 
 	para "If you don't want"
 	line "it, you don't have"
@@ -120,13 +120,13 @@ DragonsDenB1FClairTrigger:
 	step_end
 
 DragonsDenShrineSignText:
-	text "Dragon Shrine"
+	text "DRAGON SHRINE"
 
 	para "A shrine honoring"
-	line "the dragon #mon"
+	line "the dragon #MON"
 
 	para "said to have lived"
-	line "in Dragon's Den."
+	line "in DRAGON'S DEN."
 	done
 
 DragonsDenB1FSilverScript:
@@ -191,10 +191,10 @@ DragonsDenB1FSilverScript:
 	text "…"
 	line "Listen."
 
-	para "The #mon I…"
-	line "took from the Lab…"
+	para "The #MON I…"
+	line "took from the LAB…"
 
-	para "It had an Egg."
+	para "It had an EGG."
 	line "I don't need it."
 	cont "Here. Take it."
 	done
@@ -220,7 +220,7 @@ DragonsDenB1FSilverScript:
 	para "…No, I won't"
 	line "battle you now…"
 
-	para "My #mon aren't"
+	para "My #MON aren't"
 	line "ready to beat you."
 
 	para "I can't push them"
@@ -230,7 +230,7 @@ DragonsDenB1FSilverScript:
 	line "ciplined to become"
 
 	para "the greatest #-"
-	line "mon trainer…"
+	line "MON trainer…"
 	done
 
 .Training2Text:
@@ -245,10 +245,10 @@ DragonsDenB1FSilverScript:
 GenericTrainerDragonTamerDarin:
 	generictrainer DRAGON_TAMER, DARIN, EVENT_BEAT_DRAGON_TAMER_DARIN, .SeenText, .BeatenText
 
-	text "The Shrine ahead"
+	text "The SHRINE ahead"
 	line "is home to the"
 
-	para "Master of our"
+	para "MASTER of our"
 	line "dragon-user clan."
 
 	para "You're not allowed"
@@ -274,7 +274,7 @@ GenericTrainerDragonTamerAdam:
 	para "You may be the"
 	line "kind of trainer"
 
-	para "our Master is"
+	para "our MASTER is"
 	line "looking for."
 	done
 
@@ -291,10 +291,10 @@ GenericTrainerDragonTamerAdam:
 GenericTrainerAceDuoDanandcara1:
 	generictrainer ACE_DUO, DANANDCARA1, EVENT_BEAT_ACE_DUO_DAN_AND_CARA, .SeenText, .BeatenText
 
-	text "Dan: Soon I'll"
+	text "DAN: Soon I'll"
 	line "get permission"
 
-	para "from our Master to"
+	para "from our MASTER to"
 	line "use dragons."
 
 	para "When I do, I'm"
@@ -303,25 +303,25 @@ GenericTrainerAceDuoDanandcara1:
 	para "admirable dragon"
 	line "trainer and gain"
 
-	para "our Master's"
+	para "our MASTER's"
 	line "approval."
 	done
 
 .SeenText:
-	text "Dan: I may not"
+	text "DAN: I may not"
 	line "use dragons, but"
 	cont "I'm still strong!"
 	done
 
 .BeatenText:
-	text "Dan: You were"
+	text "DAN: You were"
 	line "even stronger!"
 	done
 
 GenericTrainerAceDuoDanandcara2:
 	generictrainer ACE_DUO, DANANDCARA2, EVENT_BEAT_ACE_DUO_DAN_AND_CARA, .SeenText, .BeatenText
 
-	text "Cara: Dragons are"
+	text "CARA: Dragons are"
 	line "difficult to"
 
 	para "raise, and very"
@@ -332,13 +332,13 @@ GenericTrainerAceDuoDanandcara2:
 	done
 
 .SeenText:
-	text "Cara: Do you want"
+	text "CARA: Do you want"
 	line "to train dragons"
 	cont "too?"
 	done
 
 .BeatenText:
-	text "Cara: Oh yikes,"
+	text "CARA: Oh yikes,"
 	line "I lost!"
 	done
 
@@ -346,7 +346,7 @@ GenericTrainerTwinsLeaandpia1:
 	generictrainer TWINS, LEAANDPIA1, EVENT_BEAT_TWINS_LEA_AND_PIA, .SeenText, .BeatenText
 
 	text "It was like having"
-	line "to battle Lance."
+	line "to battle LANCE."
 	done
 
 .SeenText:
@@ -363,7 +363,7 @@ GenericTrainerTwinsLeaandpia2:
 
 	text "We'll tell on you."
 
-	para "Master will be"
+	para "MASTER will be"
 	line "angry with you."
 	done
 

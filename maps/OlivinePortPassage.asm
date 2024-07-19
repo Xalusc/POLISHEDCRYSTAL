@@ -18,8 +18,8 @@ OlivinePortPassage_MapScriptHeader:
 	object_event  5, 23, SPRITE_POKEFAN_M, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_COMMAND, jumptextfaceplayer, OlivinePortPassagePokefanMText, EVENT_OLIVINE_PORT_PASSAGE_POKEFAN_M
 
 OlivinePortPassagePokefanMText:
-	text "Fast Ship S.S.Aqua"
-	line "sails to Kanto on"
+	text "FAST SHIP S.S.AQUA"
+	line "sails to KANTO on"
 
 	para "Mondays and Fri-"
 	line "days."

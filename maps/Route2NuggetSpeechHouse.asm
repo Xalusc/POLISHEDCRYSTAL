@@ -27,7 +27,7 @@ Route2NuggetSpeechHouseFisherScript:
 	jumpthisopenedtext
 
 .Text2:
-	text "That's a Nugget."
+	text "That's a NUGGET."
 
 	para "I can't give you"
 	line "any nuggets of"

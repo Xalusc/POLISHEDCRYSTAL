@@ -78,22 +78,22 @@ WillScript:
 
 .SeenText:
 	text "Welcome to the"
-	line "#mon League,"
+	line "#MON LEAGUE,"
 	cont "<PLAYER>."
 
 	para "Allow me to intro-"
 	line "duce myself. I am"
-	cont "Will."
+	cont "WILL."
 
 	para "I have trained all"
 	line "around the world,"
 
-	para "making my Psychic"
-	line "#mon powerful."
+	para "making my psychic"
+	line "#MON powerful."
 
 	para "And, at last, I've"
 	line "been accepted into"
-	cont "the Elite Four."
+	cont "the ELITE FOUR."
 
 	para "I can only keep"
 	line "getting better!"
@@ -122,7 +122,7 @@ WillScript:
 	line "on and experience"
 
 	para "the true ferocity"
-	line "of the Elite Four."
+	line "of the ELITE FOUR."
 	done
 
 .SeenRematchText:

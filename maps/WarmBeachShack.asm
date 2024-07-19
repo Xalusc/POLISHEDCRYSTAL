@@ -49,7 +49,7 @@ WarmBeachShackFisherText:
 	line "Boing!"
 
 	para "We're having a"
-	line "Body Slam match to"
+	line "BODY SLAM match to"
 
 	para "see who wimps out"
 	line "first."
@@ -57,10 +57,10 @@ WarmBeachShackFisherText:
 
 Text_WarmBeachShackTutorBodySlamQuestion:
 	text "How about I teach"
-	line "Body Slam to a"
+	line "BODY SLAM to a"
 
-	para "#mon of yours"
-	line "for a Silver Leaf?"
+	para "#MON of yours"
+	line "for a SILVER LEAF?"
 	done
 
 Text_WarmBeachShackTutorNoSilverLeaf:

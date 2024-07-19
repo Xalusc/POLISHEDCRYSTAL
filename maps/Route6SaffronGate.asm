@@ -21,14 +21,14 @@ Route6SaffronGuardScript:
 	iftrue_jumptextfaceplayer Route6SaffronGuardMagnetTrainText
 	jumpthistextfaceplayer
 
-	text "Welcome to Saffron"
-	line "City, home of the"
-	cont "Magnet Train!"
+	text "Welcome to SAFFRON"
+	line "CITY, home of the"
+	cont "MAGNET TRAIN!"
 
 	para "…That's what I'd"
 	line "normally say, but"
 
-	para "the Magnet Train"
+	para "the MAGNET TRAIN"
 	line "isn't running now."
 
 	para "It's not getting"
@@ -37,14 +37,14 @@ Route6SaffronGuardScript:
 	para "because there's"
 	line "something wrong"
 
-	para "with the Power"
-	line "Plant."
+	para "with the POWER"
+	line "PLANT."
 	done
 
 Route6SaffronGuardMagnetTrainText:
-	text "The Magnet Train"
+	text "The MAGNET TRAIN"
 	line "is the most famous"
 
-	para "thing about Saf-"
-	line "fron."
+	para "thing about SAF-"
+	line "FRON."
 	done

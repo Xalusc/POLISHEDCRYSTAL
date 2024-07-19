@@ -33,7 +33,7 @@ EcruteakCherishBallHouseGrampsScript:
 	line "cherish the time"
 
 	para "I spent with"
-	line "#mon."
+	line "#MON."
 	done
 
 .Text1:
@@ -53,7 +53,7 @@ EcruteakCherishBallHouseGrannyText:
 	text "Fashions change"
 	line "over the years,"
 
-	para "but Ecruteak re-"
+	para "but ECRUTEAK re-"
 	line "mains as trad-"
 	cont "itional as ever."
 	done

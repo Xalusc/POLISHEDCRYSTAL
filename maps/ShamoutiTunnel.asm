@@ -90,13 +90,13 @@ OreManiacScript:
 GenericTrainerTamerOswald:
 	generictrainer TAMER, OSWALD, EVENT_BEAT_TAMER_OSWALD, .SeenText, .BeatenText
 
-	text "I'm a Tamer now,"
+	text "I'm a TAMER now,"
 	line "but when I first"
 
 	para "started out in"
 	line "the circus I was"
 
-	para "in the #mon"
+	para "in the #MON"
 	line "trapeze act."
 	done
 
@@ -110,7 +110,7 @@ GenericTrainerTamerOswald:
 
 .BeatenText:
 	text "I couldn't tame"
-	line "your #mon…"
+	line "your #MON…"
 	done
 
 GenericTrainerFirebreatherTala:
@@ -151,7 +151,7 @@ GenericTrainerSightseerfNoelle:
 
 .SeenText:
 	text "Oh my gosh!"
-	line "You have #mon"
+	line "You have #MON"
 
 	para "that I haven't"
 	line "seen before!"
@@ -172,12 +172,12 @@ GenericTrainerSightseermChester:
 	generictrainer SIGHTSEERM, CHESTER, EVENT_BEAT_SIGHTSEERM_CHESTER, .SeenText, .BeatenText
 
 	text "So you're from"
-	line "Johto? I haven't"
+	line "JOHTO? I haven't"
 	cont "been there!"
 
 	para "Maybe I'll see"
-	line "you in the Battle"
-	cont "Tower."
+	line "you in the BATTLE"
+	cont "TOWER."
 	done
 
 .SeenText:

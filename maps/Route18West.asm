@@ -49,6 +49,6 @@ BikerCharlesBeatenText:
 
 Route18WestBikeWarningText:
 	text "You have to be on"
-	line "a Bicycle to go"
-	cont "on Cycling Road!"
+	line "a BICYCLE to go"
+	cont "on CYCLING ROAD!"
 	done

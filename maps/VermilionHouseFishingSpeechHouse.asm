@@ -16,26 +16,26 @@ VermilionHouseFishingSpeechHouse_MapScriptHeader:
 	object_event  2,  4, SPRITE_FISHING_GURU, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_COMMAND, jumptextfaceplayer, FishingDudeText, -1
 
 FishingDudeText:
-	text "I am the Fishing"
-	line "Dude, the elder of"
-	cont "the Fishing Bros."
+	text "I am the FISHING"
+	line "DUDE, the elder of"
+	cont "the FISHING BROS."
 
 	para "Have you met the"
-	line "Fishing Guru at"
-	cont "Lake of Rage?"
+	line "FISHING GURU at"
+	cont "LAKE OF RAGE?"
 
 	para "He dreams about"
 	line "seeing the world's"
-	cont "greatest Magikarp."
+	cont "greatest MAGIKARP."
 
 	para "If you don't mind,"
 	line "could you show him"
 
-	para "any Magikarp you"
+	para "any MAGIKARP you"
 	line "catch?"
 
 	para "Who knows, you may"
-	line "catch the Magikarp"
+	line "catch the MAGIKARP"
 	cont "of his dreams."
 	done
 

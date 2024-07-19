@@ -55,8 +55,8 @@ OfficerfJamieAfterText:
 	done
 
 OfficerfJamieDaytimeText:
-	text "Bikers and"
-	line "Roughnecks like"
+	text "BIKERS and"
+	line "ROUGHNECKS like"
 
 	para "to make trouble"
 	line "on this road."
@@ -66,7 +66,7 @@ OfficerfJamieDaytimeText:
 	done
 
 CyclingRoadSignText:
-	text "Cycling Road"
+	text "CYCLING ROAD"
 
 	para "Downhill coasting"
 	line "all the way!"

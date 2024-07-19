@@ -71,7 +71,7 @@ GenericTrainerAriana1:
 	line "won't appreciate"
 
 	para "the magnificence"
-	line "of Team Rocket."
+	line "of TEAM ROCKET."
 
 	para "That's too bad."
 	line "I really admire"
@@ -209,7 +209,7 @@ FakeDirectorTextBefore3:
 
 	para "Do you want to"
 	line "know where we hid"
-	cont "the real Director?"
+	cont "the real DIRECTOR?"
 
 	para "Sure, I'll tell"
 	line "you. But only if"
@@ -223,14 +223,14 @@ FakeDirectorWinText:
 
 FakeDirectorTextAfter:
 	text "We stashed the"
-	line "real Director in"
+	line "real DIRECTOR in"
 
-	para "the Underground"
-	line "Warehouse."
+	para "the UNDERGROUND"
+	line "WAREHOUSE."
 
 	para "It's at the far"
-	line "end of the Under-"
-	cont "ground."
+	line "end of the UNDER-"
+	cont "GROUND."
 
 	para "But I doubt you'll"
 	line "get that far."
@@ -239,7 +239,7 @@ FakeDirectorTextAfter:
 Ariana1SeenText:
 	text "Remember me from"
 	line "the hideout in"
-	cont "Mahogany Town?"
+	cont "MAHOGANY TOWN?"
 
 	para "I lost then, but I"
 	line "won't this time."
@@ -261,14 +261,14 @@ RadioTower5FRocketBossBeforeText:
 	line "the trainer."
 
 	para "We intend to take"
-	line "over this Radio"
+	line "over this RADIO"
 
-	para "Station and an-"
+	para "STATION and an-"
 	line "nounce our come-"
 	cont "back."
 
 	para "That should bring"
-	line "our boss Giovanni"
+	line "our boss GIOVANNI"
 
 	para "back from his solo"
 	line "training."
@@ -284,7 +284,7 @@ RadioTower5FRocketBossBeforeText:
 
 RadioTower5FRocketBossWinText:
 	text "No! Forgive me,"
-	line "Giovanni!"
+	line "GIOVANNI!"
 	done
 
 RadioTower5FRocketBossAfterText:
@@ -296,23 +296,23 @@ RadioTower5FRocketBossAfterText:
 	para "I wasn't up to the"
 	line "task after all."
 
-	para "Like Giovanni did"
+	para "Like GIOVANNI did"
 	line "before me, I will"
 
-	para "disband Team"
-	line "Rocket here today."
+	para "disband TEAM"
+	line "ROCKET here today."
 
 	para "Farewell."
 	done
 
 RadioTower5FDirectorThankYouText:
-	text "Director: <PLAYER>,"
+	text "DIRECTOR: <PLAYER>,"
 	line "thank you!"
 
 	para "Your courageous"
 	line "actions have saved"
 
-	para "#mon nation-"
+	para "#MON nation-"
 	line "wide."
 
 	para "I know it's not"
@@ -323,23 +323,23 @@ RadioTower5FDirectorThankYouText:
 RadioTower5FDirectorDescribeClearBellText:
 	text "There used to be a"
 	line "tower right here"
-	cont "in Goldenrod City."
+	cont "in GOLDENROD CITY."
 
 	para "But it was old and"
 	line "creaky."
 
 	para "So we replaced it"
-	line "with our Radio"
-	cont "Tower."
+	line "with our RADIO"
+	cont "TOWER."
 
 	para "We dug up that"
 	line "bell during"
 	cont "construction."
 
 	para "I heard that all"
-	line "sorts of #mon"
+	line "sorts of #MON"
 
-	para "lived in Goldenrod"
+	para "lived in GOLDENROD"
 	line "in the past."
 
 	para "Perhaps…"
@@ -347,19 +347,19 @@ RadioTower5FDirectorDescribeClearBellText:
 	para "That bell has some"
 	line "connection to the"
 
-	para "Bell Tower in"
-	line "Ecruteak City…"
+	para "BELL TOWER in"
+	line "ECRUTEAK CITY…"
 
 	para "Ah!"
 
 	para "That reminds me…"
 
-	para "I overheard Team"
-	line "Rocket whispering."
+	para "I overheard TEAM"
+	line "ROCKET whispering."
 
 	para "Apparently, some-"
 	line "thing is going on"
-	cont "at the Bell Tower."
+	cont "at the BELL TOWER."
 
 	para "I have no idea"
 	line "what is happening,"
@@ -372,17 +372,17 @@ RadioTower5FDirectorDescribeClearBellText:
 	done
 
 RadioTower5FDirectorText:
-	text "Director: Hello,"
+	text "DIRECTOR: Hello,"
 	line "<PLAYER>!"
 
 	para "You know, I love"
-	line "#mon."
+	line "#MON."
 
-	para "I built this Radio"
-	line "Tower so I could"
+	para "I built this RADIO"
+	line "TOWER so I could"
 
 	para "express my love"
-	line "of #mon."
+	line "of #MON."
 
 	para "It would be nice"
 	line "if people enjoyed"
@@ -390,15 +390,15 @@ RadioTower5FDirectorText:
 	done
 
 BenText:
-	text "Ben: Do you listen"
+	text "BEN: Do you listen"
 	line "to our music?"
 	done
 
 SignpostRadioTower5FOffice:
-	text "5F Director's"
-	line "   Office"
+	text "5F DIRECTOR'S"
+	line "   OFFICE"
 	done
 
 SignpostRadioTower5FStudio:
-	text "5F Studio 1"
+	text "5F STUDIO 1"
 	done

@@ -28,7 +28,7 @@ Route49LadyText:
 	text "Look at the grass"
 	line "and trees here!"
 
-	para "Valencia is full"
+	para "VALENCIA is full"
 	line "of unique flora."
 	done
 
@@ -47,8 +47,8 @@ GenericTrainerSightseermHari:
 	text "I've been traveling"
 	line "a lot just to meet"
 
-	para "every #mon"
-	line "Prof."
+	para "every #MON"
+	line "PROF."
 
 	para "Wanna see the pho-"
 	line "tos I took?"
@@ -56,7 +56,7 @@ GenericTrainerSightseermHari:
 
 .SeenText:
 	text "Hey! I came here"
-	line "to meet Prof.Ivy!"
+	line "to meet PROF.IVY!"
 	done
 
 .BeatenText:
@@ -68,7 +68,7 @@ GenericTrainerTamerJordan:
 	generictrainer TAMER, JORDAN, EVENT_BEAT_TAMER_JORDAN, .SeenText, .BeatenText
 
 	text "How did you tame"
-	line "your #mon so"
+	line "your #MON so"
 	cont "well?"
 
 	para "They're strong,"
@@ -78,7 +78,7 @@ GenericTrainerTamerJordan:
 
 .SeenText:
 	text "Be careful! #-"
-	line "mon here can be"
+	line "MON here can be"
 	cont "really wild!"
 	done
 
@@ -90,7 +90,7 @@ GenericTrainerTamerJordan:
 GenericTrainerAromaLadyPeony:
 	generictrainer AROMA_LADY, PEONY, EVENT_BEAT_AROMA_LADY_PEONY, .SeenText, .BeatenText
 
-	text "My Bellossom loves"
+	text "My BELLOSSOM loves"
 	line "living on this"
 
 	para "peaceful little"
@@ -99,11 +99,11 @@ GenericTrainerAromaLadyPeony:
 
 .SeenText:
 	text "Do you want to see"
-	line "my Bellossom?"
+	line "my BELLOSSOM?"
 	done
 
 .BeatenText:
-	text "Aww… Bellossom"
+	text "Aww… BELLOSSOM"
 	line "didn't want to"
 	cont "battle…"
 	done
@@ -140,6 +140,6 @@ GenericTrainerGuitaristmGeddy:
 	done
 
 Route49SignText:
-	text "Route 49"
-	line "Valencia Island"
+	text "ROUTE 49"
+	line "VALENCIA ISLAND"
 	done

@@ -136,9 +136,9 @@ OrangeMysticMenuDataHeader:
 .MenuData2:
 	db $80 ; flags
 	db 3 ; items
-	db "OrangeTicket@"
-	db "MysticTicket@"
-	db "Cancel@"
+	db "ORANGETICKET@"
+	db "MYSTICTICKET@"
+	db "CANCEL@"
 
 MysticOldSeaMapMenuDataHeader:
 	db $40 ; flags
@@ -150,9 +150,9 @@ MysticOldSeaMapMenuDataHeader:
 .MenuData2:
 	db $80 ; flags
 	db 3 ; items
-	db "MysticTicket@"
-	db "Old Sea Map@"
-	db "Cancel@"
+	db "MYSTICTICKET@"
+	db "OLD SEA MAP@"
+	db "CANCEL@"
 
 OrangeOldSeaMapMenuDataHeader:
 	db $40 ; flags
@@ -164,9 +164,9 @@ OrangeOldSeaMapMenuDataHeader:
 .MenuData2:
 	db $80 ; flags
 	db 3 ; items
-	db "OrangeTicket@"
-	db "Old Sea Map@"
-	db "Cancel@"
+	db "ORANGETICKET@"
+	db "OLD SEA MAP@"
+	db "CANCEL@"
 
 ThreeTicketsMenuDataHeader:
 	db $40 ; flags
@@ -178,10 +178,10 @@ ThreeTicketsMenuDataHeader:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "OrangeTicket@"
-	db "MysticTicket@"
-	db "Old Sea Map@"
-	db "Cancel@"
+	db "ORANGETICKET@"
+	db "MYSTICTICKET@"
+	db "OLD SEA MAP@"
+	db "CANCEL@"
 
 SeagallopFerryDepartureScript:
 	writetext SeagallopFerryDepartureText
@@ -226,7 +226,7 @@ SeagallopFerryVermilionGateSailorArrive2MovementData:
 
 SeagallopFerryWelcomeText:
 	text "Welcome aboard the"
-	line "Seagallop Ferry!"
+	line "SEAGALLOP FERRY!"
 	done
 
 SeagallopFerryGiveOrangeTicketText:
@@ -243,9 +243,9 @@ SeagallopFerryClosedText:
 	done
 
 SeagallopFerryOrangeTicketQuestionText:
-	text "That OrangeTicket"
+	text "That ORANGETICKET"
 	line "is for a ride to"
-	cont "Shamouti Island."
+	cont "SHAMOUTI ISLAND."
 
 	para "We'll be happy to"
 	line "take you there"
@@ -254,17 +254,17 @@ SeagallopFerryOrangeTicketQuestionText:
 
 SeagallopFerryMysticTicketQuestionText:
 	text "Oh! That's a"
-	line "MysticTicket!"
+	line "MYSTICTICKET!"
 	cont "Now that is rare."
 
 	para "We'll be happy to"
-	line "take you to Navel"
-	cont "Rock any time."
+	line "take you to NAVEL"
+	cont "ROCK any time."
 	done
 
 SeagallopFerryOldSeaMapQuestionText:
-	text "Oh! That Old Sea"
-	line "Map you have…"
+	text "Oh! That OLD SEA"
+	line "MAP you have…"
 
 	para "It looks like a"
 	line "faraway island."
@@ -283,7 +283,7 @@ SeagallopFerryDepartureText:
 	text "All right!"
 
 	para "All aboard the"
-	line "Seagallop Ferry!"
+	line "SEAGALLOP FERRY!"
 	done
 
 SeagallopFerryVermilionCityRefusedText:

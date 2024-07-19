@@ -37,7 +37,7 @@ CeruleanBerryPowderHouseGrampsScript:
 	done
 
 .Text1:
-	text "Berry Powder?"
+	text "BERRY POWDER?"
 	line "Sorry, kid, I'm"
 	cont "retired now."
 

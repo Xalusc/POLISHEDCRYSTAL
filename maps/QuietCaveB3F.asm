@@ -57,7 +57,7 @@ QuietCaveB3FMarleyScript:
 	end
 
 .ChallengeText:
-	text "…I'm Marley."
+	text "…I'm MARLEY."
 	line "…You are?"
 
 	para "Oh… <PLAYER>,"
@@ -100,7 +100,7 @@ QuietCaveB3FMarleyScript:
 	cont "…Just a little…"
 
 	para "I'm going to"
-	line "Battle Tower…"
+	line "BATTLE TOWER…"
 
 	para "Bye-bye…"
 	done

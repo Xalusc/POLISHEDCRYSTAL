@@ -181,12 +181,12 @@ GenericTrainerHikerBailey:
 	generictrainer HIKER, BAILEY, EVENT_BEAT_HIKER_BAILEY, HikerBaileySeenText, HikerBaileyBeatenText
 
 	text "It's over. I don't"
-	line "mind. We Hikers"
+	line "mind. We HIKERS"
 	cont "are like that."
 	done
 
 Route46HikerText:
-	text "A Donphan charged"
+	text "A DONPHAN charged"
 	line "at me and I roll-"
 
 	para "ed all the way"
@@ -196,27 +196,27 @@ Route46HikerText:
 	line "me a lesson…"
 
 	para "Be careful around"
-	line "angry #mon!"
+	line "angry #MON!"
 	done
 
 Text_Route46TutorRollout:
 	text "I'll teach your"
-	line "#mon how to"
+	line "#MON how to"
 
-	para "use Rollout for"
-	line "a Silver Leaf."
+	para "use ROLLOUT for"
+	line "a SILVER LEAF."
 	done
 
 Text_Route46TutorNoSilverLeaf:
 	text "Ah well, you don't"
-	line "have a Silver"
-	cont "Leaf."
+	line "have a SILVER"
+	cont "LEAF."
 	done
 
 Text_Route46TutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Rollout?"
+	line "your #MON"
+	cont "ROLLOUT?"
 	done
 
 Text_Route46TutorRefused:
@@ -225,14 +225,14 @@ Text_Route46TutorRefused:
 
 Text_Route46TutorTaught:
 	text "All done! Your"
-	line "#mon learned"
-	cont "to use Rollout!"
+	line "#MON learned"
+	cont "to use ROLLOUT!"
 	done
 
 HikerBaileySeenText:
 	text "Awright! I'll show"
 	line "you the power of"
-	cont "mountain #mon!"
+	cont "mountain #MON!"
 	done
 
 HikerBaileyBeatenText:
@@ -242,7 +242,7 @@ HikerBaileyBeatenText:
 
 CamperTedSeenText:
 	text "I'm raising #-"
-	line "mon too!"
+	line "MON too!"
 
 	para "Will you battle"
 	line "with me?"
@@ -253,7 +253,7 @@ CamperTedBeatenText:
 	done
 
 PicnickerErin1SeenText:
-	text "I raise #mon"
+	text "I raise #MON"
 	line "too!"
 
 	para "Will you battle"
@@ -266,9 +266,9 @@ PicnickerErin1BeatenText:
 
 PicnickerErinAfterBattleText:
 	text "I've been to many"
-	line "Gyms, but the Gym"
+	line "GYMS, but the GYM"
 
-	para "in Goldenrod is my"
+	para "in GOLDENROD is my"
 	line "favorite."
 
 	para "It's filled with"
@@ -291,8 +291,8 @@ PicnickerErin2BeatenText:
 	done
 
 Route46SignText:
-	text "Route 46"
-	line "Mountain Rd. Ahead"
+	text "ROUTE 46"
+	line "MOUNTAIN RD. AHEAD"
 	done
 
 Route46LassText:

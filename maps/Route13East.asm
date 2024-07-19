@@ -28,7 +28,7 @@ Route13East_MapScriptHeader:
 GenericTrainerBird_keeperPerry:
 	generictrainer BIRD_KEEPER, PERRY, EVENT_BEAT_BIRD_KEEPER_PERRY, Bird_keeperPerrySeenText, Bird_keeperPerryBeatenText
 
-	text "Your #mon are"
+	text "Your #MON are"
 	line "remarkably well-"
 	cont "trained."
 	done
@@ -36,7 +36,7 @@ GenericTrainerBird_keeperPerry:
 Bird_keeperPerrySeenText:
 	text "Agility is the key"
 	line "attribute of bird"
-	cont "#mon."
+	cont "#MON."
 	done
 
 Bird_keeperPerryBeatenText:
@@ -48,12 +48,12 @@ GenericTrainerBird_keeperBret:
 	generictrainer BIRD_KEEPER, BRET, EVENT_BEAT_BIRD_KEEPER_BRET, Bird_keeperBretSeenText, Bird_keeperBretBeatenText
 
 	text "If you groom them,"
-	line "#mon get happy."
+	line "#MON get happy."
 	done
 
 Bird_keeperBretSeenText:
 	text "Check out my #-"
-	line "mon. Just look at"
+	line "MON. Just look at"
 
 	para "their coloring and"
 	line "their plumage."
@@ -92,7 +92,7 @@ GenericTrainerPicnickerPiper:
 
 .SeenText:
 	text "How about we bring"
-	line "out your #mon"
+	line "out your #MON"
 
 	para "and mine for a"
 	line "battle?"
@@ -106,13 +106,13 @@ GenericTrainerPicnickerPiper:
 GenericTrainerCoupleTimandsue1:
 	generictrainer COUPLE, TIMANDSUE1, EVENT_BEAT_COUPLE_TIM_AND_SUE, .SeenText, .BeatenText
 
-	text "Tim: If you've"
+	text "TIM: If you've"
 	line "beaten her, you"
 	cont "must be strong!"
 	done
 
 .SeenText:
-	text "Tim: I'll give you"
+	text "TIM: I'll give you"
 	line "a little hint."
 
 	para "My girlfriend's"
@@ -120,14 +120,14 @@ GenericTrainerCoupleTimandsue1:
 	done
 
 .BeatenText:
-	text "Tim: You're the"
+	text "TIM: You're the"
 	line "strongest!"
 	done
 
 GenericTrainerCoupleTimandsue2:
 	generictrainer COUPLE, TIMANDSUE2, EVENT_BEAT_COUPLE_TIM_AND_SUE, .SeenText, .BeatenText
 
-	text "Sue: That strength"
+	text "SUE: That strength"
 	line "of yours…"
 	cont "I've got it!"
 
@@ -135,7 +135,7 @@ GenericTrainerCoupleTimandsue2:
 	done
 
 .SeenText:
-	text "Sue: Women who"
+	text "SUE: Women who"
 	line "don't take love"
 
 	para "seriously might"
@@ -143,7 +143,7 @@ GenericTrainerCoupleTimandsue2:
 	done
 
 .BeatenText:
-	text "Sue: Wa ha…"
+	text "SUE: Wa ha…"
 	done
 
 GenericTrainerPokefanmAlex:
@@ -156,7 +156,7 @@ GenericTrainerPokefanmAlex:
 
 PokefanmAlexSeenText:
 	text "Bow down before my"
-	line "regal #mon!"
+	line "regal #MON!"
 	done
 
 PokefanmAlexBeatenText:
@@ -168,20 +168,20 @@ GenericTrainerPokefanmJoshua:
 	generictrainer POKEFANM, JOSHUA, EVENT_BEAT_POKEFANM_JOSHUA, PokefanmJoshuaSeenText, PokefanmJoshuaBeatenText
 
 	text "You look like you"
-	line "have many #mon,"
+	line "have many #MON,"
 
-	para "but Pikachu is"
+	para "but PIKACHU is"
 	line "still the best."
 	done
 
 PokefanmJoshuaSeenText:
 	text "Nihihi! Would you"
 	line "like to battle my"
-	cont "Pikachu gang?"
+	cont "PIKACHU gang?"
 	done
 
 PokefanmJoshuaBeatenText:
-	text "Pi-Pikachu!"
+	text "Pi-PIKACHU!"
 	done
 
 Route13EastGrampsScript:
@@ -193,21 +193,21 @@ Route13EastGrampsScript:
 	jumptextfaceplayer Route13EastGrampsText2
 
 Route13EastGrampsText1:
-	text "I can't see Lucky"
-	line "Island today…"
+	text "I can't see LUCKY"
+	line "ISLAND today…"
 
 	para "But I know it's"
 	line "appeared before!"
 	done
 
 Route13EastGrampsText2:
-	text "I can see Lucky"
-	line "Island today!"
+	text "I can see LUCKY"
+	line "ISLAND today!"
 	cont "What a spectacle!"
 	done
 
 Route13TrainerTips1Text:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
 	para "Look! Right there,"
 	line "at the left side"
@@ -215,13 +215,13 @@ Route13TrainerTips1Text:
 	done
 
 Route13TrainerTips2Text:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "Some #mon need"
+	para "Some #MON need"
 	line "items to evolve."
 
 	para "If you're lucky,"
-	line "a wild #mon can"
+	line "a wild #MON can"
 
 	para "be found holding"
 	line "its own evolution"
@@ -229,8 +229,8 @@ Route13TrainerTips2Text:
 	done
 
 Route13SignText:
-	text "Route 13"
+	text "ROUTE 13"
 
-	para "North to Silence"
-	line "Bridge"
+	para "North to SILENCE"
+	line "BRIDGE"
 	done

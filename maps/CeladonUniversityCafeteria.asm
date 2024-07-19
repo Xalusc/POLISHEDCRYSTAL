@@ -75,13 +75,13 @@ CeladonUniversityCafeteriaCoreyScript:
 	done
 
 .IntroText1:
-	text "I'm Corey! I'm one"
+	text "I'm COREY! I'm one"
 	line "of top four train-"
-	cont "ers at Celadon"
-	cont "University."
+	cont "ers at CELADON"
+	cont "UNIVERSITY."
 
 	para "We're known as the"
-	line "Celadon Four!"
+	line "CELADON FOUR!"
 
 	para "Let me show you"
 	line "how we earned that"
@@ -91,9 +91,9 @@ CeladonUniversityCafeteriaCoreyScript:
 	done
 
 .IntroText2:
-	text "I'm Corey! I'm one"
-	line "of the Celadon"
-	cont "Four!"
+	text "I'm COREY! I'm one"
+	line "of the CELADON"
+	cont "FOUR!"
 
 	para "You're challenging"
 	line "all four of us?"
@@ -125,7 +125,7 @@ CeladonUniversityCafeteriaCoreyScript:
 	line "trainer!"
 
 	para "But I'm just one of"
-	line "the Celadon Four."
+	line "the CELADON FOUR."
 
 	para "You should track"
 	line "down the rest of"
@@ -136,7 +136,7 @@ CeladonUniversityCafeteriaCoreyScript:
 
 .AfterText2:
 	text "You beat all of"
-	line "the Celadon Four?"
+	line "the CELADON FOUR?"
 
 	para "Congratulations!"
 
@@ -146,11 +146,11 @@ CeladonUniversityCafeteriaCoreyScript:
 
 CeladonUniversityCafeteriaCooltrainerfText:
 	text "This place makes"
-	line "the best Cinnabar-"
+	line "the best CINNABAR-"
 	cont "style hamburger"
 
 	para "steaks this side"
-	line "of Kanto!"
+	line "of KANTO!"
 
 	para "It's just like"
 	line "being home."
@@ -159,7 +159,7 @@ CeladonUniversityCafeteriaCooltrainerfText:
 CeladonUniversityCafeteriaBeautyText:
 	text "The cook finally"
 	line "made another batch"
-	cont "of Old Gateau!"
+	cont "of OLD GATEAU!"
 
 	para "I might go back"
 	line "for seconds."
@@ -168,7 +168,7 @@ CeladonUniversityCafeteriaBeautyText:
 CeladonUniversityCafeteriaYoungster1Text:
 	text "I asked the cafe-"
 	line "teria to stock"
-	cont "Casteliacones."
+	cont "CASTELIACONES."
 
 	para "They remind me of"
 	line "home, and they're"
@@ -178,8 +178,8 @@ CeladonUniversityCafeteriaYoungster1Text:
 CeladonUniversityCafeteriaLadyText:
 	text "I'm on a diet."
 	line "Today it's a"
-	para "nutritious Slip"
-	line "Seed salad for me."
+	para "nutritious SLIP"
+	line "SEED salad for me."
 	done
 
 CeladonUniversityCafeteriaYoungster2Script:
@@ -205,7 +205,7 @@ CeladonUniversityCafeteriaYoungster2Script:
 
 .Text2:
 	text "I love a cold"
-	line "Lemonade after a"
+	line "LEMONADE after a"
 	cont "tough battle."
 	done
 
@@ -248,7 +248,7 @@ CeladonUniversityCafeteriaBakerScript:
 	line "serving dinner."
 
 	para "There are some"
-	line "Leftovers, but"
+	line "LEFTOVERS, but"
 
 	para "it'll cost ¥4000."
 	line "Want some?"
@@ -256,7 +256,7 @@ CeladonUniversityCafeteriaBakerScript:
 
 .Text3:
 	text "There aren't any"
-	line "more Leftovers"
+	line "more LEFTOVERS"
 	cont "today."
 	done
 

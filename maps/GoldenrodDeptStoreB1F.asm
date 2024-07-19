@@ -84,5 +84,5 @@ GoldenrodDeptStoreB1FBlackBelt3Text:
 	done
 
 GoldenrodDeptStoreB1FMachokeText:
-	text "Machoke: Maaacho!"
+	text "MACHOKE: Maaacho!"
 	done

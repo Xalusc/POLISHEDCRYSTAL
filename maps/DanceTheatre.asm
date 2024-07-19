@@ -40,7 +40,7 @@ GenericTrainerKimono_girlSayo:
 	line "tant for both"
 
 	para "dancing and #-"
-	line "mon."
+	line "MON."
 	done
 
 GenericTrainerKimono_girlZuki:
@@ -70,7 +70,7 @@ GenericTrainerKimono_girlMiki:
 	para "people who enjoy"
 	line "what I do."
 
-	para "My #mon keep my"
+	para "My #MON keep my"
 	line "spirits up too."
 	done
 
@@ -97,10 +97,10 @@ DanceTheaterSurfGuy:
 	setevent EVENT_GOT_HM03_SURF
 	jumpthisopenedtext
 
-	text "That's Surf."
+	text "That's SURF."
 
 	para "It's a move that"
-	line "lets #mon swim"
+	line "lets #MON swim"
 	cont "across water."
 	done
 
@@ -113,7 +113,7 @@ SurfGuyLadGiftText:
 	text "Lad! If you can"
 	line "defeat all the"
 
-	para "Kimono Girls, I'll"
+	para "KIMONO GIRLS, I'll"
 	line "give you a gift."
 	done
 
@@ -122,7 +122,7 @@ MapDanceTheatreSignpost1Script:
 
 Kimono_girlNaokoSeenText:
 	text "You have lovely"
-	line "#mon. May I see"
+	line "#MON. May I see"
 	cont "them in battle?"
 	done
 
@@ -133,7 +133,7 @@ Kimono_girlNaokoBeatenText:
 
 Kimono_girlSayoSeenText:
 	text "I always dance"
-	line "with my #mon."
+	line "with my #MON."
 
 	para "Of course, I also"
 	line "train them."
@@ -148,13 +148,13 @@ Kimono_girlZukiSeenText:
 	text "Isn't my barrette"
 	line "pretty?"
 
-	para "Oh. A #mon"
+	para "Oh. A #MON"
 	line "battle?"
 	done
 
 Kimono_girlZukiBeatenText:
 	text "I don't have any"
-	line "#mon left…"
+	line "#MON left…"
 	done
 
 Kimono_girlKuniSeenText:
@@ -171,21 +171,21 @@ Kimono_girlKuniBeatenText:
 Kimono_girlMikiSeenText:
 	text "Do you like my"
 	line "dancing? I'm good"
-	cont "at #mon too."
+	cont "at #MON too."
 	done
 
 Kimono_girlMikiBeatenText:
 	text "Ooh, you're good"
-	line "at #mon too."
+	line "at #MON too."
 	done
 
 SurfGuyNeverLeftAScratchText:
 	text "Not only are the"
-	line "Kimono Girls great"
+	line "KIMONO GIRLS great"
 
 	para "dancers, they're"
 	line "also skilled at"
-	cont "#mon."
+	cont "#MON."
 
 	para "I always challenge"
 	line "them, but I've"
@@ -198,7 +198,7 @@ SurfGuyLassieGiftText:
 	text "Lassie, if you can"
 	line "defeat all the"
 
-	para "Kimono Girls, I'll"
+	para "KIMONO GIRLS, I'll"
 	line "give you a gift."
 	done
 
@@ -216,32 +216,32 @@ SurfGuyLikeADanceText:
 	done
 
 SurfGuyElegantKimonoGirlsText:
-	text "I wish my #mon"
+	text "I wish my #MON"
 	line "were as elegant as"
-	cont "the Kimono Girls."
+	cont "the KIMONO GIRLS."
 	done
 
 RhydonText:
-	text "Rhydon: Gugooh"
+	text "RHYDON: Gugooh"
 	line "gugogooh!"
 	done
 
 DanceTheatreCooltrainerMText:
 	text "That man's always"
-	line "with his Rhydon."
+	line "with his RHYDON."
 
 	para "Says he wants a"
-	line "#mon that can"
-	cont "Surf and dance."
+	line "#MON that can"
+	cont "SURF and dance."
 
 	para "Is he trying to"
 	line "make a synchro-"
 	cont "nized swimming"
-	cont "#mon?"
+	cont "#MON?"
 	done
 
 DanceTheatreGrannyText:
-	text "The Kimono Girls"
+	text "The KIMONO GIRLS"
 	line "are so beautiful…"
 
 	para "But they have to"
@@ -260,13 +260,13 @@ DanceTheatreGrannyText:
 	done
 
 DanceTheatreLadyText:
-	text "Eevee can evolve"
-	line "into Leafeon, Gla-"
-	cont "ceon, or Sylveon,"
+	text "EEVEE can evolve"
+	line "into LEAFEON, GLA-"
+	cont "CEON, or SYLVEON,"
 
 	para "but none of the"
-	line "Kimono Girls use"
-	cont "those #mon."
+	line "KIMONO GIRLS use"
+	cont "those #MON."
 
 	para "I wonder why?"
 	done

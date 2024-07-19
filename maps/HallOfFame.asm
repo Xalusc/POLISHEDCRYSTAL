@@ -106,18 +106,18 @@ HallOfFameEntranceTrigger:
 	step_end
 
 .LanceText1:
-	text "Lance: It's been a"
+	text "LANCE: It's been a"
 	line "long time since I"
 	cont "last came here."
 
 	para "This is where we"
-	line "honor the League"
+	line "honor the LEAGUE"
 
-	para "Champions for all"
+	para "CHAMPIONS for all"
 	line "eternity."
 
 	para "Their courageous"
-	line "#mon are also"
+	line "#MON are also"
 	cont "inducted."
 	done
 
@@ -133,14 +133,14 @@ HallOfFameEntranceTrigger:
 	text "Here today, we"
 	line "witnessed the rise"
 
-	para "of a new League"
-	line "Champion--a"
+	para "of a new LEAGUE"
+	line "CHAMPION--a"
 
 	para "trainer who feels"
 	line "compassion for,"
 
 	para "and trust toward,"
-	line "all #mon."
+	line "all #MON."
 
 	para "A trainer who"
 	line "succeeded through"
@@ -148,8 +148,8 @@ HallOfFameEntranceTrigger:
 	para "perseverance and"
 	line "determination."
 
-	para "The new League"
-	line "Champion who has"
+	para "The new LEAGUE"
+	line "CHAMPION who has"
 
 	para "all the makings"
 	line "of greatness!"
@@ -158,25 +158,25 @@ HallOfFameEntranceTrigger:
 	line "to register you"
 
 	para "and your partners"
-	line "as Champions!"
+	line "as CHAMPIONS!"
 	done
 
 .GoldTrophyText:
 	text "<PLAYER> received"
-	line "Gold Trophy."
+	line "GOLD TROPHY."
 	done
 
 .GoldTrophySentText:
-	text "Gold Trophy"
+	text "GOLD TROPHY"
 	line "was sent home."
 	done
 
 .SilverTrophyText:
 	text "<PLAYER> received"
-	line "Silver Trophy."
+	line "SILVER TROPHY."
 	done
 
 .SilverTrophySentText:
-	text "Silver Trophy"
+	text "SILVER TROPHY"
 	line "was sent home."
 	done

@@ -172,7 +172,7 @@ Script_TradeCenterClosed:
 	jumpthistextfaceplayer
 
 	text "I'm sorry--the"
-	line "Trade Machine is"
+	line "TRADE MACHINE is"
 	cont "being adjusted."
 	done
 
@@ -239,7 +239,7 @@ Script_BattleRoomClosed:
 	jumpthistextfaceplayer
 
 	text "I'm sorry--the"
-	line "Battle Machine is"
+	line "BATTLE MACHINE is"
 	cont "being adjusted."
 	done
 
@@ -311,8 +311,8 @@ PokeCenter2FMovementData_PlayerSpinsClockwiseEndsFacingLeft:
 	step_end
 
 Text_BattleReceptionistIntro:
-	text "Welcome to Cable"
-	line "Club Colosseum."
+	text "Welcome to CABLE"
+	line "CLUB COLOSSEUM."
 
 	para "You may battle a"
 	line "friend here."
@@ -322,11 +322,11 @@ Text_BattleReceptionistIntro:
 	done
 
 Text_TradeReceptionistIntro:
-	text "Welcome to Cable"
-	line "Trade Center."
+	text "Welcome to CABLE"
+	line "TRADE CENTER."
 
 	para "You may trade your"
-	line "#mon here with"
+	line "#MON here with"
 	cont "a friend."
 
 	para "Would you like to"
@@ -382,7 +382,7 @@ Text_PleaseComeIn2:
 
 Text_TimeCapsuleClosed:
 	text "I'm sorry--the"
-	line "Time Capsule is"
+	line "TIME CAPSULE is"
 	cont "inoperative."
 	done
 

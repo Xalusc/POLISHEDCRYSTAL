@@ -24,7 +24,7 @@ DimCave1F_MapScriptHeader:
 GenericTrainerSuper_nerdGregg:
 	generictrainer SUPER_NERD, GREGG, EVENT_BEAT_SUPER_NERD_GREGG, .SeenText, .BeatenText
 
-	text "The Magnet Train"
+	text "The MAGNET TRAIN"
 	line "is fast, but it"
 	cont "can't drift."
 	done
@@ -43,7 +43,7 @@ GenericTrainerScientistDexter:
 	generictrainer SCIENTIST, DEXTER, EVENT_BEAT_SCIENTIST_DEXTER, .SeenText, .BeatenText
 
 	text "I work for the"
-	line "Power Plant."
+	line "POWER PLANT."
 
 	para "We use the water-"
 	line "fall from this"

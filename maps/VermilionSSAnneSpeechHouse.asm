@@ -19,9 +19,9 @@ VermilionSSAnneSpeechHouseGrampsText:
 	text "Once a year, a"
 	line "cruise ship named"
 
-	para "the S.S.Anne used"
+	para "the S.S.ANNE used"
 	line "to dock here in"
-	cont "Vermilion."
+	cont "VERMILION."
 
 	para "That is, until one"
 	line "year, when tragedy"
@@ -37,8 +37,8 @@ VermilionSSAnneSpeechHouseGrampsText:
 
 VermilionSSAnneSpeechHouseBeautyText:
 	text "I've seen a model"
-	line "of the S.S.Anne"
+	line "of the S.S.ANNE"
 
-	para "in an Oceanic"
-	line "Museum far away."
+	para "in an OCEANIC"
+	line "MUSEUM far away."
 	done

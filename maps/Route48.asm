@@ -134,9 +134,9 @@ Route48JessieJamesSeenText:
 	line "twerp!"
 
 	para "You know what"
-	line "#mon lives in"
+	line "#MON lives in"
 	cont "that forest?"
-	cont "Pikachu!"
+	cont "PIKACHU!"
 
 	para "The boss will be"
 	line "pleased if we"
@@ -153,8 +153,8 @@ Route48JessieJamesBeatenText:
 	done
 
 Route48JessieJamesAfterText:
-	text "Looks like Team"
-	line "Rocket's blasting"
+	text "Looks like TEAM"
+	line "ROCKET's blasting"
 	cont "off again!"
 	done
 
@@ -162,7 +162,7 @@ Archer2SeenText:
 	text "So you want to"
 	line "interfere with"
 
-	para "Team Rocket's"
+	para "TEAM ROCKET's"
 	line "plans again."
 
 	para "Always sticking"
@@ -170,7 +170,7 @@ Archer2SeenText:
 	cont "doesn't belong."
 
 	para "We're selling"
-	line "those #mon,"
+	line "those #MON,"
 
 	para "and there's nothing"
 	line "you can do about"
@@ -186,7 +186,7 @@ Archer2AfterText:
 	text "…Have it your"
 	line "way."
 
-	para "Team Rocket will"
+	para "TEAM ROCKET will"
 	line "withdraw for now."
 
 	para "Our other plan is"
@@ -199,14 +199,14 @@ Route48NurseText1:
 	line "from the window!"
 
 	para "You drove away"
-	line "Team Rocket"
+	line "TEAM ROCKET"
 	cont "and saved the"
-	cont "Pikachu!"
+	cont "PIKACHU!"
 
 	para "Thank you so"
 	line "much!"
 
-	para "Your #mon de-"
+	para "Your #MON de-"
 	line "serve a rest"
 	cont "after all that."
 	done
@@ -215,17 +215,17 @@ Route48NurseText2:
 	text "I like to relax"
 	line "here by the forest"
 	cont "and watch the"
-	cont "#mon play."
+	cont "#MON play."
 
 	para "I'll heal your"
-	line "#mon any time!"
+	line "#MON any time!"
 
 	para "Thanks again!"
 	done
 
 Route48YellowForestSignText:
-	text "Route 48"
+	text "ROUTE 48"
 
 	para "North to"
-	line "Yellow Forest"
+	line "YELLOW FOREST"
 	done

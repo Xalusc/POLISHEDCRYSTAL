@@ -129,7 +129,7 @@ ArticunoText:
 	done
 
 SeafoamIslandsB4FLawrenceSpeechText:
-	text "Lawrence: Hello"
+	text "LAWRENCE: Hello"
 	line "again, <PLAYER>."
 
 	para "So you are collec-"
@@ -144,7 +144,7 @@ SeafoamIslandsB4FLawrenceSpeechText:
 	line "knowledge and"
 
 	para "resources, have"
-	line "not found Moltres…"
+	line "not found MOLTRES…"
 
 	para "Why have you"
 	line "succeeded where I"
@@ -165,16 +165,16 @@ SeafoamIslandsB4FLawrenceSpeechText:
 
 	para "Meet me at the"
 	line "ruined shrine on"
-	cont "Shamouti Island."
+	cont "SHAMOUTI ISLAND."
 
 	para "I'll show you that"
 	line "I deserve to own"
-	cont "those #mon."
+	cont "those #MON."
 	done
 
 SeafoamIslandsB4FLawrenceEscapeRopeText:
-	text "Lawrence used an"
-	line "Escape Rope!"
+	text "LAWRENCE used an"
+	line "ESCAPE ROPE!"
 	done
 
 SeafoamIslandsB4FMovementData_LawrenceSurfApproach1:

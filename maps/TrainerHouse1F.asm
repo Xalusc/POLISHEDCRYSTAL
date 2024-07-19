@@ -23,11 +23,11 @@ TrainerHouse1F_MapScriptHeader:
 	object_event  2,  4, SPRITE_GENTLEMAN, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, 0, OBJECTTYPE_COMMAND, jumptextfaceplayer, TrainerHouse1FGentlemanText, -1
 
 TrainerHouse1FReceptionistText:
-	text "Welcome to Trainer"
-	line "House, the newest"
+	text "Welcome to TRAINER"
+	line "HOUSE, the newest"
 
 	para "and most happening"
-	line "place in Viridian."
+	line "place in VIRIDIAN."
 
 	para "We're open to"
 	line "trainers only."
@@ -40,13 +40,13 @@ TrainerHouse1FReceptionistText:
 	done
 
 TrainerHouse1FCooltrainerMText:
-	text "Viridian is the"
+	text "VIRIDIAN is the"
 	line "town closest to"
-	cont "Indigo Plateau."
+	cont "INDIGO PLATEAU."
 
 	para "It's known as the"
-	line "gateway to Indigo"
-	cont "Plateau!"
+	line "gateway to INDIGO"
+	cont "PLATEAU!"
 
 	para "They built this"
 	line "place because so"
@@ -55,7 +55,7 @@ TrainerHouse1FCooltrainerMText:
 	line "through on their"
 
 	para "way up to the"
-	line "#mon League."
+	line "#MON LEAGUE."
 	done
 
 TrainerHouse1FCooltrainerFText:
@@ -66,13 +66,13 @@ TrainerHouse1FCooltrainerFText:
 	para "I would love to"
 	line "see how well a"
 
-	para "trainer from Johto"
+	para "trainer from JOHTO"
 	line "battles."
 	done
 
 TrainerHouse1FYoungsterText:
 	text "I guess you can't"
-	line "become the Champ"
+	line "become the CHAMP"
 
 	para "unless you go all"
 	line "over the place and"
@@ -80,16 +80,16 @@ TrainerHouse1FYoungsterText:
 	para "battle all kinds"
 	line "of people."
 
-	para "The Champion from"
-	line "Pallet traveled to"
+	para "The CHAMPION from"
+	line "PALLET traveled to"
 
 	para "all the cities and"
-	line "towns in Kanto."
+	line "towns in KANTO."
 	done
 
 TrainerHouse1FGentlemanText:
 	text "Whew… I'm taking a"
-	line "rest from #mon"
+	line "rest from #MON"
 	cont "battles."
 	done
 
@@ -97,7 +97,7 @@ TrainerHouseSign1Text:
 	text "Practice battles"
 	line "are held in the"
 
-	para "Training Hall"
+	para "TRAINING HALL"
 	line "downstairs."
 
 	para "Skilled trainers"
@@ -121,7 +121,7 @@ TrainerHouseIllegibleText:
 	line "A strategy memo?"
 
 	para "This writing looks"
-	line "like Onix tracks…"
+	line "like ONIX tracks…"
 
 	para "It's completely"
 	line "illegible…"

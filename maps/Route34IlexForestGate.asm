@@ -66,10 +66,10 @@ Route34IlexForestGateTeacherScript:
 	jumpthisopenedtext
 
 Route34IlexForestGateTeacher_GotSweetScent:
-	text "It's False Swipe."
+	text "It's FALSE SWIPE."
 
 	para "Teach it to a"
-	line "special #mon."
+	line "special #MON."
 	done
 
 Route34IlexForestGateTeacherBlocksPlayerMovement:
@@ -84,11 +84,11 @@ Route34IlexForestGateTeacherReturnsMovement:
 
 Route34IlexForestGateTeacherText:
 	text "Oh, honey. You're"
-	line "making a #dex?"
+	line "making a #DEX?"
 
 	para "It must be hard to"
 	line "catch all those"
-	cont "#mon."
+	cont "#MON."
 
 	para "Here, take this"
 	line "TM."
@@ -96,14 +96,14 @@ Route34IlexForestGateTeacherText:
 
 Route34IlexForestGateTeacher_ForestIsRestless:
 	text "Something's wrong"
-	line "in Ilex Forest…"
+	line "in ILEX FOREST…"
 
 	para "You should stay"
 	line "away right now."
 	done
 
 Route34IlexForestGateButterfreeText:
-	text "Heracross: Cross!"
+	text "HERACROSS: Cross!"
 	done
 
 Route34IlexForestGateLassText:
@@ -112,10 +112,10 @@ Route34IlexForestGateLassText:
 	cont "the protector?"
 
 	para "It watches over"
-	line "the Forest from"
+	line "the FOREST from"
 	cont "across time."
 
 	para "I think that it"
-	line "must be a Grass-"
-	cont "type #mon."
+	line "must be a grass-"
+	cont "type #MON."
 	done

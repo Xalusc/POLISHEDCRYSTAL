@@ -32,7 +32,7 @@ GenericTrainerPokemaniacLarry:
 	generictrainer POKEMANIAC, LARRY, EVENT_BEAT_POKEMANIAC_LARRY, PokemaniacLarrySeenText, PokemaniacLarryBeatenText
 
 	text "Every Friday, you"
-	line "can hear #mon"
+	line "can hear #MON"
 
 	para "roars from deep"
 	line "inside the cave."
@@ -45,7 +45,7 @@ GenericTrainerHikerRussell:
 	line "I've decided."
 
 	para "I'm not leaving"
-	line "until my #mon"
+	line "until my #MON"
 	cont "get tougher!"
 	done
 
@@ -53,11 +53,11 @@ GenericTrainerHikerDaniel:
 	generictrainer HIKER, DANIEL, EVENT_BEAT_HIKER_DANIEL, HikerDanielSeenText, HikerDanielBeatenText
 
 	text "I was conned into"
-	line "buying a Slowpoke-"
-	cont "Tail."
+	line "buying a SLOWPOKE-"
+	cont "TAIL."
 
 	para "I feel sorry for"
-	line "the poor #mon."
+	line "the poor #MON."
 	done
 
 GenericTrainerFirebreatherBill:
@@ -73,7 +73,7 @@ GenericTrainerFirebreatherBill:
 GenericTrainerFirebreatherRay:
 	generictrainer FIREBREATHER, RAY, EVENT_BEAT_FIREBREATHER_RAY, FirebreatherRaySeenText, FirebreatherRayBeatenText
 
-	text "It's my #mon's"
+	text "It's my #MON's"
 	line "fire that lights"
 	cont "up this cave."
 	done
@@ -81,16 +81,16 @@ GenericTrainerFirebreatherRay:
 GenericTrainerRuin_maniacJones:
 	generictrainer RUIN_MANIAC, JONES, EVENT_BEAT_RUIN_MANIAC_JONES, Ruin_maniacJonesSeenText, Ruin_maniacJonesBeatenText
 
-	text "The Ruins are hid-"
+	text "The RUINS are hid-"
 	line "ing something…"
 	cont "I just know it!"
 	done
 
 HikerRussellSeenText:
 	text "You're headed to"
-	line "Azalea, are you?"
+	line "AZALEA, are you?"
 
-	para "Let my #mon see"
+	para "Let my #MON see"
 	line "if you are good"
 	cont "enough to battle."
 	done
@@ -102,10 +102,10 @@ HikerRussellBeatenText:
 PokemaniacLarrySeenText:
 	text "I roam far and"
 	line "wide in search of"
-	cont "#mon."
+	cont "#MON."
 
 	para "Are you looking"
-	line "for #mon too?"
+	line "for #MON too?"
 
 	para "Then you're my"
 	line "collecting rival!"
@@ -113,7 +113,7 @@ PokemaniacLarrySeenText:
 
 PokemaniacLarryBeatenText:
 	text "Ugh. My poor #-"
-	line "mon…"
+	line "MON…"
 	done
 
 HikerDanielSeenText:
@@ -130,9 +130,9 @@ HikerDanielBeatenText:
 	done
 
 FirebreatherBillSeenText:
-	text "Zubat's Supersonic"
+	text "ZUBAT's SUPERSONIC"
 	line "keeps confusing"
-	cont "my #mon."
+	cont "my #MON."
 
 	para "I'm seriously"
 	line "upset about that!"
@@ -147,17 +147,17 @@ FirebreatherRaySeenText:
 	line "cave isn't scary."
 
 	para "If you're strong,"
-	line "#mon aren't"
+	line "#MON aren't"
 	cont "scary."
 	done
 
 FirebreatherRayBeatenText:
-	text "Flash!"
+	text "FLASH!"
 	done
 
 Ruin_maniacJonesSeenText:
 	text "Have you explored"
-	line "the Ruins of Alph?"
+	line "the RUINS OF ALPH?"
 	done
 
 Ruin_maniacJonesBeatenText:

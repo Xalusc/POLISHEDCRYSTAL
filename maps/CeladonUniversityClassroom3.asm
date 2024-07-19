@@ -24,16 +24,16 @@ CeladonUniversityClassroom3_MapScriptHeader:
 	object_event  4,  7, SPRITE_SUPER_NERD, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, 0, OBJECTTYPE_COMMAND, jumptextfaceplayer, CeladonUniversityClassroom3Super_nerdText, -1
 
 CeladonUniversityClassroom3SparkText:
-	text "Hey! I'm Spark."
+	text "Hey! I'm SPARK."
 	line "I teach Science--"
 
 	para "right now, it's"
-	line "#biology."
+	line "#-biology."
 
 	para "We're studying how"
-	line "#mon reproduce."
+	line "#MON reproduce."
 
-	para "Prof.Elm has pion-"
+	para "PROF.ELM has pion-"
 	line "eered the field."
 
 	para "Oh, you know him!"
@@ -44,19 +44,19 @@ CeladonUniversityClassroom3SparkText:
 
 CeladonUniversityClassroom3TeacherText:
 	text "Are you looking"
-	line "for Spark?"
+	line "for SPARK?"
 
 	para "He's out doing"
 	line "something on"
-	cont "Shamouti Island."
+	cont "SHAMOUTI ISLAND."
 
 	para "I'm subbing in for"
 	line "his classes."
 	done
 
 CeladonUniversityClassroom3ChildText:
-	text "#mon inside"
-	line "# Balls are"
+	text "#MON inside"
+	line "# BALLS are"
 
 	para "converted to light"
 	line "energy, then"
@@ -72,14 +72,14 @@ CeladonUniversityClassroom3ChildText:
 
 CeladonUniversityClassroom3LassText:
 	text "My instructor said"
-	line "that Magneton is a"
+	line "that MAGNETON is a"
 
 	para "union of three"
-	line "Magnemite, but"
+	line "MAGNEMITE, but"
 
-	para "Magneton is 10"
+	para "MAGNETON is 10"
 	line "times heavier than"
-	cont "Magnemite."
+	cont "MAGNEMITE."
 
 	para "How does that"
 	line "work?!"
@@ -87,8 +87,8 @@ CeladonUniversityClassroom3LassText:
 
 CeladonUniversityClassroom3Super_nerdText:
 	text "Have you heard of"
-	line "the Electric-type"
-	cont "#mon Mareep?"
+	line "the electric-type"
+	cont "#MON MAREEP?"
 
 	para "Its name derives"
 	line "from the unit of"
@@ -102,18 +102,18 @@ CeladonUniversityClassroom3Super_nerdText:
 	done
 
 CeladonUniversityClassroom3BlackboardText:
-	text "'Phylogenetics'"
+	text "'PHYLOGENETICS'"
 	line "is on the board."
 
-	para "“…#mon can be"
+	para "“…#MON can be"
 	line "divided into 14"
-	cont "“Egg groups”,"
-	cont "plus Ditto."
+	cont "“EGG groups”,"
+	cont "plus DITTO."
 
-	para "Baby #mon can-"
+	para "Baby #MON can-"
 	line "not breed."
 
-	para "Legendary #mon"
+	para "Legendary #MON"
 	line "have not been"
 	cont "studied.”"
 	done
@@ -126,16 +126,16 @@ CeladonUniversityClassroom3Bookshelf1Text:
 	line "devices."
 
 	para "Hey! An early"
-	line "#gear diagram"
+	line "#GEAR diagram"
 	cont "is in here!"
 	done
 
 CeladonUniversityClassroom3Bookshelf2Text:
 	text "It's a paper writ-"
-	line "ten by Prof."
-	cont "Silktree."
+	line "ten by PROF."
+	cont "SILKTREE."
 
-	para "“Ruins of Alph"
-	line "Investigation"
-	cont "Report”…"
+	para "“RUINS OF ALPH"
+	line "INVESTIGATION"
+	cont "REPORT”…"
 	done

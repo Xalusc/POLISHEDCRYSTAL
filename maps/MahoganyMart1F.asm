@@ -140,10 +140,10 @@ MahoganyMart1FBlackBeltText:
 	line "ment worked like a"
 	cont "charm."
 
-	para "Magikarp are just"
+	para "MAGIKARP are just"
 	line "worthless, but"
 
-	para "Gyarados are big"
+	para "GYARADOS are big"
 	line "moneymakers."
 	done
 
@@ -151,12 +151,12 @@ MahoganyMart1FBlackBeltText_LanceEntered:
 	text "Urrgh…"
 
 	para "That guy's dragon"
-	line "#mon are tough…"
+	line "#MON are tough…"
 	done
 
 MahoganyMart1FLanceDragoniteHyperBeamText:
-	text "Lance: Dragonite,"
-	line "Hyper Beam."
+	text "LANCE: DRAGONITE,"
+	line "HYPER BEAM."
 	done
 
 MahoganyMart1FLanceRadioText:
@@ -176,7 +176,7 @@ MahoganyMart1FLanceStairsText:
 	done
 
 MahoganyMart1FLanceSplitUpText:
-	text "Lance: <PLAYER>, we"
+	text "LANCE: <PLAYER>, we"
 	line "should split up to"
 
 	para "check this place."

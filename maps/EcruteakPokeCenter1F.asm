@@ -64,17 +64,17 @@ PokemonJournalMortyScript:
 	setflag ENGINE_READ_MORTY_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Leader Morty!"
+	para "SPECIAL FEATURE:"
+	line "LEADER MORTY!"
 
-	para "Morty claims to"
+	para "MORTY claims to"
 	line "have once seen"
-	cont "Entei. He says:"
+	cont "ENTEI. He says:"
 
 	para "“It was amazing."
-	line "Entei looked me"
+	line "ENTEI looked me"
 	cont "in the eyes."
 
 	para "I'll never forget"
@@ -128,18 +128,18 @@ EcruteakPokeCenter1FBillScript:
 
 	text "Whoa, wait. You"
 	line "can't carry any"
-	cont "more #mon."
+	cont "more #MON."
 	done
 
 .IntroText:
-	text "Hi, I'm Bill. And"
+	text "Hi, I'm BILL. And"
 	line "who are you?"
 
 	para "Hmm, <PLAYER>, huh?"
 	line "You've come at the"
 	cont "right time."
 
-	para "The Time Capsules"
+	para "The TIME CAPSULES"
 	line "are totally fried,"
 
 	para "and I could use"
@@ -147,11 +147,11 @@ EcruteakPokeCenter1FBillScript:
 	done
 
 .QuestionText:
-	text "Bill: This Eevee"
+	text "BILL: This EEVEE"
 	line "came over just"
 
-	para "before the Time"
-	line "Capsule shut down."
+	para "before the TIME"
+	line "CAPSULE shut down."
 
 	para "Someone has to"
 	line "take care of it,"
@@ -165,7 +165,7 @@ EcruteakPokeCenter1FBillScript:
 	done
 
 .YesText:
-	text "Bill: I knew you'd"
+	text "BILL: I knew you'd"
 	line "come through!"
 
 	para "Way to go! You're"
@@ -179,18 +179,18 @@ EcruteakPokeCenter1FBillScript:
 	done
 
 .GoodbyeText:
-	text "Bill: Prof.Elm"
-	line "claims Eevee may"
+	text "BILL: PROF.ELM"
+	line "claims EEVEE may"
 
 	para "evolve in new and"
 	line "unknown ways."
 
 	para "I have to hurry on"
-	line "back to Goldenrod"
+	line "back to GOLDENROD"
 	cont "and see my folks,"
 
 	para "and then it's back"
-	line "to Kanto for me."
+	line "to KANTO for me."
 
 	para "Buh-bye!"
 	done
@@ -210,7 +210,7 @@ EcruteakPokeCenter1FBillScript:
 .GiftEeveeMail:
 	db   EON_MAIL
 	db   "Please keep this"
-	next "#mon safe!@@@@@@"
+	next "#MON safe!@@@@@@"
 
 .SetEeveeMailOT:
 	ld hl, sPartyMon1MailAuthor
@@ -228,7 +228,7 @@ EcruteakPokeCenter1FBillScript:
 	jmp CloseSRAM
 
 .EeveeMailOTID:
-	rawchar "Prof.Oak@@"
+	rawchar "PROF.OAK@@"
 	bigdw 00001
 .EeveeMailOTIDEnd
 
@@ -237,12 +237,12 @@ EcruteakPokeCenter1FPokefanMScript:
 	iftrue_jumptextfaceplayer .SurfText
 	jumpthistextfaceplayer
 
-	text "The way the Kimono"
-	line "Girls dance is"
+	text "The way the KIMONO"
+	line "GIRLS dance is"
 
 	para "marvelous. Just"
 	line "like the way they"
-	cont "use their #mon."
+	cont "use their #MON."
 	done
 
 .SurfText:
@@ -257,7 +257,7 @@ EcruteakPokeCenter1FPokefanMScript:
 	para "Where, you ask?"
 
 	para "It's a little past"
-	line "Olivine City."
+	line "OLIVINE CITY."
 	done
 
 EcruteakPokeCenter1FLassScript:
@@ -271,10 +271,10 @@ EcruteakPokeCenter1FLassScript:
 	jumpthisopenedtext
 
 	text "I once heard that"
-	line "Bill's mother used"
+	line "BILL's mother used"
 
-	para "to be a Kimono"
-	line "Girl. Maybe that's"
+	para "to be a KIMONO"
+	line "GIRL. Maybe that's"
 
 	para "why he visits"
 	line "here so often."
@@ -291,7 +291,7 @@ EcruteakPokeCenter1FLassScript:
 
 .QuestionText:
 	text "Do you know who"
-	line "Bill is?"
+	line "BILL is?"
 	done
 
 .HereText:
@@ -301,19 +301,19 @@ EcruteakPokeCenter1FLassScript:
 	done
 
 EcruteakPokeCenter1FCooltrainerFText:
-	text "Morty, the Gym"
-	line "Leader, is soooo"
+	text "MORTY, the GYM"
+	line "LEADER, is soooo"
 	cont "cool."
 
-	para "His #mon are"
+	para "His #MON are"
 	line "really tough too."
 	done
 
 EcruteakPokeCenter1FGymGuyText:
-	text "Lake of Rage…"
+	text "LAKE OF RAGE…"
 
 	para "The appearance of"
-	line "a Gyarados swarm…"
+	line "a GYARADOS swarm…"
 
 	para "I smell a conspir-"
 	line "acy. I know it!"

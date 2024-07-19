@@ -22,7 +22,7 @@ Route43MahoganyGateOfficer:
 	jumpthistextfaceplayer
 
 	text "Only people headed"
-	line "up to Lake of Rage"
+	line "up to LAKE OF RAGE"
 
 	para "have been through"
 	line "here lately."
@@ -30,6 +30,6 @@ Route43MahoganyGateOfficer:
 
 Route43MahoganyGateOfficerRocketsClearedText:
 	text "Nobody goes up to"
-	line "Lake of Rage these"
+	line "LAKE OF RAGE these"
 	cont "days."
 	done

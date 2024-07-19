@@ -26,7 +26,7 @@ ElmsWifeText:
 	line "he's OK."
 
 	para "When he's caught"
-	line "up in his #mon"
+	line "up in his #MON"
 
 	para "research, he even"
 	line "forgets to eat."
@@ -38,18 +38,18 @@ ElmsSonText:
 	cont "my dad!"
 
 	para "I'm going to be a"
-	line "great #mon"
+	line "great #MON"
 	cont "professor!"
 	done
 
 ElmsHouseFridgeText:
 	text "There's some food"
 	line "here. This must be"
-	cont "for #mon."
+	cont "for #MON."
 	done
 
 ElmsHousePCText:
-	text "#mon. Where do"
+	text "#MON. Where do"
 	line "they come from?"
 
 	para "Where are they"
@@ -57,17 +57,17 @@ ElmsHousePCText:
 
 	para "Why has no one"
 	line "ever witnessed a"
-	cont "#mon's birth?"
+	cont "#MON's birth?"
 
 	para "I want to know! I"
 	line "will dedicate my"
 
 	para "life to the study"
-	line "of #mon!"
+	line "of #MON!"
 
 	para "…"
 
 	para "It's a part of"
-	line "Prof.Elm's re-"
+	line "PROF.ELM's re-"
 	cont "search papers."
 	done

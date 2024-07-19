@@ -17,15 +17,15 @@ VermilionMagnetTrainSpeechHouse_MapScriptHeader:
 
 VermilionMagnetTrainSpeechHousePokefanFText:
 	text "Do you know about"
-	line "the Magnet Train?"
+	line "the MAGNET TRAIN?"
 
 	para "It's a railway"
-	line "that goes to Gol-"
-	cont "denrod in Johto."
+	line "that goes to GOL-"
+	cont "DENROD in JOHTO."
 	done
 
 VermilionMagnetTrainSpeechHouseYoungsterText:
 	text "I want to go to"
-	line "Saffron to see"
-	cont "the Magnet Train."
+	line "SAFFRON to see"
+	cont "the MAGNET TRAIN."
 	done

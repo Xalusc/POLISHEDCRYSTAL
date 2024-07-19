@@ -67,14 +67,14 @@ CeladonUniversityLoungeNeeshaScript:
 	jumpopenedtext .FinalText
 
 .IntroText1:
-	text "Hi! I'm Neesha!"
+	text "Hi! I'm NEESHA!"
 	line "I'm one of top four"
 
-	para "trainers in Cela-"
-	line "don University."
+	para "trainers in CELA-"
+	line "DON UNIVERSITY."
 
 	para "We're known as the"
-	line "Celadon Four!"
+	line "CELADON FOUR!"
 
 	para "Want me to show"
 	line "you why we're so"
@@ -84,9 +84,9 @@ CeladonUniversityLoungeNeeshaScript:
 	done
 
 .IntroText2:
-	text "Hi! I'm Neesha!"
+	text "Hi! I'm NEESHA!"
 	line "I'm one of the"
-	cont "Celadon Four!"
+	cont "CELADON FOUR!"
 
 	para "It looks like"
 	line "you've heard of us."
@@ -115,7 +115,7 @@ CeladonUniversityLoungeNeeshaScript:
 	para "But you haven't"
 	line "seen everything"
 
-	para "the Celadon Four"
+	para "the CELADON FOUR"
 	line "can do."
 
 	para "Why don't you find"
@@ -125,7 +125,7 @@ CeladonUniversityLoungeNeeshaScript:
 
 .AfterText2:
 	text "So you beat all of"
-	line "the Celadon Four…"
+	line "the CELADON FOUR…"
 
 	para "That's so cool!"
 
@@ -137,7 +137,7 @@ CeladonUniversityLoungeNeeshaScript:
 	text "It's not often that"
 	line "someone gives us"
 
-	para "Celadon Four a"
+	para "CELADON FOUR a"
 	line "real challenge."
 
 	para "I won't forget"
@@ -147,32 +147,32 @@ CeladonUniversityLoungeNeeshaScript:
 CeladonUniversityLoungeLassText:
 	text "Next month we're"
 	line "going on a trip"
-	cont "to Mt.Moon."
+	cont "to MT.MOON."
 
 	para "Maybe I'll see a"
-	line "Clefairy!"
+	line "CLEFAIRY!"
 	done
 
 CeladonUniversityLoungeRichBoyText:
 	text "Have you ever"
 	line "wondered why"
 
-	para "Ultra Balls have"
+	para "ULTRA BALLS have"
 	line "a yellow letter"
 	cont "H on the top?"
 
 	para "It's because they"
 	line "were first called"
-	cont "Hyper Balls!"
+	cont "HYPER BALLS!"
 	done
 
 CeladonUniversityLoungeCooltrainerfText:
-	text "#mon with"
+	text "#MON with"
 	line "reduced physical"
 
 	para "strength instinct-"
 	line "ively attempt to"
-	cont "enter a # Ball."
+	cont "enter a # BALL."
 	done
 
 CeladonUniversityLoungeSuper_nerd1Text:
@@ -190,13 +190,13 @@ CeladonUniversityLoungeSuper_nerd2Text:
 	line "for a game."
 
 	para "Do not said use"
-	line "asm!"
+	line "ASM!"
 	done
 
 CeladonUniversityLoungeBookshelf1Text:
 	text "It's stuffed full"
 	line "of copies of"
-	cont "#mon manga!"
+	cont "#MON manga!"
 	done
 
 CeladonUniversityLoungeBookshelf2:
@@ -234,5 +234,5 @@ CeladonUniversityLoungeComputer:
 	line "character running"
 
 	para "around a 2D"
-	line "Celadon City."
+	line "CELADON CITY."
 	done

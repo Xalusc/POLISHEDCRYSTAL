@@ -42,49 +42,49 @@ MoveReminderScript:
 
 MoveReminderIntroText::
 	text "Me? I'm the"
-	line "Move Maniac."
+	line "MOVE MANIAC."
 
 	para "I'll make your"
-	line "#mon remember"
+	line "#MON remember"
 
 	para "a move if you'll"
 	line "trade me a"
-	cont "Gold Leaf!"
+	cont "GOLD LEAF!"
 	done
 
 MoveReminderPromptText::
 	text "Do you want me to"
 	line "teach one of your"
-	cont "#mon a move?"
+	cont "#MON a move?"
 	done
 
 MoveReminderWhichMonText::
-	text "Yay! Which #mon"
+	text "Yay! Which #MON"
 	line "needs tutoring?"
 	done
 
 MoveReminderNoGoldLeafText::
 	text "Huh? You don't"
-	line "have any Gold"
-	cont "Leaves."
+	line "have any GOLD"
+	cont "LEAVES."
 
 	para "Sometimes you can"
 	line "find them on wild"
-	cont "Bellsprout."
+	cont "BELLSPROUT."
 	done
 
 MoveReminderNoMovesText::
 	text "Sorry… There isn't"
 	line "any move I can"
 
-	para "make that #mon"
+	para "make that #MON"
 	line "remember."
 	done
 
 MoveReminderCancelText::
-	text "If your #mon"
+	text "If your #MON"
 	line "needs to learn a"
 
 	para "move, come back"
-	line "with a Gold Leaf!"
+	line "with a GOLD LEAF!"
 	done

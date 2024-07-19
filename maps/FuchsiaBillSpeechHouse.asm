@@ -17,12 +17,12 @@ FuchsiaBillSpeechHouse_MapScriptHeader:
 
 BillsBrotherText:
 	text "My grandpa is at"
-	line "my brother Bill's"
-	cont "in Goldenrod City."
+	line "my brother BILL's"
+	cont "in GOLDENROD CITY."
 	done
 
 BillsBrothersHouseYoungsterText:
 	text "I saw these weird,"
-	line "slow #mon on"
-	cont "Cycling Road."
+	line "slow #MON on"
+	cont "CYCLING ROAD."
 	done

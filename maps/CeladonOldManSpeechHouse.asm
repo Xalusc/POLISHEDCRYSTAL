@@ -17,7 +17,7 @@ CeladonOldManSpeechHouse_MapScriptHeader:
 
 CeladonOldManSpeechHouseGrampsText:
 	text "Whashat?"
-	line "#-mon?"
+	line "#-MON?"
 	cont "Never heard of it."
 	done
 

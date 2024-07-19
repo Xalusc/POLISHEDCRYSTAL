@@ -24,7 +24,7 @@ Route18Gate2FBinoculars1Text:
 	text "Looked into the"
 	line "binoculars."
 
-	para "Pallet Town is in"
+	para "PALLET TOWN is in"
 	line "the west!"
 	done
 

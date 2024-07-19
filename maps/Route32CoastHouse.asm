@@ -44,7 +44,7 @@ GourmetManiacScript:
 
 .GreetingText:
 	text "Hi there! I am"
-	line "a gourmet Baker!"
+	line "a gourmet BAKER!"
 
 	para "I cook wonderful"
 	line "dishes with only"

@@ -46,14 +46,14 @@ ValenciaPortSailorScript:
 
 .QuestionText:
 	text "Going back to"
-	line "Shamouti Island?"
+	line "SHAMOUTI ISLAND?"
 	done
 
 .DepartText:
 	text "All right!"
 
 	para "All aboard the"
-	line "Seagallop Ferry!"
+	line "SEAGALLOP FERRY!"
 	done
 
 .RefuseText:
@@ -69,5 +69,5 @@ ValenciaPortFisherText:
 	line "different from"
 
 	para "those found in"
-	line "Kanto and Johto."
+	line "KANTO and JOHTO."
 	done

@@ -23,7 +23,7 @@ PewterSnoozeSpeechHouseGrampsText:
 	done
 
 PewterSnoozeSpeechHouseGrannyText:
-	text "Brock is the old-"
+	text "BROCK is the old-"
 	line "est of ten kids."
 
 	para "I don't know how"

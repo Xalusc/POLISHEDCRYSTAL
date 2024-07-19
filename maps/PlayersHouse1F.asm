@@ -104,14 +104,14 @@ MomEventScript:
 	end
 
 GearName:
-	db "#gear@"
+	db "#GEAR@"
 
 PlayersHouse1FFridgeText:
 	text "Let's see what's"
 	line "in the fridge…"
 
-	para "Fresh Water and"
-	line "tasty Lemonade!"
+	para "FRESH WATER and"
+	line "tasty LEMONADE!"
 	done
 
 PlayersHouse1FSinkText:
@@ -123,8 +123,8 @@ PlayersHouse1FSinkText:
 PlayersHouse1FStoveText:
 	text "Mom's specialty!"
 
-	para "Cinnabar Volcano"
-	line "Burger!"
+	para "CINNABAR VOLCANO"
+	line "BURGER!"
 	done
 
 PlayersHouse1FTVScript:
@@ -155,7 +155,7 @@ MomScript:
 	iftrue_jumpopenedtext MomErrandText
 	jumpthisopenedtext
 
-	text "Prof.Elm is wait-"
+	text "PROF.ELM is wait-"
 	line "ing for you."
 
 	para "Hurry up, baby!"
@@ -181,19 +181,19 @@ else
 	text "Oh, <PLAYER>!"
 	line "You're awake."
 
-	para "Your friend Lyra"
+	para "Your friend LYRA"
 	line "was just here."
 
 	para "She said that our"
-	line "neighbor, Prof."
+	line "neighbor, PROF."
 
-	para "Elm, was looking"
+	para "ELM, was looking"
 	line "for you."
 
 	para "Oh! I almost for-"
-	line "got! Your #mon"
+	line "got! Your #MON"
 
-	para "Gear is back from"
+	para "GEAR is back from"
 	line "the repair shop."
 
 	para "Here you go!"
@@ -201,8 +201,8 @@ else
 endc
 
 MomPokegearText:
-	text "#mon Gear, or"
-	line "just #gear."
+	text "#MON GEAR, or"
+	line "just #GEAR."
 
 	para "It's essential if"
 	line "you want to be a"
@@ -231,7 +231,7 @@ MomRunningShoesText:
 	line "you know how to"
 
 	para "use your new"
-	line "Running Shoes?"
+	line "RUNNING SHOES?"
 	done
 
 MomInstructionsText:
@@ -242,7 +242,7 @@ MomInstructionsText:
 	line "B Button to run,"
 	cont "indoors or out."
 
-	para "Or use the Option"
+	para "Or use the OPTION"
 	line "to always run, and"
 	cont "hold B to walk."
 	done
@@ -253,8 +253,8 @@ MomOutroText:
 	done
 
 MomErrandText:
-	text "So, what was Prof."
-	line "Elm's errand?"
+	text "So, what was PROF."
+	line "ELM's errand?"
 
 	para "…"
 
@@ -331,9 +331,9 @@ NeighborScript:
 	para "My daughter is"
 	line "adamant about"
 
-	para "becoming Prof."
-	line "Elm's assistant."
+	para "becoming PROF."
+	line "ELM's assistant."
 
 	para "She really loves"
-	line "#mon!"
+	line "#MON!"
 	done
