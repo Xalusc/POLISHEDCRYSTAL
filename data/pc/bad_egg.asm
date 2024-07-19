@@ -9,11 +9,11 @@ BadEggRLE:
 	db EGG_LEVEL, 1 ; $01
 	db $00, 16
 	db "B", 1 ; $81
-	db "a", 1 ; $a0
-	db "d", 1 ; $a3
+	db "A", 1 ; $a0
+	db "D", 1 ; $a3
 	db " ", 1 ; $7f
 	db "E", 1 ; $84
-	db "g", 2 ; $a6
+	db "G", 2 ; $a6
 	db "@", 4 ; $53
 	db "?", 1 ; $9e
 	db "@", 7 ; $53

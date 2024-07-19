@@ -1,4 +1,4 @@
-	db "Spike Ball@" ; species name
+	db "SPIKE BALL@" ; species name
 	dw 100, 30 ; height, width
 
 	db   "It is considered"

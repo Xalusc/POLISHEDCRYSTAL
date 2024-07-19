@@ -1,4 +1,4 @@
-	db "Poison Bee@" ; species name
+	db "POISON BEE@" ; species name
 	dw 303, 650 ; height, width
 
 	db   "It uses sharp,"

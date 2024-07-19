@@ -1,4 +1,4 @@
-	db "Long Neck@" ; species name
+	db "LONG NECK@" ; species name
 	dw 411, 910 ; height, width
 
 	db   "When it is in"

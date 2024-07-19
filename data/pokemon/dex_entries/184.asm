@@ -1,4 +1,4 @@
-	db "Aqua Rabbit@" ; species name
+	db "AQUA RABBIT@" ; species name
 	dw 207, 630 ; height, width
 
 	db   "The bubble-like"

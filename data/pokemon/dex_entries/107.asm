@@ -1,4 +1,4 @@
-	db "Punching@" ; species name
+	db "PUNCHING@" ; species name
 	dw 407, 1110 ; height, width
 
 	db   "To increase the"

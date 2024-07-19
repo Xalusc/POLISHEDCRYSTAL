@@ -1,4 +1,4 @@
-	db "Fire Mouse@" ; species name
+	db "FIRE MOUSE@" ; species name
 	dw 108, 170 ; height, width
 
 	db   "The fire that"

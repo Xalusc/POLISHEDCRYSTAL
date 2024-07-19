@@ -54,36 +54,36 @@ JudgeMachine:
 	jmp PrintText
 
 NewsMachineOffText:
-	text "It's the #mon"
-	line "Judge Machine!"
+	text "It's the #MON"
+	line "JUDGE MACHINE!"
 
 	para "It's not in"
 	line "operation yet…"
 	done
 
 NewsMachineIntroText:
-	text "It's the #mon"
-	line "Judge Machine!"
+	text "It's the #MON"
+	line "JUDGE MACHINE!"
 
 	para "Would you like to"
-	line "judge a #mon's"
+	line "judge a #MON's"
 	cont "overall power?"
 	done
 
 NewsMachineWhichMonText:
 	text "Please select"
-	line "a #mon."
+	line "a #MON."
 	prompt
 
 NewsMachinePrepText:
 	text "Visualizing your"
-	line "#mon's power…"
+	line "#MON's power…"
 	prompt
 
 NewsMachineContinueText:
 	text "Would you like"
 	line "to judge another"
-	cont "#mon?"
+	cont "#MON?"
 	done
 
 NewsMachineCancelText:
@@ -91,7 +91,7 @@ NewsMachineCancelText:
 	done
 
 NewsMachineEggText:
-	text "An Egg doesn't"
+	text "An EGG doesn't"
 	line "have any power"
 	cont "yet to judge!"
 	done

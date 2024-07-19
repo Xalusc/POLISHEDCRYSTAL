@@ -1,4 +1,4 @@
-	db "Bat@" ; species name
+	db "BAT@" ; species name
 	dw 207, 170 ; height, width
 
 	db   "During the day, it"

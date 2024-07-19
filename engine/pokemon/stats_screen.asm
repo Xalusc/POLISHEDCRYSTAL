@@ -539,7 +539,7 @@ StatsScreen_LoadGFX:
 	ret
 
 .PlaceOTInfo:
-	; for rental mons, replace the whole thing with "Rental #mon"
+	; for rental mons, replace the whole thing with "Rental #MON"
 	farcall BT_InRentalMode
 	jr nz, .not_rental_mon
 	hlcoord 0, 15
@@ -571,8 +571,8 @@ StatsScreen_LoadGFX:
 	ret
 
 .Status_Type:
-	db   "Status/"
-	next "Type/@"
+	db   "STATUS/"
+	next "TYPE/@"
 
 .OK_str:
 	db " OK@"
@@ -582,20 +582,20 @@ StatsScreen_LoadGFX:
 	next "<ID>№.@"
 
 .Rental_OT:
-	db "Rental"
-	next1 "#mon@"
+	db "RENTAL"
+	next1 "#MON@"
 
 .ExpPointStr:
-	db "Exp.Points@"
+	db "EXP.Points@"
 
 .LevelUpStr:
-	db "Level Up@"
+	db "level up@"
 
 .ToStr:
 	db "to@"
 
 .PkrsStr:
-	db "#rus@"
+	db "#RUS@"
 
 .GreenPage:
 	ld de, .Item
@@ -629,13 +629,13 @@ StatsScreen_LoadGFX:
 	jmp GetItemName
 
 .Item:
-	db "Item@"
+	db "ITEM@"
 
 .ThreeDashes:
 	db "---@"
 
 .Move:
-	db "Moves@"
+	db "MOVES@"
 
 .BluePage:
 	hlcoord 0, 9
@@ -692,7 +692,7 @@ StatsScreen_LoadGFX:
 	farjp PrintNature
 
 .NatureString:
-	db "Nature/@"
+	db "NATURE/@"
 
 .OrangePage:
 ; Fourth stats page code by TPP Anniversary Crystal 251
@@ -729,7 +729,7 @@ StatsScreen_LoadGFX:
 	farjp PrintAbilityDescription
 
 .AbilityString:
-	db "Ability/@"
+	db "ABILITY/@"
 
 .AbilityTiles:
 	; $3f = bold H
@@ -744,7 +744,7 @@ TN_PrintToD:
 	farjp PlaceCaughtTimeOfDayString
 
 .caughtat
-	db "Met/@"
+	db "MET/@"
 
 TN_PrintLocation:
 	farcall BT_InRentalMode
@@ -765,10 +765,10 @@ TN_PrintLocation:
 	ret
 
 .battle_factory
-	db "Battle Factory@"
+	db "BATTLE FACTORY@"
 
 .event
-	db "Event #mon@"
+	db "EVENT #MON@"
 
 TN_PrintLV:
 	ld a, [wTempMonCaughtLevel]
@@ -803,7 +803,7 @@ TN_PrintLV:
 	db "at <LV>@"
 
 .str_hatched
-	db "from Egg@"
+	db "from EGG@"
 
 .str_traded
 	db "by trade@"
@@ -1024,7 +1024,7 @@ EggStatsScreen:
 	jmp PlaySFX
 
 EggString:
-	db   "Egg"
+	db   "EGG"
 	next "OT/?????"
 	next "<ID>№.?????@"
 
@@ -1045,7 +1045,7 @@ EggMoreTimeString:
 	next "more time, though.@"
 
 EggALotMoreTimeString:
-	db   "This Egg needs a"
+	db   "This EGG needs a"
 	next "lot more time to"
 	next "hatch.@"
 

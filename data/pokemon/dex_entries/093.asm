@@ -1,4 +1,4 @@
-	db "Gas@" ; species name
+	db "GAS@" ; species name
 	dw 503, 2 ; height, width
 
 	db   "It hides in the"

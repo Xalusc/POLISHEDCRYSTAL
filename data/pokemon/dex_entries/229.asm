@@ -1,4 +1,4 @@
-	db "Dark@" ; species name
+	db "DARK@" ; species name
 	dw 407, 770 ; height, width
 
 	db   "The pungent-"

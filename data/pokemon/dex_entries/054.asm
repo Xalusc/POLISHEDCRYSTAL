@@ -1,4 +1,4 @@
-	db "Duck@" ; species name
+	db "DUCK@" ; species name
 	dw 207, 430 ; height, width
 
 	db   "The only time it"

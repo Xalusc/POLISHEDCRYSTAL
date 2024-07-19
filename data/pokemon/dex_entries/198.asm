@@ -1,9 +1,9 @@
-	db "Darkness@" ; species name
+	db "DARKNESS@" ; species name
 	dw 108, 50 ; height, width
 
 	db   "It hides any shiny"
 	next "object it finds in"
 	next "a secret location."
-	page "Murkrow and"
-	next "Meowth loot one"
+	page "MURKROW and"
+	next "MEOWTH loot one"
 	next "another's stashes.@"

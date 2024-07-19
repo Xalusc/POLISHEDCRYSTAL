@@ -1,4 +1,4 @@
-	db "Hibernator@" ; species name
+	db "HIBERNATOR@" ; species name
 	dw 511, 2770 ; height, width
 
 	db   "Although it has a"

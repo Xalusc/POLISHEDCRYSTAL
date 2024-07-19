@@ -1,4 +1,4 @@
-	db "Land Snake@" ; species name
+	db "LAND SNAKE@" ; species name
 	dw 411, 310 ; height, width
 
 	db   "It hides deep"

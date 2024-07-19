@@ -641,7 +641,7 @@ GetKeyItemPocketName:
 	jr CopySpecialPocketName
 
 KeyPocketName:
-	db "Key Pocket@"
+	db "KEY POCKET@"
 
 GetTMHMPocketName:
 	ld hl, TMHMPocketName
@@ -652,7 +652,7 @@ CopySpecialPocketName:
 	jmp CopyName2
 
 TMHMPocketName:
-	db "TM Pocket@"
+	db "TM POCKET@"
 
 CurItemName:
 	ld a, [wCurItem]

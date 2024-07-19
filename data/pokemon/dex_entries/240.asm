@@ -1,4 +1,4 @@
-	db "Live Coal@" ; species name
+	db "LIVE COAL@" ; species name
 	dw 204, 470 ; height, width
 
 	db   "It naturally spits"

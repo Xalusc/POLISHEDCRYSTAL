@@ -10,21 +10,21 @@ IrwinRocketTakeoverRumorText:
 	text "<PLAYER>, have you"
 	line "heard?"
 
-	para "Goldenrod's Radio"
-	line "Tower has been"
+	para "GOLDENROD's RADIO"
+	line "TOWER has been"
 
-	para "taken over by Team"
-	line "Rocket!"
+	para "taken over by TEAM"
+	line "ROCKET!"
 
-	para "…Um… What's Team"
-	line "Rocket?"
+	para "…Um… What's TEAM"
+	line "ROCKET?"
 	done
 
 IrwinPlainBadgeGossipText:
 	text "<PLAYER>, I heard!"
 
 	para "You defeated that"
-	line "Whitney?"
+	line "WHITNEY?"
 
 	para "It makes me proud"
 	line "to be your friend!"
@@ -35,9 +35,9 @@ IrwinJasmineReturnedGossipText:
 	line "you!"
 
 	para "You saved that"
-	line "#mon at the"
+	line "#MON at the"
 
-	para "Lighthouse, didn't"
+	para "LIGHTHOUSE, didn't"
 	line "you?"
 
 	para "<PLAYER>, I wish"
@@ -51,14 +51,14 @@ IrwinRocketHideoutGossipText:
 	text "I heard, I heard,"
 	line "I heard!"
 
-	para "You smashed Team"
-	line "Rocket's hideout!"
+	para "You smashed TEAM"
+	line "ROCKET's hideout!"
 
 	para "You're like a"
 	line "movie hero, even!"
 
 	para "But um… What was"
-	line "Team Rocket?"
+	line "TEAM ROCKET?"
 	done
 
 IrwinRadioTowerGossipText:
@@ -68,7 +68,7 @@ IrwinRadioTowerGossipText:
 	para "About your heroic"
 	line "liberation of the"
 
-	para "Radio Tower! You"
+	para "RADIO TOWER! You"
 	line "rock so hard!"
 	done
 
@@ -76,7 +76,7 @@ IrwinRisingBadgeGossipText:
 	text "I saw, I saw!"
 
 	para "I saw you go into"
-	line "the Dragon's Den!"
+	line "the DRAGON'S DEN!"
 
 	para "I'm certain you"
 	line "passed! Aww, no"
@@ -87,9 +87,9 @@ IrwinRisingBadgeGossipText:
 
 IrwinEliteFourGossipText:
 	text "Yesterday, I went"
-	line "out to New Bark"
+	line "out to NEW BARK"
 
-	para "Town.  There was a"
+	para "TOWN.  There was a"
 	line "lady who looked a"
 
 	para "lot like you,"
@@ -131,8 +131,8 @@ IrwinVermilionCityGossipText:
 IrwinTrainPassGossipText:
 	text "I heard, I heard!"
 
-	para "You got a Magnet"
-	line "Train Pass!"
+	para "You got a MAGNET"
+	line "TRAIN PASS!"
 
 	para "When I saw you"
 	line "departing on the"
@@ -144,23 +144,23 @@ IrwinTrainPassGossipText:
 	line "for a while."
 
 	para "But since you have"
-	line "that Pass, you can"
+	line "that PASS, you can"
 
 	para "zip back anytime!"
 	line "That's reassuring!"
 
-	para "What? You can Fly"
+	para "What? You can FLY"
 	line "back anytime?"
 
 	para "What do you mean"
-	line "by Fly?"
+	line "by FLY?"
 	done
 
 IrwinSnorlaxGossipText:
 	text "I saw, I saw!"
 
 	para "You waking up"
-	line "Snorlax!"
+	line "SNORLAX!"
 
 	para "I was watching you"
 	line "from afar, so I"
@@ -204,14 +204,14 @@ IrwinCalledRightAwayText:
 IrwinFogBadgeGossipText:
 	text "I saw, I heard!"
 
-	para "You beat Morty of"
-	line "Ecruteak Gym!"
+	para "You beat MORTY of"
+	line "ECRUTEAK GYM!"
 
 	para "Th-that's just"
 	line "incredible!"
 
 	para "I actually went to"
-	line "the Gym's entrance"
+	line "the GYM's entrance"
 
 	para "to cheer you on."
 	line "Did you know that?"
@@ -232,7 +232,7 @@ IrwinMarshBadgeGossipText:
 	para "You're kicking up"
 	line "a mighty ruckus"
 
-	para "over in Kanto!"
+	para "over in KANTO!"
 	line "What a glorious"
 
 	para "rampage it must"
@@ -268,7 +268,7 @@ IrwinSoMuchToChatAboutText:
 
 	para "Where are you?"
 
-	para "How many Badges do"
+	para "How many BADGES do"
 	line "you have now?"
 
 	para "How much money"
@@ -277,7 +277,7 @@ IrwinSoMuchToChatAboutText:
 	para "How's your mom?"
 
 	para "Have you got lots"
-	line "of #mon?"
+	line "of #MON?"
 
 	para "Is it going to be"
 	line "sunny tomorrow?"
@@ -328,7 +328,7 @@ ArnieLostAMonText:
 
 ArnieBattleRematchText:
 	text "Hey, let's battle"
-	line "our #mon!"
+	line "our #MON!"
 
 	para "I won't lose to"
 	line "you battling or in"
@@ -368,7 +368,7 @@ ArnieSwarmText:
 ArnieHaventSeenRareMonText:
 	text "I haven't had any"
 	line "luck seeing rare"
-	cont "#mon lately…"
+	cont "#MON lately…"
 
 	para "But I know they're"
 	line "out there!"
@@ -390,9 +390,9 @@ ArnieHurryText:
 	line "coming or what?"
 
 	para "You're missing out"
-	line "on seeing Yanma!"
+	line "on seeing YANMA!"
 
-	para "Get down to Route"
+	para "Get down to ROUTE"
 	line "35 right now!"
 	done
 
@@ -619,10 +619,10 @@ ChadObservingWildText:
 	line "observations."
 
 	para "I wish I could"
-	line "become a #mon"
+	line "become a #MON"
 
 	para "researcher like"
-	line "Prof.Oak soon."
+	line "PROF.OAK soon."
 	done
 
 ChadDefeatedMonText:
@@ -677,48 +677,48 @@ ChadHangUpText:
 	done
 
 ChadBlueGossipText:
-	text "Do you know Blue?"
+	text "Do you know BLUE?"
 
-	para "He's Prof.Oak's"
+	para "He's PROF.OAK's"
 	line "grandson and a"
 
-	para "former #mon"
-	line "League Champion!"
+	para "former #MON"
+	line "LEAGUE CHAMPION!"
 
 	para "He's one super"
-	line "#mon trainer!"
+	line "#MON trainer!"
 	done
 
 ChadDaisyGossipText:
-	text "Prof.Oak has a"
+	text "PROF.OAK has a"
 	line "granddaughter"
-	cont "named Daisy."
+	cont "named DAISY."
 
 	para "When she's around,"
 	line "even the most"
 
-	para "ferocious #mon"
+	para "ferocious #MON"
 	line "calm right down."
 	done
 
 ChadProfElmGossipText:
 	text "Everyone's talking"
-	line "about Prof.Elm."
+	line "about PROF.ELM."
 
 	para "He used to be an"
 	line "assistant to the"
-	cont "great Prof.Oak!"
+	cont "great PROF.OAK!"
 
 	para "That is so cool!"
 	line "I envy him!"
 	done
 
 ChadProfOaksDreamGossipText:
-	text "Prof.Oak's dream"
+	text "PROF.OAK's dream"
 	line "is to compile a"
 
 	para "comprehensive"
-	line "#dex."
+	line "#DEX."
 
 	para "I envy you for"
 	line "taking part in"
@@ -726,10 +726,10 @@ ChadProfOaksDreamGossipText:
 	done
 
 ChadKurtGossipText:
-	text "Do you know Kurt,"
-	line "the Ball creator?"
+	text "Do you know KURT,"
+	line "the BALL creator?"
 
-	para "He and Prof.Oak go"
+	para "He and PROF.OAK go"
 	line "back a long way."
 
 	para "I guess great"
@@ -738,17 +738,17 @@ ChadKurtGossipText:
 	done
 
 ChadLeagueGossipText:
-	text "#mon League is"
+	text "#MON LEAGUE is"
 	line "the great gather-"
 	cont "ing place for all"
 
 	para "trainers who wish"
-	line "to become Champ."
+	line "to become CHAMP."
 
-	para "Prof.Oak acts as"
+	para "PROF.OAK acts as"
 	line "an advisor to the"
 
-	para "#mon League's"
+	para "#MON LEAGUE's"
 	line "headquarters."
 
 	para "He really is a"
@@ -756,8 +756,8 @@ ChadLeagueGossipText:
 	done
 
 ChadPokemonTalkGossipText:
-	text "Prof.Oak's #mon"
-	line "Talk is a popular"
+	text "PROF.OAK's #MON"
+	line "TALK is a popular"
 	cont "radio show, right?"
 
 	para "Did you know that"
@@ -766,23 +766,23 @@ ChadPokemonTalkGossipText:
 	para "turn down the show"
 	line "at first?"
 
-	para "But Mary's energy"
+	para "But MARY's energy"
 	line "and persistence"
 	cont "wore him down."
 
-	para "So we have Mary to"
+	para "So we have MARY to"
 	line "thank for it!"
 	done
 
 ChadProfOakTrainerGossipText:
-	text "Prof.Oak used to"
+	text "PROF.OAK used to"
 	line "be a trainer a"
 	cont "long time ago."
 
 	para "But rather than"
 	line "battling, he found"
 
-	para "#mon themselves"
+	para "#MON themselves"
 	line "to be interesting."
 
 	para "So he abandoned"
@@ -793,9 +793,9 @@ ChadProfOakTrainerGossipText:
 	done
 
 ChadDaisyTeaGossipText:
-	text "Prof.Oak has a"
+	text "PROF.OAK has a"
 	line "granddaughter"
-	cont "named Daisy."
+	cont "named DAISY."
 
 	para "She has tea every"
 	line "day for an hour"
@@ -807,12 +807,12 @@ ChadDaisyTeaGossipText:
 	line "join her for tea"
 
 	para "and chat about"
-	line "Prof.Oak."
+	line "PROF.OAK."
 	done
 
 ChadProfOakTravelingGossipText:
 	text "Did you know?"
-	line "Prof.Oak traveled"
+	line "PROF.OAK traveled"
 
 	para "all over the world"
 	line "when he was young."
@@ -820,7 +820,7 @@ ChadProfOakTravelingGossipText:
 	para "While traveling,"
 	line "he must've learned"
 
-	para "about #mon"
+	para "about #MON"
 	line "naturally."
 
 	para "I envy him…"
@@ -832,7 +832,7 @@ ChadProfOakTravelingGossipText:
 
 ChadGoingToStudyHardText:
 	text "I'm going to study"
-	line "hard so Prof.Oak"
+	line "hard so PROF.OAK"
 
 	para "will make me his"
 	line "assistant!"
@@ -867,7 +867,7 @@ DerekCheekPinchingText:
 
 DerekDefeatedMonText:
 	text "Oh, and recently,"
-	line "my Pikachu beat a"
+	line "my PIKACHU beat a"
 	cont "wild "
 	text_ram wStringBuffer4
 	text "!"
@@ -880,10 +880,10 @@ DerekDefeatedMonText:
 	para "Don't you think"
 	line "that's astounding?"
 
-	para "My Pikachu is"
+	para "My PIKACHU is"
 	line "awesome!"
 
-	para "My Pikachu is the"
+	para "My PIKACHU is the"
 	line "greatest!"
 	done
 
@@ -898,7 +898,7 @@ DerekLostAMonText:
 	line "cute, so I left"
 
 	para "it…"
-	line "#mon have to be"
+	line "#MON have to be"
 
 	para "cute. They're no"
 	line "good otherwise."
@@ -920,29 +920,29 @@ DerekBugCatchingContestText:
 	para "I think I'll"
 	line "participate with"
 
-	para "Pikachu to show"
+	para "PIKACHU to show"
 	line "off its cuteness."
 	done
 
 DerekFoundItemText:
 	text "I'd like you to"
-	line "have a Nugget."
+	line "have a NUGGET."
 
-	para "My Pikachu just"
+	para "My PIKACHU just"
 	line "loves it."
 
 	para "I'm certain your"
-	line "Pikachu will love"
+	line "PIKACHU will love"
 	cont "it too!"
 	done
 
 DerekLetsGetTogetherText:
 	text "How is your"
-	line "Pikachu doing?"
+	line "PIKACHU doing?"
 
 	para "Let's get together"
 	line "and brag about our"
-	cont "Pikachu!"
+	cont "PIKACHU!"
 	done
 
 DerekComePickUpText:
@@ -1041,7 +1041,7 @@ TullyNoItemText:
 	done
 
 TullyForwardText:
-	text "Yup, Tully here…"
+	text "Yup, TULLY here…"
 
 	para "<PLAYER>? What?"
 	line "You're lost?"
@@ -1066,7 +1066,7 @@ BrentRareTradeText:
 	text "Oh yeah, I got an"
 	line "extremely rare"
 
-	para "#mon in a trade"
+	para "#MON in a trade"
 	line "a while back."
 
 	para "Do you want to"
@@ -1091,16 +1091,16 @@ BrentDefeatedMonText:
 
 BrentLostAMonText:
 	text "Oh yeah, I saw a"
-	line "rare #mon about"
+	line "rare #MON about"
 	cont "an hour ago."
 
 	para "It was my first"
 	line "sighting. But I"
 
 	para "didn't have any"
-	line "# Balls…"
+	line "# BALLS…"
 
-	para "Would Bill laugh"
+	para "Would BILL laugh"
 	line "at my mistakes?"
 	done
 
@@ -1114,7 +1114,7 @@ BrentBattleRematchText:
 	para "It'll be a chance"
 	line "to see my rare"
 
-	para "#mon. It'll be"
+	para "#MON. It'll be"
 	line "worth your time!"
 
 	para "You know where--"
@@ -1129,45 +1129,45 @@ BrentHangUpText:
 
 BrentFatherGossipText:
 	text "Did you know…?"
-	line "Bill's father is"
+	line "BILL's father is"
 
 	para "supposed to be a"
-	line "great #Maniac."
+	line "great #MANIAC."
 	done
 
 BrentGrandpaGossipText:
 	text "Did you know…?"
-	line "Apparently Bill's"
+	line "Apparently BILL's"
 
 	para "grandpa isn't a"
-	line "#Maniac."
+	line "#MANIAC."
 	done
 
 BrentGoldenrodGossipText:
 	text "Did you know…?"
-	line "Bill's originally"
-	cont "from Goldenrod."
+	line "BILL's originally"
+	cont "from GOLDENROD."
 	done
 
 BrentRoute25GossipText:
 	text "Did you know…?"
-	line "Bill evidently"
+	line "BILL evidently"
 
-	para "lives on Route 25"
-	line "in Kanto."
+	para "lives on ROUTE 25"
+	line "in KANTO."
 	done
 
 BrentAbraGossipText:
 	text "Did you know…?"
-	line "Abra was the first"
+	line "ABRA was the first"
 
-	para "#mon that Bill"
+	para "#MON that BILL"
 	line "ostensibly caught."
 	done
 
 BrentSisterGossipText:
 	text "Did you know…?"
-	line "Bill's younger"
+	line "BILL's younger"
 
 	para "sister apparently"
 	line "can't wink."
@@ -1175,7 +1175,7 @@ BrentSisterGossipText:
 
 BrentMilkGossipText:
 	text "Did you know…?"
-	line "Bill supposedly"
+	line "BILL supposedly"
 
 	para "hates milk and"
 	line "can't drink it."
@@ -1183,7 +1183,7 @@ BrentMilkGossipText:
 
 BrentBattlingGossipText:
 	text "Did you know…?"
-	line "Evidently, Bill"
+	line "Evidently, BILL"
 
 	para "isn't very good at"
 	line "battling."
@@ -1191,23 +1191,23 @@ BrentBattlingGossipText:
 
 BrentFlowerShopGossipText:
 	text "Did you know…?"
-	line "Bill appears to"
+	line "BILL appears to"
 
 	para "like the lady at"
-	line "the Flower Shop."
+	line "the FLOWER SHOP."
 	done
 
 BrentKimonoGirlGossipText:
 	text "Did you know…?"
-	line "Bill's mother is"
+	line "BILL's mother is"
 
 	para "said to have been"
-	line "a Kimono Girl."
+	line "a KIMONO GIRL."
 	done
 
 BrentSorryImTooBusyText:
 	text "You wanted to hear"
-	line "about Bill?"
+	line "about BILL?"
 
 	para "Sorry, but I'm too"
 	line "busy for you."
@@ -1218,7 +1218,7 @@ BrentSorryImTooBusyText:
 
 BrentReminderText:
 	text "You want to see my"
-	line "rare #mon."
+	line "rare #MON."
 
 	para "Hurry over to"
 	line ""
@@ -1248,7 +1248,7 @@ TiffanyDefeatedMonText:
 	text " a while"
 	line "ago…"
 
-	para "My Clefairy came"
+	para "My CLEFAIRY came"
 	line "close to fainting!"
 
 	para "Isn't that awful?"
@@ -1268,7 +1268,7 @@ TiffanyLostAMonText:
 	text " a while"
 	line "ago…"
 
-	para "My Clefairy got"
+	para "My CLEFAIRY got"
 	line "frightened, so we"
 
 	para "ran away as fast"
@@ -1276,7 +1276,7 @@ TiffanyLostAMonText:
 
 	para "I just can't help"
 	line "feeling protective"
-	cont "of my Clefairy."
+	cont "of my CLEFAIRY."
 	done
 
 TiffanyBattleRematchText:
@@ -1287,7 +1287,7 @@ TiffanyBattleRematchText:
 	line "battle?"
 
 	para "I'll be waiting"
-	line "with Clefairy on"
+	line "with CLEFAIRY on"
 	cont ""
 	text_ram wStringBuffer5
 	text "."
@@ -1298,7 +1298,7 @@ TiffanyItsAwfulText:
 	text "!"
 
 	para "It's awful."
-	line "My Clefairy…"
+	line "My CLEFAIRY…"
 
 	para "Huh? <PLAYER>?"
 
@@ -1314,11 +1314,11 @@ TiffanyHangUpText:
 	done
 
 TiffanyFoundItemText:
-	text "I bought some Pink"
-	line "Bows at Goldenrod"
+	text "I bought some PINK"
+	line "BOWS at GOLDENROD"
 
-	para "Dept.Store for my"
-	line "Clefairy."
+	para "DEPT.STORE for my"
+	line "CLEFAIRY."
 
 	para "I got too many, so"
 	line "I'll give you one!"
@@ -1331,14 +1331,14 @@ TiffanyFoundItemText:
 
 TiffanyNoItemText:
 	text "I love dressing up"
-	line "my Clefairy!"
+	line "my CLEFAIRY!"
 	done
 
 TiffanyAsleepText:
 	text "What's wrong?"
 	line "Can't you visit?"
 
-	para "Clefairy got tired"
+	para "CLEFAIRY got tired"
 	line "and fell asleep."
 
 	para "I'm not sure if I"
@@ -1356,7 +1356,7 @@ TiffanyHurryText:
 
 	para "I'm sure this will"
 	line "look good on your"
-	cont "Clefairy."
+	cont "CLEFAIRY."
 
 	para "Please hurry to"
 	line ""
@@ -1392,7 +1392,7 @@ VanceLostAMonText:
 	para "just barely eluded"
 	line "us."
 
-	para "I wanted to Fly"
+	para "I wanted to FLY"
 	line "after it…"
 	done
 
@@ -1426,7 +1426,7 @@ VanceHurryHurryText:
 	para ""
 	text_ram wStringBuffer5
 	text "!"
-	line "Fly over now!"
+	line "FLY over now!"
 	done
 
 WiltonMonHasGrownText:
@@ -1449,7 +1449,7 @@ WiltonDefeatedMonText:
 	line "more fun fishing"
 
 	para "than beating wild"
-	line "#mon."
+	line "#MON."
 	done
 
 WiltonLostAMonText:
@@ -1529,8 +1529,8 @@ WiltonWantThisText:
 	text "…"
 	line "Just head from"
 
-	para "Mahogany toward"
-	line "Blackthorn!"
+	para "MAHOGANY toward"
+	line "BLACKTHORN!"
 	done
 
 KenjiHangUpText:
@@ -1581,7 +1581,7 @@ KenjiHangUpMorningText:
 
 KenjiTakingABreakText:
 	text "I'm taking a break"
-	line "on Route 45!"
+	line "on ROUTE 45!"
 
 	para "Why not drop by if"
 	line "you are free?"
@@ -1683,7 +1683,7 @@ ErinDefeatedMonText:
 	text "!"
 
 	para "I've raised my"
-	line "#mon properly!"
+	line "#MON properly!"
 	done
 
 ErinLostAMonText:
@@ -1698,7 +1698,7 @@ ErinLostAMonText:
 	done
 
 ErinBattleRematchText:
-	text "I'm Erin. Want to"
+	text "I'm ERIN. Want to"
 	line "battle me again?"
 
 	para "I won't lose this"
@@ -1717,7 +1717,7 @@ ErinHangUpText:
 ErinWorkingHardText:
 	text "I'm working hard"
 	line "to raise my"
-	cont "#mon!"
+	cont "#MON!"
 
 	para "Come back for"
 	line "another battle!"
@@ -1725,7 +1725,7 @@ ErinWorkingHardText:
 
 ErinComeBattleText:
 	text "Oh, <PLAYER>!"
-	line "Come battle Erin!"
+	line "Come battle ERIN!"
 
 	para "I'll be waiting on"
 	line ""

@@ -1,4 +1,4 @@
-	db "Long Body@" ; species name
+	db "LONG BODY@" ; species name
 	dw 511, 720 ; height, width
 
 	db   "It lives in narrow"

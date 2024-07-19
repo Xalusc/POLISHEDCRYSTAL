@@ -1,4 +1,4 @@
-	db "Angler@" ; species name
+	db "ANGLER@" ; species name
 	dw 108, 260 ; height, width
 
 	db   "Its antennae, whi-"

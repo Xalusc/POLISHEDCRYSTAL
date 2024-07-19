@@ -271,7 +271,7 @@ InitPokegearTilemap:
 	jmp Pokegear_UpdateClock
 
 .switch
-	db " Switch▶@"
+	db " SWITCH▶@"
 
 .Map:
 	call PokegearMap
@@ -1231,9 +1231,9 @@ PokegearPhoneContactSubmenu:
 .CallDeleteCancelStrings:
 	dwcoord 10, 6
 	db 3
-	db   "Call"
-	next "Delete"
-	next "Cancel@"
+	db   "CALL"
+	next "DELETE"
+	next "CANCEL@"
 
 .CallDeleteCancelJumptable:
 	dw .Call
@@ -1243,8 +1243,8 @@ PokegearPhoneContactSubmenu:
 .CallCancelStrings:
 	dwcoord 10, 8
 	db 2
-	db   "Call"
-	next "Cancel@"
+	db   "CALL"
+	next "CANCEL@"
 
 .CallCancelJumptable:
 	dw .Call
@@ -1533,7 +1533,7 @@ LoadStation_BuenasPassword:
 	ld a, BUENAS_PASSWORD
 	jr LoadRadioStation
 
-BuenasPasswordName: db "Buena's Password@"
+BuenasPasswordName: db "BUENA'S PASSWORD@"
 
 LoadStation_UnownRadio:
 	ld a, UNOWN_RADIO
@@ -1603,15 +1603,15 @@ NoRadioName:
 	ld bc, $412
 	jmp Textbox
 
-OaksPkmnTalkName:     db "Oak's <PK><MN> Talk@"
-PokedexShowName:      db "#dex Show@"
-PokemonMusicName:     db "#mon Music@"
-LuckyChannelName:     db "Lucky Channel@"
+OaksPkmnTalkName:     db "OAK'S <PK><MN> TALK@"
+PokedexShowName:      db "#DEX SHOW@"
+PokemonMusicName:     db "#MON MUSIC@"
+LuckyChannelName:     db "LUCKY CHANNEL@"
 UnknownStationName:   db "?????@"
 
-PlacesAndPeopleName:  db "Places & People@"
-LetsAllSingName:      db "Let's All Sing!@"
-PokeFluteStationName: db "# Flute@"
+PlacesAndPeopleName:  db "PLACES & PEOPLE@"
+LetsAllSingName:      db "LET'S ALL SING!@"
+PokeFluteStationName: db "# FLUTE@"
 
 _TownMap:
 	ld hl, wOptions1
@@ -2354,7 +2354,7 @@ Pokedex_GetArea:
 	ret
 
 .String_SNest:
-	db "'s Nest@"
+	db "'s NEST@"
 
 .GetAndPlaceNest:
 	ld a, [wTownMapCursorLandmark]

@@ -139,24 +139,24 @@ endc
 INCBIN "gfx/new_game/init_bg.2bpp"
 
 .InitialOptionsString:
-	db "Natures<LNBRK>"
+	db "NATURES<LNBRK>"
 	db "            :<LNBRK>"
-	db "Abilities<LNBRK>"
+	db "ABILITIES<LNBRK>"
 	db "            :<LNBRK>"
-	db "Phys/Spcl split<LNBRK>"
+	db "PHYS/SPCL SPLIT<LNBRK>"
 	db "            :<LNBRK>"
-	db "Exp. scaling<LNBRK>"
+	db "EXP. SCALING<LNBRK>"
 	db "            :<LNBRK>"
-	db "IVs vary colors<LNBRK>"
+	db "IVs VARY COLORS<LNBRK>"
 	db "            :<LNBRK>"
-	db "Perfect stats<LNBRK>"
+	db "PERFECT STATS<LNBRK>"
 	db "            :<LNBRK>"
-	db "Traded #mon<LNBRK>"
-	db "treat you as OT<LNBRK>"
+	db "TRADED #MON<LNBRK>"
+	db "TREAT YOU AS OT<LNBRK>"
 	db "            :<LNBRK>"
-	db "Nuzlocke mode<LNBRK>"
+	db "NUZLOCKE MODE<LNBRK>"
 	db "            :<LNBRK>"
-	db "Done@"
+	db "DONE@"
 
 GetInitialOptionPointer:
 	call StandardStackJumpTable
@@ -378,9 +378,9 @@ InitialOptions_Done:
 	ret
 
 NoString:
-	db "No @"
+	db "NO @"
 YesString:
-	db "Yes@"
+	db "YES@"
 
 InitialOptionsControl:
 	ld hl, wJumptableIndex

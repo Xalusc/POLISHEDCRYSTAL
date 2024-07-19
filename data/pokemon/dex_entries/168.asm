@@ -1,4 +1,4 @@
-	db "Long Leg@" ; species name
+	db "LONG LEG@" ; species name
 	dw 307, 740 ; height, width
 
 	db   "Rather than mak-"

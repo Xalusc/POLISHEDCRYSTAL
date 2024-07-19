@@ -677,7 +677,7 @@ InitTradeSpeciesList:
 INCBIN "gfx/trade/border.tilemap"
 
 .Cancel:
-	db "Cancel@"
+	db "CANCEL@"
 
 PlaceTradePartnerNamesAndParty:
 	hlcoord 4, 0
@@ -1212,7 +1212,7 @@ LinkTrade_TradeStatsMenu:
 	text_end
 
 .String_Stats_Trade:
-	db "Stats     Trade@"
+	db "STATS     TRADE@"
 
 .Text_Abnormal:
 	; Your friend's @  appears to be abnormal!
@@ -1729,8 +1729,8 @@ LinkTrade:
 	jmp Gen2ToGen2LinkComms
 
 .TradeCancel:
-	db   "Trade"
-	next "Cancel@"
+	db   "TRADE"
+	next "CANCEL@"
 
 .TradeThisForThat:
 	; Trade @ for @ ?

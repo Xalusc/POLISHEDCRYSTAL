@@ -454,7 +454,7 @@ ScrollingMenu_UpdateDisplay:
 	jmp FarPointerCall
 
 ScrollingMenu_CancelString:
-	db "Cancel@"
+	db "CANCEL@"
 
 ScrollingMenu_CallFunctions1and2:
 	push hl

@@ -1,4 +1,4 @@
-	db "String Spit@" ; species name
+	db "STRING SPIT@" ; species name
 	dw 108, 190 ; height, width
 
 	db   "If prey becomes"

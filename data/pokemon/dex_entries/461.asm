@@ -1,4 +1,4 @@
-	db "Sharp Claw@" ; species name
+	db "SHARP CLAW@" ; species name
 	dw 307, 750 ; height, width
 
 	db   "Evolution made it"

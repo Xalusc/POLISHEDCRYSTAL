@@ -1,4 +1,4 @@
-	db "Bivalve@" ; species name
+	db "BIVALVE@" ; species name
 	dw 411, 2920 ; height, width
 
 	db   "Even a missile"

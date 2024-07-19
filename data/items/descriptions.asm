@@ -290,50 +290,50 @@ KeyItemDescriptions:
 
 PokeBallDesc:
 	db   "An item for catch-"
-	next "ing #mon.@"
+	next "ing #MON.@"
 
 GreatBallDesc:
-	db   "A Ball with a de-"
+	db   "A BALL with a de-"
 	next "cent success rate.@"
 
 UltraBallDesc:
-	db   "A Ball with a high"
+	db   "A BALL with a high"
 	next "rate of success.@"
 
 MasterBallDesc:
-	db   "The best Ball. It"
+	db   "The best BALL. It"
 	next "never misses.@"
 
 SafariBallDesc:
-	db   "The Safari Game"
-	next "Ball.@"
+	db   "The SAFARI GAME"
+	next "BALL.@"
 
 LevelBallDesc:
-	db   "A Ball for lower-"
-	next "level #mon.@"
+	db   "A BALL for lower-"
+	next "level #MON.@"
 
 LureBallDesc:
-	db   "A Ball for #mon"
-	next "hooked by a Rod.@"
+	db   "A BALL for #MON"
+	next "hooked by a ROD.@"
 
 MoonBallDesc:
-	db   "A Ball for Moon"
-	next "Stone evolvers.@"
+	db   "A BALL for MOON"
+	next "STONE evolvers.@"
 
 FriendBallDesc:
-	db   "A Ball that makes"
-	next "#mon friendly.@"
+	db   "A BALL that makes"
+	next "#MON friendly.@"
 
 FastBallDesc:
-	db   "A Ball for catch-"
-	next "ing fast #mon.@"
+	db   "A BALL for catch-"
+	next "ing fast #MON.@"
 
 HeavyBallDesc:
-	db   "A Ball for catch-"
-	next "ing heavy #mon.@"
+	db   "A BALL for catch-"
+	next "ing heavy #MON.@"
 
 LoveBallDesc:
-	db   "A Ball for the"
+	db   "A BALL for the"
 	next "opposite gender.@"
 
 AbilityPatchDesc:
@@ -341,88 +341,88 @@ AbilityPatchDesc:
 	next "rare ability.@"
 
 RepeatBallDesc:
-	db   "A Ball for #mon"
+	db   "A BALL for #MON"
 	next "caught before.@"
 
 TimerBallDesc:
-	db   "A Ball for late"
+	db   "A BALL for late"
 	next "in a battle.@"
 
 NestBallDesc:
-	db   "A Ball for weaker"
-	next "#mon.@"
+	db   "A BALL for weaker"
+	next "#MON.@"
 
 NetBallDesc:
-	db   "A Ball for Water"
-	next "or Bug #mon.@"
+	db   "A BALL for water"
+	next "or bug #MON.@"
 
 DiveBallDesc:
-	db   "A Ball for under-"
-	next "water #mon.@"
+	db   "A BALL for under-"
+	next "water #MON.@"
 
 LuxuryBallDesc:
-	db   "A cozy Ball to"
-	next "befriend #mon.@"
+	db   "A cozy BALL to"
+	next "befriend #MON.@"
 
 HealBallDesc:
-	db   "A remedial Ball to"
-	next "heal #mon.@"
+	db   "A remedial BALL to"
+	next "heal #MON.@"
 
 QuickBallDesc:
-	db   "A Ball for early"
+	db   "A BALL for early"
 	next "in a battle.@"
 
 DuskBallDesc:
-	db   "A Ball for night-"
+	db   "A BALL for night-"
 	next "time or caves.@"
 
 DreamBallDesc:
-	db   "A Ball for sleep-"
-	next "ing #mon.@"
+	db   "A BALL for sleep-"
+	next "ing #MON.@"
 
 PremierBallDesc:
 	db   "A rare commemor-"
-	next "ative Ball.@"
+	next "ative BALL.@"
 
 CherishBallDesc:
 	db   "A quite rare com-"
-	next "memorative Ball.@"
+	next "memorative BALL.@"
 
 PotionDesc:
-	db   "Restores #mon"
+	db   "Restores #MON"
 	next "HP by 20.@"
 
 SuperPotionDesc:
-	db   "Restores #mon"
+	db   "Restores #MON"
 	next "HP by 60.@"
 
 HyperPotionDesc:
-	db   "Restores #mon"
+	db   "Restores #MON"
 	next "HP by 120.@"
 
 MaxPotionDesc:
 	db   "Fully restores"
-	next "#mon HP.@"
+	next "#MON HP.@"
 
 AntidoteDesc:
 	db   "Cures poisoned"
-	next "#mon.@"
+	next "#MON.@"
 
 BurnHealDesc:
 	db   "Heals burned"
-	next "#mon.@"
+	next "#MON.@"
 
 ParlyzHealDesc:
 	db   "Heals paralyzed"
-	next "#mon.@"
+	next "#MON.@"
 
 AwakeningDesc:
 	db   "Awakens sleeping"
-	next "#mon.@"
+	next "#MON.@"
 
 IceHealDesc:
 	db   "Defrosts frozen"
-	next "#mon.@"
+	next "#MON.@"
 
 FullHealDesc:
 RageCandyBarDesc:
@@ -436,11 +436,11 @@ FullRestoreDesc:
 
 ReviveDesc:
 	db   "Restores a fainted"
-	next "#mon to 1/2 HP.@"
+	next "#MON to 1/2 HP.@"
 
 MaxReviveDesc:
 	db   "Fully restores a"
-	next "fainted #mon.@"
+	next "fainted #MON.@"
 
 EtherDesc:
 	db   "Restores PP of one"
@@ -456,35 +456,35 @@ ElixirDesc:
 
 MaxElixirDesc:
 	db   "Fully restores the"
-	next "PP of one #mon.@"
+	next "PP of one #MON.@"
 
 HPUpDesc:
 	db   "Raises the HP of"
-	next "one #mon.@"
+	next "one #MON.@"
 
 ProteinDesc:
-	db   "Raises Attack of"
-	next "one #mon.@"
+	db   "Raises ATTACK of"
+	next "one #MON.@"
 
 IronDesc:
-	db   "Raises Defense of"
-	next "one #mon.@"
+	db   "Raises DEFENSE of"
+	next "one #MON.@"
 
 CarbosDesc:
-	db   "Raises Speed of"
-	next "one #mon.@"
+	db   "Raises SPEED of"
+	next "one #MON.@"
 
 CalciumDesc:
-	db   "Raises Spcl.Atk"
-	next "of one #mon.@"
+	db   "Raises SPCL.ATK"
+	next "of one #MON.@"
 
 ZincDesc:
-	db   "Raises Spcl.Def"
-	next "of one #mon.@"
+	db   "Raises SPCL.DEF"
+	next "of one #MON.@"
 
 RareCandyDesc:
 	db   "Raises level of a"
-	next "#mon by one.@"
+	next "#MON by one.@"
 
 PPUpDesc:
 	db   "Raises max PP of"
@@ -495,31 +495,31 @@ PPMaxDesc:
 	next "a selected move.@"
 
 FreshWaterDesc:
-	db   "Restores #mon"
+	db   "Restores #MON"
 	next "HP by 30.@"
 
 SodaPopDesc:
-	db   "Restores #mon"
+	db   "Restores #MON"
 	next "HP by 50.@"
 
 LemonadeDesc:
-	db   "Restores #mon"
+	db   "Restores #MON"
 	next "HP by 70.@"
 
 MoomooMilkDesc:
-	db   "Restores #mon"
+	db   "Restores #MON"
 	next "HP by 100.@"
 
 SacredAshDesc:
 	db   "Fully revives all"
-	next "fainted #mon.@"
+	next "fainted #MON.@"
 
 EnergyPowderDesc:
-	db   "Restores #mon"
+	db   "Restores #MON"
 	next "HP by 60. Bitter.@"
 
 EnergyRootDesc:
-	db   "Restores #mon"
+	db   "Restores #MON"
 	next "HP by 120. Bitter.@"
 
 HealPowderDesc:
@@ -528,26 +528,26 @@ HealPowderDesc:
 
 RevivalHerbDesc:
 	db   "Revives fainted"
-	next "#mon. Bitter.@"
+	next "#MON. Bitter.@"
 
 XAttackDesc:
-	db   "Raises Attack."
+	db   "Raises ATTACK."
 	next "(1 battle)@"
 
 XDefendDesc:
-	db   "Raises Defense."
+	db   "Raises DEFENSE."
 	next "(1 battle)@"
 
 XSpeedDesc:
-	db   "Raises Speed."
+	db   "Raises SPEED."
 	next "(1 battle)@"
 
 XSpclAtkDesc:
-	db   "Raises Spcl. Atk."
+	db   "Raises SPCL.ATK."
 	next "(1 battle)@"
 
 XSpclDefDesc:
-	db   "Raises Spcl. Def."
+	db   "Raises SPCL.DEF."
 	next "(1 battle)@"
 
 DireHitDesc:
@@ -564,15 +564,15 @@ XAccuracyDesc:
 
 RepelDesc:
 	db   "Repels weak #-"
-	next "mon for 100 steps.@"
+	next "MON for 100 steps.@"
 
 SuperRepelDesc:
 	db   "Repels weak #-"
-	next "mon for 200 steps.@"
+	next "MON for 200 steps.@"
 
 MaxRepelDesc:
 	db   "Repels weak #-"
-	next "mon for 250 steps.@"
+	next "MON for 250 steps.@"
 
 EscapeRopeDesc:
 	db   "Use for escaping"
@@ -580,11 +580,11 @@ EscapeRopeDesc:
 
 PokeDollDesc:
 	db   "Use to escape from"
-	next "a wild #mon.@"
+	next "a wild #MON.@"
 
 AbilityCapDesc:
 	db   "Switches a #-"
-	next "mon's ability.@"
+	next "MON's ability.@"
 
 LeafStoneDesc:
 FireStoneDesc:
@@ -597,59 +597,59 @@ DawnStoneDesc:
 ShinyStoneDesc:
 IceStoneDesc:
 	db   "Evolves certain"
-	next "kinds of #mon.@"
+	next "kinds of #MON.@"
 
 EverstoneDesc:
 	db   "Stops evolution."
-	next "(Hold)@"
+	next "(HOLD)@"
 
 ExpShareDesc:
-	db   "Shares battle Exp."
-	next "Points. (Hold)@"
+	db   "Shares battle EXP."
+	next "Points. (HOLD)@"
 
 CheriBerryDesc:
 	db   "A self-cure for"
-	next "paralysis. (Hold)@"
+	next "paralysis. (HOLD)@"
 
 ChestoBerryDesc:
 	db   "A self-awakening"
-	next "for sleep. (Hold)@"
+	next "for sleep. (HOLD)@"
 
 PechaBerryDesc:
 	db   "A self-cure for"
-	next "poison. (Hold)@"
+	next "poison. (HOLD)@"
 
 RawstBerryDesc:
 	db   "A self-heal for a"
-	next "burn. (Hold)@"
+	next "burn. (HOLD)@"
 
 AspearBerryDesc:
 	db   "A self-cure for"
-	next "freezing. (Hold)@"
+	next "freezing. (HOLD)@"
 
 LeppaBerryDesc:
 	db   "A self-restore"
-	next "item. (10<BOLDP><BOLDP>, Hold)@"
+	next "item. (10<BOLDP><BOLDP>, HOLD)@"
 
 OranBerryDesc:
 	db   "A self-restore"
-	next "item. (10HP, Hold)@"
+	next "item. (10HP, HOLD)@"
 
 PersimBerryDesc:
 	db   "A self-cure for"
-	next "confusion. (Hold)@"
+	next "confusion. (HOLD)@"
 
 LumBerryDesc:
 	db   "Cures all status"
-	next "problems. (Hold)@"
+	next "problems. (HOLD)@"
 
 SitrusBerryDesc:
 	db   "Self-restore item."
-	next "(1/4 max HP, Hold)@"
+	next "(1/4 max HP, HOLD)@"
 
 FigyBerryDesc:
 	db   "Self-restore item."
-	next "(1/3 max HP, Hold)@"
+	next "(1/3 max HP, HOLD)@"
 
 PomegBerryDesc:
 	db   "Raises friendship"
@@ -657,42 +657,42 @@ PomegBerryDesc:
 
 KelpsyBerryDesc:
 	db   "Raises friendship"
-	next "but lowers Attack.@"
+	next "but lowers ATTACK.@"
 
 QualotBerryDesc:
 	db   "Raises friendship,"
-	next "lowers Defense.@"
+	next "lowers DEFENSE.@"
 
 HondewBerryDesc:
 	db   "Raises friendship,"
-	next "lowers Spcl.Atk.@"
+	next "lowers SPCL.ATK.@"
 
 GrepaBerryDesc:
 	db   "Raises friendship,"
-	next "lowers Spcl.Def.@"
+	next "lowers SPCL.DEF.@"
 
 TamatoBerryDesc:
 	db   "Raises friendship"
-	next "but lowers Speed.@"
+	next "but lowers SPEED.@"
 
 LiechiBerryDesc:
-	db   "Raises Attack in"
+	db   "Raises ATTACK in"
 	next "a pinch.@"
 
 GanlonBerryDesc:
-	db   "Raises Defense in"
+	db   "Raises DEFENSE in"
 	next "a pinch.@"
 
 SalacBerryDesc:
-	db   "Raises Speed in"
+	db   "Raises SPEED in"
 	next "a pinch.@"
 
 PetayaBerryDesc:
-	db   "Raises Spcl.Atk"
+	db   "Raises SPCL.ATK"
 	next "in a pinch.@"
 
 ApicotBerryDesc:
-	db   "Raises Spcl.Def"
+	db   "Raises SPCL.DEF"
 	next "in a pinch.@"
 
 LansatBerryDesc:
@@ -720,138 +720,138 @@ RowapBerryDesc:
 	next "a special hit.@"
 
 KeeBerryDesc:
-	db   "Raises Defense on"
+	db   "Raises DEFENSE on"
 	next "a physical hit.@"
 
 MarangaBerryDesc:
-	db   "Raises Spcl.Def on"
+	db   "Raises SPCL.DEF on"
 	next "a special hit.@"
 
 BerryJuiceDesc:
 	db   "A self-restore"
-	next "item. (20HP, Hold)@"
+	next "item. (20HP, HOLD)@"
 
 SilkScarfDesc:
-	db   "Powers up Normal-"
-	next "type moves. (Hold)@"
+	db   "Powers up normal-"
+	next "type moves. (HOLD)@"
 
 BlackBeltDesc:
-	db   "Boosts Fighting-"
-	next "type moves. (Hold)@"
+	db   "Boosts fighting-"
+	next "type moves. (HOLD)@"
 
 SharpBeakDesc:
-	db   "Powers up Flying-"
-	next "type moves. (Hold)@"
+	db   "Powers up flying-"
+	next "type moves. (HOLD)@"
 
 PoisonBarbDesc:
-	db   "Powers up Poison-"
-	next "type moves. (Hold)@"
+	db   "Powers up poison-"
+	next "type moves. (HOLD)@"
 
 SoftSandDesc:
-	db   "Powers up Ground-"
-	next "type moves. (Hold)@"
+	db   "Powers up ground-"
+	next "type moves. (HOLD)@"
 
 HardStoneDesc:
-	db   "Powers up Rock-"
-	next "type moves. (Hold)@"
+	db   "Powers up rock-"
+	next "type moves. (HOLD)@"
 
 SilverPowderDesc:
-	db   "Powers up Bug-type"
-	next "moves. (Hold)@"
+	db   "Powers up bug-type"
+	next "moves. (HOLD)@"
 
 SpellTagDesc:
-	db   "Powers up Ghost-"
-	next "type moves. (Hold)@"
+	db   "Powers up ghost-"
+	next "type moves. (HOLD)@"
 
 MetalCoatDesc:
-	db   "Powers up Steel-"
-	next "type moves. (Hold)@"
+	db   "Powers up steel-"
+	next "type moves. (HOLD)@"
 
 CharcoalDesc:
-	db   "Powers up Fire-"
-	next "type moves. (Hold)@"
+	db   "Powers up fire-"
+	next "type moves. (HOLD)@"
 
 MysticWaterDesc:
-	db   "Powers up Water-"
-	next "type moves. (Hold)@"
+	db   "Powers up water-"
+	next "type moves. (HOLD)@"
 
 MiracleSeedDesc:
-	db   "Powers up Grass-"
-	next "type moves. (Hold)@"
+	db   "Powers up grass-"
+	next "type moves. (HOLD)@"
 
 MagnetDesc:
-	db   "Boosts Electric-"
-	next "type moves. (Hold)@"
+	db   "Boosts electric-"
+	next "type moves. (HOLD)@"
 
 TwistedSpoonDesc:
-	db   "Powers up Psychic-"
-	next "type moves. (Hold)@"
+	db   "Powers up psychic-"
+	next "type moves. (HOLD)@"
 
 NeverMeltIceDesc:
-	db   "Powers up Ice-type"
-	next "moves. (Hold)@"
+	db   "Powers up ice-type"
+	next "moves. (HOLD)@"
 
 DragonFangDesc:
-	db   "Powers up Dragon-"
-	next "type moves. (Hold)@"
+	db   "Powers up dragon-"
+	next "type moves. (HOLD)@"
 
 BlackGlassesDesc:
-	db   "Powers up Dark-"
-	next "type moves. (Hold)@"
+	db   "Powers up dark-"
+	next "type moves. (HOLD)@"
 
 PinkBowDesc:
-	db   "Powers up Fairy-"
-	next "type moves. (Hold)@"
+	db   "Powers up fairy-"
+	next "type moves. (HOLD)@"
 
 BrightPowderDesc:
 	db   "Lowers the foe's"
-	next "accuracy. (Hold)@"
+	next "accuracy. (HOLD)@"
 
 ScopeLensDesc:
 RazorClawDesc:
 	db   "Raises critical"
-	next "hit ratio. (Hold)@"
+	next "hit ratio. (HOLD)@"
 
 QuickClawDesc:
 	db   "Boosts chances of"
-	next "moving 1st. (Hold)@"
+	next "moving 1st. (HOLD)@"
 
 KingsRockDesc:
 RazorFangDesc:
 	db   "May make the foe"
-	next "flinch. (Hold)@"
+	next "flinch. (HOLD)@"
 
 FocusBandDesc:
 	db   "May prevent faint-"
-	next "ing. (Hold)@"
+	next "ing. (HOLD)@"
 
 LeftoversDesc:
 	db   "Restores HP during"
-	next "battle. (Hold)@"
+	next "battle. (HOLD)@"
 
 LuckyEggDesc:
-	db   "Earns extra Exp."
-	next "points. (Hold)@"
+	db   "Earns extra EXP."
+	next "points. (HOLD)@"
 
 AmuletCoinDesc:
 	db   "Doubles monetary"
-	next "earnings. (Hold)@"
+	next "earnings. (HOLD)@"
 
 CleanseTagDesc:
 	db   "Helps repel wild"
-	next "#mon. (Hold)@"
+	next "#MON. (HOLD)@"
 
 SmokeBallDesc:
 	db   "Escape from wild"
-	next "#mon. (Hold)@"
+	next "#MON. (HOLD)@"
 
 BerserkGeneDesc:
-	db   "Boosts Attack but"
+	db   "Boosts ATTACK but"
 	next "causes confusion.@"
 
 LightBallDesc:
 	db   "An odd, electrical"
-	next "orb. (Hold)@"
+	next "orb. (HOLD)@"
 
 StickDesc:
 	db   "An ordinary stick."
@@ -863,43 +863,43 @@ ThickClubDesc:
 
 LuckyPunchDesc:
 	db   "Ups critical hit"
-	next "ratio of Chansey.@"
+	next "ratio of CHANSEY.@"
 
 MetalPowderDesc:
-	db   "Raises Defense of"
-	next "Ditto. (Hold)@"
+	db   "Raises DEFENSE of"
+	next "DITTO. (HOLD)@"
 
 QuickPowderDesc:
-	db   "Raises Speed of"
-	next "Ditto. (Hold)@"
+	db   "Raises SPEED of"
+	next "DITTO. (HOLD)@"
 
 ArmorSuitDesc:
 	db   "A suit of armor"
-	next "for some #mon.@"
+	next "for some #MON.@"
 
 AirBalloonDesc:
-	db   "Avoids one Ground"
-	next "attack. (Hold)@"
+	db   "Avoids one ground"
+	next "attack. (HOLD)@"
 
 AssaultVestDesc:
-	db   "Ups Spcl.Def, but"
+	db   "Ups SPCL.DEF, but"
 	next "bans status moves.@"
 
 BigRootDesc:
 	db   "Powers up draining"
-	next "moves. (Hold)@"
+	next "moves. (HOLD)@"
 
 BindingBandDesc:
 	db   "Powers up trapping"
-	next "moves. (Hold)@"
+	next "moves. (HOLD)@"
 
 DestinyKnotDesc:
 	db   "Infatuates the foe"
-	next "back. (Hold)@"
+	next "back. (HOLD)@"
 
 ExpertBeltDesc:
 	db   "Ups super effect-"
-	next "ive moves. (Hold)@"
+	next "ive moves. (HOLD)@"
 
 FocusSashDesc:
 	db   "Endures one OHKO"
@@ -911,7 +911,7 @@ GripClawDesc:
 
 LifeOrbDesc:
 	db   "Powers up moves"
-	next "with HP. (Hold)@"
+	next "with HP. (HOLD)@"
 
 LightClayDesc:
 	db   "Extends duration"
@@ -919,7 +919,7 @@ LightClayDesc:
 
 MetronomeIDesc:
 	db   "Powers up moves"
-	next "used again. (Hold)@"
+	next "used again. (HOLD)@"
 
 ProtectPadsDesc:
 	db   "Protects from"
@@ -927,7 +927,7 @@ ProtectPadsDesc:
 
 RockyHelmetDesc:
 	db   "Damages foe on"
-	next "contact. (Hold)@"
+	next "contact. (HOLD)@"
 
 SafeGogglesDesc:
 	db   "Protects from"
@@ -935,15 +935,15 @@ SafeGogglesDesc:
 
 ShedShellDesc:
 	db   "Allows switching"
-	next "out. (Hold)@"
+	next "out. (HOLD)@"
 
 ShellBellDesc:
 	db   "Self-restore item."
-	next "(1/8 damage, Hold)@"
+	next "(1/8 damage, HOLD)@"
 
 SootheBellDesc:
 	db   "Calms and fosters"
-	next "friendship. (Hold)@"
+	next "friendship. (HOLD)@"
 
 WeakPolicyDesc:
 	db   "Super effective"
@@ -951,7 +951,7 @@ WeakPolicyDesc:
 
 WideLensDesc:
 	db   "Slightly boosts"
-	next "accuracy. (Hold)@"
+	next "accuracy. (HOLD)@"
 
 ZoomLensDesc:
 	db   "Boosts accuracy"
@@ -963,7 +963,7 @@ MentalHerbDesc:
 
 PowerHerbDesc:
 	db   "Skips charging"
-	next "of moves. (Hold)@"
+	next "of moves. (HOLD)@"
 
 WhiteHerbDesc:
 	db   "A self-cure for"
@@ -971,11 +971,11 @@ WhiteHerbDesc:
 
 DampRockDesc:
 	db   "Extends duration"
-	next "of rain. (Hold)@"
+	next "of rain. (HOLD)@"
 
 HeatRockDesc:
 	db   "Extends duration"
-	next "of sun. (Hold)@"
+	next "of sun. (HOLD)@"
 
 SmoothRockDesc:
 	db   "Extends duration"
@@ -983,87 +983,87 @@ SmoothRockDesc:
 
 IcyRockDesc:
 	db   "Extends duration"
-	next "of hail. (Hold)@"
+	next "of hail. (HOLD)@"
 
 ChoiceBandDesc:
-	db   "Boosts Attack, but"
+	db   "Boosts ATTACK, but"
 	next "allows one move.@"
 
 ChoiceScarfDesc:
-	db   "Boosts Speed, but"
+	db   "Boosts SPEED, but"
 	next "allows one move.@"
 
 ChoiceSpecsDesc:
-	db   "Boosts Sp.Atk, but"
+	db   "Boosts SP.ATK, but"
 	next "allows one move.@"
 
 FlameOrbDesc:
 	db   "Causes a burn."
-	next "(Hold)@"
+	next "(HOLD)@"
 
 ToxicOrbDesc:
 	db   "Causes bad poison."
-	next "(Hold)@"
+	next "(HOLD)@"
 
 BlackSludgeDesc:
 	db   "Restores HP for"
-	next "Poison #mon.@"
+	next "poison #MON.@"
 
 MachoBraceDesc:
 	db   "Boosts stat gain,"
-	next "but lowers Speed.@"
+	next "but lowers SPEED.@"
 
 PowerWeightDesc:
 	db   "Boosts HP gain,"
-	next "but lowers Speed.@"
+	next "but lowers SPEED.@"
 
 PowerBracerDesc:
-	db   "Ups Attack gain,"
-	next "but lowers Speed.@"
+	db   "Ups ATTACK gain,"
+	next "but lowers SPEED.@"
 
 PowerBeltDesc:
-	db   "Ups Defense gain,"
-	next "but lowers Speed.@"
+	db   "Ups DEFENSE gain,"
+	next "but lowers SPEED.@"
 
 PowerLensDesc:
-	db   "Ups Spcl.Atk gain,"
-	next "but lowers Speed.@"
+	db   "Ups SPCL.ATK gain,"
+	next "but lowers SPEED.@"
 
 PowerBandDesc:
-	db   "Ups Spcl.Def gain,"
-	next "but lowers Speed.@"
+	db   "Ups SPCL.DEF gain,"
+	next "but lowers SPEED.@"
 
 PowerAnkletDesc:
-	db   "Ups Speed gain,"
-	next "but lowers Speed.@"
+	db   "Ups SPEED gain,"
+	next "but lowers SPEED.@"
 
 MulchDesc:
 	db   "Plant fertilizer"
-	next "for Berry trees.@"
+	next "for BERRY trees.@"
 
 SweetHoneyDesc:
 	db   "The aroma attracts"
-	next "wild #mon.@"
+	next "wild #MON.@"
 
 EvioliteDesc:
-	db   "Ups Def and Spcl."
-	next "Def of evolvers.@"
+	db   "Ups DEF and SPCL."
+	next "DEF of evolvers.@"
 
 MuscleBandDesc:
 	db   "Powers up physical"
-	next "moves. (Hold)@"
+	next "moves. (HOLD)@"
 
 WiseGlassesDesc:
 	db   "Powers up special"
-	next "moves. (Hold)@"
+	next "moves. (HOLD)@"
 
 DragonScaleDesc:
-	db   "A rare Dragon-type"
+	db   "A rare dragon-type"
 	next "item.@"
 
 UpGradeDesc:
 	db   "A mysterious box"
-	next "made by Silph Co.@"
+	next "made by SILPH CO.@"
 
 DubiousDiscDesc:
 	db   "A transparent disc"
@@ -1152,107 +1152,107 @@ BottleCapDesc:
 HelixFossilDesc:
 DomeFossilDesc:
 	db   "A fossilized"
-	next "#mon shell.@"
+	next "#MON shell.@"
 
 OldAmberDesc:
 	db   "Fossilized resin"
 	next "containing DNA.@"
 
 FlowerMailDesc:
-	db   "Flower-print Mail."
-	next "(Hold)@"
+	db   "Flower-print MAIL."
+	next "(HOLD)@"
 
 SurfMailDesc:
-	db   "Lapras-print Mail."
-	next "(Hold)@"
+	db   "LAPRAS-print MAIL."
+	next "(HOLD)@"
 
 LiteBlueMailDesc:
-	db   "Dratini-print"
-	next "Mail. (Hold)@"
+	db   "DRATINI-print"
+	next "MAIL. (HOLD)@"
 
 PortraitMailDesc:
-	db   "Mail featuring the"
+	db   "MAIL featuring the"
 	next "holder's likeness.@"
 
 LovelyMailDesc:
-	db   "Heart-print Mail."
-	next "(Hold)@"
+	db   "Heart-print MAIL."
+	next "(HOLD)@"
 
 EonMailDesc:
-	db   "Eevee-print Mail."
-	next "(Hold)@"
+	db   "EEVEE-print MAIL."
+	next "(HOLD)@"
 
 MorphMailDesc:
-	db   "Ditto-print Mail."
-	next "(Hold)@"
+	db   "DITTO-print MAIL."
+	next "(HOLD)@"
 
 BlueSkyMailDesc:
-	db   "Sky-print Mail."
-	next "(Hold)@"
+	db   "Sky-print MAIL."
+	next "(HOLD)@"
 
 MusicMailDesc:
-	db   "Natu-print Mail."
-	next "(Hold)@"
+	db   "NATU-print MAIL."
+	next "(HOLD)@"
 
 MirageMailDesc:
-	db   "Mew-print Mail."
-	next "(Hold)@"
+	db   "MEW-print MAIL."
+	next "(HOLD)@"
 
 EjectButtonDesc:
 	db   "Switches out when"
-	next "hit. (Hold)@"
+	next "hit. (HOLD)@"
 
 LaggingTailDesc:
 	db   "Always moves last."
-	next "(Hold)@"
+	next "(HOLD)@"
 
 IronBallDesc:
-	db   "Lowers Speed and"
-	next "grounds. (Hold)@" 
+	db   "Lowers SPEED and"
+	next "grounds. (HOLD)@" 
 
 RingTargetDesc:
 	db   "Loses type immun-"
-	next "ities. (Hold)@"
+	next "ities. (HOLD)@"
 
 RedCardDesc:
 	db   "Switches out foe"
-	next "when hit. (Hold)@"
+	next "when hit. (HOLD)@"
 
 AbsorbBulbDesc:
-	db   "Raises Spcl.Atk on"
-	next "a Water hit.@"
+	db   "Raises SPCL.ATK on"
+	next "a water hit.@"
 
 CellBatteryDesc:
-	db   "Raises Attack on"
-	next "an Electric hit.@"
+	db   "Raises ATTACK on"
+	next "an electric hit.@"
 
 LuminousMossDesc:
-	db   "Raises Spcl.Def on"
-	next "a Water hit.@"
+	db   "Raises SPCL.DEF on"
+	next "a water hit.@"
 
 SnowballDesc:
-	db   "Raises Attack on"
-	next "an Ice hit.@"
+	db   "Raises ATTACK on"
+	next "an ice hit.@"
 
 EjectPackDesc:
 	db   "Switches out when"
-	next "stats fall. (Hold)@"
+	next "stats fall. (HOLD)@"
 
 RoomServiceDesc:
-	db   "Lowers Speed in"
-	next "Trick Room. (Hold)@"
+	db   "Lowers SPEED in"
+	next "TRICK ROOM. (HOLD)@"
 
 BlundrPolicyDesc:
-	db   "Raises Speed when"
+	db   "Raises SPEED when"
 	next "a move misses.@"
 
 ThroatSprayDesc:
-	db   "Raises Spcl.Atk on"
+	db   "Raises SPCL.ATK on"
 	next "a sound move.@"
 
 HeavyBootsDesc:
 	db   "Protects from"
-	next "traps. (Hold)@"
+	next "traps. (HOLD)@"
 
 UtilUmbrellaDesc:
 	db   "Protects from"
@@ -1268,18 +1268,18 @@ BicycleDesc:
 
 OldRodDesc:
 	db   "Use by water to"
-	next "fish for #mon.@"
+	next "fish for #MON.@"
 
 GoodRodDesc:
-	db   "A good Rod for"
-	next "catching #mon.@"
+	db   "A good ROD for"
+	next "catching #MON.@"
 
 SuperRodDesc:
-	db   "The best Rod for"
-	next "catching #mon.@"
+	db   "The best ROD for"
+	next "catching #MON.@"
 
 CoinCaseDesc:
-	db   "Holds up to 50K"
+	db   "HOLDs up to 50K"
 	next "game coins.@"
 
 ItemfinderDesc:
@@ -1287,8 +1287,8 @@ ItemfinderDesc:
 	next "items in the area.@"
 
 MysteryEggDesc:
-	db   "An Egg obtained"
-	next "from Mr.#mon.@"
+	db   "An EGG obtained"
+	next "from MR.#MON.@"
 
 SquirtBottleDesc:
 	db   "A bottle used for"
@@ -1296,34 +1296,34 @@ SquirtBottleDesc:
 
 SecretPotionDesc:
 	db   "Fully heals any"
-	next "#mon.@"
+	next "#MON.@"
 
 RedScaleDesc:
 	db   "A scale from the"
-	next "red Gyarados.@"
+	next "red GYARADOS.@"
 
 CardKeyDesc:
 	db   "Opens shutters in"
-	next "the Radio Tower.@"
+	next "the RADIO TOWER.@"
 
 BasementKeyDesc:
 	db   "Opens doors.@"
 
 SSTicketDesc:
 	db   "A ticket for the"
-	next "S.S.Aqua.@"
+	next "S.S.AQUA.@"
 
 PassDesc:
 	db   "A ticket for the"
-	next "Magnet Train.@"
+	next "MAGNET TRAIN.@"
 
 MachinePartDesc:
 	db   "A machine part for"
-	next "the Power Plant.@"
+	next "the POWER PLANT.@"
 
 LostItemDesc:
-	db   "The # Doll lost"
-	next "by the Copycat.@"
+	db   "The # DOLL lost"
+	next "by the COPYCAT.@"
 
 RainbowWingDesc:
 	db   "A mystical feather"
@@ -1339,7 +1339,7 @@ ClearBellDesc:
 
 GSBallDesc:
 	db   "The mysterious"
-	next "Ball.@"
+	next "BALL.@"
 
 BlueCardDesc:
 	db   "Card to save"
@@ -1348,7 +1348,7 @@ BlueCardDesc:
 OrangeTicketDesc:
 MysticTicketDesc:
 	db   "A ticket for the"
-	next "Seagallop Ferry.@"
+	next "SEAGALLOP FERRY.@"
 
 OldSeaMapDesc:
 	db   "A faded sea chart"
@@ -1356,23 +1356,23 @@ OldSeaMapDesc:
 
 ShinyCharmDesc:
 	db   "A charm for find-"
-	next "ing shiny #mon.@"
+	next "ing shiny #MON.@"
 
 OvalCharmDesc:
 	db   "A charm for find-"
-	next "ing Eggs.@"
+	next "ing EGGS.@"
 
 CatchCharmDesc:
 	db   "A charm for catch-"
-	next "ing #mon.@"
+	next "ing #MON.@"
 
 SilphScope2Desc:
 	db   "A scope to see in-"
-	next "visible #mon.@"
+	next "visible #MON.@"
 
 ApricornBoxDesc:
 	db   "Holds up to 99 of"
-	next "each Apricorn.@"
+	next "each APRICORN.@"
 
 TypeChartDesc:
 	db   "Summarizes all"

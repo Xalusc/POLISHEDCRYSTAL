@@ -1,4 +1,4 @@
-	db "Worm@" ; species name
+	db "WORM@" ; species name
 	dw 100, 60 ; height, width
 
 	db   "It crawls into"

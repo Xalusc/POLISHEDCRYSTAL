@@ -1,4 +1,4 @@
-	db "Lonely@" ; species name
+	db "LONELY@" ; species name
 	dw 104, 140 ; height, width
 
 	db   "It lost its mother"

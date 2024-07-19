@@ -1,4 +1,4 @@
-	db "Kite@" ; species name
+	db "KITE@" ; species name
 	dw 611, 4850 ; height, width
 
 	db   "It swims along"

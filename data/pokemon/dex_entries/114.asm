@@ -1,4 +1,4 @@
-	db "Vine@" ; species name
+	db "VINE@" ; species name
 	dw 303, 770 ; height, width
 
 	db   "During battle, it"

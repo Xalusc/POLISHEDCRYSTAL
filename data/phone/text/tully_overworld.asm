@@ -66,7 +66,7 @@ TullyGiftText:
 	done
 
 TullyPackFullText:
-	text "Your Bag's full?"
+	text "Your PACK's full?"
 
 	para "Come back later--"
 	line "that'll do it."

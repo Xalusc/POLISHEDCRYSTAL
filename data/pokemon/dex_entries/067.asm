@@ -1,7 +1,7 @@
-	db "Superpower@" ; species name
+	db "SUPERPOWER@" ; species name
 	dw 411, 1550 ; height, width
 
-	db   "This tough #mon"
+	db   "This tough #MON"
 	next "always stays in"
 	next "the zone. Its"
 	page "muscles become"

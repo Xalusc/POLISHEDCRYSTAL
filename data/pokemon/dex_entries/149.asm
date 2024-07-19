@@ -1,4 +1,4 @@
-	db "Dragon@" ; species name
+	db "DRAGON@" ; species name
 	dw 703, 4630 ; height, width
 
 	db   "It is said that"

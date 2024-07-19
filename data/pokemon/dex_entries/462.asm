@@ -1,4 +1,4 @@
-	db "Magnet Area@" ; species name
+	db "MAGNET AREA@" ; species name
 	dw 311, 3968 ; height, width
 
 	db   "It evolved from"

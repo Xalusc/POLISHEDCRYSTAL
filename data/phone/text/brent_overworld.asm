@@ -1,6 +1,6 @@
 BrentAskNumber1Text:
 	text "By the way, you're"
-	line "a #Maniac"
+	line "a #MANIAC"
 
 	para "I can tell."
 	line "Yes, you are."
@@ -8,14 +8,14 @@ BrentAskNumber1Text:
 	para "But your knowledge"
 	line "is shallow still!"
 
-	para "Do you know Bill?"
+	para "Do you know BILL?"
 	line "He's an incredible"
 
-	para "#Maniac."
+	para "#MANIAC."
 	line "I revere him."
 
 	para "I'll teach you all"
-	line "I know about Bill,"
+	line "I know about BILL,"
 
 	para "so leave me your"
 	line "phone number."
@@ -23,17 +23,17 @@ BrentAskNumber1Text:
 
 BrentAskNumber2Text:
 	text "I'll teach you all"
-	line "I know about Bill,"
+	line "I know about BILL,"
 
 	para "so leave me your"
 	line "phone number."
 	done
 
 BrentNumberAcceptedText:
-	text "Bill--he's more"
+	text "BILL--he's more"
 	line "than amazing!"
 
-	para "To be a #Maniac"
+	para "To be a #MANIAC"
 	line "like him someday…"
 
 	para "That's my dream."
@@ -50,7 +50,7 @@ BrentPhoneFullText:
 	text "Huh? Your phone"
 	line "list's full."
 
-	para "A #Maniac has"
+	para "A #MANIAC has"
 	line "to be more tidy!"
 	done
 
@@ -58,5 +58,5 @@ BrentRematchText:
 	text "I've been waiting."
 
 	para "Look, check out my"
-	line "#mon!"
+	line "#MON!"
 	done

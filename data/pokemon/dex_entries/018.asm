@@ -1,9 +1,9 @@
-	db "Bird@" ; species name
+	db "BIRD@" ; species name
 	dw 411, 870 ; height, width
 
 	db   "Its outstanding"
 	next "vision allows it"
 	next "to spot splashing"
-	page "Magikarp, even"
+	page "MAGIKARP, even"
 	next "while flying at"
 	next "3300 feet.@"

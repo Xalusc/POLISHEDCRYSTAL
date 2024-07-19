@@ -1,4 +1,4 @@
-	db "Water Fish@" ; species name
+	db "WATER FISH@" ; species name
 	dw 104, 190 ; height, width
 
 	db   "A mucous"

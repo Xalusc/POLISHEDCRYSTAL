@@ -1,4 +1,4 @@
-	db "Patient@" ; species name
+	db "PATIENT@" ; species name
 	dw 403, 630 ; height, width
 
 	db   "In order to con-"

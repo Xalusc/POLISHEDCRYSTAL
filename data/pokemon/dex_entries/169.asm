@@ -1,4 +1,4 @@
-	db "Bat@" ; species name
+	db "BAT@" ; species name
 	dw 511, 1650 ; height, width
 
 	db   "As a result of its"

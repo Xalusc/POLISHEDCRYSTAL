@@ -1,4 +1,4 @@
-	db "River Crab@" ; species name
+	db "RIVER CRAB@" ; species name
 	dw 104, 140 ; height, width
 
 	db   "If it is unable"

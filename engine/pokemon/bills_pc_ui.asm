@@ -1533,27 +1533,27 @@ ManageBoxes:
 	db -1
 
 BillsPC_MenuStrings:
-	db "Cancel@"
+	db "CANCEL@"
 	; pokémon management options
-	db "Withdraw@"
-	db "Deposit@"
-	db "Stats@"
-	db "Switch@"
-	db "Moves@"
-	db "Item@"
-	db "Release@"
-	; box options
-	db "Rename@"
-	db "Theme@"
-	db "Release@"
-	; holding a mail
-	db "Take@"
-	db "Read@"
-	; holding an item
-	db "Move@"
-	db "Bag@"
-	; doesn't hold an item
-	db "Give@"
+	db "WITHDRAW@"
+	db "DEPOSIT@"
+	db "STATS@"
+	db "SWITCH@"
+	db "MOVES@"
+	db "ITEM@"
+	db "RELEASE@"
+	; BOX OPTIONS
+	db "RENAME@"
+	db "THEME@"
+	db "RELEASE@"
+	; HOLDING A MAIL
+	db "TAKE@"
+	db "READ@"
+	; HOLDING AN ITEM
+	db "MOVE@"
+	db "BAG@"
+	; DOESN'T HOLD AN ITEM
+	db "GIVE@"
 
 BillsPC_MenuJumptable:
 	dw DoNothing
@@ -2137,7 +2137,7 @@ BillsPC_Moves:
 
 .CantCheckEggMoves:
 	text "You can't check"
-	line "an Egg's moves!"
+	line "an EGG's moves!"
 	prompt
 
 BillsPC_GetStorageSpace:
@@ -2507,19 +2507,19 @@ BillsPC_UpdateStorage_CheckMewtwo:
 	jmp PopBCDEHL
 
 BillsPC_CantPutMailIntoPackText:
-	text "The Mail would"
+	text "The MAIL would"
 	line "lose its message."
 	prompt
 
 BillsPC_PackFullText:
-	text "The Bag is full…"
+	text "The PACK is full…"
 	prompt
 
 BillsPC_MovedToPackText:
 	text "Moved "
 	text_ram wStringBuffer1
 	text ""
-	line "to Bag."
+	line "to PACK."
 	prompt
 
 BillsPC_Menu:
@@ -2655,7 +2655,7 @@ BillsPC_Item:
 	db -1
 
 BillsPC_EggsCantHoldItemsText:
-	text "Eggs can't hold"
+	text "EGGS can't hold"
 	line "items."
 	prompt
 
@@ -2845,12 +2845,12 @@ BillsPC_ReleaseAll:
 
 .ReallyReleaseBox:
 	text "Really release the"
-	line "entire box?"
+	line "entire BOX?"
 	done
 
 .CantRecallReleasedMons:
 	text "You can't recall"
-	line "released #mon."
+	line "released #MON."
 	cont "Are you sure?"
 	done
 
@@ -2860,7 +2860,7 @@ BillsPC_ReleaseAll:
 
 .NothingReleased:
 	text "You can't release"
-	line "Eggs or #mon"
+	line "EGGS or #MON"
 	cont "with HM moves."
 	prompt
 
@@ -2868,11 +2868,11 @@ BillsPC_ReleaseAll:
 	text "Released "
 	text_decimal wTextDecimalByte, 1, 2
 	text ""
-	line "#mon."
+	line "#MON."
 	prompt
 
 .TheRestWasnt:
-	text "The rest are Eggs"
+	text "The rest are EGGS"
 	line "or know HM moves."
 	prompt
 
@@ -2929,7 +2929,7 @@ BillsPC_Release:
 
 .CantReleaseEgg:
 	text "You can't release"
-	line "an Egg!"
+	line "an EGG!"
 	prompt
 
 .CantReleaseHMMons:
@@ -3344,11 +3344,11 @@ BillsPC_SwapStorage:
 	prompt
 
 .BoxIsFull:
-	text "The box is full."
+	text "The BOX is full."
 	prompt
 
 .IsHoldingMail:
-	text "Held Mail must be"
+	text "Held MAIL must be"
 	line "removed first."
 	prompt
 
@@ -3359,7 +3359,7 @@ BillsPC_SwapStorage:
 
 BillsPC_LastPartyMon:
 	text "That's your last"
-	line "healthy #mon!"
+	line "healthy #MON!"
 	prompt
 
 BillsPC_MustSaveToContinue:

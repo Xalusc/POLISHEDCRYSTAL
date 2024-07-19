@@ -1,4 +1,4 @@
-	db "Poison Moth@" ; species name
+	db "POISON MOTH@" ; species name
 	dw 411, 280 ; height, width
 
 	db   "The scales it"

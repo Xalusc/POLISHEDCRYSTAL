@@ -338,11 +338,11 @@ TrainerCard_PrintTopHalfOfCard:
 	jmp PrintNum
 
 .Top_Headings:
-	db "┐Name/<LNBRK>"
+	db "┐NAME/<LNBRK>"
 	db "┐<ID>№.<LNBRK>"
 	db "│└└└└└└└└└└└┘<LNBRK>"
 	db "<LNBRK>"
-	db " Money@"
+	db " MONEY@"
 
 TrainerCardSetup_ClearBottomHalf:
 	hlcoord 1, 10
@@ -400,10 +400,10 @@ TrainerCard_Page1_PrintDexCaught_GameTime:
 	jr .star_loop
 
 .Dex_PlayTime_BP:
-	db   "#dex"
-	next "Play Time"
-	next "Battle Pts"
-	next "          Badges▶@"
+	db   "#DEX"
+	next "PLAY TIME"
+	next "BATTLE PTS"
+	next "          BADGES▶@"
 
 TrainerCard_Page1_PrintGameTime:
 	hlcoord 11, 12

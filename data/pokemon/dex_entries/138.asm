@@ -1,4 +1,4 @@
-	db "Spiral@" ; species name
+	db "SPIRAL@" ; species name
 	dw 104, 170 ; height, width
 
 	db   "In prehistoric"

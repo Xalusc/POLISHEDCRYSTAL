@@ -1,4 +1,4 @@
-	db "Hairy Bug@" ; species name
+	db "HAIRY BUG@" ; species name
 	dw 100, 70 ; height, width
 
 	db   "The barb on top of"

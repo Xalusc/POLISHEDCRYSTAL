@@ -39,7 +39,7 @@ WiltonPhoneFullText:
 
 WiltonRematchText:
 	text "Argh! You startled"
-	line "Poliwag into"
+	line "POLIWAG into"
 	cont "fleeing again!"
 	done
 
@@ -54,7 +54,7 @@ WiltonGiftText:
 	done
 
 WiltonPackFullText:
-	text "Your Bag's full?"
+	text "Your PACK's full?"
 
 	para "I'll give it to"
 	line "you later."

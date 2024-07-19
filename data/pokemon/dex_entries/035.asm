@@ -1,4 +1,4 @@
-	db "Fairy@" ; species name
+	db "FAIRY@" ; species name
 	dw 200, 170 ; height, width
 
 	db   "Though rarely"

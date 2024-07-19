@@ -1,4 +1,4 @@
-	db "Human Shape@" ; species name
+	db "HUMAN SHAPE@" ; species name
 	dw 407, 900 ; height, width
 
 	db   "It has several"

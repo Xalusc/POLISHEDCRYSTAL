@@ -1,4 +1,4 @@
-	db "Classy Cat@" ; species name
+	db "CLASSY CAT@" ; species name
 	dw 303, 710 ; height, width
 
 	db   "Behind its lithe,"

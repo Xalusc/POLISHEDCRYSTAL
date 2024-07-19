@@ -1,12 +1,12 @@
 if DEF(FAITHFUL)
-	db "Hermit Crab@" ; species name
+	db "HERMIT CRAB@" ; species name
 else
-	db "Squatter@" ; species name
+	db "SQUATTER@" ; species name
 endc
 	dw 503, 1730 ; height, width
 
 	db   "An attached"
-	next "Shellder won't let"
+	next "SHELLDER won't let"
 	next "go because of the"
 	page "tasty flavor that"
 	next "oozes out of its"

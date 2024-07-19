@@ -1,4 +1,4 @@
-	db "Swine@" ; species name
+	db "SWINE@" ; species name
 	dw 307, 1230 ; height, width
 
 	db   "Although its legs"

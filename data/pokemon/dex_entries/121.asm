@@ -1,4 +1,4 @@
-	db "Mysterious@" ; species name
+	db "MYSTERIOUS@" ; species name
 	dw 307, 1760 ; height, width
 
 	db   "It is said that it"
