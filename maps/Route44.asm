@@ -81,9 +81,9 @@ Route44VeteranmScript:
 	done
 
 .IntroText:
-	text "My #mon are"
-	line "wearing Rocky"
-	cont "Helmets."
+	text "My #MON are"
+	line "wearing ROCKY"
+	cont "HELMETS."
 
 	para "Want to challenge"
 	line "them?"
@@ -99,15 +99,15 @@ Route44VeteranmScript:
 	text "I saw your"
 	line "battles."
 
-	para "Your #mon are"
+	para "Your #MON are"
 	line "really tough."
 
 	para "Are you ready?"
 	done
 
 .RefusedText:
-	text "You beat Team"
-	line "Rocket and you're"
+	text "You beat TEAM"
+	line "ROCKET and you're"
 	cont "scared of me?"
 
 	para "Do I look that"
@@ -116,12 +116,12 @@ Route44VeteranmScript:
 
 .SeenText:
 	text "I'll show you the"
-	line "power of my Rocky"
-	cont "Helmets!"
+	line "power of my ROCKY"
+	cont "HELMETS!"
 	done
 
 .BeatenText:
-	text "Bah. These Helmets"
+	text "Bah. These HELMETS"
 	line "weren't enough."
 	done
 
@@ -132,7 +132,7 @@ Route44VeteranmScript:
 	cont "Keep it up!"
 
 	para "Take one of these"
-	line "Rocky Helmets."
+	line "ROCKY HELMETS."
 
 	para "You can use it as"
 	line "well as me."
@@ -391,7 +391,7 @@ GenericTrainerCooltrainerfCybil:
 GenericTrainerPokemaniacZach:
 	generictrainer POKEMANIAC, ZACH, EVENT_BEAT_POKEMANIAC_ZACH, PokemaniacZachSeenText, PokemaniacZachBeatenText
 
-	text "If a #mon has"
+	text "If a #MON has"
 	line "different colors"
 
 	para "from usual, it's"
@@ -405,15 +405,15 @@ GenericTrainerCooltrainermAllen:
 	generictrainer COOLTRAINERM, ALLEN, EVENT_BEAT_COOLTRAINERM_ALLEN, CooltrainermAllenSeenText, CooltrainermAllenBeatenText
 
 	text "Wow. You have a"
-	line "lot of Badges."
+	line "lot of BADGES."
 
 	para "No wonder you're"
 	line "so tough."
 
 	para "I wonder if"
-	line "Ecruteak Gym's"
+	line "ECRUTEAK GYM's"
 
-	para "Morty is still in"
+	para "MORTY is still in"
 	line "training?"
 
 	para "He really hammered"
@@ -422,7 +422,7 @@ GenericTrainerCooltrainermAllen:
 
 FisherWilton1SeenText:
 	text "Aack! You made me"
-	line "lose a Poliwag!"
+	line "lose a POLIWAG!"
 
 	para "What are you going"
 	line "to do about it?"
@@ -434,7 +434,7 @@ FisherWilton1BeatenText:
 	done
 
 FisherWiltonHugePoliwagText_Imperial:
-	text "That Poliwag that"
+	text "That POLIWAG that"
 	line "got away…"
 	cont "It was huge."
 
@@ -443,7 +443,7 @@ FisherWiltonHugePoliwagText_Imperial:
 	done
 
 FisherWiltonHugePoliwagText_Metric:
-	text "That Poliwag that"
+	text "That POLIWAG that"
 	line "got away…"
 	cont "It was huge."
 
@@ -461,7 +461,7 @@ FisherEdgarSeenText:
 
 	para "That's my"
 	line "relationship"
-	cont "with my #mon."
+	cont "with my #MON."
 	done
 
 FisherEdgarBeatenText:
@@ -472,7 +472,7 @@ FisherEdgarBeatenText:
 Bird_keeperVance1SeenText:
 	text "Do you know about"
 	line "the legendary bird"
-	cont "#mon?"
+	cont "#MON?"
 	done
 
 Bird_keeperVance1BeatenText:
@@ -481,11 +481,11 @@ Bird_keeperVance1BeatenText:
 	done
 
 BirdKeeperVanceLegendaryBirdsText:
-	text "Articuno, Zapdos"
-	line "and Moltres are"
+	text "ARTICUNO, ZAPDOS"
+	line "and MOLTRES are"
 
 	para "the three legend-"
-	line "ary bird #mon."
+	line "ary bird #MON."
 
 	para "I heard there are"
 	line "other legendary"
@@ -516,11 +516,11 @@ PsychicPhilBeatenText:
 PokemaniacZachSeenText:
 	text "I'll do anything"
 	line "to get my hands on"
-	cont "rare #mon!"
+	cont "rare #MON!"
 	done
 
 PokemaniacZachBeatenText:
-	text "Oooh, your #mon"
+	text "Oooh, your #MON"
 	line "are so appealing."
 	done
 
@@ -530,7 +530,7 @@ CooltrainermAllenSeenText:
 	cont "looking at you."
 
 	para "I'm good at #-"
-	line "mon, and I can see"
+	line "MON, and I can see"
 	cont "that you are too."
 	done
 
@@ -553,13 +553,13 @@ CooltrainerfCybilBeatenText:
 	done
 
 Route44Sign1Text:
-	text "Route 44"
-	line "Ice Path Ahead"
+	text "ROUTE 44"
+	line "ICE PATH AHEAD"
 	done
 
 Route44Sign2Text:
-	text "Route 44"
+	text "ROUTE 44"
 
-	para "Mahogany Town -"
-	line "Blackthorn City"
+	para "MAHOGANY TOWN -"
+	line "BLACKTHORN CITY"
 	done

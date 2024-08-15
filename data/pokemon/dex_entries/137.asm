@@ -1,8 +1,8 @@
-	db "Virtual@" ; species name
+	db "VIRTUAL@" ; species name
 	dw 207, 800 ; height, width
 
 	db   "An artificial"
-	next "#mon created"
+	next "#MON created"
 	next "due to extensive"
 	page "research, it can"
 	next "perform only what"

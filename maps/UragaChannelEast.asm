@@ -46,7 +46,7 @@ GenericTrainerCooltrainermKieran:
 	generictrainer COOLTRAINERM, KIERAN, EVENT_BEAT_COOLTRAINERM_KIERAN, .SeenText, .BeatenText
 
 	text "I couldn't get my"
-	line "#m-on."
+	line "#M-ON."
 
 	para "I need to get my"
 	line "head back in the"
@@ -55,7 +55,7 @@ GenericTrainerCooltrainermKieran:
 
 .SeenText:
 	text "It's on like"
-	line "#mon!"
+	line "#MON!"
 	done
 
 .BeatenText:
@@ -67,8 +67,8 @@ GenericTrainerBikerTyrone:
 
 	text "I fell in the"
 	line "water while show-"
-	cont "ing off on Cycling"
-	cont "Road."
+	cont "ing off on CYCLING"
+	cont "ROAD."
 
 	para "Then the strong"
 	line "currents dragged"
@@ -84,7 +84,7 @@ GenericTrainerBikerTyrone:
 	done
 
 UragaChannelSignText:
-	text "Uraga Channel"
+	text "URAGA CHANNEL"
 	done
 
 ScaryCaveEastSignText:

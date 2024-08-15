@@ -25,9 +25,9 @@ MountMoonB1F_MapScriptHeader:
 MountMoonB1FPokefanmText:
 	text "I'm excavating for"
 	line "fossils here under"
-	cont "Mt.Moon."
+	cont "MT.MOON."
 
-	para "Sometimes Brock of"
-	line "Pewter Gym lends"
+	para "Sometimes BROCK of"
+	line "PEWTER GYM lends"
 	cont "me a hand."
 	done

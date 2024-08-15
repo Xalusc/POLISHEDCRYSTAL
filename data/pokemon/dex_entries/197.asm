@@ -1,4 +1,4 @@
-	db "Moonlight@" ; species name
+	db "MOONLIGHT@" ; species name
 	dw 303, 600 ; height, width
 
 	db   "On the night of a"

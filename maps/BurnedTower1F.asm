@@ -132,7 +132,7 @@ GenericTrainerHexManiacTamara:
 GenericTrainerFirebreatherNed:
 	generictrainer FIREBREATHER, NED, EVENT_BEAT_FIREBREATHER_NED, FirebreatherNedSeenText, FirebreatherNedBeatenText
 
-	text "We Firebreathers"
+	text "We FIREBREATHERS"
 	line "know the true"
 
 	para "power of fire"
@@ -156,7 +156,7 @@ BurnedTowerSilver_BeforeText:
 	para "I came looking for"
 	line "some legendary"
 
-	para "#mon that they"
+	para "#MON that they"
 	line "say roosts here."
 
 	para "But there's"
@@ -188,7 +188,7 @@ BurnedTowerSilver_AfterText1:
 	para "You would never be"
 	line "able to catch a"
 
-	para "legendary #mon"
+	para "legendary #MON"
 	line "anyway."
 	done
 
@@ -215,12 +215,12 @@ BurnedTowerSilver_AfterText2:
 	done
 
 BurnedTower1FEusineIntroText:
-	text "Eusine: My name's"
-	line "Eusine."
+	text "EUSINE: My name's"
+	line "EUSINE."
 
 	para "I'm on the trail"
-	line "of a #mon named"
-	cont "Suicune."
+	line "of a #MON named"
+	cont "SUICUNE."
 
 	para "And you are…?"
 
@@ -228,9 +228,9 @@ BurnedTower1FEusineIntroText:
 	line "meet you!"
 
 	para "I heard rumors"
-	line "that Suicune is in"
+	line "that SUICUNE is in"
 
-	para "this Burned Tower,"
+	para "this BURNED TOWER,"
 	line "so I came to look."
 
 	para "But where exactly"
@@ -238,10 +238,10 @@ BurnedTower1FEusineIntroText:
 	done
 
 BurnedTower1FEusineText:
-	text "Eusine: I heard"
-	line "that Suicune is in"
+	text "EUSINE: I heard"
+	line "that SUICUNE is in"
 
-	para "this Burned Tower,"
+	para "this BURNED TOWER,"
 	line "so I came to look."
 
 	para "But where exactly"
@@ -249,21 +249,21 @@ BurnedTower1FEusineText:
 	done
 
 BurnedTower1FMortyText:
-	text "Morty: Ecruteak's"
-	line "Gym Leader has to"
+	text "MORTY: ECRUTEAK's"
+	line "GYM LEADER has to"
 
 	para "study what are"
 	line "said to be the"
 
-	para "legendary #mon"
-	line "--Suicune, Entei"
-	cont "and Raikou."
+	para "legendary #MON"
+	line "--SUICUNE, ENTEI"
+	cont "and RAIKOU."
 
-	para "Eusine is here, so"
+	para "EUSINE is here, so"
 	line "I've decided to"
 
 	para "investigate the"
-	line "Tower with him."
+	line "TOWER with him."
 	done
 
 HexManiacTamaraSeenText:

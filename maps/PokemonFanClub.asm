@@ -70,35 +70,35 @@ PokemonJournalGreenScript:
 	setflag ENGINE_READ_GREEN_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "<PK><MN> Trainer Green!"
+	para "SPECIAL FEATURE:"
+	line "<PK><MN> TRAINER GREEN!"
 
 	para "In addition to"
 	line "being a powerful"
-	cont "trainer, Green is"
+	cont "trainer, GREEN is"
 
 	para "said to be fascin-"
 	line "ated by legendary"
-	cont "#mon."
+	cont "#MON."
 	done
 
 PokemonFanClubChairmanDidYouVisitToHearAboutMyMonText:
-	text "I'm the Chairman"
-	line "of the #mon Fan"
-	cont "Club."
+	text "I'm the CHAIRMAN"
+	line "of the #MON FAN"
+	cont "CLUB."
 
 	para "I've raised over"
-	line "150 #mon."
+	line "150 #MON."
 
 	para "I'm very fussy"
 	line "when it comes to"
-	cont "#mon."
+	cont "#MON."
 
 	para "Did you visit just"
 	line "to hear about my"
-	cont "#mon?"
+	cont "#MON?"
 	done
 
 PokemonFanClubChairmanRapidashText:
@@ -106,7 +106,7 @@ PokemonFanClubChairmanRapidashText:
 	line "Then listen up!"
 
 	para "So… my favorite"
-	line "Rapidash…"
+	line "RAPIDASH…"
 
 	para "It… cute… lovely…"
 	line "smart… unbearably…"
@@ -134,12 +134,12 @@ PokemonFanClubChairmanIWantYouToHaveThisText:
 	done
 
 PokemonFanClubChairmanItsARareCandyText:
-	text "It's a Rare Candy"
-	line "that makes #mon"
+	text "It's a RARE CANDY"
+	line "that makes #MON"
 	cont "stronger."
 
 	para "I prefer making my"
-	line "#mon stronger"
+	line "#MON stronger"
 
 	para "by battling, so"
 	line "you can have it."
@@ -150,7 +150,7 @@ PokemonFanClubChairmanMoreTalesToTellText:
 
 	para "Did you come see"
 	line "me about my #-"
-	cont "mon again?"
+	cont "MON again?"
 
 	para "No? Oh… I had more"
 	line "tales to tell…"
@@ -164,30 +164,30 @@ PokemonFanClubChairmanHowDisappointingText:
 	done
 
 PokemonFanClubReceptionistText:
-	text "Our Chairman is"
+	text "Our CHAIRMAN is"
 	line "very vocal when it"
-	cont "comes to #mon…"
+	cont "comes to #MON…"
 	done
 
 PokemonFanClubClefairyGuyClefairyIsSoAdorableText:
 	text "I love the way"
-	line "Clefairy waggles"
+	line "CLEFAIRY waggles"
 
 	para "its finger when"
 	line "it's trying to use"
 
-	para "Metronome."
+	para "METRONOME."
 	line "It's so adorable!"
 	done
 
 PokemonFanClubClefairyGuyMakingDoWithADollIFoundText:
-	text "I love Clefairy,"
+	text "I love CLEFAIRY,"
 	line "but I could never"
 
 	para "catch one. So I'm"
 	line "making do with a"
 
-	para "# Doll that I"
+	para "# DOLL that I"
 	line "found."
 	done
 
@@ -195,16 +195,16 @@ PokemonFanClubClefairyGuyTakeThisDollBackToGirlText:
 	text "Oh, I see now. The"
 	line "girl who lost this"
 
-	para "# Doll is sad…"
+	para "# DOLL is sad…"
 
 	para "OK. Could you take"
-	line "this # Doll"
+	line "this # DOLL"
 
 	para "back to that poor"
 	line "little girl?"
 
 	para "I'll befriend a"
-	line "real Clefairy on"
+	line "real CLEFAIRY on"
 
 	para "my own one day."
 	line "No worries!"
@@ -214,29 +214,29 @@ PokemonFanClubClefairyGuyGoingToGetARealClefairyText:
 	text "You watch. I'm"
 	line "going to get a"
 
-	para "real Clefairy as"
+	para "real CLEFAIRY as"
 	line "my friend."
 	done
 
 PokemonFanClubTeacherText:
 	text "Look at my darling"
-	line "Oddish!"
+	line "ODDISH!"
 
 	para "The leaves on its"
 	line "head are so cute!"
 	done
 
 ClefairyDollText:
-	text "It's a Clefairy!"
+	text "It's a CLEFAIRY!"
 	line "Huh?"
 
 	para "Oh, right. It's a"
-	line "Clefairy #"
-	cont "Doll."
+	line "CLEFAIRY #"
+	cont "DOLL."
 	done
 
 FanClubOddishText:
-	text "Oddish: Diish!"
+	text "ODDISH: Diish!"
 	done
 
 PokemonFanClubListenSignText:

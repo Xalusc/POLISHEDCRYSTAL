@@ -64,14 +64,14 @@ RandyScript:
 
 GiftFarfetch_dMail:
 	db   FLOWER_MAIL
-	db   "Dark Cave leads"
+	db   "DARK CAVE leads"
 	next "to another road@"
 
 GiftFarfetch_dName:
-	rawchar "Kenya@"
+	rawchar "KENYA@"
 
 GiftFarfetch_dOTName:
-	rawchar "Randy@"
+	rawchar "RANDY@"
 
 GiftFarfetch_dOTIDAndCaughtGender:
 	bigdw 01001
@@ -93,10 +93,10 @@ Route35GoldenrodGateRandyAskTakeThisMonToMyFriendText:
 	cont "a favor?"
 
 	para "Can you take this"
-	line "#mon with Mail"
+	line "#MON with MAIL"
 	cont "to my friend?"
 
-	para "He's on Route 31."
+	para "He's on ROUTE 31."
 	done
 
 Route35GoldenrodGateRandyThanksText:
@@ -113,13 +113,13 @@ Route35GoldenrodGateRandyThanksText:
 
 Route35GoldenrodGatePlayerReceivedAMonWithMailText:
 	text "<PLAYER> received a"
-	line "#mon with Mail."
+	line "#MON with MAIL."
 	done
 
 Route35GoldenrodGateRandyWeirdTreeBlockingRoadText:
 	text "You can read it,"
 	line "but don't lose it!"
-	cont "Route 31!"
+	cont "ROUTE 31!"
 
 	para "Oh, yeah. There"
 	line "was a weird tree"
@@ -131,7 +131,7 @@ Route35GoldenrodGateRandyWeirdTreeBlockingRoadText:
 
 Route35GoldenrodGateRandyCantCarryAnotherMonText:
 	text "You can't carry"
-	line "another #mon…"
+	line "another #MON…"
 	done
 
 Route35GoldenrodGateRandyOhNeverMindThenText:
@@ -165,24 +165,24 @@ Route35GoldenrodGatePokefanFText:
 	line "wild when someone"
 
 	para "watered it with a"
-	line "SquirtBottle."
+	line "SQUIRTBOTTLE."
 	done
 
 Route35GoldenrodGatePokefanFText_FoughtSudowoodo:
-	text "I like the #mon"
-	line "Lullaby they play"
+	text "I like the #MON"
+	line "LULLABY they play"
 	cont "on the radio."
 	done
 
 Route35GoldenrodGateFisherText:
 	text "I wonder how many"
-	line "kinds of #mon"
+	line "kinds of #MON"
 
 	para "there are in the"
 	line "world."
 
 	para "Three years ago,"
-	line "Prof.Oak said that"
+	line "PROF.OAK said that"
 
 	para "there were 150"
 	line "different kinds."

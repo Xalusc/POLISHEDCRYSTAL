@@ -67,7 +67,7 @@ GoldenrodPokecenter1FNurseScript:
 	jumpstd pokecenternurse
 
 GoldenrodPokecenter1FGameboyKidText:
-	text "The Colosseum"
+	text "The COLOSSEUM"
 	line "upstairs is for"
 	cont "link battles."
 
@@ -80,7 +80,7 @@ GoldenrodPokecenter1FGameboyKidText:
 
 GoldenrodPokecenter1FLassText:
 	text "A higher level"
-	line "#mon doesn't"
+	line "#MON doesn't"
 	cont "always win."
 
 	para "After all, it may"
@@ -90,7 +90,7 @@ GoldenrodPokecenter1FLassText:
 	para "I don't think"
 	line "there is a single"
 
-	para "#mon that is"
+	para "#MON that is"
 	line "the toughest."
 	done
 
@@ -134,7 +134,7 @@ GoldenrodPokecenter1FPokefanFDoYouHaveEonMailText:
 
 	para "Oh! Do you happen"
 	line "to have something"
-	cont "named Eon Mail?"
+	cont "named EON MAIL?"
 
 	para "My daughter is"
 	line "after one."
@@ -144,8 +144,8 @@ GoldenrodPokecenter1FPokefanFDoYouHaveEonMailText:
 	done
 
 GoldenrodPokecenter1FAskGiveAwayAnEonMailText:
-	text "Give away an Eon"
-	line "Mail?"
+	text "Give away an EON"
+	line "MAIL?"
 	done
 
 GoldenrodPokecenter1FPokefanFThisIsForYouText:
@@ -163,12 +163,12 @@ GoldenrodPokecenter1FPokefanFTooBadText:
 
 GoldenrodPokecenter1FPlayerGaveAwayTheEonMailText:
 	text "<PLAYER> gave away"
-	line "the Eon Mail."
+	line "the EON MAIL."
 	done
 
 GoldenrodPokecenter1FPokefanFGotEvioliteText:
 	text "Thank you for"
-	line "the Eon Mail!"
+	line "the EON MAIL!"
 
 	para "My daughter will"
 	line "be delighted!"
@@ -206,18 +206,18 @@ WonderTradeReceptionistScript:
 
 WonderTradeIntroText:
 	text "Hello! Welcome to"
-	line "#Com Center"
-	cont "Wonder Trade Hub."
+	line "#COM CENTER"
+	cont "WONDER TRADE HUB."
 	done
 
 IntroduceTealaText:
-	text "I'm Teala, your"
+	text "I'm TEALA, your"
 	line "trade attendant."
 	done
 
 WonderTradeExplanationText:
 	text "You can trade"
-	line "#mon with other"
+	line "#MON with other"
 	cont "people far away."
 	done
 
@@ -238,13 +238,13 @@ WonderTradeForGSBallPichuText:
 	text "…But what's this?"
 	line "Is something wrong"
 
-	para "with the Wonder"
-	line "Trade machine?"
+	para "with the WONDER"
+	line "TRADE machine?"
 
 	para "It seems like you"
 	line "just traded a"
 
-	para "#mon with"
+	para "#MON with"
 	line "yourself."
 
 	para "But that can't be"
@@ -260,18 +260,18 @@ WonderTradeForGSBallPichuText:
 	line "not time…"
 
 	para "And what is that"
-	line "strange Ball it's"
+	line "strange BALL it's"
 
 	para "holding? Is it an"
-	line "Apricorn Ball?"
+	line "APRICORN BALL?"
 
 	para "Here, take a look…"
 	done
 
 WonderTradeForGSBallPichuText2:
 	text "It may be unusual,"
-	line "but a #mon"
-	cont "is a #mon."
+	line "but a #MON"
+	cont "is a #MON."
 
 	para "Please look after"
 	line "it carefully."
@@ -280,31 +280,31 @@ WonderTradeForGSBallPichuText2:
 InfoSignScript:
 	jumpthistext
 
-	text "#Com Center"
-	line "1F Information"
+	text "#COM CENTER"
+	line "1F INFORMATION"
 
 	para "Left:"
-	line "Administration"
+	line "ADMINISTRATION"
 
 	para "Center:"
-	line "Wonder Trade Hub"
+	line "WONDER TRADE HUB"
 
 	para "Right:"
-	line "<PK><MN> Judge Machine"
+	line "<PK><MN> JUDGE MACHINE"
 	done
 
 PokemonJournalWhitneyScript:
 	setflag ENGINE_READ_WHITNEY_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Leader Whitney!"
+	para "SPECIAL FEATURE:"
+	line "LEADER WHITNEY!"
 
-	para "Whitney is said to"
-	line "admire Bruno of"
-	cont "the Elite Four."
+	para "WHITNEY is said to"
+	line "admire BRUNO of"
+	cont "the ELITE FOUR."
 	done
 
 JudgeMachineScript:
@@ -313,8 +313,8 @@ JudgeMachineScript:
 	waitendtext
 
 GoldenrodPokecenter1FSuperNerdText:
-	text "Whoa, this #mon"
-	line "Center is huge."
+	text "Whoa, this #MON"
+	line "CENTER is huge."
 
 	para "They just built"
 	line "this place. They"
@@ -326,23 +326,23 @@ GoldenrodPokecenter1FSuperNerdText:
 GoldenrodPokecenter1FLassText_PidgeyMail:
 	text "I thought up a fun"
 	line "new thing for the"
-	cont "Wonder Trade Hub!"
+	cont "WONDER TRADE HUB!"
 
-	para "I make a Pidgey"
-	line "hold Mail, then"
+	para "I make a PIDGEY"
+	line "hold MAIL, then"
 
 	para "put it up for"
 	line "trade for another"
 	cont "one!"
 
 	para "If everyone did"
-	line "that, Mail could"
+	line "that, MAIL could"
 
 	para "be traded with all"
 	line "sorts of people!"
 
-	para "I call it Pidgey"
-	line "Mail!"
+	para "I call it PIDGEY"
+	line "MAIL!"
 
 	para "If it becomes"
 	line "popular, I might"
@@ -377,14 +377,14 @@ JudgeMachineEngineerScript:
 	end
 
 JudgeMachineEngineerWorkingText:
-	text "The #mon"
-	line "Judge Machine…"
+	text "The #MON"
+	line "JUDGE MACHINE…"
 
 	para "It's been my dream"
 	line "for a long time."
 
 	para "And with the #-"
-	line "Com Center funding"
+	line "COM CENTER funding"
 	cont "my work, it can"
 	cont "become a reality,"
 
@@ -394,15 +394,15 @@ JudgeMachineEngineerWorkingText:
 
 	para "Think of how use-"
 	line "ful it will be"
-	cont "for Breeders who"
-	cont "hatch many Eggs!"
+	cont "for breeders who"
+	cont "hatch many EGGS!"
 
 	para "I'm almost done…"
 	done
 
 JudgeMachineEngineerFinishedText:
-	text "The #mon"
-	line "Judge Machine…"
+	text "The #MON"
+	line "JUDGE MACHINE…"
 
 	para "It's finally done!"
 	line "My dream has be-"
@@ -412,13 +412,13 @@ JudgeMachineEngineerFinishedText:
 	line "It's a machine for"
 
 	para "judging the stats"
-	line "of any #mon!"
+	line "of any #MON!"
 
 	para "It uses the latest"
 	line "AI technology to"
 
 	para "evaluate a #-"
-	line "mon's inherent"
+	line "MON's inherent"
 	cont "potential, as well"
 
 	para "as the effort it's"
@@ -427,7 +427,7 @@ JudgeMachineEngineerFinishedText:
 
 	para "It's the perfect"
 	line "way to measure a"
-	cont "#mon's power!"
+	cont "#MON's power!"
 
 	para "Go ahead and try"
 	line "using it. It's"
@@ -448,10 +448,10 @@ JudgeMachineEngineerLeavesMovement:
 GoldenrodPokecenter1FPokefanFText_Sunflora:
 	text "Some girl I don't"
 	line "know sent me her"
-	cont "Sunflora."
+	cont "SUNFLORA."
 
 	para "You should trade"
-	line "for a #mon that"
+	line "for a #MON that"
 	cont "you want."
 	done
 

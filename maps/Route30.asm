@@ -195,8 +195,8 @@ GenericTrainerBug_catcherDon:
 	generictrainer BUG_CATCHER, DON, EVENT_BEAT_BUG_CATCHER_DON, Bug_catcherDonSeenText, Bug_catcherDonBeatenText
 
 	text "I ran out of #"
-	line "Balls while I was"
-	cont "catching #mon."
+	line "BALLS while I was"
+	cont "catching #MON."
 
 	para "I should've bought"
 	line "some more…"
@@ -218,9 +218,9 @@ Route30_MikeysPidgeyAttacksMovement:
 	step_end
 
 Text_UseTackle:
-	text "Go, Rattata!"
+	text "Go, RATTATA!"
 
-	para "Tackle!"
+	para "TACKLE!"
 	done
 
 Text_ThisIsABigBattle:
@@ -232,7 +232,7 @@ Text_ThisIsABigBattle:
 YoungsterJoey1SeenText:
 	text "I just lost, so"
 	line "I'm trying to find"
-	cont "more #mon."
+	cont "more #MON."
 
 	para "Wait! You look"
 	line "weak! Come on,"
@@ -246,7 +246,7 @@ YoungsterJoey1BeatenText:
 
 YoungsterJoey1AfterText:
 	text "Do I have to have"
-	line "more #mon in"
+	line "more #MON in"
 
 	para "order to battle"
 	line "better?"
@@ -257,7 +257,7 @@ YoungsterJoey1AfterText:
 	done
 
 YoungsterMikeySeenText:
-	text "You're a #mon"
+	text "You're a #MON"
 	line "trainer, right?"
 
 	para "Then you have to"
@@ -271,7 +271,7 @@ YoungsterMikeyBeatenText:
 
 Bug_catcherDonSeenText:
 	text "Instead of a bug"
-	line "#mon, I found"
+	line "#MON, I found"
 	cont "a trainer!"
 	done
 
@@ -281,7 +281,7 @@ Bug_catcherDonBeatenText:
 	done
 
 Route30YoungsterText_DirectionsToMrPokemonsHouse:
-	text "Mr.#mon's"
+	text "MR.#MON's"
 	line "house? It's a bit"
 	cont "farther ahead."
 	done
@@ -301,35 +301,35 @@ Route30CooltrainerFText:
 	done
 
 Route30SignText:
-	text "Route 30"
+	text "ROUTE 30"
 
-	para "Cherrygrove City -"
-	line "Violet City"
+	para "CHERRYGROVE CITY -"
+	line "VIOLET CITY"
 	done
 
 MrPokemonsHouseDirectionsSignText:
-	text "Mr.#mon's House"
+	text "MR.#MON'S HOUSE"
 	line "Straight Ahead!"
 	done
 
 MrPokemonsHouseSignText:
-	text "Mr.#mon's House"
+	text "MR.#MON'S HOUSE"
 	done
 
 BerryMastersHouseSignText:
-	text "Berry Master's"
-	line "House"
+	text "BERRY MASTER'S"
+	line "HOUSE"
 	done
 
 Route30TrainerTipsText:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
 	para "No stealing other"
-	line "people's #mon!"
+	line "people's #MON!"
 
-	para "# Balls are to"
+	para "# BALLS are to"
 	line "be thrown only at"
-	cont "wild #mon!"
+	cont "wild #MON!"
 	done
 
 YoungsterJoeyText_GiveHPUpAfterBattle:

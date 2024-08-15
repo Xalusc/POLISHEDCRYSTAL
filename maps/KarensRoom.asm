@@ -78,14 +78,14 @@ KarenScript:
 	end
 
 .SeenText:
-	text "I am Karen of the"
-	line "Elite Four."
+	text "I am KAREN of the"
+	line "ELITE FOUR."
 
 	para "You're <PLAYER>?"
 	line "How amusing."
 
-	para "I love Dark-type"
-	line "#mon."
+	para "I love dark-type"
+	line "#MON."
 
 	para "I find their wild,"
 	line "tough image to be"
@@ -107,9 +107,9 @@ KarenScript:
 	done
 
 .AfterText:
-	text "Strong #mon."
+	text "Strong #MON."
 
-	para "Weak #mon."
+	para "Weak #MON."
 
 	para "That is only the"
 	line "selfish perception"
@@ -125,8 +125,8 @@ KarenScript:
 	line "You understand"
 	cont "what's important."
 
-	para "Go on--the Cham-"
-	line "pion is waiting."
+	para "Go on--the CHAM-"
+	line "PION is waiting."
 	done
 
 .SeenRematchText:
@@ -148,7 +148,7 @@ KarenScript:
 	line "from my chosen"
 	cont "path."
 
-	para "Lance is looking"
+	para "LANCE is looking"
 	line "forward to meeting"
 	cont "you again."
 	done

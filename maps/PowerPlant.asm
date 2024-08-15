@@ -142,7 +142,7 @@ PowerPlantOfficer1ReturnToPostMovement:
 
 PowerPlantOfficer1AThiefBrokeInText:
 	text "A thief broke into"
-	line "the Power Plant…"
+	line "the POWER PLANT…"
 
 	para "What is the world"
 	line "coming to?"
@@ -150,7 +150,7 @@ PowerPlantOfficer1AThiefBrokeInText:
 
 PowerPlantOfficer1CeruleanShadyCharacterText:
 	text "I just got word"
-	line "from Cerulean."
+	line "from CERULEAN."
 
 	para "It appears that a"
 	line "shady character"
@@ -191,7 +191,7 @@ PowerPlantGymGuide1GeneratorUpAndRunningText:
 	done
 
 PowerPlantGymGuide2PowerPlantUpAndRunningText:
-	text "This Power Plant"
+	text "This POWER PLANT"
 	line "had been abandoned"
 	cont "in the past."
 
@@ -199,7 +199,7 @@ PowerPlantGymGuide2PowerPlantUpAndRunningText:
 	line "and running to"
 
 	para "provide power to"
-	line "the Magnet Train."
+	line "the MAGNET TRAIN."
 	done
 
 PowerPlantGymGuide2GeneratorIsRunningAgainText:
@@ -208,8 +208,8 @@ PowerPlantGymGuide2GeneratorIsRunningAgainText:
 	done
 
 PowerPlantOfficer2ManagerHasBeenSadAndFuriousText:
-	text "The Power Plant's"
-	line "Manager is up"
+	text "The POWER PLANT's"
+	line "MANAGER is up"
 	cont "ahead."
 
 	para "But since someone"
@@ -223,12 +223,12 @@ PowerPlantOfficer2ManagerHasBeenCheerfulText:
 	text "Since the gener-"
 	line "ator's been fixed,"
 
-	para "the Manager has"
+	para "the MANAGER has"
 	line "been cheerful."
 	done
 
 PowerPlantGymGuide4MagnetTrainConsumesElectricityText:
-	text "The Magnet Train"
+	text "The MAGNET TRAIN"
 	line "consumes a lot of"
 	cont "electricity."
 
@@ -241,12 +241,12 @@ PowerPlantGymGuide4WeCanGetMagnetTrainRunningText:
 	text "All right! We can"
 	line "finally get the"
 
-	para "Magnet Train"
+	para "MAGNET TRAIN"
 	line "running again."
 	done
 
 PowerPlantManagerWhoWouldRuinMyGeneratorText:
-	text "Manager: I, I, I'm"
+	text "MANAGER: I, I, I'm"
 	line "ready to blast"
 	cont "someone!"
 
@@ -259,12 +259,12 @@ PowerPlantManagerWhoWouldRuinMyGeneratorText:
 	para "If I catch him,"
 	line "he's going to get"
 
-	para "a taste of my Zap"
-	line "Cannon!"
+	para "a taste of my ZAP"
+	line "CANNON!"
 	done
 
 PowerPlantManagerIWontForgiveCulpritText:
-	text "Manager: I won't"
+	text "MANAGER: I won't"
 	line "forgive him!"
 
 	para "The culprit can"
@@ -277,7 +277,7 @@ PowerPlantManagerIWontForgiveCulpritText:
 	done
 
 PowerPlantManagerThatsThePartText:
-	text "Manager: Ah! Yeah!"
+	text "MANAGER: Ah! Yeah!"
 
 	para "That's the missing"
 	line "part from my be-"
@@ -292,11 +292,11 @@ PowerPlantManagerTakeThisTMText:
 	done
 
 Text_PowerPlantTutorZapCannon:
-	text "Manager: I can"
+	text "MANAGER: I can"
 	line "teach your"
 
-	para "#mon to use"
-	line "my Zap Cannon!"
+	para "#MON to use"
+	line "my ZAP CANNON!"
 
 	para "It's not what any-"
 	line "one would consider"
@@ -305,19 +305,19 @@ Text_PowerPlantTutorZapCannon:
 	line "packs a wallop!"
 
 	para "I'll just need one"
-	line "Silver Leaf."
+	line "SILVER LEAF."
 	done
 
 Text_PowerPlantTutorNoSilverLeaf:
 	text "Sorry, but I can't"
-	line "teach Zap Cannon"
-	cont "without that Leaf!"
+	line "teach ZAP CANNON"
+	cont "without that LEAF!"
 	done
 
 Text_PowerPlantTutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Zap Cannon?"
+	line "your #MON"
+	cont "ZAP CANNON?"
 	done
 
 Text_PowerPlantTutorRefused:
@@ -325,19 +325,19 @@ Text_PowerPlantTutorRefused:
 	done
 
 Text_PowerPlantTutorTaught:
-	text "Now your #mon"
-	line "knows Zap Cannon!"
+	text "Now your #MON"
+	line "knows ZAP CANNON!"
 
 	para "Wahahah!"
 	done
 
 PowerPlantForestText:
-	text "Magneton behaves"
-	line "strangely in Rock"
-	cont "Tunnel."
+	text "MAGNETON behaves"
+	line "strangely in ROCK"
+	cont "TUNNEL."
 
-	para "Could the Power"
-	line "Plant's turbines"
+	para "Could the POWER"
+	line "PLANT's turbines"
 
 	para "have something to"
 	line "do with it?"

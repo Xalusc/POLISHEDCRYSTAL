@@ -197,16 +197,16 @@ PlateauRivalText1:
 	text "Hold it."
 
 	para "You're going to"
-	line "take the #mon"
+	line "take the #MON"
 
-	para "League challenge"
+	para "LEAGUE challenge"
 	line "now?"
 
 	para "That's not going"
 	line "to happen."
 
 	para "My super well-"
-	line "trained #mon"
+	line "trained #MON"
 
 	para "are going to pound"
 	line "you."
@@ -227,7 +227,7 @@ PlateauRivalText2:
 
 	para "I… I have to think"
 	line "more about my"
-	cont "#mon…"
+	cont "#MON…"
 
 	para "Humph! Try not to"
 	line "lose!"
@@ -240,16 +240,16 @@ PlateauRivalLoseText:
 	line "With my partners,"
 
 	para "I'm going to be"
-	line "the Champion!"
+	line "the CHAMPION!"
 	done
 
 PlateauLyraText1:
 	text "<PLAYER>!"
 
 	para "I've been travel-"
-	line "ing around Johto,"
+	line "ing around JOHTO,"
 
-	para "earning badges and"
+	para "earning BADGES and"
 	line "gaining strength."
 
 	para "You know what"
@@ -259,7 +259,7 @@ PlateauLyraText1:
 	para "And now…"
 
 	para "Here I am, at the"
-	line "Indigo Plateau."
+	line "INDIGO PLATEAU."
 
 	para "Do you know what"
 	line "this means?"
@@ -270,8 +270,8 @@ PlateauLyraText1:
 	done
 
 PlateauLyraText2:
-	text "as the #mon"
-	line "League Champion!"
+	text "as the #MON"
+	line "LEAGUE CHAMPION!"
 	done
 
 PlateauLyraWinText:
@@ -288,10 +288,10 @@ PlateauLyraText3:
 	line "I lost."
 
 	para "I got to explore"
-	line "Johto, meet new"
+	line "JOHTO, meet new"
 	cont "people, raise my"
 
-	para "#mon to be"
+	para "#MON to be"
 	line "stronger than I"
 
 	para "thought they could"
@@ -303,7 +303,7 @@ PlateauLyraText3:
 
 	para "You beat me--now"
 	line "go beat the #-"
-	cont "mon League!"
+	cont "MON LEAGUE!"
 	done
 
 PlateauRivalApproachesMovement:
@@ -326,21 +326,21 @@ PokemonJournalGiovanniScript:
 	setflag ENGINE_READ_GIOVANNI_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Boss Giovanni!"
+	para "SPECIAL FEATURE:"
+	line "BOSS GIOVANNI!"
 
 	para "When police sear-"
 	line "ched the abandoned"
-	cont "Viridian Gym, they"
+	cont "VIRIDIAN GYM, they"
 
 	para "discovered that"
-	line "its Leader,"
-	cont "Giovanni, had"
+	line "its LEADER,"
+	cont "GIOVANNI, had"
 
 	para "also been the"
-	line "Team Rocket Boss."
+	line "TEAM ROCKET boss."
 	done
 
 IndigoPlateauYellowScript:
@@ -389,28 +389,28 @@ IndigoPlateauYellowScript:
 	end
 
 .PartyAndBoxFullText:
-	text "Yellow: Oh…"
+	text "YELLOW: Oh…"
 	line "You can't carry"
 
-	para "another #mon"
+	para "another #MON"
 	line "either…"
 
-	para "And your box is"
+	para "And your BOX is"
 	line "full, too…"
 	done
 
 .GreetingText:
-	text "Yellow: Hi,"
+	text "YELLOW: Hi,"
 	line "<PLAYER>!"
 
 	para "I was watching the"
-	line "Elite Four fight."
+	line "ELITE FOUR fight."
 
 	para "They're so intense…"
 	line "And they have such"
 
 	para "strong bonds with"
-	line "their #mon…"
+	line "their #MON…"
 
 	para "One day I'm going"
 	line "to reach their"
@@ -418,11 +418,11 @@ IndigoPlateauYellowScript:
 	done
 
 .QuestionText:
-	text "Yellow: <PLAYER>,"
+	text "YELLOW: <PLAYER>,"
 	line "can you do me a"
 	cont "favor?"
 
-	para "I have a #mon"
+	para "I have a #MON"
 	line "that I can't raise"
 	cont "myself, and I don't"
 
@@ -434,19 +434,19 @@ IndigoPlateauYellowScript:
 	done
 
 .GiveStarterText:
-	text "Yellow: Thanks,"
+	text "YELLOW: Thanks,"
 	line "<PLAYER>! Here"
 	cont "you go!"
 	done
 
 .RefusedText:
-	text "Yellow: Oh…"
+	text "YELLOW: Oh…"
 	line "But what about the"
-	cont "#mon?"
+	cont "#MON?"
 	done
 
 .GoodbyeText:
-	text "Yellow: You take"
+	text "YELLOW: You take"
 	line "good care of that"
 
 	para ""
@@ -483,18 +483,18 @@ IndigoPlateauTeleportGuyScript:
 
 .Text:
 	text "Ah! You're chal-"
-	line "lenging the Elite"
+	line "lenging the ELITE"
 
-	para "Four? Are you sure"
+	para "FOUR? Are you sure"
 	line "you're ready?"
 
 	para "If you need to"
 	line "train some more,"
 
-	para "my Abra can help"
+	para "my ABRA can help"
 	line "you."
 
-	para "It can Teleport"
+	para "It can TELEPORT"
 	line "you home."
 
 	para "Would you like to"
@@ -513,15 +513,15 @@ IndigoPlateauTeleportGuyScript:
 	done
 
 IndigoPlateauAbraText:
-	text "Abra: Aabra…"
+	text "ABRA: Aabra…"
 	done
 
 IndigoPlateauCooltrainermText:
-	text "At the #mon"
-	line "League, you'll get"
+	text "At the #MON"
+	line "LEAGUE, you'll get"
 
 	para "tested by the"
-	line "Elite Four."
+	line "ELITE FOUR."
 
 	para "You have to beat"
 	line "them all. If you"

@@ -1,9 +1,9 @@
-	db "Time Travel@" ; species name
+	db "TIME TRAVEL@" ; species name
 	dw 200, 110 ; height, width
 
 	db   "Revered as a"
 	next "guardian of the"
-	next "forest, Celebi"
+	next "forest, CELEBI"
 	page "appears wherever"
 	next "beautiful forests"
 	next "exist.@"

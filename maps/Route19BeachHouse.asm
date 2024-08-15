@@ -51,25 +51,25 @@ Route19BeachHouseVictorScript:
 
 .GreetingText:
 	text "Hey there, friend!"
-	line "The name's Victor."
+	line "The name's VICTOR."
 
-	para "I love to Surf,"
-	line "and so does Puka."
-	cont "That's my Pikachu!"
+	para "I love to SURF,"
+	line "and so does PUKA."
+	cont "That's my PIKACHU!"
 	done
 
 .ChallengeText:
 	text "Whoa!"
 
-	para "Your Pikachu knows"
-	line "how to Surf! So,"
+	para "Your PIKACHU knows"
+	line "how to SURF! So,"
 	cont "I'm not alone…"
 
 	para "Great! You earned"
 	line "the right to a"
 
-	para "Surfing battle"
-	line "with me and Puka!"
+	para "SURFing battle"
+	line "with me and PUKA!"
 
 	para "Give it a go?"
 	done
@@ -86,16 +86,16 @@ Route19BeachHouseVictorScript:
 	done
 
 .AfterText:
-	text "I hear some Pika-"
-	line "chu in Johto"
+	text "I hear some PIKA-"
+	line "CHU in JOHTO"
 
 	para "taught themselves"
-	line "to Surf."
+	line "to SURF."
 
 	para "Maybe that's where"
 	line "mine came from."
 
-	para "I found Puka wash-"
+	para "I found PUKA wash-"
 	line "ed ashore years"
 	cont "ago, and we've been"
 
@@ -108,15 +108,15 @@ Route19BeachHouseVictorScript:
 	line "too!"
 
 	para "Go out there and"
-	line "find a Surfing"
-	cont "Pikachu!"
+	line "find a SURFing"
+	cont "PIKACHU!"
 
 	para "Show me that you"
-	line "love Surfing too!"
+	line "love SURFing too!"
 	done
 
 .NoBattleText:
-	text "Shucks. Come Surf"
+	text "Shucks. Come SURF"
 	line "anytime, friend!"
 	done
 
@@ -126,5 +126,5 @@ Route19BeachHouseSurfingPikachuScript:
 	end
 
 .Text:
-	text "Puka: Pi-kaa!"
+	text "PUKA: Pi-kaa!"
 	done

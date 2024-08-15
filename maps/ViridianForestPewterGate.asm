@@ -18,8 +18,8 @@ ViridianForestPewterGate_MapScriptHeader:
 
 ViridianForestPewterGateOfficerText:
 	text "Are you headed"
-	line "to Pewter City?"
+	line "to PEWTER CITY?"
 
 	para "Be sure to check"
-	line "out the Museum!"
+	line "out the MUSEUM!"
 	done

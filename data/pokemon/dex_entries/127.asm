@@ -1,4 +1,4 @@
-	db "Stag Beetle@" ; species name
+	db "STAG BEETLE@" ; species name
 	dw 411, 1210 ; height, width
 
 	db   "When the tempera-"

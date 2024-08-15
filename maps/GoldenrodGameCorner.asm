@@ -258,10 +258,10 @@ GoldenrodGameCornerPrizeMonVendorScript:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Abra        200@"
-	db "Cubone      800@"
-	db "Clefairy   1500@"
-	db "Cancel@"
+	db "ABRA        200@"
+	db "CUBONE      800@"
+	db "CLEFAIRY   1500@"
+	db "CANCEL@"
 
 GoldenrodGameCornerPharmacistScript:
 	showtextfaceplayer GoldenrodGameCornerPharmacistText
@@ -346,7 +346,7 @@ GoldenrodGameCornerPrizeVendorNeedMoreCoinsText:
 GoldenrodGameCornerPrizeVendorNoMoreRoomText:
 	text "Oh, no. You can't"
 	line "carry any more and"
-	cont "your box is full."
+	cont "your BOX is full."
 
 	para "I'll return your"
 	line "coins to you."
@@ -360,7 +360,7 @@ GoldenrodGameCornerPrizeVendorQuitText:
 
 GoldenrodGameCornerPrizeVendorNoCoinCaseText:
 	text "Oh? You don't have"
-	line "a Coin Case."
+	line "a COIN CASE."
 	done
 
 GoldenrodGameCornerFisherText:
@@ -368,21 +368,21 @@ GoldenrodGameCornerFisherText:
 	line "Time to celebrate"
 	cont "with some slots!"
 
-	para "…You know, #mon"
-	line "get a Pay Day too."
+	para "…You know, #MON"
+	line "get a PAY DAY too."
 	done
 
 Text_GoldenrodGameCornerTutorPayDayQuestion:
 	text "If you give me a"
-	line "Silver Leaf, I'll"
+	line "SILVER LEAF, I'll"
 
-	para "teach Pay Day to"
-	line "your #mon."
+	para "teach PAY DAY to"
+	line "your #MON."
 	done
 
 Text_GoldenrodGameCornerTutorNoSilverLeaf:
 	text "You don't have a"
-	line "Silver Leaf?"
+	line "SILVER LEAF?"
 	cont "Never mind then."
 	done
 
@@ -391,7 +391,7 @@ Text_GoldenrodGameCornerTutorRefused:
 	done
 
 Text_GoldenrodGameCornerTutorTaught:
-	text "Pay Day nets you"
+	text "PAY DAY nets you"
 	line "more money after a"
 	cont "battle."
 
@@ -413,7 +413,7 @@ GoldenrodGameCornerPokefanM1Text:
 
 	para "It's more of a"
 	line "challenge than the"
-	cont "ones in Celadon."
+	cont "ones in CELADON."
 	done
 
 GoldenrodGameCornerCooltrainerMText:
@@ -441,8 +441,8 @@ GoldenrodGameCornerCooltrainerFText:
 	done
 
 GoldenrodGameCornerGentlemanText:
-	text "I taught Ice Beam"
-	line "to my #mon."
+	text "I taught ICE BEAM"
+	line "to my #MON."
 
 	para "It was hard to get"
 	line "enough coins for"
@@ -461,8 +461,8 @@ GoldenrodGameCornerPokefanM2Text:
 	para "I got so furious,"
 	line "I tossed out my"
 
-	para "Coin Case in the"
-	line "Underground."
+	para "COIN CASE in the"
+	line "UNDERGROUND."
 	done
 
 GoldenrodGameCornerPokefanM3Text:

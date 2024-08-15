@@ -87,11 +87,11 @@ GenericTrainerSailorJeff:
 GenericTrainerPicnickerDebra:
 	generictrainer PICNICKER, DEBRA, EVENT_BEAT_PICNICKER_DEBRA, PicnickerDebraSeenText, PicnickerDebraBeatenText
 
-	text "Saffron, Celadon…"
+	text "SAFFRON, CELADON…"
 	line "I hear there are"
 
 	para "many big cities"
-	line "in Kanto."
+	line "in KANTO."
 	done
 
 GenericTrainerJugglerFritz:
@@ -101,7 +101,7 @@ GenericTrainerJugglerFritz:
 	line "me. Next time,"
 
 	para "I'm taking the"
-	line "Magnet Train."
+	line "MAGNET TRAIN."
 	done
 
 GenericTrainerBakerSharyn:
@@ -120,23 +120,23 @@ GenericTrainerSailorGarrett:
 	text "We get different"
 	line "passengers from"
 
-	para "Vermilion City to"
-	line "Olivine City."
+	para "VERMILION CITY to"
+	line "OLIVINE CITY."
 	done
 
 GenericTrainerFisherJonah:
 	generictrainer FISHER, JONAH, EVENT_BEAT_FISHER_JONAH, FisherJonahSeenText, FisherJonahBeatenText
 
 	text "I plan to fish off"
-	line "Vermilion's pier."
+	line "VERMILION's pier."
 	done
 
 GenericTrainerBlackbeltWai:
 	generictrainer BLACKBELT_T, WAI, EVENT_BEAT_BLACKBELT_WAI, BlackbeltWaiSeenText, BlackbeltWaiBeatenText
 
 	text "I couldn't find"
-	line "the Karate King in"
-	cont "Johto."
+	line "the KARATE KING in"
+	cont "JOHTO."
 
 	para "He's supposed to"
 	line "be training in a"
@@ -146,11 +146,11 @@ GenericTrainerBlackbeltWai:
 GenericTrainerSailorKenneth:
 	generictrainer SAILOR, KENNETH, EVENT_BEAT_SAILOR_KENNETH, SailorKennethSeenText, SailorKennethBeatenText
 
-	text "Eight Badges!"
+	text "Eight BADGES!"
 	line "They must prove"
 
 	para "that you've beaten"
-	line "Gym Leaders."
+	line "GYM LEADERS."
 
 	para "No wonder you're"
 	line "so good!"
@@ -161,7 +161,7 @@ GenericTrainerTeacherShirley:
 
 	text "We're on a field"
 	line "trip to the ruins"
-	cont "outside Violet."
+	cont "outside VIOLET."
 	done
 
 GenericTrainerSchoolboyNate:
@@ -176,7 +176,7 @@ GenericTrainerSchoolboyRicky:
 	generictrainer SCHOOLBOY, RICKY, EVENT_BEAT_SCHOOLBOY_RICKY, SchoolboyRickySeenText, SchoolboyRickyBeatenText
 
 	text "I read in a #-"
-	line "mon Journal that"
+	line "MON JOURNAL that"
 
 	para "there are four of"
 	line "those stone panels"
@@ -214,7 +214,7 @@ FastShipB1FOnDutySailorText:
 FastShipB1FOnDutySailorRefusedText:
 	text "Oh, gee…"
 
-	para "The Captain will"
+	para "The CAPTAIN will"
 	line "be furious…"
 	done
 
@@ -239,7 +239,7 @@ FastShipB1FOnDutySailorDirectionsText:
 
 	para "The stairs at the"
 	line "end lead to the"
-	cont "Captain's cabin."
+	cont "CAPTAIN's cabin."
 	done
 
 SailorJeffSeenText:
@@ -276,7 +276,7 @@ JugglerFritzBeatenText:
 BakerSharynSeenText:
 	text "As I bake bread,"
 	line "I will bake your"
-	cont "#mon, too!"
+	cont "#MON, too!"
 	done
 
 BakerSharynBeatenText:
@@ -325,8 +325,8 @@ SailorKennethSeenText:
 	text "I'm a sailor man!"
 
 	para "But I'm training"
-	line "#mon, so I can"
-	cont "become the Champ!"
+	line "#MON, so I can"
+	cont "become the CHAMP!"
 	done
 
 SailorKennethBeatenText:
@@ -345,7 +345,7 @@ TeacherShirleyBeatenText:
 
 SchoolboyNateSeenText:
 	text "Do you know the"
-	line "Ruins of Alph?"
+	line "RUINS OF ALPH?"
 	done
 
 SchoolboyNateBeatenText:
@@ -355,7 +355,7 @@ SchoolboyNateBeatenText:
 SchoolboyRickySeenText:
 	text "There are some odd"
 	line "stone panels in"
-	cont "the Ruins of Alph."
+	cont "the RUINS OF ALPH."
 	done
 
 SchoolboyRickyBeatenText:

@@ -122,13 +122,13 @@ endr
 	ret
 
 AllStatNames:
-	db   "Health<NEXT>"
+	db   "HEALTH<NEXT>"
 MostStatNames:
-	db   "Attack"
-	next "Defense"
-	next "Spcl.Atk"
-	next "Spcl.Def"
-	next "Speed"
+	db   "ATTACK"
+	next "DEFENSE"
+	next "SPCL.ATK"
+	next "SPCL.DEF"
+	next "SPEED"
 	next "@"
 
 PrintStatDifferences:
@@ -634,13 +634,13 @@ StatusStringPointers:
 	dw ToxString
 
 OKString:  rawchar "OK @"
-PsnString: rawchar "Psn@"
-ParString: rawchar "Par@"
-SlpString: rawchar "Slp@"
-BrnString: rawchar "Brn@"
-FrzString: rawchar "Frz@"
-FntString: rawchar "Fnt@"
-ToxString: rawchar "Tox@"
+PsnString: rawchar "PSN@"
+ParString: rawchar "PAR@"
+SlpString: rawchar "SLP@"
+BrnString: rawchar "BRN@"
+FrzString: rawchar "FRZ@"
+FntString: rawchar "FNT@"
+ToxString: rawchar "TOX@"
 
 ListMoves:
 ; List moves at hl, spaced every [wBuffer1] tiles.

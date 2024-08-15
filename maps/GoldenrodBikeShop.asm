@@ -41,7 +41,7 @@ GoldenrodBikeShopClerkScript:
 	jumpthisopenedtext
 
 GoldenrodBikeShopClerkFirstRateBikesText:
-	text "My Bicycles are"
+	text "My BICYCLES are"
 	line "first-rate! You"
 
 	para "can ride them"
@@ -53,11 +53,11 @@ GoldenrodBikeShopClerkIntroText:
 	line "a branch here,"
 
 	para "but I can't sell"
-	line "my Bicycles."
+	line "my BICYCLES."
 	cont "Why is that?"
 
 	para "Could you ride a"
-	line "Bicycle and adver-"
+	line "BICYCLE and adver-"
 	cont "tise for me?"
 	done
 
@@ -68,7 +68,7 @@ GoldenrodBikeShopClerkAgreedText:
 	line "and phone number,"
 
 	para "and I'll loan you"
-	line "a Bicycle."
+	line "a BICYCLE."
 	done
 
 GoldenrodBikeShopClerkRefusedText:
@@ -79,12 +79,12 @@ GoldenrodBikeShopClerkRefusedText:
 
 GoldenrodBikeShopBicycleText:
 	text "It's a shiny new"
-	line "Bicycle!"
+	line "BICYCLE!"
 	done
 
 GoldenrodBikeShopJustReleasedCompactBikeText:
 	text "Just released!"
 
 	para "First-rate compact"
-	line "Bicycles!"
+	line "BICYCLES!"
 	done

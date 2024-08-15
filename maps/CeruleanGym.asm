@@ -122,7 +122,7 @@ GenericTrainerSwimmerfViola:
 	cont "and health!"
 
 	para "Just look at"
-	line "Misty, you'll see."
+	line "MISTY, you'll see."
 	done
 
 GenericTrainerSwimmerfBriana:
@@ -131,7 +131,7 @@ GenericTrainerSwimmerfBriana:
 	text "Don't be too smug"
 	line "about beating me."
 
-	para "Misty will destroy"
+	para "MISTY will destroy"
 	line "you if you get"
 	cont "complacent."
 	done
@@ -139,7 +139,7 @@ GenericTrainerSwimmerfBriana:
 GenericTrainerSailorParker:
 	generictrainer SAILOR, PARKER, EVENT_BEAT_SAILOR_PARKER, SailorParkerSeenText, SailorParkerBeatenText
 
-	text "Misty has gotten"
+	text "MISTY has gotten"
 	line "much better in the"
 	cont "past few years."
 
@@ -259,49 +259,49 @@ CeruleanGymGruntByeText:
 CeruleanGymNote1:
 	text "Sorry, I'll be out"
 	line "for a while."
-	cont "Misty, Gym Leader"
+	cont "MISTY, GYM LEADER"
 	done
 
 CeruleanGymNote2:
-	text "Since Misty's out,"
+	text "Since MISTY's out,"
 	line "we'll be away too."
-	cont "Gym Trainers"
+	cont "GYM trainers"
 	done
 
 MistyIntroText:
-	text "Misty: I was ex-"
+	text "MISTY: I was ex-"
 	line "pecting you, you"
 	cont "pest!"
 
 	para "You may have a"
-	line "lot of Johto Gym"
+	line "lot of JOHTO GYM"
 
-	para "Badges, but you'd"
+	para "BADGES, but you'd"
 	line "better not take me"
 	cont "too lightly."
 
-	para "My Water-type"
-	line "#mon are tough!"
+	para "My water-type"
+	line "#MON are tough!"
 	done
 
 MistyWinLossText:
-	text "Misty: You really"
+	text "MISTY: You really"
 	line "are good…"
 
 	para "I'll admit that"
 	line "you are skilled…"
 
 	para "Here you go. It's"
-	line "the Cascade Badge."
+	line "the CASCADE BADGE."
 	done
 
 ReceivedCascadeBadgeText:
 	text "<PLAYER> received"
-	line "the Cascade Badge."
+	line "the CASCADE BADGE."
 	done
 
 MistyGiveTMText:
-	text "Misty: Here's"
+	text "MISTY: Here's"
 	line "another memento"
 
 	para "from this battle."
@@ -310,16 +310,16 @@ MistyGiveTMText:
 
 MistyOutroText:
 	text "It contains the"
-	line "move Water Pulse."
+	line "move WATER PULSE."
 
 	para "It can sometimes"
 	line "confuse your foe."
 	done
 
 MistyFightDoneText:
-	text "Misty: Are there"
+	text "MISTY: Are there"
 	line "many strong train-"
-	cont "ers in Johto? Like"
+	cont "ers in JOHTO? Like"
 	cont "you, I mean."
 
 	para "I'm going to"
@@ -386,10 +386,10 @@ SailorEddieBeatenText:
 	done
 
 CeruleanGymGuyText:
-	text "Yo! Champ in"
+	text "Yo! CHAMP in"
 	line "making!"
 
-	para "Since Misty was"
+	para "Since MISTY was"
 	line "away, I went out"
 
 	para "for some fun too."
@@ -407,7 +407,7 @@ CeruleanGymGuyWinText:
 
 CeruleanGymFoundMachinePartText:
 	text "<PLAYER> found"
-	line "Machine Part!"
+	line "MACHINE PART!"
 	done
 
 CeruleanGymSomethingUnderwaterText:

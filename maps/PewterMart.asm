@@ -18,10 +18,10 @@ PewterMart_MapScriptHeader:
 
 PewterMartYoungsterText:
 	text "Hi! Check out my"
-	line "Gyarados!"
+	line "GYARADOS!"
 
 	para "I raised it from a"
-	line "Magikarp. I can't"
+	line "MAGIKARP. I can't"
 
 	para "believe how strong"
 	line "it has become."
@@ -30,11 +30,11 @@ PewterMartYoungsterText:
 PewterMartSuperNerdText:
 	text "There once was a"
 	line "weird old man who"
-	cont "sold Magikarp."
+	cont "sold MAGIKARP."
 
 	para "He was saying the"
-	line "Magikarp from the"
+	line "MAGIKARP from the"
 
-	para "Lake of Rage were"
+	para "LAKE OF RAGE were"
 	line "excellent."
 	done

@@ -117,7 +117,7 @@ Route43SightseerfScript:
 	text "I'm seeking out"
 	line "strong trainers"
 
-	para "in Johto, but I"
+	para "in JOHTO, but I"
 	line "haven't found any."
 
 	para "Hmmm… You seem"
@@ -155,10 +155,10 @@ Route43SightseerfScript:
 
 .SeenText:
 	text "Let's see how"
-	line "strong Johto's"
+	line "strong JOHTO's"
 	cont "trainers can be."
 
-	para "Face my Flame Orb"
+	para "Face my FLAME ORB"
 	line "strategy!"
 	done
 
@@ -172,17 +172,17 @@ Route43SightseerfScript:
 	cont "looking for!"
 
 	para "I'll give you a"
-	line "Flame Orb, but"
+	line "FLAME ORB, but"
 
 	para "please be careful"
 	line "if you give it to"
-	cont "a #mon."
+	cont "a #MON."
 	done
 
 GenericTrainerBreederJody:
 	generictrainer BREEDER, JODY, EVENT_BEAT_BREEDER_JODY, BreederJodySeenText, BreederJodyBeatenText
 
-	text "A baby #mon"
+	text "A baby #MON"
 	line "can sometimes"
 
 	para "inherit a move"
@@ -196,7 +196,7 @@ GenericTrainerBreederJody:
 GenericTrainerSrandjrIvyandamy1:
 	generictrainer SR_AND_JR, IVYANDAMY1, EVENT_BEAT_SR_AND_JR_IVY_AND_AMY, SrandjrIvyandamy1SeenText, SrandjrIvyandamy1BeatenText
 
-	text "Ivy: I don't want"
+	text "IVY: I don't want"
 	line "my junior to think"
 	cont "I can't help her."
 	done
@@ -204,7 +204,7 @@ GenericTrainerSrandjrIvyandamy1:
 GenericTrainerSrandjrIvyandamy2:
 	generictrainer SR_AND_JR, IVYANDAMY2, EVENT_BEAT_SR_AND_JR_IVY_AND_AMY, SrandjrIvyandamy2SeenText, SrandjrIvyandamy2BeatenText
 
-	text "Amy: I hope my"
+	text "AMY: I hope my"
 	line "senior noticed"
 	cont "how hard I tried."
 	done
@@ -213,7 +213,7 @@ GenericTrainerCamperSpencer:
 	generictrainer CAMPER, SPENCER, EVENT_BEAT_CAMPER_SPENCER, CamperSpencerSeenText, CamperSpencerBeatenText
 
 	text "What is going on"
-	line "at Lake of Rage?"
+	line "at LAKE OF RAGE?"
 
 	para "We were planning"
 	line "to camp there."
@@ -224,9 +224,9 @@ GenericTrainerPokemaniacBen:
 
 	text "What else do I"
 	line "like besides"
-	cont "#mon?"
+	cont "#MON?"
 
-	para "Mary on the radio."
+	para "MARY on the radio."
 	line "I bet she's cute!"
 	done
 
@@ -332,9 +332,9 @@ GenericTrainerPokemaniacRon:
 
 	text "It's OK for people"
 	line "to like different"
-	cont "types of #mon."
+	cont "types of #MON."
 
-	para "#mon isn't just"
+	para "#MON isn't just"
 	line "about having the"
 	cont "most powerful one."
 	done
@@ -342,15 +342,15 @@ GenericTrainerPokemaniacRon:
 GenericTrainerFisherMarvin:
 	generictrainer FISHER, MARVIN, EVENT_BEAT_FISHER_MARVIN, FisherMarvinSeenText, FisherMarvinBeatenText
 
-	text "Kurt's Lure Ball"
+	text "KURT's LURE BALL"
 	line "is the best for"
 
 	para "catching hooked"
-	line "#mon."
+	line "#MON."
 
 	para "It's much more"
 	line "effective than a"
-	cont "Ultra Ball."
+	cont "ULTRA BALL."
 	done
 
 TrainerPicnickerTiffany1:
@@ -475,13 +475,13 @@ UnknownScript_0x19d259:
 	jumpstd packfullf
 
 PokemaniacBenSeenText:
-	text "I love #mon!"
+	text "I love #MON!"
 
 	para "That's why I"
 	line "started--and why"
 
 	para "I'll keep on col-"
-	line "lecting #mon!"
+	line "lecting #MON!"
 	done
 
 PokemaniacBenBeatenText:
@@ -491,18 +491,18 @@ PokemaniacBenBeatenText:
 
 PokemaniacBrent1SeenText:
 	text "Hey! Do you have"
-	line "any rare #mon?"
+	line "any rare #MON?"
 	done
 
 PokemaniacBrent1BeatenText:
 	text "Oh, my poor #-"
-	line "mon! Darlings!"
+	line "MON! Darlings!"
 	done
 
 PokemaniacBrentAfterBattleText:
 	text "I'd be happy just"
 	line "to own a single"
-	cont "rare #mon."
+	cont "rare #MON."
 	done
 
 PokemaniacRonSeenText:
@@ -511,14 +511,14 @@ PokemaniacRonSeenText:
 
 	para "Some <RIVAL> guy"
 	line "made fun of my"
-	cont "#mon!"
+	cont "#MON!"
 
 	para "Darn it! My #-"
-	line "mon's great!"
+	line "MON's great!"
 	done
 
 PokemaniacRonBeatenText:
-	text "My Nidoking did"
+	text "My NIDOKING did"
 	line "pretty right on!"
 	done
 
@@ -539,7 +539,7 @@ FisherMarvinBeatenText:
 
 CamperSpencerSeenText:
 	text "I can do so much"
-	line "with my #mon--"
+	line "with my #MON--"
 	cont "it's super fun!"
 	done
 
@@ -550,7 +550,7 @@ CamperSpencerBeatenText:
 
 PicnickerTiffany1SeenText:
 	text "Are you going to"
-	line "Lake of Rage too?"
+	line "LAKE OF RAGE too?"
 
 	para "Let's play for a"
 	line "little while!"
@@ -562,19 +562,19 @@ PicnickerTiffany1BeatenText:
 
 PicnickerTiffanyWantsPicnicText:
 	text "I'm having a pic-"
-	line "nic with #mon."
+	line "nic with #MON."
 
 	para "Won't you join us?"
 	done
 
 PicnickerTiffanyClefairyText:
-	text "Isn't my Clefairy"
+	text "Isn't my CLEFAIRY"
 	line "just the most"
 	cont "adorable thing?"
 	done
 
 BreederJodySeenText:
-	text "I bred my #mon"
+	text "I bred my #MON"
 	line "so they know"
 	cont "special moves!"
 	done
@@ -584,46 +584,46 @@ BreederJodyBeatenText:
 	done
 
 SrandjrIvyandamy1SeenText:
-	text "Ivy: I'll show my"
+	text "IVY: I'll show my"
 	line "junior how it's"
 	cont "done!"
 	done
 
 SrandjrIvyandamy1BeatenText:
-	text "Ivy: You embarass-"
+	text "IVY: You embarass-"
 	line "ed me in front of"
 	cont "my junior…"
 	done
 
 SrandjrIvyandamy2SeenText:
-	text "Amy: A trainer!"
+	text "AMY: A trainer!"
 	line "Senior, please"
 	cont "help me win!"
 	done
 
 SrandjrIvyandamy2BeatenText:
-	text "Amy: We couldn't"
+	text "AMY: We couldn't"
 	line "do it…"
 	done
 
 Route43Sign1Text:
-	text "Route 43"
+	text "ROUTE 43"
 
-	para "Lake of Rage -"
-	line "Mahogany Town"
+	para "LAKE OF RAGE -"
+	line "MAHOGANY TOWN"
 	done
 
 Route43Sign2Text:
-	text "Route 43"
+	text "ROUTE 43"
 
-	para "Lake of Rage -"
-	line "Mahogany Town"
+	para "LAKE OF RAGE -"
+	line "MAHOGANY TOWN"
 	done
 
 Route43TrainerTipsText:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "All #mon have"
+	para "All #MON have"
 	line "pros and cons"
 
 	para "depending on their"
@@ -632,12 +632,12 @@ Route43TrainerTipsText:
 	para "If their types"
 	line "differ, a higher-"
 
-	para "level #mon may"
+	para "level #MON may"
 	line "lose in battle."
 
 	para "Learn which types"
 	line "are strong and"
 
 	para "weak against your"
-	line "#mon's type."
+	line "#MON's type."
 	done

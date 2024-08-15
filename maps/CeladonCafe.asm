@@ -139,8 +139,8 @@ Fisher3Text_MunchMunch:
 
 Fisher3Text_GoldenrodIsBest:
 	text "The food is good"
-	line "here, but Golden-"
-	cont "rod has the best"
+	line "here, but GOLDEN-"
+	cont "ROD has the best"
 	cont "food anywhere."
 	done
 
@@ -150,10 +150,10 @@ TeacherText_CrunchCrunch:
 
 TeacherText_NoCoinCase:
 	text "Nobody here will"
-	line "give you a Coin"
+	line "give you a COIN"
 
-	para "Case. You should"
-	line "look in Johto."
+	para "CASE. You should"
+	line "look in JOHTO."
 	done
 
 TeacherText_KeepEating:
@@ -163,11 +163,11 @@ TeacherText_KeepEating:
 	done
 
 TeacherText_MoreChef:
-	text "More, Chef!"
+	text "More, CHEF!"
 	done
 
 MayleneText1:
-	text "Maylene: Munch"
+	text "MAYLENE: Munch"
 	line "munch munch…"
 	done
 
@@ -182,7 +182,7 @@ MayleneText2:
 	para "After a strict"
 	line "diet during train-"
 	cont "ing, I can eat"
-	cont "like a Snorlax."
+	cont "like a SNORLAX."
 
 	para "The winner eats"
 	line "for free, too."
@@ -205,7 +205,7 @@ MayleneRefusedText:
 	done
 
 MayleneSeenText:
-	text "OK! Rei!"
+	text "OK! REI!"
 
 	para "Oh, that's my bow"
 	line "before a match."

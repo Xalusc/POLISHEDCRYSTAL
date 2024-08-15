@@ -16,7 +16,7 @@ CeladonDevelopmentSpeechHouse_MapScriptHeader:
 	object_event  5,  3, SPRITE_BEAUTY, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, 0, OBJECTTYPE_COMMAND, jumptextfaceplayer, CeladonDevelopmentSpeechHouseBeautyText, -1
 
 CeladonDevelopmentSpeechHouseCooltrainermText:
-	text "Celadon has become"
+	text "CELADON has become"
 	line "quite the tourist"
 	cont "spot."
 
@@ -27,7 +27,7 @@ CeladonDevelopmentSpeechHouseCooltrainermText:
 CeladonDevelopmentSpeechHouseBeautyText:
 	text "This city used to"
 	line "be a haven for"
-	cont "Team Rocket."
+	cont "TEAM ROCKET."
 
 	para "I was scared to"
 	line "leave the house"

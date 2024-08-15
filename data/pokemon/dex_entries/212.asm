@@ -1,7 +1,7 @@
-	db "Scissors@" ; species name
+	db "SCISSORS@" ; species name
 	dw 511, 2600 ; height, width
 
-	db   "This #mon's"
+	db   "This #MON's"
 	next "pincers, which"
 	next "contain steel, can"
 	page "crush any hard"

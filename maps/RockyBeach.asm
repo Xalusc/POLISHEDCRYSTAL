@@ -28,23 +28,24 @@ RockyBeach_MapScriptHeader:
 	object_event 23, 32, SPRITE_FAT_GUY, SPRITEMOVEDATA_SPINCOUNTERCLOCKWISE, 0, 0, -1, (1 << DAY), PAL_NPC_BROWN, OBJECTTYPE_COMMAND, jumptextfaceplayer, ShamoutiIslandFisherText, -1
 
 RockyBeachSign1Text:
-	text "Rocky Beach"
+	text "ROCKY BEACH"
 	done
 
 RockyBeachSign2Text:
-	text "Noisy Forest"
-	line "Ahead"
+	text "NOISY FOREST"
+	line "AHEAD"
 
-	para "Thru to"
-	line "Shrine Ruins"
+	para "THRU TO"
+	line "SHRINE RUINS"
 	done
 
 GenericTrainerSightseermBlaise:
 	generictrainer SIGHTSEERM, BLAISE, EVENT_BEAT_SIGHTSEERM_BLAISE, .SeenText, .BeatenText
 
+	;Thinking about changing this dialogue, even though there's a DW reference. Fuck French.
 	text "Je fais le tour"
 	line "du monde avec mon"
-	cont "#mon."
+	cont "#MON."
 	done
 
 .SeenText:
@@ -80,7 +81,7 @@ GenericTrainerBeautyIoana:
 GenericTrainerSightseerfKamila:
 	generictrainer SIGHTSEERF, KAMILA, EVENT_BEAT_SIGHTSEERF_KAMILA, .SeenText, .BeatenText
 
-	text "Alola is an archi-"
+	text "ALOLA is an archi-"
 	line "pelago located far"
 	cont "away from here."
 
@@ -89,7 +90,7 @@ GenericTrainerSightseerfKamila:
 	done
 
 .SeenText:
-	text "Alola!"
+	text "ALOLA!"
 
 	para "That's how we greet"
 	line "each other in my"
@@ -107,8 +108,8 @@ GenericTrainerAromaLadyHeather:
 	text "I studied flower"
 	line "arranging with"
 
-	para "Erika at Celadon"
-	line "University."
+	para "ERIKA at CELADON"
+	line "UNIVERSITY."
 
 	para "She praised this"
 	line "island for its"
@@ -132,17 +133,17 @@ GenericTrainerAromaLadyHeather:
 GenericTrainerBreederBrenda:
 	generictrainer BREEDER, BRENDA, EVENT_BEAT_BREEDER_BRENDA, .SeenText, .BeatenText
 
-	text "To hatch an Egg,"
+	text "To hatch an EGG,"
 	line "you have to walk"
 	cont "a lot."
 
 	para "Where better than"
-	line "sunny Shamouti?"
+	line "sunny SHAMOUTI?"
 	done
 
 .SeenText:
 	text "The key to good"
-	line "#mon breeding"
+	line "#MON breeding"
 
 	para "is a good enviro-"
 	line "nment."
@@ -152,7 +153,7 @@ GenericTrainerBreederBrenda:
 	done
 
 .BeatenText:
-	text "Your #mon are"
+	text "Your #MON are"
 	line "well-bred."
 	done
 
@@ -185,12 +186,12 @@ RockyBeachYoungsterScript:
 .Text1
 	text "Oh, no. Oh, no…"
 
-	para "My Pikablu is"
+	para "My PIKABLU is"
 	line "missing."
 
 	para "No… It couldn't"
 	line "have gone into"
-	cont "Noisy Forest."
+	cont "NOISY FOREST."
 
 	para "I'll never find"
 	line "it in the trees…"

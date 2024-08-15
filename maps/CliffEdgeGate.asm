@@ -45,16 +45,16 @@ ProfOaksAide3Script:
 GenericTrainerGruntM12:
 	generictrainer GRUNTM, 12, EVENT_BEAT_ROCKET_GRUNTM_12, GruntM12SeenText, GruntM12BeatenText
 
-	text "Yellow Forest is"
+	text "YELLOW FOREST is"
 	line "full of rare"
-	cont "#mon."
+	cont "#MON."
 
 	para "We're nabbing them"
 	line "all for ourselves!"
 	done
 
 CliffEdgeGateReceptionistText:
-	text "Yellow Forest is"
+	text "YELLOW FOREST is"
 	line "this way!"
 
 	para "It's a popular"
@@ -63,10 +63,10 @@ CliffEdgeGateReceptionistText:
 
 ProfOaksAide3HiText:
 	text "Hello there! I'm"
-	line "Prof.Oak's aide."
+	line "PROF.OAK's AIDE."
 
 	para "If you caught 45"
-	line "kinds of #mon,"
+	line "kinds of #MON,"
 
 	para "I'm supposed to"
 	line "give you an item."
@@ -75,7 +75,7 @@ ProfOaksAide3HiText:
 	line "have you caught"
 
 	para "at least 45 kinds"
-	line "of #mon?"
+	line "of #MON?"
 	done
 
 ProfOaksAide3UhOhText:
@@ -85,7 +85,7 @@ ProfOaksAide3UhOhText:
 	para "caught "
 	text_decimal wTempPokedexCaughtCount, 1, 3
 	text " kinds"
-	line "of #mon."
+	line "of #MON."
 
 	para "Come back and see"
 	line "me when you catch"
@@ -99,7 +99,7 @@ ProfOaksAide3HereYouGoText:
 	para "caught "
 	text_decimal wTempPokedexCaughtCount, 1, 3
 	text " kinds"
-	line "of #mon."
+	line "of #MON."
 
 	para "Congratulations!"
 	line "Here you go!"
@@ -112,22 +112,22 @@ ProfOaksAide3NoRoomText:
 	done
 
 ProfOaksAide3ExplainText:
-	text "That Macho Brace"
-	line "helps a #mon"
+	text "That MACHO BRACE"
+	line "helps a #MON"
 
 	para "grow more from"
 	line "battling, but"
 	cont "slows it down."
 
 	para "According to"
-	line "Prof.Elm, some"
-	cont "#mon evolve"
+	line "PROF.ELM, some"
+	cont "#MON evolve"
 
 	para "when one stat has"
 	line "grown enough."
 
 	para "Use it to com-"
-	line "plete the #dex!"
+	line "plete the #DEX!"
 	done
 
 GruntM12SeenText:

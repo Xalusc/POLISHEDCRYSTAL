@@ -148,7 +148,7 @@ GenericTrainerPsychicNathan:
 GenericTrainerSuperNerdStan:
 	generictrainer SUPER_NERD, STAN, EVENT_BEAT_SUPER_NERD_STAN, SuperNerdStanSeenText, SuperNerdStanBeatenText
 
-	text "The ruins are from"
+	text "The RUINS are from"
 	line "about 1,500 years"
 	cont "ago."
 
@@ -157,7 +157,7 @@ GenericTrainerSuperNerdStan:
 
 	para "It's also not"
 	line "known if the #-"
-	cont "mon statues have"
+	cont "MON statues have"
 	cont "any meaning."
 
 	para "It's all one big"
@@ -210,16 +210,16 @@ RuinsofAlphScientistClimaxLeaveMovementData:
 
 RuinsOfAlphOutsideScientistText:
 	text "Hm? That's a #-"
-	line "dex, isn't it?"
+	line "DEX, isn't it?"
 	cont "May I see it?"
 
 	para "There are so many"
-	line "kinds of #mon."
+	line "kinds of #MON."
 
 	para "Hm? What's this?"
 
 	para "What is this"
-	line "#mon?"
+	line "#MON?"
 
 	para "It looks like the"
 	line "strange writing on"
@@ -229,12 +229,12 @@ RuinsOfAlphOutsideScientistText:
 
 	para "If those drawings"
 	line "are really #-"
-	cont "mon, there should"
+	cont "MON, there should"
 	cont "be many more."
 
 	para "I know! Let me up-"
 	line "grade your #-"
-	cont "dex. Follow me."
+	cont "DEX. Follow me."
 	done
 
 SuperNerdStanSeenText:
@@ -261,21 +261,21 @@ PsychicNathanBeatenText:
 	done
 
 RuinsOfAlphOutsideMysteryChamberSignText:
-	text "Mystery Stone"
-	line "Panel Chamber"
+	text "MYSTERY STONE"
+	line "PANEL CHAMBER"
 	done
 
 RuinsOfAlphSignText:
-	text "Ruins of Alph"
-	line "Visitors Welcome"
+	text "RUINS OF ALPH"
+	line "VISITORS WELCOME"
 	done
 
 RuinsOfAlphResearchCenterSignText:
-	text "Ruins of Alph"
-	line "Research Center"
+	text "RUINS OF ALPH"
+	line "RESEARCH CENTER"
 
 	para "The Authority On"
-	line "The Ruins of Alph"
+	line "The RUINS OF ALPH"
 	done
 
 MapRuinsofAlphOutsideSealedCaveSign:
@@ -303,7 +303,7 @@ RuinsOfAlphOutsideFisherText1:
 
 RuinsOfAlphOutsideYoungster1Text:
 	text "There are many"
-	line "kinds of Unown, so"
+	line "kinds of UNOWN, so"
 
 	para "we use them for"
 	line "our secret codes."

@@ -1,4 +1,4 @@
-	db "Mole@" ; species name
+	db "MOLE@" ; species name
 	dw 8, 20 ; height, width
 
 	db   "It digs under-"

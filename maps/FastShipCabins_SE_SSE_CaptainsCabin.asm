@@ -139,15 +139,15 @@ GenericTrainerPsychicRodney:
 	generictrainer PSYCHIC_T, RODNEY, EVENT_BEAT_PSYCHIC_RODNEY, PsychicRodneySeenText, PsychicRodneyBeatenText
 
 	text "I get it. You can"
-	line "hear Johto's radio"
-	cont "on the Fast Ship."
+	line "hear JOHTO's radio"
+	cont "on the FAST SHIP."
 	done
 
 GenericTrainerPokefanmJeremy:
 	generictrainer POKEFANM, JEREMY, EVENT_BEAT_POKEFANM_JEREMY, PokefanmJeremySeenText, PokefanmJeremyBeatenText
 
 	text "I must go to the"
-	line "#mon Salon and"
+	line "#MON SALON and"
 	cont "fix them up nice!"
 	done
 
@@ -155,15 +155,15 @@ GenericTrainerPokefanfGeorgia:
 	generictrainer POKEFANF, GEORGIA, EVENT_BEAT_POKEFANF_GEORGIA, PokefanfGeorgiaSeenText, PokefanfGeorgiaBeatenText
 
 	text "Oh, yes! I have to"
-	line "get my #mon out"
-	cont "of Day-Care!"
+	line "get my #MON out"
+	cont "of DAY-CARE!"
 	done
 
 GenericTrainerSupernerdShawn:
 	generictrainer SUPER_NERD, SHAWN, EVENT_BEAT_SUPER_NERD_SHAWN, SupernerdShawnSeenText, SupernerdShawnBeatenText
 
 	text "You should use the"
-	line "right Balls to fit"
+	line "right BALLS to fit"
 	cont "the situation."
 	done
 
@@ -194,7 +194,7 @@ SSAquaCaptainExhaustingText:
 
 SSAquaCaptainHowDoYouLikeText:
 	text "How do you like"
-	line "S.S.Aqua's ride?"
+	line "S.S.AQUA's ride?"
 
 	para "She practically"
 	line "skates across the"
@@ -238,7 +238,7 @@ SSAquaGrandpaTravellingText:
 	done
 
 SSAquaGranddaughterCaptainPlayWithMeText:
-	text "Captain, play with"
+	text "CAPTAIN, play with"
 	line "me, please?"
 
 	para "I'm bored! I want"
@@ -257,14 +257,14 @@ SSAquaGranddaughterHasToFindGrandpaText:
 	para "I have to go!"
 
 	para "I have to go find"
-	line "Grandpa!"
+	line "GRANDPA!"
 	done
 
 SSAquaGranddaughterWasPlayingMText:
 	text "Grandpa, here I"
 	line "am! I was playing"
 
-	para "with the Captain"
+	para "with the CAPTAIN"
 	line "and this guy!"
 	done
 
@@ -272,7 +272,7 @@ SSAquaGranddaughterWasPlayingFText:
 	text "Grandpa, here I"
 	line "am! I was playing"
 
-	para "with the Captain"
+	para "with the CAPTAIN"
 	line "and this big girl!"
 	done
 
@@ -324,18 +324,18 @@ PsychicRodneyBeatenText:
 
 PokefanmJeremySeenText:
 	text "What do you think?"
-	line "My #mon are"
+	line "My #MON are"
 	cont "beautiful, yes?"
 	done
 
 PokefanmJeremyBeatenText:
 	text "Oh, no! My beauti-"
-	line "ful #mon!"
+	line "ful #MON!"
 	done
 
 PokefanfGeorgiaSeenText:
 	text "I'm going to shop"
-	line "at the Dept.Store"
+	line "at the DEPT.STORE"
 	cont "and then…"
 	done
 
@@ -346,7 +346,7 @@ PokefanfGeorgiaBeatenText:
 
 SupernerdShawnSeenText:
 	text "What kinds of #"
-	line "Balls do you have"
+	line "BALLS do you have"
 	cont "with you?"
 	done
 
@@ -356,7 +356,7 @@ SupernerdShawnBeatenText:
 	done
 
 SSAquaHasArrivedVermilionText:
-	text "Fast Ship S.S.Aqua"
+	text "FAST SHIP S.S.AQUA"
 	line "has arrived in"
-	cont "Vermilion City."
+	cont "VERMILION CITY."
 	done

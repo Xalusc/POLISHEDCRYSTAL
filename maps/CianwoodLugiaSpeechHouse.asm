@@ -32,7 +32,7 @@ CianwoodHouseBlackBeltScript:
 	jumpopenedtext CianwoodHouseBlackBeltText2
 
 CianwoodHouseBlackBeltText1:
-	text "I went to the Gym"
+	text "I went to the GYM"
 	line "wearing this vest,"
 	cont "but was laughed"
 
@@ -49,12 +49,12 @@ CianwoodHouseBlackBeltText2:
 	line "train hard and"
 
 	para "earn my spot in"
-	line "the Gym!"
+	line "the GYM!"
 	done
 
 CianwoodLugiaSpeechHouseTeacherText:
 	text "You came from"
-	line "Olivine?"
+	line "OLIVINE?"
 
 	para "Do you remember"
 	line "the four islands"
@@ -70,8 +70,8 @@ CianwoodLugiaSpeechHouseLassText:
 	text "I heard that you"
 	line "can only see it if"
 
-	para "you have a Silver"
-	line "Wing."
+	para "you have a SILVER"
+	line "WING."
 
 	para "It must have the"
 	line "same scent as the"

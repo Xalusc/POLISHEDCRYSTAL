@@ -628,12 +628,12 @@ NonTrainerCallerNames:
 	dw .lyra
 	dw .buena
 
-.mom:      db "Mom:@"
-.bill:     db "Bill:<LNBRK>   #maniac@"
-.elm:      db "Prof.Elm:<LNBRK>   #mon Prof.@"
-.bikeshop: db "Miracle Cycle:@"
-.lyra:     db "Lyra:<LNBRK>   <PK><MN> Trainer@"
-.buena:    db "Buena:<LNBRK>   Disc Jockey@"
+.mom:      db "MOM:@"
+.bill:     db "BILL:<LNBRK>   #MANIAC@"
+.elm:      db "PROF.ELM:<LNBRK>   #MON PROF.@"
+.bikeshop: db "MIRACLE CYCLE:@"
+.lyra:     db "LYRA:<LNBRK>   <PK><MN> TRAINER@"
+.buena:    db "BUENA:<LNBRK>   DISC JOCKEY@"
 
 INCLUDE "data/phone/phone_contacts.asm"
 

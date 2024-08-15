@@ -200,8 +200,8 @@ RocketText_MakingABundle:
 	para "Everyone wants to"
 	line "see what's going"
 
-	para "on up at Lake of"
-	line "Rage."
+	para "on up at LAKE OF"
+	line "RAGE."
 	done
 
 OfficerText_FoundTM:

@@ -111,7 +111,7 @@ CeladonGameCornerFisherScript:
 	end
 
 .coinname
-	db "Coin@"
+	db "COIN@"
 
 .NoCoinCase:
 	writetext CeladonGameCornerFisherNoCoinCaseText
@@ -219,7 +219,7 @@ CeladonGameCornerFisherText2:
 
 CeladonGameCornerFisherNoCoinCaseText:
 	text "Hey, you don't"
-	line "have a Coin Case."
+	line "have a COIN CASE."
 
 	para "How am I supposed"
 	line "to give you any"
@@ -227,8 +227,8 @@ CeladonGameCornerFisherNoCoinCaseText:
 	done
 
 CeladonGameCornerFisherFullCoinCaseText:
-	text "Hey, your Coin"
-	line "Case is full, kid."
+	text "Hey, your COIN"
+	line "CASE is full, kid."
 
 	para "You must be riding"
 	line "a winning streak"
@@ -248,8 +248,8 @@ FisherOfferText:
 	done
 
 FisherNotEnoughText:
-	text "Hey, your Coin"
-	line "Case is almost"
+	text "Hey, your COIN"
+	line "CASE is almost"
 	cont "empty, kid."
 
 	para "Your luck must"
@@ -257,7 +257,7 @@ FisherNotEnoughText:
 	done
 
 CeladonGymGuyText:
-	text "Hey! Champ in"
+	text "Hey! CHAMP in"
 	line "making!"
 
 	para "Are you playing"
@@ -265,7 +265,7 @@ CeladonGymGuyText:
 
 	para "I'm trying to get"
 	line "enough coins for a"
-	cont "prize #mon."
+	cont "prize #MON."
 
 	para "But I don't have"
 	line "enough coins yet…"
@@ -275,7 +275,7 @@ CeladonGameCornerGrampsText:
 	text "Hmmm… The odds are"
 	line "surely better for"
 
-	para "Pikachu's line,"
+	para "PIKACHU's line,"
 	line "but… What to do?"
 	done
 

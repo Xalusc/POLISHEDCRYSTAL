@@ -57,7 +57,7 @@ SinjohRuinsHouseCynthiaScript:
 	jumpthistext
 
 SinjohRuinsHouseCynthiaAfterText:
-	text "Cynthia: What an"
+	text "CYNTHIA: What an"
 	line "incredible battle!"
 
 	para "You're a great"
@@ -73,11 +73,11 @@ SinjohRuinsHousePokefanmText:
 	line "people used to"
 
 	para "have closer bonds"
-	line "with #mon."
+	line "with #MON."
 
 	para "Myths and legends"
 	line "formed about"
-	cont "powerful #mon,"
+	cont "powerful #MON,"
 
 	para "and those legends"
 	line "were carried to"
@@ -88,10 +88,10 @@ SinjohRuinsHousePokefanmText:
 	cont "enced by the"
 
 	para "ancient peoples of"
-	line "Alph in Johto and"
+	line "ALPH in JOHTO and"
 
-	para "Spear Pillar in"
-	line "Sinnoh."
+	para "SPEAR PILLAR in"
+	line "SINNOH."
 	done
 
 SinjohRuinsHouseGrampsText:
@@ -102,7 +102,7 @@ SinjohRuinsHouseGrampsText:
 	line "are here."
 
 	para "Do you want my"
-	line "Abra to Teleport"
+	line "ABRA to TELEPORT"
 	cont "you back home?"
 	done
 
@@ -118,19 +118,19 @@ SinjohRuinsHouseGrampsNoText:
 	done
 
 SinjohRuinsHouseAbraText:
-	text "Abra: Aabra…"
+	text "ABRA: Aabra…"
 	done
 
 SinjohRuinsHouseCynthiaChallengeText:
-	text "Cynthia: Hello,"
+	text "CYNTHIA: Hello,"
 	line "<PLAYER>."
 
 	para "Have you been"
 	line "keeping well?"
 
 	para "You won a rematch"
-	line "against the Elite"
-	cont "Four! Well done!"
+	line "against the ELITE"
+	cont "FOUR! Well done!"
 
 	para "I'm curious about"
 	line "what you learned"
@@ -141,15 +141,15 @@ SinjohRuinsHouseCynthiaChallengeText:
 	done
 
 SinjohRuinsHouseCynthiaNoText:
-	text "Cynthia: Come back"
+	text "CYNTHIA: Come back"
 	line "any time if you"
 	cont "change your mind."
 	done
 
 SinjohRuinsHouseCynthiaYesText:
-	text "Cynthia: Before"
+	text "CYNTHIA: Before"
 	line "I send out my"
-	cont "#mon,"
+	cont "#MON,"
 
 	para "my heart always"
 	line "begins to race…"

@@ -1,4 +1,4 @@
-	db "FlyScorpion@" ; species name
+	db "FLYSCORPION@" ; species name
 	dw 307, 1430 ; height, width
 
 	db   "It builds its nest"

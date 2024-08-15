@@ -1,4 +1,4 @@
-	db "Shadow@" ; species name
+	db "SHADOW@" ; species name
 	dw 411, 890 ; height, width
 
 	db   "Hiding in people's"

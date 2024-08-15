@@ -20,8 +20,8 @@ CeruleanMart_CooltrainerMText:
 	text "You'll run into"
 	line "many trainers on"
 
-	para "the way to Ceru-"
-	line "lean Cape."
+	para "the way to CERU-"
+	line "LEAN CAPE."
 
 	para "They want to see"
 	line "how they stack"
@@ -31,10 +31,10 @@ CeruleanMart_CooltrainerMText:
 	done
 
 CeruleanMart_CooltrainerFText:
-	text "Misty is about the"
+	text "MISTY is about the"
 	line "only person in"
 
 	para "town who can beat"
 	line "the trainers at"
-	cont "Cerulean Cape."
+	cont "CERULEAN CAPE."
 	done

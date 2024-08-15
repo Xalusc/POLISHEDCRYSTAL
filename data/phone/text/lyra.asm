@@ -39,12 +39,12 @@ LyraPhoneYellowForestText:
 	line "How are you?"
 
 	para "Have you been to"
-	line "see Yellow Forest?"
+	line "see YELLOW FOREST?"
 
 	para "I was going to"
 	line "visit, but I heard"
 
-	para "Team Rocket was"
+	para "TEAM ROCKET was"
 	line "up to something"
 	cont "there."
 
@@ -52,8 +52,8 @@ LyraPhoneYellowForestText:
 	line "get mixed up in"
 	cont "that!"
 
-	para "You've faced Team"
-	line "Rocket before,"
+	para "You've faced TEAM"
+	line "ROCKET before,"
 
 	para "haven't you,"
 	line "<PLAYER>?"
@@ -69,9 +69,9 @@ LyraPhoneFirstBadgeText:
 	text "<PLAYER>! Hi!"
 
 	para "I just got my"
-	line "first Gym Badge!"
+	line "first GYM BADGE!"
 
-	para "Falkner's Pidgeot"
+	para "FALKNER's PIDGEOT"
 	line "is strong, but"
 	cont "mine beat him!"
 
@@ -79,23 +79,23 @@ LyraPhoneFirstBadgeText:
 	line "you, <PLAYER>."
 
 	para "Oh, you got your"
-	line "first badge in"
-	cont "Kanto too?"
+	line "first BADGE in"
+	cont "KANTO too?"
 	cont "Good going!"
 
 	para "Let's both keep on"
-	line "winning Badges."
+	line "winning BADGES."
 
 	para "I'll see you at"
-	line "the League!"
+	line "the LEAGUE!"
 	done
 
 LyraPhoneLyrasEggIntroText:
 	text "Hi, <PLAYER>!"
 
 	para "Are you doing well"
-	line "against Kanto's Gym"
-	cont "Leaders?"
+	line "against KANTO's GYM"
+	cont "LEADERS?"
 
 	para "I'm sure you are!"
 
@@ -103,37 +103,37 @@ LyraPhoneLyrasEggIntroText:
 	done
 
 LyraPhoneLyrasEggChikoritaText:
-	text "I left my Chicory"
-	line "at the Day-Care"
+	text "I left my CHICORY"
+	line "at the DAY-CARE"
 	done
 
 LyraPhoneLyrasEggCyndaquilText:
-	text "I left my Cinder"
-	line "at the Day-Care"
+	text "I left my CINDER"
+	line "at the DAY-CARE"
 	done
 
 LyraPhoneLyrasEggTotodileText:
-	text "I left my Toto"
-	line "at the Day-Care"
+	text "I left my TOTO"
+	line "at the DAY-CARE"
 	done
 
 LyraPhoneLyrasEggEndText:
-	text "with Grandma and"
-	line "Grandpa, and they"
-	cont "found an Egg!"
+	text "with GRANDMA and"
+	line "GRANDPA, and they"
+	cont "found an EGG!"
 
 	para "Isn't that neat?"
 
 	para "I'm raising a full"
-	line "party of #mon,"
+	line "party of #MON,"
 
 	para "so, um, if you'd"
 	line "like to have it…"
 
 	para "That is… Anyway,"
-	line "I left the Egg at"
+	line "I left the EGG at"
 
-	para "the Day-Care if"
+	para "the DAY-CARE if"
 	line "you want it!"
 
 	para "I know you'll take"
@@ -145,12 +145,12 @@ LyraPhoneLyrasEggEndText:
 
 LyraPhoneMagnetonText:
 	text "What? You have a"
-	line "Magneton now?"
+	line "MAGNETON now?"
 	cont "That's so cool!"
 
 	para "I learned some-"
-	line "thing from Prof."
-	cont "Elm about their"
+	line "thing from PROF."
+	cont "ELM about their"
 	cont "evolution."
 
 	para "He said it evolves"
@@ -158,10 +158,10 @@ LyraPhoneMagnetonText:
 	cont "in a special"
 	cont "magnetic field."
 
-	para "Over in Kanto,"
+	para "Over in KANTO,"
 	line "such a field is"
 	cont "apparently found"
-	cont "in Rock Tunnel."
+	cont "in ROCK TUNNEL."
 
 	para "You didn't already"
 	line "know that,"

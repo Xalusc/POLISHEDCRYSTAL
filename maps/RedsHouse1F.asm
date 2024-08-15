@@ -24,7 +24,7 @@ RedsMom:
 
 	text "Hi!"
 
-	para "Red's been away"
+	para "RED's been away"
 	line "for a long time."
 
 	para "He hasn't called"
@@ -43,7 +43,7 @@ RedsMom:
 	done
 
 .Text2:
-	text "I worry about Red"
+	text "I worry about RED"
 	line "getting hurt or"
 
 	para "sick, but he's a"
@@ -60,5 +60,5 @@ RedsHouse1FTVScript:
 
 	text "They have programs"
 	line "that aren't shown"
-	cont "in Johto…"
+	cont "in JOHTO…"
 	done

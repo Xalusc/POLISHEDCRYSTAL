@@ -24,7 +24,7 @@ JoseAskNumber2Text:
 	line "things?"
 
 	para "I could share if"
-	line "Farfetch'd goes"
+	line "FARFETCH'D goes"
 	cont "and gets more."
 
 	para "What's your phone"
@@ -52,7 +52,7 @@ JoseRematchText:
 	text "Tweet! Tweeeet!"
 
 	para "Kept me waiting!"
-	line "Go, Farfetch'd!"
+	line "Go, FARFETCH'D!"
 	done
 
 JoseGiftText:

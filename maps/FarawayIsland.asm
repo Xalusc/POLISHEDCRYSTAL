@@ -140,14 +140,14 @@ FarawayIslandSailorArrive2MovementData:
 
 SeagallopFerryFarawayToVermilionQuestionText:
 	text "Ready to head back"
-	line "to Vermilion City?"
+	line "to VERMILION CITY?"
 	done
 
 SeagallopFerryFarawayToVermilionText:
 	text "All right!"
 
 	para "All aboard the"
-	line "Seagallop Ferry!"
+	line "SEAGALLOP FERRY!"
 	done
 
 SeagallopFerryFarawayIslandRefusedText:
@@ -156,7 +156,7 @@ SeagallopFerryFarawayIslandRefusedText:
 	done
 
 FarawayIslandLawrenceText1:
-	text "Lawrence: Well,"
+	text "LAWRENCE: Well,"
 	line "this certainly is"
 
 	para "a pleasure, though"
@@ -166,7 +166,7 @@ FarawayIslandLawrenceText1:
 	line "remember how my"
 	cont "collection began…"
 
-	para "with a Mew carving"
+	para "with a MEW carving"
 	line "found on this very"
 	cont "island."
 
@@ -198,7 +198,7 @@ FarawayIslandLawrenceBeatenText:
 	done
 
 FarawayIslandLawrenceText2:
-	text "Lawrence: …I see."
+	text "LAWRENCE: …I see."
 	line "I still have far"
 	cont "to go before I"
 

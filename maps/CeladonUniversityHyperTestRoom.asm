@@ -144,7 +144,7 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 	jumpopenedtext .WrongAnswerText
 
 .GreetingText:
-	text "Prof.Westwood?"
+	text "PROF.WESTWOOD?"
 	line "That would be me."
 	done
 
@@ -165,14 +165,14 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 	line "that?"
 
 	para "You came to take"
-	line "the Celadon Univ-"
-	cont "ersity Hyper Test?"
+	line "the CELADON UNIV-"
+	cont "ERSITY HYPER TEST?"
 	done
 
 .BeginText:
 	text "Excellent!"
 
-	para "The Hyper Test is"
+	para "The HYPER TEST is"
 	line "a series of six"
 	cont "questions, testing"
 
@@ -196,7 +196,7 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 	done
 
 .Question1QuestionText:
-	text "What #mon's sil-"
+	text "What #MON's sil-"
 	line "houette is this?"
 	done
 
@@ -206,7 +206,7 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 	done
 
 .Question2QuestionText:
-	text "What #mon's cry"
+	text "What #MON's cry"
 	line "is this?"
 	done
 
@@ -224,8 +224,8 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 	done
 
 .Question4QuestionText:
-	text "Which #mon"
-	line "has Dry Skin?"
+	text "Which #MON"
+	line "has DRY SKIN?"
 	done
 
 .Question5IntroText:
@@ -233,7 +233,7 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 	done
 
 .Question5QuestionText:
-	text "Which Berry"
+	text "Which BERRY"
 	line "smells blue?"
 	done
 
@@ -252,28 +252,28 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 	text "Congratulations!"
 
 	para "You passed the"
-	line "Hyper Test with"
+	line "HYPER TEST with"
 	cont "flying colors!"
 
 	para "Here's your prize--"
 	line "a uniquely bred"
 
-	para "Magikarp that"
-	line "knows Dragon Rage!"
+	para "MAGIKARP that"
+	line "knows DRAGON RAGE!"
 	done
 
 .TestOverText:
 	text "Our students have"
 	line "the tenacity of a"
 
-	para "Magikarp strugg-"
+	para "MAGIKARP strugg-"
 	line "ling to evolve."
 	cont "And so do you!"
 	done
 
 .PartyAndBoxFullText:
 	text "Oh no! Your party"
-	line "and box are full…"
+	line "and BOX are full…"
 	done
 
 .RefusedText:
@@ -295,8 +295,8 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 	line "incorrect!"
 
 	para "You may try and"
-	line "retake the Hyper"
-	cont "Test tomorrow."
+	line "retake the HYPER"
+	cont "TEST tomorrow."
 	done
 
 .Question1MenuData:
@@ -309,10 +309,10 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 .Question1MenuData2:
 	db $81 ; flags
 	db 4 ; items
-	db "Umbreon@"
-	db "Glaceon@"
-	db "Persian@"
-	db "Girafarig@"
+	db "UMBREON@"
+	db "GLACEON@"
+	db "PERSIAN@"
+	db "GIRAFARIG@"
 
 .Question2MenuData:
 	db $40 ; flags
@@ -324,10 +324,10 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 .Question2MenuData2:
 	db $81 ; flags
 	db 4 ; items
-	db "Blissey@"
-	db "Qwilfish@"
-	db "Slowking@"
-	db "Venomoth@"
+	db "BLISSEY@"
+	db "QWILFISH@"
+	db "SLOWKING@"
+	db "VENOMOTH@"
 
 .Question3MenuData:
 	db $40 ; flags
@@ -339,10 +339,10 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 .Question3MenuData2:
 	db $81 ; flags
 	db 4 ; items
-	db "Elixir@"
-	db "Calcium@"
-	db "Antidote@"
-	db "Heal Powder@"
+	db "ELIXIR@"
+	db "CALCIUM@"
+	db "ANTIDOTE@"
+	db "HEAL POWDER@"
 
 .Question4MenuData:
 	db $40 ; flags
@@ -354,10 +354,10 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 .Question4MenuData2:
 	db $81 ; flags
 	db 4 ; items
-	db "Parasect@"
-	db "Magmar@"
-	db "Sandslash@"
-	db "Victreebel@"
+	db "PARASECT@"
+	db "MAGMAR@"
+	db "SANDSLASH@"
+	db "VICTREEBEL@"
 
 .Question5MenuData:
 	db $40 ; flags
@@ -369,10 +369,10 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 .Question5MenuData2:
 	db $81 ; flags
 	db 4 ; items
-	db "Cheri Berry@"
-	db "Lum Berry@"
-	db "Oran Berry@"
-	db "Pecha Berry@"
+	db "CHERI BERRY@"
+	db "LUM BERRY@"
+	db "ORAN BERRY@"
+	db "PECHA BERRY@"
 
 .Question6MenuData:
 	db $40 ; flags
@@ -384,17 +384,17 @@ CeladonUniversityHyperTestRoomWestwoodScript:
 .Question6MenuData2:
 	db $81 ; flags
 	db 4 ; items
-	db "Prof.Oak@"
-	db "Prof.Elm@"
-	db "Prof.Willow@"
-	db "Prof.Westwood@"
+	db "PROF.OAK@"
+	db "PROF.ELM@"
+	db "PROF.WILLOW@"
+	db "PROF.WESTWOOD@"
 
 CeladonUniversityHyperTestRoomScientistText:
-	text "The Hyper Test is"
+	text "The HYPER TEST is"
 	line "a rite of passage"
 
-	para "for all Celadon"
-	line "University grad-"
+	para "for all CELADON"
+	line "UNIVERSITY grad-"
 	cont "uates."
 
 	para "It tests all of"
@@ -403,13 +403,13 @@ CeladonUniversityHyperTestRoomScientistText:
 	done
 
 CeladonUniversityHyperTestRoomTwin1Text:
-	text "I'll pass the Hyper"
-	line "Test before you!"
+	text "I'll pass the HYPER"
+	line "TEST before you!"
 	done
 
 CeladonUniversityHyperTestRoomTwin2Text:
 	text "No, I'll pass the"
-	line "Hyper Test before"
+	line "HYPER TEST before"
 	cont "you!"
 	done
 
@@ -421,7 +421,7 @@ CeladonUniversityHyperTestRoomMagikarpSign:
 	closepokepic
 	jumpthistext
 
-	text "A Magikarp is"
+	text "A MAGIKARP is"
 	line "swimming around."
 	done
 
@@ -435,9 +435,9 @@ CeladonUniversityHyperTestRoomBookshelf1Text:
 
 CeladonUniversityHyperTestRoomBookshelf2Text:
 	text "It's a copy of"
-	line "Nintendo Power!"
+	line "NINTENDO POWER!"
 
-	para "A Pikachu picture"
+	para "A PIKACHU picture"
 	line "fills the front"
 	cont "cover."
 	done

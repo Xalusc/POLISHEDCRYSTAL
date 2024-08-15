@@ -550,7 +550,7 @@ MailboxPC:
 .SubMenuData2:
 	db %10000000 ; flags
 	db 4 ; items
-	db "Read Mail@"
-	db "Put in Bag@"
-	db "Attach Mail@"
-	db "Cancel@"
+	db "READ MAIL@"
+	db "PUT IN PACK@"
+	db "ATTACH MAIL@"
+	db "CANCEL@"

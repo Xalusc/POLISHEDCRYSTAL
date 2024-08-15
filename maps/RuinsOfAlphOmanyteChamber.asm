@@ -109,7 +109,7 @@ MapRuinsofAlphOmanyteChamberSignpost4Script:
 	endtext
 
 RuinsOfAlphOmanyteChamberDescriptionText:
-	text "This #mon"
+	text "This #MON"
 	line "drifted in the"
 
 	para "sea by twisting"

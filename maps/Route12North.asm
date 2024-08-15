@@ -19,10 +19,10 @@ GenericTrainerFisherKyle:
 	generictrainer FISHER, KYLE, EVENT_BEAT_FISHER_KYLE, FisherKyleSeenText, FisherKyleBeatenText
 
 	text "The tug you feel"
-	line "on the Rod when"
+	line "on the ROD when"
 
 	para "you hook a #-"
-	line "mon…"
+	line "MON…"
 	done
 
 FisherKyleSeenText:
@@ -34,5 +34,5 @@ FisherKyleBeatenText:
 	done
 
 FishingSpotSignText:
-	text "Fishing Spot"
+	text "FISHING SPOT"
 	done

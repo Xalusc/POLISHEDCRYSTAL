@@ -1,4 +1,4 @@
-	db "Dragon@" ; species name
+	db "DRAGON@" ; species name
 	dw 311, 550 ; height, width
 
 	db   "The male raises"

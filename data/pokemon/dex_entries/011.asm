@@ -1,4 +1,4 @@
-	db "Cocoon@" ; species name
+	db "COCOON@" ; species name
 	dw 204, 220 ; height, width
 
 	db   "This is its pre-"

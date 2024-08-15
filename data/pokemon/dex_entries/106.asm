@@ -1,4 +1,4 @@
-	db "Kicking@" ; species name
+	db "KICKING@" ; species name
 	dw 411, 1100 ; height, width
 
 	db   "It is also called"

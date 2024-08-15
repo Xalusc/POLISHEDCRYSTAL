@@ -53,20 +53,20 @@ _Diploma:
 	jmp WaitPressAorB_BlinkCursor
 
 .PlayerString:
-	db "Player@"
+	db "PLAYER@"
 
 .DiplomaString:
 	db   "This certifies"
 	next "that you have"
 	next "completed the"
-	next "new #dex."
+	next "new #DEX."
 	next "Congratulations!@"
 
 .PlayTime:
-	db "Play Time@"
+	db "PLAY TIME@"
 
 .PolishedCrystal:
-	db "Polished Crystal@"
+	db "POLISHED CRYSTAL@"
 
 DiplomaGFX:
 INCBIN "gfx/diploma/diploma.2bpp.lz"

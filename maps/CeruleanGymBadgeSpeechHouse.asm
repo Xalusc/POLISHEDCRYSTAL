@@ -26,7 +26,7 @@ CeruleanGymBadgeSpeechHouseGentlemanScript:
 
 .Text2:
 	text "You're collecting"
-	line "Kanto Gym Badges?"
+	line "KANTO GYM BADGES?"
 	cont "Good luck!"
 	done
 

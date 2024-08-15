@@ -124,7 +124,7 @@ Route32CooltrainerMTrigger:
 
 .AfterText2:
 	text "Your experiences"
-	line "in Violet City"
+	line "in VIOLET CITY"
 
 	para "should be useful"
 	line "for your journey."
@@ -132,13 +132,13 @@ Route32CooltrainerMTrigger:
 
 .IntroText:
 	text "You have some good"
-	line "#mon there."
+	line "#MON there."
 
 	para "It must be from"
 	line "the training you"
 
 	para "gave them around"
-	line "Violet City."
+	line "VIOLET CITY."
 
 	para "You should have no"
 	line "trouble beating"
@@ -157,13 +157,13 @@ Route32CooltrainerMTrigger:
 	cont "here."
 
 	para "Your training at"
-	line "the Gym must have"
+	line "the GYM must have"
 
 	para "been especially"
 	line "helpful."
 
 	para "I, too, have a"
-	line "Zephyr Badge."
+	line "ZEPHYR BADGE."
 
 	para "Will you battle"
 	line "with me?"
@@ -176,8 +176,8 @@ Route32CooltrainerMTrigger:
 
 .SeenText:
 	text "My training in"
-	line "Sprout Tower over-"
-	cont "came even Falkner."
+	line "SPROUT TOWER over-"
+	cont "came even FALKNER."
 
 	para "Let's see how you"
 	line "compare!"
@@ -197,7 +197,7 @@ Route32CooltrainerMTrigger:
 	cont "this."
 
 	para "It increases the"
-	line "power of Grass-"
+	line "power of grass-"
 	cont "type moves."
 	done
 
@@ -300,26 +300,26 @@ Route32LyraIntroducesHiddenGrottoesMainScript:
 	done
 
 .NoEggText:
-	text "Prof.Elm said his"
-	line "aide was deliver-"
-	cont "ing an Egg to you."
+	text "PROF.ELM said his"
+	line "AIDE was deliver-"
+	cont "ing an EGG to you."
 
 	para "Be sure to carry"
 	line "it. I'm curious"
 
-	para "what #mon it"
+	para "what #MON it"
 	line "could be!"
 	done
 
 .HaveEggText:
 	text "Oh good! You're"
-	line "carrying that Egg"
+	line "carrying that EGG"
 
-	para "just like Prof."
-	line "Elm asked."
+	para "just like PROF."
+	line "ELM asked."
 
 	para "I'm so curious"
-	line "what #mon it"
+	line "what #MON it"
 	cont "could be!"
 	done
 
@@ -371,16 +371,16 @@ Route32LyraIntroducesHiddenGrottoesOutroScript:
 	para "I've heard of these"
 	line "places before."
 
-	para "It's a Hidden"
-	line "Grotto!"
+	para "It's a HIDDEN"
+	line "GROTTO!"
 
-	para "Hidden Grottoes"
+	para "HIDDEN GROTTOES"
 	line "are found among"
 	cont "trees and cliff-"
 	cont "sides."
 
 	para "Some amazing #-"
-	line "mon might be"
+	line "MON might be"
 	cont "hiding in there!"
 
 	para "I wish I had time"
@@ -391,7 +391,7 @@ Route32LyraIntroducesHiddenGrottoesOutroScript:
 
 	para "<PLAYER>, keep an"
 	line "eye out for more"
-	cont "Hidden Grottoes!"
+	cont "HIDDEN GROTTOES!"
 	done
 
 .LeaveMovement1:
@@ -452,7 +452,7 @@ GenericTrainerFisherJustin:
 	line "The essence of"
 
 	para "fishing and #-"
-	line "mon is the same."
+	line "MON is the same."
 	done
 
 TrainerFisherRalph1:
@@ -561,7 +561,7 @@ GenericTrainerFisherHenry:
 	generictrainer FISHER, HENRY, EVENT_BEAT_FISHER_HENRY, FisherHenrySeenText, FisherHenryBeatenText
 
 	text "Freshly caught"
-	line "#mon are no"
+	line "#MON are no"
 
 	para "match for properly"
 	line "raised ones."
@@ -672,7 +672,7 @@ GenericTrainerYoungsterAlbert:
 	cont "with my favorites."
 
 	para "I'm not using the"
-	line "same tough #mon"
+	line "same tough #MON"
 	cont "as everyone else."
 	done
 
@@ -687,8 +687,8 @@ GenericTrainerBird_keeperPeter:
 	generictrainer BIRD_KEEPER, PETER, EVENT_BEAT_BIRD_KEEPER_PETER, Bird_keeperPeterSeenText, Bird_keeperPeterBeatenText
 
 	text "I should train"
-	line "again at the Gym"
-	cont "in Violet City."
+	line "again at the GYM"
+	cont "in VIOLET CITY."
 	done
 
 FriedaScript:
@@ -739,16 +739,16 @@ Route32CooltrainerMText_AideIsWaiting:
 	para "See for yourself."
 	line "He's waiting for"
 
-	para "you at the #mon"
-	line "Center."
+	para "you at the #MON"
+	line "CENTER."
 	done
 
 Route32CooltrainerMText_VioletGym:
 	text "Have you gone to"
-	line "the #mon Gym?"
+	line "the #MON GYM?"
 
 	para "You can test your"
-	line "#mon and your-"
+	line "#MON and your-"
 	cont "self there."
 
 	para "It's a rite of"
@@ -761,7 +761,7 @@ Text_MillionDollarSlowpokeTail:
 	line "to have this"
 
 	para "tasty, nutritious"
-	line "SlowpokeTail?"
+	line "SLOWPOKETAIL?"
 
 	para "For you right now,"
 	line "just ¥10,000,000!"
@@ -794,7 +794,7 @@ FisherJustinBeatenText:
 FisherRalph1SeenText:
 	text "I'm really good at"
 	line "both fishing and"
-	cont "#mon."
+	cont "#MON."
 
 	para "I'm not about to"
 	line "lose to any kid!"
@@ -809,7 +809,7 @@ FisherRalphAfterText:
 	text "Fishing is a life-"
 	line "long passion."
 
-	para "#mon are life-"
+	para "#MON are life-"
 	line "long friends!"
 	done
 
@@ -825,12 +825,12 @@ FisherRalphSwarmText:
 	done
 
 FisherHenrySeenText:
-	text "My #mon?"
+	text "My #MON?"
 	line "Freshly caught!"
 	done
 
 FisherHenryBeatenText:
-	text "Splash?"
+	text "SPLASH?"
 	done
 
 YoungsterAlbertSeenText:
@@ -847,7 +847,7 @@ YoungsterAlbertBeatenText:
 
 YoungsterGordonSeenText:
 	text "I found some good"
-	line "#mon in the"
+	line "#MON in the"
 	cont "grass!"
 
 	para "I think they'll do"
@@ -891,10 +891,10 @@ PicnickerLiz1AfterText:
 	done
 
 Bird_keeperPeterSeenText:
-	text "That Badge! It's"
-	line "from Violet City!"
+	text "That BADGE! It's"
+	line "from VIOLET CITY!"
 
-	para "You beat Falkner?"
+	para "You beat FALKNER?"
 	done
 
 Bird_keeperPeterBeatenText:
@@ -922,24 +922,24 @@ Text_RoarOutro:
 	done
 
 MeetFriedaText:
-	text "Frieda: Yahoo!"
+	text "FRIEDA: Yahoo!"
 	line "It's Friday!"
 
-	para "I'm Frieda of"
+	para "I'm FRIEDA of"
 	line "Friday!"
 
 	para "Nice to meet you!"
 	done
 
 FriedaGivesGiftText:
-	text "Here's a Poison"
-	line "Barb for you!"
+	text "Here's a POISON"
+	line "BARB for you!"
 	done
 
 FriedaGaveGiftText:
-	text "Frieda: Give it to"
-	line "a #mon that has"
-	cont "Poison-type moves."
+	text "FRIEDA: Give it to"
+	line "a #MON that has"
+	cont "poison-type moves."
 
 	para "Oh!"
 
@@ -947,11 +947,11 @@ FriedaGaveGiftText:
 
 	para "You'll be shocked"
 	line "how good it makes"
-	cont "Poison moves!"
+	cont "Ppison moves!"
 	done
 
 FriedaFridayText:
-	text "Frieda: Hiya! What"
+	text "FRIEDA: Hiya! What"
 	line "day do you like?"
 
 	para "I love Friday. No"
@@ -962,7 +962,7 @@ FriedaFridayText:
 	done
 
 FriedaNotFridayText:
-	text "Frieda: Isn't it"
+	text "FRIEDA: Isn't it"
 	line "Friday today?"
 
 	para "It's so boring"
@@ -970,18 +970,18 @@ FriedaNotFridayText:
 	done
 
 Route32SignText:
-	text "Route 32"
+	text "ROUTE 32"
 
-	para "Violet City -"
-	line "Azalea Town"
+	para "VIOLET CITY -"
+	line "AZALEA TOWN"
 	done
 
 Route32RuinsSignText:
-	text "Ruins of Alph"
-	line "East Entrance"
+	text "RUINS OF ALPH"
+	line "EAST ENTRANCE"
 	done
 
 Route32UnionCaveSignText:
-	text "Union Cave"
-	line "Ahead"
+	text "UNION CAVE"
+	line "AHEAD"
 	done

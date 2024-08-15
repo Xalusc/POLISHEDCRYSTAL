@@ -27,7 +27,7 @@ UpdateItemDescription:
 	farjp PrintItemDescription
 
 BagXString:
-	db "Bag ×@"
+	db "PACK ×@"
 
 UpdateTMHMDescriptionAndOwnership:
 	hlcoord 1, 1
@@ -57,9 +57,9 @@ UpdateTMHMDescription:
 	farjp PrintTMHMDescription
 
 OwnedTMString:
-	db "Owned@"
+	db "OWNED@"
 UnownedTMString:
-	db "Unowned@"
+	db "UNOWNED@"
 
 UpdateKeyItemDescription:
 	hlcoord 0, 12

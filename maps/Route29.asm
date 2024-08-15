@@ -172,21 +172,21 @@ LyraMovementData3:
 	step_end
 
 CatchingTutorialIntroText:
-	text "Lyra: <PLAYER>!"
+	text "LYRA: <PLAYER>!"
 
 	para "You can catch wild"
-	line "#mon with #"
+	line "#MON with #"
 
-	para "Balls. Follow me"
+	para "BALLS. Follow me"
 	line "and I'll show you!"
 	done
 
 CatchingTutorialDebriefText:
-	text "Lyra: See? Just"
+	text "LYRA: See? Just"
 	line "like that!"
 
 	para "If you weaken them"
-	line "first, #mon are"
+	line "first, #MON are"
 	cont "easier to catch."
 
 	para "I'll give you"
@@ -205,12 +205,12 @@ CatchingTutorialRefusedText:
 	done
 
 CatchingTutorialGoodbyeText:
-	text "Lyra: See you!"
+	text "LYRA: See you!"
 	done
 
 Route29YoungsterText:
 	text "Yo. How are your"
-	line "#mon?"
+	line "#MON?"
 
 	para "If they're weak"
 	line "and not ready for"
@@ -225,7 +225,7 @@ Route29TeacherText:
 	cont "off them."
 
 	para "But you can go to"
-	line "New Bark without"
+	line "NEW BARK without"
 
 	para "walking through"
 	line "the grass."
@@ -241,7 +241,7 @@ Route29FisherText:
 
 Text_WaitingForNight:
 	text "I'm waiting for"
-	line "#mon that"
+	line "#MON that"
 
 	para "appear only in"
 	line "the evening or"
@@ -250,14 +250,14 @@ Text_WaitingForNight:
 
 Text_WaitingForMorning:
 	text "I'm waiting for"
-	line "#mon that"
+	line "#MON that"
 
 	para "appear only in the"
 	line "morning."
 	done
 
 MeetTuscanyText:
-	text "Tuscany: I do be-"
+	text "TUSCANY: I do be-"
 	line "lieve that this is"
 
 	para "the first time"
@@ -266,7 +266,7 @@ MeetTuscanyText:
 	para "Please allow me to"
 	line "introduce myself."
 
-	para "I am Tuscany of"
+	para "I am TUSCANY of"
 	line "Tuesday."
 	done
 
@@ -275,57 +275,57 @@ TuscanyGivesGiftText:
 	line "duction, please"
 
 	para "accept this gift,"
-	line "a Silk Scarf."
+	line "a SILK SCARF."
 	done
 
 TuscanyGaveGiftText:
-	text "Tuscany: Wouldn't"
+	text "TUSCANY: Wouldn't"
 	line "you agree that it"
 	cont "is most elegant?"
 
 	para "It strengthens"
-	line "Normal-type moves."
+	line "normal-type moves."
 
 	para "I am certain it"
 	line "will be of use."
 	done
 
 TuscanyTuesdayText:
-	text "Tuscany: Have you"
-	line "met Monica, my"
+	text "TUSCANY: Have you"
+	line "met MONICA, my"
 	cont "older sister?"
 
 	para "Or my younger"
-	line "brother, Wesley?"
+	line "brother, WESLEY?"
 
 	para "I am the second of"
 	line "seven children."
 	done
 
 TuscanyNotTuesdayText:
-	text "Tuscany: Today is"
+	text "TUSCANY: Today is"
 	line "not Tuesday. That"
 	cont "is unfortunate…"
 	done
 
 Route29Sign1Text:
-	text "Route 29"
+	text "ROUTE 29"
 
-	para "New Bark Town -"
-	line "Cherrygrove City"
+	para "NEW BARK TOWN -"
+	line "CHERRYGROVE CITY"
 	done
 
 Route29Sign2Text:
-	text "Route 29"
+	text "ROUTE 29"
 
-	para "Cherrygrove City -"
-	line "New Bark Town"
+	para "CHERRYGROVE CITY -"
+	line "NEW BARK TOWN"
 	done
 
 Route29AdvancedTipsSignText:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
-	para "Press Start in"
-	line "the Bag to sort"
+	para "Press START in"
+	line "the PACK to sort"
 	cont "an item pocket!"
 	done

@@ -43,7 +43,7 @@ SilphCo2FScientist1NoRoomForUpGradeScript:
 
 SilphCo2FScientist1Text1:
 	text "You traveled here"
-	line "from Johto?"
+	line "from JOHTO?"
 
 	para "Since you came"
 	line "such a long way,"
@@ -53,7 +53,7 @@ SilphCo2FScientist1Text1:
 	done
 
 SilphCo2FScientist1Text2:
-	text "It's Silph Co.'s"
+	text "It's SILPH CO.'s"
 	line "latest product."
 
 	para "It's not for sale"
@@ -92,10 +92,10 @@ SilphCo2FSilphEmployee2Text:
 	done
 
 SilphCo2FDeptSignText:
-	text "Silph Co. 2F"
-	line "Software Dev."
+	text "SILPH CO. 2F"
+	line "SOFTWARE DEV."
 	done
 
 SilphCo2FElevatorText:
-	text "Out Of Order"
+	text "OUT OF ORDER"
 	done

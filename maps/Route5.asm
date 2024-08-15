@@ -21,13 +21,13 @@ Route5PokefanMText:
 	text "The road is closed"
 	line "until the problem"
 
-	para "at the Power Plant"
+	para "at the POWER PLANT"
 	line "is solved."
 	done
 
 Route5UndergroundPathSignText:
-	text "Underground Path"
+	text "UNDERGROUND PATH"
 
-	para "Cerulean City -"
-	line "Vermilion City"
+	para "CERULEAN CITY -"
+	line "VERMILION CITY"
 	done

@@ -1,22 +1,22 @@
 ChadAskNumber1Text:
 	text "Huh? Is that thing"
-	line "a #dex? Have"
-	cont "you met Prof.Oak?"
+	line "a #DEX? Have"
+	cont "you met PROF.OAK?"
 
 	para "Huh? You have?"
 	line "That's way cool!"
 
 	para "I have a dream of"
-	line "becoming a #mon"
+	line "becoming a #MON"
 
 	para "researcher like"
-	line "Prof.Oak."
+	line "PROF.OAK."
 
 	para "May I please have"
 	line "your phone number?"
 
 	para "We should chat"
-	line "about Prof.Oak."
+	line "about PROF.OAK."
 
 	para "I'm sure it will"
 	line "be loads of fun!"
@@ -27,7 +27,7 @@ ChadAskNumber2Text:
 	line "your phone number?"
 
 	para "We should chat"
-	line "about Prof.Oak."
+	line "about PROF.OAK."
 
 	para "I'm sure it will"
 	line "be loads of fun!"
@@ -35,14 +35,14 @@ ChadAskNumber2Text:
 
 ChadNumberAcceptedText:
 	text "You must listen to"
-	line "Prof.Oak's #mon"
-	cont "Talk, right?"
+	line "PROF.OAK's #MON"
+	cont "TALK, right?"
 	done
 
 ChadNumberDeclinedText:
 	text "Oh… I wish I had a"
 	line "chance to meet"
-	cont "Prof.Oak…"
+	cont "PROF.OAK…"
 	done
 
 ChadPhoneFullText:

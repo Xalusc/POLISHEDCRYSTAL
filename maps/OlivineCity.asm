@@ -104,7 +104,7 @@ OlivineCityYoungster1Script:
 
 	text "That thing you"
 	line "have--it's a #-"
-	cont "gear, right? Wow,"
+	cont "GEAR, right? Wow,"
 	cont "that's cool."
 	done
 
@@ -163,26 +163,26 @@ OlivineCityRivalGymText:
 	para "Speaking of weak-"
 	line "lings, the city's"
 
-	para "Gym Leader isn't"
+	para "GYM LEADER isn't"
 	line "here."
 
 	para "Supposedly taking"
 	line "care of a sick"
 
-	para "#mon at the"
-	line "Lighthouse."
+	para "#MON at the"
+	line "LIGHTHOUSE."
 
 	para "Humph! Boo-hoo!"
 	line "Just let sick"
-	cont "#mon go!"
+	cont "#MON go!"
 
-	para "A #mon that"
+	para "A #MON that"
 	line "can't battle is"
 	cont "worthless!"
 
 	para "Why don't you go"
 	line "train at the"
-	cont "Lighthouse?"
+	cont "LIGHTHOUSE?"
 
 	para "Who knows. It may"
 	line "make you a bit"
@@ -203,17 +203,17 @@ OlivineCityRivalLighthouseText:
 	para "Speaking of weak-"
 	line "lings, the city's"
 
-	para "Gym Leader is"
+	para "GYM LEADER is"
 	line "taking care of a"
 
-	para "sick #mon in"
-	line "the Lighthouse."
+	para "sick #MON in"
+	line "the LIGHTHOUSE."
 
 	para "Humph! Boo-hoo!"
 	line "Just let sick"
-	cont "#mon go!"
+	cont "#MON go!"
 
-	para "A #mon that"
+	para "A #MON that"
 	line "can't battle is"
 	cont "worthless!"
 
@@ -227,7 +227,7 @@ OlivineCityRivalLighthouseText:
 
 OlivineCityStandingYoungsterPokedexText:
 	text "Wow, you have a"
-	line "#dex!"
+	line "#DEX!"
 
 	para "That is just so"
 	line "awesome."
@@ -245,7 +245,7 @@ OlivineCitySailor1Text:
 	line "more treacherous!"
 
 	para "Without the beacon"
-	line "of the Lighthouse"
+	line "of the LIGHTHOUSE"
 
 	para "to guide it, no"
 	line "ship can sail."
@@ -271,13 +271,13 @@ OlivineCityFisherText:
 	line "away when their"
 
 	para "father became a"
-	line "Gym Leader in"
+	line "GYM LEADER in"
 	cont "another region."
 	done
 
 OlivineCitySailor3Text:
-	text "To see the Light-"
-	line "house illuminate"
+	text "To see the LIGHT-"
+	line "HOUSE illuminate"
 
 	para "the sea at night--"
 	line "it's beautiful!"
@@ -285,7 +285,7 @@ OlivineCitySailor3Text:
 
 OlivineCityPokefanFText:
 	text "Have you been to"
-	line "Olivine Café?"
+	line "OLIVINE CAFE?"
 
 	para "The food is"
 	line "delicious."
@@ -293,10 +293,10 @@ OlivineCityPokefanFText:
 
 OlivineCityPokefanMText:
 	text "Most trainers who"
-	line "visit Olivine head"
+	line "visit OLIVINE head"
 
 	para "straight for the"
-	line "Battle Tower."
+	line "BATTLE TOWER."
 
 	para "Only the best can"
 	line "compete there."
@@ -304,7 +304,7 @@ OlivineCityPokefanMText:
 
 OlivineCitySailor4Text:
 	text "♪ A home like"
-	line "O-li-vine,"
+	line "O-LI-VINE,"
 
 	para "I'm so hap-py I"
 	line "can call you mine,"
@@ -316,7 +316,7 @@ OlivineCitySailor4Text:
 	line "di-vine,"
 
 	para "Shine bright my"
-	line "O-li-vine!… ♪"
+	line "O-LI-VINE!… ♪"
 	done
 
 OlivineCitySailor5Text:
@@ -356,51 +356,51 @@ OlivineCityYoungster2Text:
 	done
 
 OlivineCityLass2Text:
-	text "Jasmine, our Gym"
-	line "Leader, is a shy"
+	text "JASMINE, our GYM"
+	line "LEADER, is a shy"
 
 	para "girl. She's no"
 	line "pushover, mind!"
 	done
 
 OlivineCitySignText:
-	text "Olivine City"
+	text "OLIVINE CITY"
 
 	para "The Port Closest"
 	line "to Foreign Lands"
 	done
 
 OlivineCityPortSignText:
-	text "Olivine Port"
-	line "Fast Ship Pier"
+	text "OLIVINE PORT"
+	line "FAST SHIP PIER"
 	done
 
 OlivineGymSignText:
-	text "Olivine City"
-	line "#mon Gym"
-	cont "Leader: Jasmine"
+	text "OLIVINE CITY"
+	line "#MON GYM"
+	cont "LEADER: JASMINE"
 
 	para "The Steel-Clad"
 	line "Defense Girl"
 	done
 
 OlivineLighthouseSignText:
-	text "Olivine Lighthouse"
+	text "OLIVINE LIGHTHOUSE"
 	line "Also known as the"
-	cont "Glitter Lighthouse"
+	cont "GLITTER LIGHTHOUSE"
 	done
 
 OlivineCityBattleTowerSignText:
-	text "Battle Tower Ahead"
+	text "BATTLE TOWER AHEAD"
 	line "Opening Now!"
 	done
 
 OlivineCityPokeathlonDomeSignText:
-	text "The #athlon"
+	text "The #ATHLON"
 	line "Project Has"
 	cont "Started!"
 	done
 
 OlivineCityCafeSignText:
-	text "Olivine Café"
+	text "OLIVINE CAFE"
 	done

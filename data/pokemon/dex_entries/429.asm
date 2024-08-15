@@ -1,4 +1,4 @@
-	db "Magical@" ; species name
+	db "MAGICAL@" ; species name
 	dw 211, 97 ; height, width
 
 	db   "Its cries sound"

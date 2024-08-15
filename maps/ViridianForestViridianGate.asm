@@ -18,7 +18,7 @@ ViridianForestViridianGate_MapScriptHeader:
 
 ViridianForestViridianGateOfficerText:
 	text "Be careful,"
-	line "Viridian Forest"
+	line "VIRIDIAN FOREST"
 
 	para "is a natural"
 	line "maze!"

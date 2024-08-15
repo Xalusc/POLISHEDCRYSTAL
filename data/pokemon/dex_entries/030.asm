@@ -1,4 +1,4 @@
-	db "Poison Pin@" ; species name
+	db "POISON PIN@" ; species name
 	dw 207, 440 ; height, width
 
 	db   "It has a docile"

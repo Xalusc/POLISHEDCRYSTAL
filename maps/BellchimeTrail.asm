@@ -76,10 +76,10 @@ BellchimeTrailPanUpTrigger:
 	step_end
 
 TinTowerSignText:
-	text "Bell Tower"
+	text "BELL TOWER"
 
 	para "A legendary #-"
-	line "mon is said to"
+	line "MON is said to"
 	cont "roost here."
 	done
 
@@ -160,9 +160,9 @@ BellchimeTrailValerieScript:
 .IntroText:
 	text "If it isn't the"
 	line "trainer who faced"
-	cont "Suicune…"
+	cont "SUICUNE…"
 
-	para "I am Valerie."
+	para "I am VALERIE."
 	line "I come to this"
 
 	para "trail to be"
@@ -181,12 +181,12 @@ BellchimeTrailValerieScript:
 
 	para "who caught the eye"
 	line "of a legendary"
-	cont "#mon."
+	cont "#MON."
 	done
 
 .BattleText:
-	text "Valerie: I train"
-	line "the elusive Fairy"
+	text "VALERIE: I train"
+	line "the elusive fairy"
 	cont "type."
 
 	para "They appear frail"
@@ -198,11 +198,11 @@ BellchimeTrailValerieScript:
 	done
 
 .RefusedText:
-	text "Valerie: Alas…"
+	text "VALERIE: Alas…"
 	done
 
 .AcceptedText:
-	text "Valerie: I hope"
+	text "VALERIE: I hope"
 	line "our battle will"
 
 	para "prove entertaining"
@@ -219,7 +219,7 @@ BellchimeTrailValerieScript:
 	done
 
 .RewardText:
-	text "Valerie: Yes… that"
+	text "VALERIE: Yes… that"
 	line "was a fine battle."
 
 	para "I shall reward you"
@@ -232,7 +232,7 @@ BellchimeTrailValerieScript:
 	done
 
 .FarewellText:
-	text "Valerie: Oh? My,"
+	text "VALERIE: Oh? My,"
 	line "what a curious"
 	cont "feeling…"
 
@@ -257,7 +257,7 @@ BellchimeTrailValerieScript:
 	done
 
 .RematchText:
-	text "Valerie: Oh, if it"
+	text "VALERIE: Oh, if it"
 	line "isn't my young"
 	cont "trainer…"
 

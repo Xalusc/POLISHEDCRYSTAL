@@ -1,4 +1,4 @@
-	db "Bird@" ; species name
+	db "BIRD@" ; species name
 	dw 307, 660 ; height, width
 
 	db   "It slowly flies in"

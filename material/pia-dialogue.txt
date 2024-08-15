@@ -21,7 +21,7 @@ Looker:
 
 	para "You wouldn't happ-"
 	line "en to know about a"
-	cont "Team Galactic, wo-"
+	cont "TEAM GALACTIC, wo-"
 
 	para "uld you?"
 
@@ -63,7 +63,7 @@ Artist2DefeatText:
 	done
 
 Artist2AfterText:
-	text "Ok, Smeargle!"
+	text "Ok, SMEARGLE!"
 	line "More red, now!"
 	done
 
@@ -84,12 +84,12 @@ AromaGirl1AfterText:
 
 	para "to strengthen the-"
 	line "ir bonds with"
-	cont "their #mon."
+	cont "their #MON."
 	done
 
 Gentleman1SeenText:
-	text "Ha-hum! My Arcani-"
-	line "ne demands battle!"
+	text "Ha-hum! My ARCANI-"
+	line "NE demands battle!"
 
 	para "You shall do!"
 	done
@@ -99,15 +99,15 @@ Gentleman1DefeatText:
 	done
 
 Gentleman1AfterText:
-	text "Arcanine is one of"
-	line "the few #mon"
-	cont "that can use Extr-"
+	text "ARCANINE is one of"
+	line "the few #MON"
+	cont "that can use EXTR-"
 
-	para "emespeed."
+	para "EMESPEED."
 	done
 
 Tamer1SeenText:
-	text "My #mon are"
+	text "My #MON are"
 	line "mean, lean fighti-"
 	cont "ng machines!"
 	done
@@ -124,16 +124,16 @@ Tamer1AfterText:
 
 RichBoySeenText:
 	text "Daddy wouldn't"
-	line "buy me Zigzagoon!"
+	line "buy me ZIGZAGOON!"
 
 	para "I got this stupid"
-	line "Ninetales instead!"
+	line "NINETALES instead!"
 	done
 
 RichBoyDefeatText:
 	text "Surely I'd have"
-	line "won with a Zigzag-"
-	cont "oon."
+	line "won with a ZIGZAG-"
+	cont "OON."
 	done
 
 RichBoyAfterText:
@@ -141,15 +141,15 @@ RichBoyAfterText:
 	line "able to get one"
 	cont "when our cruise"
 
-	para "goes to Hoenn."
+	para "goes to HOENN."
 	done
 
 LadySeenText:
 	text "Ohohohoho!"
 
-	para "My Persian is sim-"
-	line "ply dying to Slash"
-	cont "your #mon!"
+	para "My PERSIAN is sim-"
+	line "ply dying to SLASH"
+	cont "your #MON!"
 	done
 
 LadyDefeatText:
@@ -165,7 +165,7 @@ LadyAfterText:
 JugglerSeenText:
 	text "Hup! Hup!"
 
-	para "Electrode are pre-"
+	para "ELECTRODE are pre-"
 	line "tty heavy!"
 	done
 
@@ -182,7 +182,7 @@ JugglerAfterText:
 
 
 PokefanM:
-Do you want to see my Pokemon?
+Do you want to see my #MON?
 I said see them, not KO them!
 
 = The ORANGE ISLANDS are so\npeaceful...\pThat's why I came here in the first\nplace!

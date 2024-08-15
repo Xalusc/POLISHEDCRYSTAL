@@ -1,4 +1,4 @@
-	db "Vine@" ; species name
+	db "VINE@" ; species name
 	dw 607, 2835 ; height, width
 
 	db   "Its vines grow so"

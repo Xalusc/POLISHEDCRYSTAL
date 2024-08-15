@@ -1,4 +1,4 @@
-	db "Psi@" ; species name
+	db "PSI@" ; species name
 	dw 411, 1060 ; height, width
 
 	db   "It has an IQ of"

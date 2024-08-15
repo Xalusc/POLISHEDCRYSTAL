@@ -40,19 +40,19 @@ EcruteakDestinyKnotHouseCooltrainerFScript:
 	line "fate ties you to"
 
 	para "the legendary"
-	line "#mon…"
+	line "#MON…"
 
 	para "Are you some kind"
-	line "of Chosen One?"
+	line "of chosen one?"
 	done
 
 .Text1:
 	text "Two mighty bird"
-	line "#mon of Johto,"
+	line "#MON of JOHTO,"
 
 	para "each guarding a"
 	line "trio of legendary"
-	cont "#mon."
+	cont "#MON."
 
 	para "Legends within"
 	line "legends…"
@@ -73,7 +73,7 @@ EcruteakDestinyKnotHouseCooltrainerFScript:
 	cont "caught them?!"
 
 	para "Let me see your"
-	line "#dex… Wow!"
+	line "#DEX… Wow!"
 
 	para "It must have been"
 	line "your destiny."

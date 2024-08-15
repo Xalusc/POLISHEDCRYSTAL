@@ -241,7 +241,7 @@ InitializeMagikarpHouse:
 	jmp CopyName2
 
 .Ralph:
-	db "Ralph@"
+	db "RALPH@"
 
 InitializeNPCNames:
 	ld hl, .Rival
@@ -262,7 +262,7 @@ InitializeNPCNames:
 
 .Rival:
 .Backup: db "???@"
-.Trendy: db "Prism@"
+.Trendy: db "PRISM@"
 
 InitializeWorld:
 	call ShrinkPlayer
@@ -461,10 +461,10 @@ Continue_LoadMenuHeader:
 .MenuData2_Dex:
 	db $00 ; flags
 	db 4 ; items
-	db "Player@"
-	db "Badges@"
-	db "#dex@"
-	db "Time@"
+	db "PLAYER@"
+	db "BADGES@"
+	db "#DEX@"
+	db "TIME@"
 
 .MenuDataHeader_NoDex:
 	db $40 ; flags
@@ -476,10 +476,10 @@ Continue_LoadMenuHeader:
 .MenuData2_NoDex:
 	db $00 ; flags
 	db 4 ; items
-	db "Player <PLAYER>@"
-	db "Badges@"
+	db "PLAYER <PLAYER>@"
+	db "BADGES@"
 	db " @"
-	db "Time@"
+	db "TIME@"
 
 Continue_DisplayBadgesDexPlayerName:
 	call MenuBoxCoord2Tile

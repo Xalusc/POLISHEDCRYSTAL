@@ -29,7 +29,7 @@ SproutTower1FGrannyScript:
 	iftrue_jumptextfaceplayer .MetricText
 	jumpthistextfaceplayer
 
-	text "A Bellsprout over"
+	text "A BELLSPROUT over"
 	line "100 feet tall…"
 
 	para "People say that it"
@@ -38,7 +38,7 @@ SproutTower1FGrannyScript:
 	done
 
 .MetricText:
-	text "A Bellsprout over"
+	text "A BELLSPROUT over"
 	line "30 meters tall…"
 
 	para "People say that it"
@@ -63,7 +63,7 @@ SageChowSeenText:
 
 	para "Here, we express"
 	line "our gratitude to"
-	cont "honor all #mon."
+	cont "honor all #MON."
 	done
 
 SageChowBeatenText:
@@ -77,11 +77,11 @@ SproutTower1FSage1Text:
 	done
 
 SproutTower1FSage2Text:
-	text "Sprout Tower was"
+	text "SPROUT TOWER was"
 	line "built long ago"
 
 	para "as a place for"
-	line "#mon training."
+	line "#MON training."
 	done
 
 SproutTower1FTeacherText:
@@ -93,7 +93,7 @@ SproutTower1FTeacherText:
 	done
 
 SproutTower1FStatueText:
-	text "A #mon statue…"
+	text "A #MON statue…"
 
 	para "It looks very"
 	line "distinguished."

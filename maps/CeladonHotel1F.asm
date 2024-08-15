@@ -45,7 +45,7 @@ CeladonHotel1FRichBoyGeraldScript:
 	end
 
 CeladonHotel1FGrampsText:
-	text "#mon? No, this"
+	text "#MON? No, this"
 	line "is a hotel for"
 	cont "people."
 
@@ -54,10 +54,10 @@ CeladonHotel1FGrampsText:
 
 CeladonHotel1FLadyText:
 	text "This is my first"
-	line "trip to Kanto."
+	line "trip to KANTO."
 
 	para "There's so much to"
-	line "see in Celadon!"
+	line "see in CELADON!"
 	done
 
 CeladonHotel1FCooltrainerFText:
@@ -87,11 +87,11 @@ RichBoyGeraldBeatenText:
 RichBoyGeraldAfterText:
 	text "Next time we ought"
 	line "to vacation at"
-	cont "Olivine City."
+	cont "OLIVINE CITY."
 
 	para "I'd quite like to"
 	line "challenge the"
-	cont "Battle Tower."
+	cont "BATTLE TOWER."
 	done
 
 RichBoyGeraldNoBattleText:
@@ -99,19 +99,19 @@ RichBoyGeraldNoBattleText:
 	done
 
 CeladonHotel1FSignpost1Text:
-	text "Celadon Hotel"
+	text "CELADON HOTEL"
 
 	para "Enjoy your stay!"
 	done
 
 CeladonHotel1FSignpost2Text:
-	text "Hotel Pool"
+	text "HOTEL POOL"
 
 	para "Please wear a swim"
 	line "cap in the water."
 	done
 
 CeladonHotel1FSignpost3Text:
-	text "Suites"
-	line "Upstairs"
+	text "SUITES"
+	line "UPSTAIRS"
 	done

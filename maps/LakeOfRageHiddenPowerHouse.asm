@@ -47,7 +47,7 @@ HiddenPowerGuy:
 
 	para "Your "
 	text_ram wStringBuffer3
-	line "has a Hidden Power"
+	line "has a HIDDEN POWER"
 	cont "of "
 	text_ram wStringBuffer1
 	text "!"
@@ -56,9 +56,9 @@ HiddenPowerGuy:
 .Egg:
 	jumpthisopenedtext
 
-	text "An Egg has not yet"
-	line "developed a Hidden"
-	cont "Power…"
+	text "An EGG has not yet"
+	line "developed a HIDDEN"
+	cont "POWER…"
 	done
 
 .Text1:
@@ -73,29 +73,29 @@ HiddenPowerGuy:
 
 	para "Let me share my"
 	line "power with your"
-	cont "#mon."
+	cont "#MON."
 
 	para "Take this, child."
 	done
 
 .Text2:
 	text "Do you see it? It"
-	line "is Hidden Power!"
+	line "is HIDDEN POWER!"
 
 	para "It draws out the"
-	line "power of #mon"
+	line "power of #MON"
 	cont "for attacking."
 
 	para "Remember this: its"
 	line "type depends on"
-	cont "the #mon"
+	cont "the #MON"
 	cont "using it."
 	done
 
 .Text3:
 	text "Shall I divine"
-	line "the Hidden Power"
-	cont "of your #mon?"
+	line "the HIDDEN POWER"
+	cont "of your #MON?"
 	done
 
 .Text4:
@@ -103,8 +103,8 @@ HiddenPowerGuy:
 	done
 
 .Text5:
-	text "Which #mon's"
-	line "Hidden Power"
+	text "Which #MON's"
+	line "HIDDEN POWER"
 	cont "should I find?"
 	done
 

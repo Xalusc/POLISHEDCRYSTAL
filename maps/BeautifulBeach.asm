@@ -27,7 +27,7 @@ BeautifulBeach_MapScriptHeader:
 
 BeautifulBeachWelcomeSignText:
 	text "Welcome to"
-	line "Shamouti Island!"
+	line "SHAMOUTI ISLAND!"
 
 	para "The main island"
 	line "is just east."
@@ -49,7 +49,7 @@ GenericTrainerAromaLadyBryony:
 	text "Tropical flowers,"
 	line "a sea breeze…"
 
-	para "Shamouti Island"
+	para "SHAMOUTI ISLAND"
 	line "is full of del-"
 	cont "icious scents!"
 	done
@@ -84,7 +84,7 @@ GenericTrainerSightseermJaska:
 GenericTrainerTamerVince:
 	generictrainer TAMER, VINCE, EVENT_BEAT_TAMER_VINCE, .SeenText, .BeatenText
 
-	text "My #mon are"
+	text "My #MON are"
 	line "expertly tamed,"
 
 	para "but I remain as"
@@ -104,7 +104,7 @@ GenericTrainerTamerVince:
 GenericTrainerSightseerfRosie:
 	generictrainer SIGHTSEERF, ROSIE, EVENT_BEAT_SIGHTSEERF_ROSIE, .SeenText, .BeatenText
 
-	text "Shamouti Island"
+	text "SHAMOUTI ISLAND"
 	line "has so much"
 	cont "history!"
 
@@ -121,7 +121,7 @@ GenericTrainerSightseerfRosie:
 
 .BeatenText:
 	text "I guess the #-"
-	line "mon Center is"
+	line "MON CENTER is"
 	cont "first."
 	done
 
@@ -136,7 +136,7 @@ GenericTrainerSwimmerfRachel:
 	text "White sand and"
 	line "blue water…"
 
-	para "Beautiful Beach"
+	para "BEAUTIFUL BEACH"
 	line "lives up to its"
 	cont "nickname!"
 	done
@@ -161,7 +161,7 @@ GenericTrainerArtistMarlene:
 	done
 
 .SeenText:
-	text "My Smeargle trio"
+	text "My SMEARGLE trio"
 	line "can paint any"
 	cont "scene!"
 	done

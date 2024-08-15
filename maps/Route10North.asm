@@ -221,7 +221,7 @@ ZapdosText:
 	done
 
 Route10NorthLawrenceGreetingText:
-	text "Lawrence: We meet"
+	text "LAWRENCE: We meet"
 	line "again, <PLAYER>."
 
 	para "I came here in"
@@ -236,8 +236,8 @@ Route10NorthLawrenceGreetingText:
 	done
 
 Route10NorthLawrenceZapdosText:
-	text "Lawrence: That's"
-	line "a Zapdos."
+	text "LAWRENCE: That's"
+	line "a ZAPDOS."
 
 	para "It must have been"
 	line "attracted by the"
@@ -249,7 +249,7 @@ Route10NorthLawrenceZapdosText:
 	para "In that case, I'll"
 	line "leave this legen-"
 
-	para "dary #mon for"
+	para "dary #MON for"
 	line "you to catch."
 
 	para "You see, I have"
@@ -258,16 +258,16 @@ Route10NorthLawrenceZapdosText:
 	done
 
 Route10NorthLawrenceFlyText:
-	text "Lawrence: Zapdos,"
-	line "Fly!"
+	text "LAWRENCE: ZAPDOS,"
+	line "FLY!"
 	done
 
 Route10NorthLawrenceSpeechText:
-	text "Lawrence: Hello"
+	text "LAWRENCE: Hello"
 	line "again, <PLAYER>."
 
 	para "So you wanted that"
-	line "Zapdos after all."
+	line "ZAPDOS after all."
 
 	para "I was starting"
 	line "to think you"
@@ -283,7 +283,7 @@ Route10NorthLawrenceSpeechText:
 	line "knowledge and"
 
 	para "resources, have"
-	line "not found Moltres…"
+	line "not found MOLTRES…"
 
 	para "Why have you"
 	line "succeeded where I"
@@ -304,19 +304,19 @@ Route10NorthLawrenceSpeechText:
 
 	para "Meet me at the"
 	line "ruined shrine on"
-	cont "Shamouti Island."
+	cont "SHAMOUTI ISLAND."
 
 	para "I'll show you that"
 	line "I deserve to own"
-	cont "those #mon."
+	cont "those #MON."
 	done
 
 RockTunnelSignText:
-	text "Rock Tunnel"
+	text "ROCK TUNNEL"
 	done
 
 PowerPlantSignText:
-	text "Kanto Power Plant"
+	text "KANTO POWER PLANT"
 	done
 
 Route10NorthMovementData_LawrenceApproach1:

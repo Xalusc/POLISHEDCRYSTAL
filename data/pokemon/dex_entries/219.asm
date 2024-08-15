@@ -1,4 +1,4 @@
-	db "Lava@" ; species name
+	db "LAVA@" ; species name
 	dw 207, 1210 ; height, width
 
 	db   "Its body is as hot"

@@ -44,12 +44,12 @@ CeladonUniversityPrincipalsOfficeMatsumotoScript:
 	text "Hello there,"
 	line "young trainer!"
 
-	para "I am Professor"
-	line "Matsumoto."
+	para "I am PROFESSOR"
+	line "MATSUMOTO."
 
-	para "I'm the principal"
-	line "of Celadon Uni-"
-	cont "versity."
+	para "I'm the PRINCIPAL"
+	line "of CELADON UNI-"
+	cont "VERSITY."
 
 	para "But you can call"
 	line "me your pal!"
@@ -60,14 +60,14 @@ CeladonUniversityPrincipalsOfficeMatsumotoScript:
 	done
 
 CeladonUniversityPrincipalsOfficeSignpost1Text:
-	text "It's Prof.Matsu-"
-	line "moto's degree in"
-	cont "Education."
+	text "It's PROF.MATSU-"
+	line "MOTO's degree in"
+	cont "education."
 	done
 
 CeladonUniversityPrincipalsOfficeSignpost2Text:
 	text "It's a picture of"
-	line "Prof.Matsumoto in"
+	line "PROF.MATSUMOTO in"
 
 	para "front of a grad-"
 	line "uating class."
@@ -87,6 +87,6 @@ CeladonUniversityPrincipalsOfficeBookshelfText:
 	text "It's a complete set"
 	line "of books of the"
 
-	para "Encyclopedia"
-	line "#monica."
+	para "ENCYCLOPEDIA"
+	line "#MONICA."
 	done

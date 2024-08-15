@@ -1,4 +1,4 @@
-	db "Screech@" ; species name
+	db "SCREECH@" ; species name
 	dw 204, 20 ; height, width
 
 	db   "It loves to watch"

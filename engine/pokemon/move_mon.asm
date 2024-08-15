@@ -868,11 +868,11 @@ Special_HyperTrain:
 
 .Strings:
 	db "HP@"
-	db "Speed@"
-	db "Attack@"
-	db "Spcl.Atk@"
-	db "Defense@"
-	db "Spcl.Def@"
+	db "SPEED@"
+	db "ATTACK@"
+	db "SPCL.ATK@"
+	db "DEFENSE@"
+	db "SPCL.DEF@"
 
 .TrainWhichStat:
 	text "Train which of"
@@ -882,7 +882,7 @@ Special_HyperTrain:
 	done
 
 .TextCantTrainEgg:
-	text "An Egg? I get that"
+	text "An EGG? I get that"
 	line "you're hyped to"
 	cont "have it, but I"
 	cont "can't train it yet!"
@@ -1694,7 +1694,7 @@ GiftEggSentToPCText:
 	text_end
 
 String_Egg:
-	rawchar "Egg@"
+	rawchar "EGG@"
 
 InitNickname:
 	push de

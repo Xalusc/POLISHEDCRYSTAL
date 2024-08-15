@@ -1,4 +1,4 @@
-	db "Fox@" ; species name
+	db "FOX@" ; species name
 	dw 200, 220 ; height, width
 
 	db   "As its body grows"

@@ -316,20 +316,20 @@ CinnabarLabCelebiFloatsMovementData:
 	step_end
 
 CinnabarLabRoom1SignText:
-	text "Cloning Room"
+	text "CLONING ROOM"
 	done
 
 CinnabarLabRoom2SignText:
-	text "Cybernetics Room"
+	text "CYBERNETICS ROOM"
 	done
 
 CinnabarLabRoom3SignText:
-	text "Storage Room"
+	text "STORAGE ROOM"
 	done
 
 CinnabarLabRoom4SignText:
-	text "Project Amber"
-	line "Testing Room"
+	text "PROJECT AMBER"
+	line "TESTING ROOM"
 
 	para "ABSOLUTELY NO"
 	line "ENTRY WITHOUT"
@@ -346,41 +346,41 @@ CinnabarLabContinueTestingText:
 
 	para "creation has per-"
 	line "formed very well"
-	cont "so far, Dr.Fu--"
+	cont "so far, DR.FU--"
 	done
 
 CinnabarLabGiovanniWhoAreYouText:
 	text "Who are you?!"
 	line "You aren't part"
-	cont "of Team Rocket."
+	cont "of TEAM ROCKET."
 
 	para "Are you a spy for"
 	line "the police?"
 
 	para "…Fine. You want to"
-	line "know about Team"
-	cont "Rocket's business?"
+	line "know about TEAM"
+	cont "ROCKET's business?"
 	cont "I'll show you."
 
 	para "The world's most"
-	line "powerful #mon…"
+	line "powerful #MON…"
 	done
 
 CinnabarLabGiovanniAttackText:
-	text "Giovanni: Attack!"
+	text "GIOVANNI: Attack!"
 	done
 
 CinnabarLabGiovanniBeatenText:
-	text "Giovanni: What?!"
+	text "GIOVANNI: What?!"
 	line "Impossible!"
 	done
 
 CinnabarLabGiovanniAfterText:
-	text "Giovanni: How was"
+	text "GIOVANNI: How was"
 	line "a kid like you"
 
 	para "able to beat the"
-	line "perfect #mon?"
+	line "perfect #MON?"
 
 	para "It was created to"
 	line "fight for me!"
@@ -394,10 +394,10 @@ CinnabarLabMewtwoText:
 	done
 
 CinnabarLabGiovanniStopText:
-	text "Giovanni: Stop"
+	text "GIOVANNI: Stop"
 	line "this now!"
 	done
 
 CinnabarLabCelebiText:
-	text "Celebi: Biii!"
+	text "CELEBI: Biii!"
 	done

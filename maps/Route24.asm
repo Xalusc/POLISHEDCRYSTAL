@@ -115,7 +115,7 @@ Route24RocketScript:
 
 Route24RocketSeenText:
 	text "Hey, kid! Me am a"
-	line "Team Rocket member"
+	line "TEAM ROCKET member"
 	cont "kind of guy!"
 
 	para "Come from another"
@@ -156,25 +156,25 @@ Route24RocketAfterBattleText:
 	text "OK. Tell you mine"
 	line "secret will I."
 
-	para "Machine Part steal"
+	para "MACHINE PART steal"
 	line "by me, hide it I"
 
-	para "did in Gym of the"
-	line "Cerulean."
+	para "did in GYM of the"
+	line "CERULEAN."
 
 	para "Inside water put"
 	line "it I did. Look for"
 
 	para "in water center of"
-	line "Gym at."
+	line "GYM at."
 
 	para "But you forget me"
 	line "not!"
 
 	para "Beat you for sure"
-	line "will Team Rocket."
+	line "will TEAM ROCKET."
 
-	para "Come from Johto"
+	para "Come from JOHTO"
 	line "will they, mine"
 
 	para "friends, yes. Will"
@@ -184,8 +184,8 @@ Route24RocketAfterBattleText:
 Route24RocketDisappearsText:
 	text "…"
 
-	para "You say what? Team"
-	line "Rocket bye-bye a"
+	para "You say what? TEAM"
+	line "ROCKET bye-bye a"
 
 	para "go-go? Broken it"
 	line "is says you?"

@@ -1,4 +1,4 @@
-	db "Fox@" ; species name
+	db "FOX@" ; species name
 	dw 307, 440 ; height, width
 
 	db   "It is said to live"

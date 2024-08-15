@@ -120,7 +120,7 @@ GoldenrodFlowerShopTeacherMySisterWentToSeeWigglyTreeRoute36Text:
 	text "Have you seen that"
 	line "wiggly tree that's"
 
-	para "growing on Route"
+	para "growing on ROUTE"
 	line "36?"
 
 	para "My little sister"
@@ -146,11 +146,11 @@ GoldenrodFlowerShopTeacherAskWantToBorrowWaterBottleText:
 
 GoldenrodFlowerShopTeacherHeresTheSquirtbottleText:
 	text "Oh, you're better"
-	line "than Whitney…"
+	line "than WHITNEY…"
 
 	para "You'll be OK,"
 	line "then. Here's the"
-	cont "SquirtBottle!"
+	cont "SQUIRTBOTTLE!"
 	done
 
 GoldenrodFlowerShopTeacherDontDoAnythingDangerousText:
@@ -180,19 +180,19 @@ GoldenrodFlowerShopFloriaWonderIfSisWillLendWaterBottleText:
 
 GoldenrodFlowerShopFloriaYouBeatWhitneyText:
 	text "Wow, you beat"
-	line "Whitney? Cool!"
+	line "WHITNEY? Cool!"
 	done
 
 GoldenrodFlowerShopFloriaItReallyWasAMonText:
 	text "So it really was a"
-	line "#mon!"
+	line "#MON!"
 	done
 
 WoukdYouLikeMulchText:
 	text "Care to buy some"
-	line "Mulch?"
+	line "MULCH?"
 
-	para "It makes Berries"
+	para "It makes BERRIES"
 	line "grow faster!"
 	done
 
@@ -212,12 +212,12 @@ NotEnoughMulchMoneyText:
 	done
 
 NoRoomForMulchText:
-	text "Oh no, your Bag"
+	text "Oh no, your PACK"
 	line "is full!"
 	done
 
 DescribeMulchText:
-	text "Our Mulch is a"
+	text "Our MULCH is a"
 	line "mix of high-qual-"
 
 	para "ity soil and #-"

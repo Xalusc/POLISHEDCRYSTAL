@@ -1,4 +1,4 @@
-	db "Drill@" ; species name
+	db "DRILL@" ; species name
 	dw 603, 2650 ; height, width
 
 	db   "By lightly spin-"

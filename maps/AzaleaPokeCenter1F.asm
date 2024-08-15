@@ -24,12 +24,12 @@ PokemonJournalBugsyScript:
 	setflag ENGINE_READ_BUGSY_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Leader Bugsy!"
+	para "SPECIAL FEATURE:"
+	line "LEADER BUGSY!"
 
-	para "Bugsy is reported"
+	para "BUGSY is reported"
 	line "to have won the"
 
 	para "Bug-Catching Con-"
@@ -45,55 +45,55 @@ AzaleaPokeCenter1FCooltrainermScript:
 	jumpthistextfaceplayer
 
 	text "For a guy who"
-	line "makes # Balls,"
+	line "makes # BALLS,"
 
-	para "Kurt isn't much of"
+	para "KURT isn't much of"
 	line "a trainer."
 
 	para "He does have a"
-	line "#mon, but he"
+	line "#MON, but he"
 
 	para "doesn't use it"
 	line "much."
 	done
 
 .NiteText:
-	text "Kurt and Prof.Oak"
+	text "KURT and PROF.OAK"
 	line "are old friends."
 
 	para "They're also close"
-	line "with Agatha, a"
+	line "with AGATHA, a"
 
 	para "former member of"
-	line "the Elite Four."
+	line "the ELITE FOUR."
 	done
 
 AzaleaPokeCenter1FGentlemanText:
-	text "Do your #mon"
+	text "Do your #MON"
 	line "know HM moves?"
 
 	para "Those moves can"
 	line "be used even if"
 
-	para "your #mon has"
+	para "your #MON has"
 	line "fainted."
 	done
 
 AzaleaPokeCenter1FSightseermText:
-	text "This Bill guy"
+	text "This BILL guy"
 	line "created the system"
 
 	para "for storing"
-	line "#mon in a PC."
+	line "#MON in a PC."
 
-	para "Bill's PC can"
+	para "BILL's PC can"
 	line "store up to 20"
-	cont "#mon per Box."
+	cont "#MON per BOX."
 	done
 
 AzaleaPokeCenter1FPokefanfText:
 	text "Do you know about"
-	line "Apricorns?"
+	line "APRICORNS?"
 
 	para "Crack one open,"
 	line "hollow it out and"
@@ -102,11 +102,11 @@ AzaleaPokeCenter1FPokefanfText:
 	line "special device."
 
 	para "Then you can catch"
-	line "#mon with it."
+	line "#MON with it."
 
-	para "Before # Balls"
+	para "Before # BALLS"
 	line "were invented,"
 
 	para "everyone used"
-	line "Apricorns."
+	line "APRICORNS."
 	done

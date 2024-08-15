@@ -1,4 +1,4 @@
-	db "Psi@" ; species name
+	db "PSI@" ; species name
 	dw 211, 430 ; height, width
 
 	db   "It hypnotizes"

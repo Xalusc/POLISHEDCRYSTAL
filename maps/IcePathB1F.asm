@@ -133,28 +133,28 @@ IcePathB1FSkierText:
 	line "like a good tech-"
 
 	para "nique for a"
-	line "#mon!"
+	line "#MON!"
 	done
 
 Text_IcePathB1FTutorIcyWind:
 	text "I'll teach a #-"
 	line "mon of yours to"
 
-	para "use Icy Wind if"
+	para "use ICY WIND if"
 	line "you trade me a"
-	cont "Silver Leaf."
+	cont "SILVER LEAF."
 	done
 
 Text_IcePathB1FTutorNoSilverLeaf:
 	text "Oh, but you don't"
-	line "have a Silver"
-	cont "Leaf."
+	line "have a SILVER"
+	cont "LEAF."
 	done
 
 Text_IcePathB1FTutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Icy Wind?"
+	line "your #MON"
+	cont "ICY WIND?"
 	done
 
 Text_IcePathB1FTutorRefused:
@@ -163,12 +163,12 @@ Text_IcePathB1FTutorRefused:
 
 Text_IcePathB1FTutorTaught:
 	text "OK! Now your"
-	line "#mon knows"
-	cont "Icy Wind!"
+	line "#MON knows"
+	cont "ICY WIND!"
 	done
 
 BoarderMaxSeenText:
-	text "Blackthorn can't be"
+	text "BLACKTHORN can't be"
 	line "much farther…"
 	done
 

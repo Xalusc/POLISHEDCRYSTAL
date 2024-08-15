@@ -24,8 +24,8 @@ Route7_MapScriptHeader:
 GenericTrainerBreederCarlene:
 	generictrainer BREEDER, CARLENE, EVENT_BEAT_BREEDER_CARLENE, .SeenText, .BeatenText
 
-	text "I make my Smeargle"
-	line "Sketch a move,"
+	text "I make my SMEARGLE"
+	line "SKETCH a move,"
 
 	para "then breed it"
 	line "to pass the move"
@@ -65,18 +65,18 @@ Route7Snorlax:
 	end
 
 .AsleepText:
-	text "Snorlax is snoring"
+	text "SNORLAX is snoring"
 	line "peacefully…"
 	done
 
 .AwakeText:
-	text "The #gear was"
+	text "The #GEAR was"
 	line "placed near the"
-	cont "sleeping Snorlax…"
+	cont "sleeping SNORLAX…"
 
 	para "…"
 
-	para "Snorlax woke up!"
+	para "SNORLAX woke up!"
 	done
 
 Route7UndergroundPathSignText:
@@ -86,16 +86,16 @@ Route7UndergroundPathSignText:
 	line "have been holding"
 
 	para "battles in the"
-	line "Underground Path."
+	line "UNDERGROUND PATH."
 
 	para "Because of rising"
 	line "complaints by lo-"
 	cont "cal residents, the"
-	cont "Underground Path"
+	cont "UNDERGROUND PATH"
 	cont "has been sealed"
 	cont "indefinitely.”"
 
-	para "-- Celadon Police"
+	para "-- CELADON POLICE"
 	done
 
 Route7LockedDoorText:

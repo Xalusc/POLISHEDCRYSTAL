@@ -22,11 +22,11 @@ CeladonUniversityWillowsOffice_MapScriptHeader:
 
 CeladonUniversityWillowsOfficeWillowText:
 	text "Hello there!"
-	line "I am Prof.Willow."
+	line "I am PROF.WILLOW."
 
 	para "I supervise"
-	line "Candela, Blanche,"
-	cont "and Spark in their"
+	line "CANDELA, BLANCHE,"
+	cont "and SPARK in their"
 
 	para "teaching and re-"
 	line "search."
@@ -35,7 +35,7 @@ CeladonUniversityWillowsOfficeWillowText:
 	line "them in classes."
 
 	para "I also study #-"
-	line "mon habitats and"
+	line "MON habitats and"
 	cont "distribution."
 
 	para "I'm very busy, but"
@@ -47,17 +47,17 @@ CeladonUniversityWillowsOfficeWillowText:
 
 CeladonUniversityWillowsOfficeScientistText:
 	text "I get to work as"
-	line "Prof.Willow's"
-	cont "aide!"
+	line "PROF.WILLOW's"
+	cont "AIDE!"
 
 	para "I'm cataloguing"
 	line "my observations"
-	cont "of Route 7."
+	cont "of ROUTE 7."
 
 	para "Today I saw 42"
-	line "Raticate and"
-	cont "37 Pidgeotto…"
-	cont "and one Vulpix!"
+	line "RATICATE and"
+	cont "37 PIDGEOTTO…"
+	cont "and one VULPIX!"
 	done
 
 CeladonUniversityWillowsOfficeBlackboardText:
@@ -73,7 +73,7 @@ CeladonUniversityWillowsOfficeBookshelf1Text:
 	text "It's a book about"
 	line "ecological niches"
 
-	para "and how #mon"
+	para "and how #MON"
 	line "fit within their"
 	cont "environments."
 	done
@@ -81,17 +81,17 @@ CeladonUniversityWillowsOfficeBookshelf1Text:
 CeladonUniversityWillowsOfficeBookshelf2Text:
 	text "It's a promotional"
 	line "flyer for the"
-	cont "Safari Zone."
+	cont "SAFARI ZONE."
 
 	para "Lots of exotic-"
-	line "looking #mon"
+	line "looking #MON"
 	cont "adorn it."
 	done
 
 CeladonUniversityWillowsOfficeComputer:
 	jumpthistext
 
-	text "“#mon Transfer"
-	line "System” is on the"
+	text "“#MON TRANSFER"
+	line "SYSTEM” is on the"
 	cont "screen."
 	done

@@ -1,4 +1,4 @@
-	db "Tadpole@" ; species name
+	db "TADPOLE@" ; species name
 	dw 303, 440 ; height, width
 
 	db   "Though it is"

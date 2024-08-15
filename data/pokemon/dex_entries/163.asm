@@ -1,4 +1,4 @@
-	db "Owl@" ; species name
+	db "OWL@" ; species name
 	dw 204, 470 ; height, width
 
 	db   "It begins to hoot"

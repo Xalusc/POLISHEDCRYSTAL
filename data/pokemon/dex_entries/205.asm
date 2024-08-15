@@ -1,4 +1,4 @@
-	db "Bagworm@" ; species name
+	db "BAGWORM@" ; species name
 	dw 311, 2770 ; height, width
 
 	db   "Usually found"

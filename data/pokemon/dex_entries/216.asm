@@ -1,4 +1,4 @@
-	db "Little Bear@" ; species name
+	db "LITTLE BEAR@" ; species name
 	dw 200, 190 ; height, width
 
 	db   "It always licks"

@@ -1,4 +1,4 @@
-	db "Armor Bird@" ; species name
+	db "ARMOR BIRD@" ; species name
 	dw 507, 1110 ; height, width
 
 	db   "The feathers that"

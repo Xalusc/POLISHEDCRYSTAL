@@ -1,4 +1,4 @@
-	db "Puppy@" ; species name
+	db "PUPPY@" ; species name
 	dw 204, 420 ; height, width
 
 	db   "It controls a big"

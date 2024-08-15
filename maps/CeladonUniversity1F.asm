@@ -54,7 +54,7 @@ CeladonUniversity1FSuperNerdText:
 	line "there's a universe"
 
 	para "without any"
-	line "#mon?"
+	line "#MON?"
 
 	para "That would be"
 	line "tragic!"
@@ -67,27 +67,27 @@ CeladonUniversity1FLassText:
 	para "in everything from"
 	line "flower arranging"
 
-	para "to #mon"
+	para "to #MON"
 	line "psychology!"
 	done
 
 CeladonUniversity1FCooltrainermText:
 	text "Everyone at this"
 	line "university is a"
-	cont "#mon trainer."
+	cont "#MON trainer."
 
 	para "To get offered a"
 	line "place here, you"
 
 	para "have to pass a"
-	line "series of #mon"
+	line "series of #MON"
 	cont "battling tests."
 	done
 
 CeladonUniversity1FYoungsterText:
-	text "Magikarp is the"
+	text "MAGIKARP is the"
 	line "university's mascot"
-	cont "#mon."
+	cont "#MON."
 
 	para "It's a symbol that"
 	line "anybody can aspire"
@@ -109,8 +109,8 @@ CeladonUniversity1FPokefanmText:
 	done
 
 CeladonUniversity1FReceptionistText:
-	text "Welcome to Celadon"
-	line "University!"
+	text "Welcome to CELADON"
+	line "UNIVERSITY!"
 
 	para "Classrooms and the"
 	line "principal's office"
@@ -131,7 +131,7 @@ CeladonUniversity1FReceptionistText:
 
 CeladonUniversity1FCooltrainerfText:
 	text "I'm studying to be"
-	line "a #mon nurse."
+	line "a #MON nurse."
 
 	para "With so many spe-"
 	line "cies out there,"
@@ -141,31 +141,31 @@ CeladonUniversity1FCooltrainerfText:
 	done
 
 CeladonUniversity1FPrincipalsOfficeSignText:
-	text "Principal's Office"
+	text "PRINCIPAL'S OFFICE"
 	done
 
 CeladonUniversity1FClassroom1SignText:
-	text "W2 Art"
+	text "W2 ART"
 	done
 
 CeladonUniversity1FClassroom2SignText:
-	text "W1 History"
+	text "W1 HISTORY"
 	done
 
 CeladonUniversity1FClassroom3SignText:
-	text "E1 Science"
+	text "E1 SCIENCE"
 	done
 
 CeladonUniversity1FClassroom4SignText:
-	text "E2 Battling"
+	text "E2 BATTLING"
 	done
 
 CeladonUniversity1FStudentLoungeSignText:
-	text "Student Lounge"
+	text "STUDENT LOUNGE"
 	done
 
 CeladonUniversity1FLibrarySignText:
-	text "Library"
+	text "LIBRARY"
 	done
 
 CeladonUniversity1FTrophyCaseSignText:

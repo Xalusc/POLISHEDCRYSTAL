@@ -1,4 +1,4 @@
-	db "Cobra@" ; species name
+	db "COBRA@" ; species name
 	dw 1106, 1430 ; height, width
 
 	db   "To intimidate"

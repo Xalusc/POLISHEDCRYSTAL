@@ -116,9 +116,9 @@ HelixDomeMenuDataHeader:
 .MenuData2:
 	db $80 ; flags
 	db 3 ; items
-	db "Helix Fossil@"
-	db "Dome Fossil@"
-	db "Cancel@"
+	db "HELIX FOSSIL@"
+	db "DOME FOSSIL@"
+	db "CANCEL@"
 
 HelixAmberMenuDataHeader:
 	db $40 ; flags
@@ -130,9 +130,9 @@ HelixAmberMenuDataHeader:
 .MenuData2:
 	db $80 ; flags
 	db 3 ; items
-	db "Helix Fossil@"
-	db "Old Amber@"
-	db "Cancel@"
+	db "HELIX FOSSIL@"
+	db "OLD AMBER@"
+	db "CANCEL@"
 
 DomeAmberMenuDataHeader:
 	db $40 ; flags
@@ -144,9 +144,9 @@ DomeAmberMenuDataHeader:
 .MenuData2:
 	db $80 ; flags
 	db 3 ; items
-	db "Dome Fossil@"
-	db "Old Amber@"
-	db "Cancel@"
+	db "DOME FOSSIL@"
+	db "OLD AMBER@"
+	db "CANCEL@"
 
 HelixDomeAmberMenuDataHeader:
 	db $40 ; flags
@@ -158,10 +158,10 @@ HelixDomeAmberMenuDataHeader:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Helix Fossil@"
-	db "Dome Fossil@"
-	db "Old Amber@"
-	db "Cancel@"
+	db "HELIX FOSSIL@"
+	db "DOME FOSSIL@"
+	db "OLD AMBER@"
+	db "CANCEL@"
 
 ResurrectHelixFossil:
 	takeitem HELIX_FOSSIL
@@ -214,7 +214,7 @@ Museum1FReceptionistScript:
 
 	para "Thanks to a gene-"
 	line "rous donation"
-	cont "by Silph Co.,"
+	cont "by SILPH CO.,"
 
 	para "admission is free"
 	line "of charge!"
@@ -236,11 +236,11 @@ KabutopsFossilSignpostScript:
 	closepokepic
 	jumpthistext
 
-	text "Kabutops Fossil"
-	line "(Dome)"
+	text "KABUTOPS FOSSIL"
+	line "(DOME)"
 
 	para "A primitive and"
-	line "rare #mon."
+	line "rare #MON."
 	done
 
 OmastarFossilSignpostScript:
@@ -250,11 +250,11 @@ OmastarFossilSignpostScript:
 	closepokepic
 	jumpthistext
 
-	text "Omastar Fossil"
-	line "(Helix)"
+	text "OMASTAR FOSSIL"
+	line "(HELIX)"
 
 	para "A primitive and"
-	line "rare #mon."
+	line "rare #MON."
 	done
 
 AerodactylFossilSignpostScript:
@@ -264,10 +264,10 @@ AerodactylFossilSignpostScript:
 	closepokepic
 	jumpthistext
 
-	text "Aerodactyl Fossil"
+	text "AERODACTYL FOSSIL"
 
 	para "A primitive and"
-	line "rare #mon."
+	line "rare #MON."
 	done
 
 Museum1FScientistText:
@@ -275,7 +275,7 @@ Museum1FScientistText:
 	line "three fossils of"
 
 	para "rare, prehistoric"
-	line "#mon."
+	line "#MON."
 
 	para "I helped assemble"
 	line "them!"
@@ -285,7 +285,7 @@ Museum1FFossilScientistText:
 	text "Did you know that"
 	line "you can extract"
 
-	para "#mon from"
+	para "#MON from"
 	line "fossils?"
 
 	para "If you ever need"
@@ -304,11 +304,11 @@ Museum1FYoungsterText:
 	line "places that I"
 	cont "love!"
 
-	para "One is the Ruins"
-	line "of Alph in Johto."
+	para "One is the RUINS"
+	line "OF ALPH in JOHTO."
 
 	para "The other is the"
-	line "Pewter Museum!"
+	line "PEWTER MUSEUM!"
 
 	para "I get a sense of"
 	line "history from both"
@@ -320,30 +320,30 @@ Museum1FBookshelfSignpostText:
 	line "read books!"
 
 	para "Archaeology Man-"
-	line "ual, Lost #mon,"
-	cont "#mon Ancestors,"
+	line "ual, Lost #MON,"
+	cont "#MON Ancestors,"
 
 	para "Caring at the"
 	line "Loamy Layer of"
-	cont "Kanto…"
+	cont "KANTO…"
 	done
 
 AskHelixFossilText:
 	text "Do you want to"
 	line "resurrect the"
-	cont "Helix Fossil?"
+	cont "HELIX FOSSIL?"
 	done
 
 AskDomeFossilText:
 	text "Do you want to"
 	line "resurrect the"
-	cont "Dome Fossil?"
+	cont "DOME FOSSIL?"
 	done
 
 AskOldAmberText:
 	text "Do you want to"
 	line "resurrect the"
-	cont "Old Amber?"
+	cont "OLD AMBER?"
 	done
 
 NoFossilsText:
@@ -359,14 +359,14 @@ MaybeLaterText:
 
 ResurrectingPokemonText:
 	text "OK! I'll resurrect"
-	line "the #mon!"
+	line "the #MON!"
 	done
 
 NoRoomForFossilPokemonText:
 	text "Hey! You can't"
 	line "carry another"
-	cont "#mon, and your"
-	cont "box is full, too!"
+	cont "#MON, and your"
+	cont "BOX is full, too!"
 	done
 
 TakeGoodCareOfItText:

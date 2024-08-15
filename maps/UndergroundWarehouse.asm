@@ -45,10 +45,10 @@ UndergroundWarehouseResetSwitches:
 GenericTrainerGruntM24:
 	generictrainer GRUNTM, 24, EVENT_BEAT_ROCKET_GRUNTM_24, GruntM24SeenText, GruntM24BeatenText
 
-	text "Team Rocket will"
+	text "TEAM ROCKET will"
 	line "keep going, wait-"
 	cont "ing for the return"
-	cont "of Giovanni."
+	cont "of GIOVANNI."
 
 	para "We'll do whatever"
 	line "it takes."
@@ -60,7 +60,7 @@ GenericTrainerGruntM14:
 	text "I lost…"
 
 	para "Please forgive me,"
-	line "Giovanni!"
+	line "GIOVANNI!"
 	done
 
 GenericTrainerGruntM15:
@@ -127,26 +127,26 @@ GruntM15BeatenText:
 	done
 
 DirectorIntroText:
-	text "Director: Who?"
+	text "DIRECTOR: Who?"
 	line "What? You came to"
 	cont "rescue me?"
 
 	para "Thank you!"
 
-	para "The Radio Tower!"
+	para "The RADIO TOWER!"
 
 	para "What's happening"
 	line "there?"
 
-	para "Taken over by Team"
-	line "Rocket?"
+	para "Taken over by TEAM"
+	line "ROCKET?"
 
 	para "Here. Take this"
-	line "Card Key."
+	line "CARD KEY."
 	done
 
 DirectorCardKeyText:
-	text "Director: Use that"
+	text "DIRECTOR: Use that"
 	line "to open the shut-"
 	cont "ters on 3F."
 	done
@@ -164,15 +164,15 @@ DirectorAfterText:
 	para "They may even be"
 	line "able to control"
 
-	para "#mon using a"
+	para "#MON using a"
 	line "special signal!"
 
 	para "You're the only"
 	line "one I can call on."
 
 	para "Please save the"
-	line "Radio Tower…"
+	line "RADIO TOWER…"
 
 	para "And all the #-"
-	line "mon nationwide!"
+	line "MON nationwide!"
 	done

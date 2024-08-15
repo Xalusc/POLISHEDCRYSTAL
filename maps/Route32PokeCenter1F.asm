@@ -23,19 +23,19 @@ PokemonJournalKurtScript:
 	setflag ENGINE_READ_KURT_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Craftsman Kurt!"
+	para "SPECIAL FEATURE:"
+	line "CRAFTSMAN KURT!"
 
-	para "Kurt does not let"
+	para "KURT does not let"
 	line "anyone near while"
 
 	para "he is making #"
-	line "Balls except his"
+	line "BALLS except his"
 
 	para "granddaughter"
-	line "Maizie."
+	line "MAIZIE."
 	done
 
 Route32Pokecenter1FFishingGuruScript:
@@ -64,7 +64,7 @@ Route32Pokecenter1FFishingGuruScript:
 	cont "about you?"
 
 	para "Would you like one"
-	line "of my Rods?"
+	line "of my RODS?"
 	done
 
 .YesText:
@@ -82,7 +82,7 @@ Route32Pokecenter1FFishingGuruScript:
 	line "be it the sea or a"
 
 	para "stream, try out"
-	line "your Rod."
+	line "your ROD."
 	done
 
 .NoText:
@@ -114,15 +114,15 @@ Route32PokeCenter1FPokefanMScript:
 	setevent EVENT_GOT_LURE_BALL_FROM_FRENCHMAN
 	jumpthisopenedtext
 
-	text "This Ball easily"
-	line "catches #mon"
-	cont "hooked on a Rod!"
+	text "This BALL easily"
+	line "catches #MON"
+	cont "hooked on a ROD!"
 
-	para "Kurt of Azalea"
-	line "Town made it from"
-	cont "an Apricorn."
+	para "KURT of AZALEA"
+	line "TOWN made it from"
+	cont "an APRICORN."
 
-	para "Apricorns,"
+	para "APRICORNS,"
 	line "hourrah!"
 	done
 
@@ -132,15 +132,15 @@ Route32PokeCenter1FPokefanMScript:
 .Text1:
 	text "Bonjour. How are"
 	line "you? Do you know"
-	cont "about Apricorns?"
+	cont "about APRICORNS?"
 	done
 
 .Text2:
 	text "Non? What a waste!"
 	line "I will show you"
 
-	para "how great Apri-"
-	line "corns are!"
+	para "how great APRI-"
+	line "CORNS are!"
 	done
 
 .Text3:
@@ -152,19 +152,19 @@ Route32PokeCenter1FPokefanMScript:
 	done
 
 .Text5:
-	text "Kurt is the hero"
-	line "of every Apricorn"
+	text "KURT is the hero"
+	line "of every APRICORN"
 	cont "collector."
 
-	para "Apricorns,"
+	para "APRICORNS,"
 	line "hourrah!"
 	done
 
 Route32Pokecenter1FCooltrainerFText:
 	text "What should I make"
-	line "my #mon hold?"
+	line "my #MON hold?"
 
 	para "Maybe an item that"
-	line "increases Attack"
+	line "increases ATTACK"
 	cont "power…"
 	done

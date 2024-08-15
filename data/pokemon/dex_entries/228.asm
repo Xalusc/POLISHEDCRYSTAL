@@ -1,4 +1,4 @@
-	db "Dark@" ; species name
+	db "DARK@" ; species name
 	dw 200, 240 ; height, width
 
 	db   "Around dawn, its"

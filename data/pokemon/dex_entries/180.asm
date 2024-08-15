@@ -1,4 +1,4 @@
-	db "Wool@" ; species name
+	db "WOOL@" ; species name
 	dw 207, 290 ; height, width
 
 	db   "Because of its"

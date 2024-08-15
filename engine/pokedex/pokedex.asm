@@ -1049,9 +1049,9 @@ PlaceFrontpicAtHL:
 	ret
 
 String_SEEN:
-	rawchar "Seen", $ff
+	rawchar "SEEN", $ff
 String_OWN:
-	rawchar "Own", $ff
+	rawchar "OWN", $ff
 String_SELECT_OPTION:
 ;	db $3b, $48, $49, $4a, $44, $45, $46, $47 ; SELECT > OPTION
 	db $3b, $41, $42, $43, $44, $45, $46, $47
@@ -1109,17 +1109,17 @@ Pokedex_DrawDexEntryScreenBG:
 	jmp PlaceFrontpicTopLeftCorner
 
 .HeightImperial:
-	rawchar "Ht  ?′??″", $ff ; HT  ?'??"
+	rawchar "HT  ?′??″", $ff ; HT  ?'??"
 .WeightImperial:
-	rawchar "Wt   ???lb", $ff ; WT   ???lb
+	rawchar "WT   ???lb", $ff ; WT   ???lb
 .HeightMetric:
-	rawchar "Ht   ???m", $ff ; HT   ???m"
+	rawchar "HT   ???m", $ff ; HT   ???m"
 .WeightMetric:
-	rawchar "Wt   ???kg", $ff ; WT   ???kg
+	rawchar "WT   ???kg", $ff ; WT   ???kg
 .MenuItems:
-	rawchar $3b, " Page Area Cry     ", $ff
+	rawchar $3b, " PAGE AREA CRY     ", $ff
 .MenuItemsShinyCharm:
-	rawchar $3b, " Page Area Cry Shny", $ff
+	rawchar $3b, " PAGE AREA CRY SHNY", $ff
 
 Pokedex_DrawDexEntryScreenRightEdge:
 	ldh a, [hBGMapAddress]
@@ -1176,15 +1176,15 @@ Pokedex_DrawOptionScreenBG:
 	ret
 
 .Title:
-	rawchar $3b, " Option ", $3c, $ff
+	rawchar $3b, " OPTION ", $3c, $ff
 
 .Modes:
-	db   "Johto Mode"
-	next "National Mode"
-	next "A to Z Mode@"
+	db   "JOHTO MODE"
+	next "NATIONAL MODE"
+	next "A TO Z MODE@"
 
 .UnownMode:
-	db "Unown Mode@"
+	db "UNOWN MODE@"
 
 Pokedex_DrawSearchScreenBG:
 	call Pokedex_FillBackgroundColor2
@@ -1215,12 +1215,12 @@ Pokedex_DrawSearchScreenBG:
 	db $3d, "        ▷", $ff
 
 .Types:
-	db   "Type1"
-	next "Type2@"
+	db   "TYPE1"
+	next "TYPE2@"
 
 .Menu:
-	db   "Begin Search!"
-	next "Cancel@"
+	db   "BEGIN SEARCH!"
+	next "CANCEL@"
 
 Pokedex_DrawSearchResultsScreenBG:
 	call Pokedex_FillBackgroundColor2
@@ -1252,9 +1252,9 @@ Pokedex_DrawSearchResultsScreenBG:
 	jmp PlaceFrontpicTopLeftCorner
 
 .BottomWindowText:
-	db   "Search Results"
-	next "  Type/"
-	next "    found!@"
+	db   "SEARCH RESULTS"
+	next "  TYPE/"
+	next "    FOUND!@"
 
 Pokedex_PlaceSearchResultsTypeStrings:
 	ld a, [wDexSearchMonType1]
@@ -1432,9 +1432,9 @@ Pokedex_DrawSearchResultsWindow:
 
 .esults_D
 ; (SEARCH R)
-	db   "esults<NEXT>"
+	db   "ESULTS<NEXT>"
 ; (### FOUN)
-	next "d!@"
+	next "D!@"
 
 Pokedex_FillBackgroundColor2:
 	hlcoord 0, 0
@@ -1759,7 +1759,7 @@ Pokedex_DisplayModeDescription:
 	next "alphabetically.@"
 
 .UnownMode:
-	db   "Unown are listed"
+	db   "UNOWN are listed"
 	next "in order caught.@"
 
 Pokedex_DisplayChangingModesMessage:

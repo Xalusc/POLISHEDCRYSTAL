@@ -1,4 +1,4 @@
-	db "Bagworm@" ; species name
+	db "BAGWORM@" ; species name
 	dw 200, 160 ; height, width
 
 	db   "It spits out a"

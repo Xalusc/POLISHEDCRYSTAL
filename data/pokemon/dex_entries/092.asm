@@ -1,4 +1,4 @@
-	db "Gas@" ; species name
+	db "GAS@" ; species name
 	dw 403, 2 ; height, width
 
 	db   "It wraps its op-"

@@ -57,12 +57,12 @@ PewterCityYoungsterScript:
 	jumpopenedtext PewterCityYoungsterText2
 
 PewterCityCooltrainerFText:
-	text "#mon can only"
+	text "#MON can only"
 	line "be two types at"
 	cont "once, but if it"
 	cont "were possible for"
 
-	para "a #mon to be"
+	para "a #MON to be"
 	line "every type, it"
 	cont "would only have"
 	cont "one weakness."
@@ -76,7 +76,7 @@ PewterCityCooltrainerFText:
 
 PewterCityCooltrainermText:
 	text "This gal thinks"
-	line "Rock-type #mon"
+	line "rock-type #MON"
 	cont "are all that,"
 
 	para "but it's tied for"
@@ -89,9 +89,9 @@ PewterCityCooltrainermText:
 	done
 
 PewterCityBugCatcherText:
-	text "At night, Clefairy"
+	text "At night, CLEFAIRY"
 	line "come out to play"
-	cont "at Mt.Moon."
+	cont "at MT.MOON."
 
 	para "But not every"
 	line "night."
@@ -100,13 +100,13 @@ PewterCityBugCatcherText:
 PewterCityGrampsText:
 	text "Ah, you came all"
 	line "the way out here"
-	cont "from Johto?"
+	cont "from JOHTO?"
 
 	para "That brings back"
 	line "memories. When I"
 
 	para "was young, I went"
-	line "to Johto to train."
+	line "to JOHTO to train."
 
 	para "You remind me so"
 	line "much of what I was"
@@ -116,7 +116,7 @@ PewterCityGrampsText:
 
 	para "Here. I want you"
 	line "to have this item"
-	cont "I found in Johto."
+	cont "I found in JOHTO."
 	done
 
 PewterCityGrampsText_GotSilverWing:
@@ -129,7 +129,7 @@ PewterCityGrampsText_GotSilverWing:
 	done
 
 PewterCityYoungsterText1:
-	text "The Pewter Gym is"
+	text "The PEWTER GYM is"
 	line "as rough and tough"
 	cont "as rock itself."
 
@@ -138,44 +138,44 @@ PewterCityYoungsterText1:
 	done
 
 PewterCityYoungsterText2:
-	text "You beat the Gym?"
+	text "You beat the GYM?"
 	line "Then you're tough"
 	cont "as rock too!"
 	done
 
 PewterCitySignText:
-	text "Pewter City"
+	text "PEWTER CITY"
 	line "A Stone Gray City"
 	done
 
 PewterGymSignText:
-	text "Pewter City"
-	line "#mon Gym"
-	cont "Leader: Brock"
+	text "PEWTER CITY"
+	line "#MON GYM"
+	cont "LEADER: BROCK"
 
 	para "The Rock Solid"
-	line "#mon Trainer"
+	line "#MON Trainer"
 	done
 
 PewterMuseumOfScienceSignText:
-	text "Pewter Museum of"
-	line "Science"
+	text "PEWTER MUSEUM OF"
+	line "SCIENCE"
 	done
 
 PewterCityMtMoonGiftShopSignText:
 	text "There's a notice"
 	line "here…"
 
-	para "Mt.Moon Gift Shop"
+	para "MT.MOON GIFT SHOP"
 	line "Now open!"
 	done
 
 PewterCityTrainerTipsText:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "A #mon holding"
-	line "an Ability Cap"
+	para "A #MON holding"
+	line "an ABILITY CAP"
 	cont "is more likely to"
 	cont "have a baby with"
-	cont "a rare ability."
+	cont "a rare ABILITY."
 	done

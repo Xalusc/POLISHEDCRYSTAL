@@ -289,7 +289,7 @@ NGRAMS_START EQU $09
 	charmap "thing",    $4c
 	charmap "attle",    $4d
 	charmap "#",        $4e
-	charmap "#mon",     $4f
+	charmap "#MON",     $4f
 	; these below are implemented as n-grams whose string is stored in WRAM
 	charmap "<PLAYER>", $50
 	charmap "<RIVAL>",  $51

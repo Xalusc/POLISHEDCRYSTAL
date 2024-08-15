@@ -25,7 +25,7 @@ CeladonUniversityClassroom2_MapScriptHeader:
 	object_event  3,  9, SPRITE_COOL_DUDE, SPRITEMOVEDATA_STANDING_UP, 0, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_SCRIPT, 0, CeladonUniversityClassroom2CooltrainermScript, -1
 
 CeladonUniversityClassroom2BlancheText:
-	text "I am Blanche."
+	text "I am BLANCHE."
 	line "I teach History"
 	cont "here."
 
@@ -37,14 +37,14 @@ CeladonUniversityClassroom2BlancheText:
 	done
 
 CeladonUniversityClassroom2TeacherText:
-	text "I'm afraid Blanche"
+	text "I'm afraid BLANCHE"
 	line "isn't available."
 
 	para "I'm the substitute"
 	line "until they return"
 
 	para "from an errand on"
-	line "Shamouti Island."
+	line "SHAMOUTI ISLAND."
 	done
 
 CeladonUniversityClassroom2YoungsterText:
@@ -56,11 +56,11 @@ CeladonUniversityClassroom2YoungsterText:
 
 CeladonUniversityClassroom2ChildText:
 	text "We just had a"
-	line "lecture on Prof."
+	line "lecture on PROF."
 
-	para "Westwood's contri-"
+	para "WESTWOOD's contri-"
 	line "butions to the"
-	cont "#dex."
+	cont "#DEX."
 
 	para "I heard that"
 	line "towards the end"
@@ -71,7 +71,7 @@ CeladonUniversityClassroom2ChildText:
 	done
 
 CeladonUniversityClassroom2LadyText:
-	text "You're from Johto?"
+	text "You're from JOHTO?"
 	line "That region has"
 
 	para "such fascinating"
@@ -107,11 +107,11 @@ CeladonUniversityClassroom2BlackboardText:
 	line "of recent history."
 
 	para "400 years ago:"
-	line "Toxic move invent-"
+	line "TOXIC move invent-"
 	cont "ed."
 
 	para "71 years ago:"
-	line "modern # Ball"
+	line "modern # BALL"
 	cont "developed."
 
 	para "27 years ago:"
@@ -120,7 +120,7 @@ CeladonUniversityClassroom2BlackboardText:
 
 	para "Three years ago:"
 	line "first virtual"
-	cont "#mon created."
+	cont "#MON created."
 
 	para "“Hypothesis: tech-"
 	line "nology grows expo-"
@@ -130,14 +130,14 @@ CeladonUniversityClassroom2BlackboardText:
 CeladonUniversityClassroom2Bookshelf1Text:
 	text "It's a book about"
 if DEF(FAITHFUL)
-	line "how the Brass"
-	cont "Tower in Ecruteak"
+	line "how the BRASS"
+	cont "TOWER in ECRUTEAK"
 
-	para "City burned down"
+	para "CITY burned down"
 	line "150 years ago."
 else
-	line "how the Gong Tower"
-	cont "in Ecruteak City"
+	line "how the GONG TOWER"
+	cont "in ECRUTEAK CITY"
 
 	para "burned down 150"
 	line "years ago."
@@ -148,5 +148,5 @@ CeladonUniversityClassroom2Bookshelf2Text:
 	text "It's a book of"
 	line "slang terms from"
 	cont "the 1980s."
-	cont "Heavy!"
+	cont "Groovy!"
 	done

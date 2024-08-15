@@ -1477,9 +1477,9 @@ MenuDataHeader_BuySell:
 .menudata2
 	db $80 ; strings
 	db 3 ; items
-	db "Buy@"
-	db "Sell@"
-	db "Quit@"
+	db "BUY@"
+	db "SELL@"
+	db "QUIT@"
 
 Text_Mart_HereYouGo:
 Text_BTMart_HereYouGo:

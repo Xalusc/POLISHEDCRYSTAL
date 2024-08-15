@@ -162,10 +162,10 @@ PokeDollVendingMachine:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Jigglypuff  ¥2400@"
-	db "Ditto       ¥2400@"
-	db "Meowth      ¥2400@"
-	db "Cancel@"
+	db "JIGGLYPUFF  ¥2400@"
+	db "DITTO       ¥2400@"
+	db "MEOWTH      ¥2400@"
+	db "CANCEL@"
 
 GoldenrodDeptStoreRoofPokefanFText:
 	text "Whew, I'm tired."
@@ -197,11 +197,11 @@ GoldenrodDeptStoreRoofFisherDuplicateText:
 
 GotVoltorbDollText:
 	text "<PLAYER> received"
-	line "Voltorb Doll."
+	line "VOLTORB DOLL."
 	done
 
 VoltorbDollSentText:
-	text "Voltorb Doll"
+	text "VOLTORB DOLL"
 	line "was sent home."
 	done
 
@@ -233,7 +233,7 @@ GoldenrodDeptStoreRoofPokefanMText:
 	line "necessary cash…"
 
 	para "Maybe I'll sell"
-	line "off the Berries"
+	line "off the BERRIES"
 	cont "I've collected…"
 	done
 
@@ -242,18 +242,18 @@ GoldenrodDeptStoreRoofTeacherText:
 	line "so cheap!"
 
 	para "I bought so much,"
-	line "my Bag's crammed!"
+	line "my PACK's crammed!"
 	done
 
 GoldenrodDeptStoreRoofBugCatcherText:
-	text "My #mon always"
+	text "My #MON always"
 	line "get paralyzed or"
 
 	para "poisoned when the"
 	line "chips are down…"
 
 	para "So I came to buy"
-	line "some Full Heal."
+	line "some FULL HEAL."
 
 	para "I wonder if"
 	line "there's any left?"
@@ -275,7 +275,7 @@ Binoculars2Text:
 	line "are battling on"
 	cont "the road!"
 
-	para "A #mon fired a"
+	para "A #MON fired a"
 	line "flurry of leaves!"
 
 	para "That makes me feel"
@@ -284,10 +284,10 @@ Binoculars2Text:
 	done
 
 Binoculars3Text:
-	text "A Fisher caught a"
-	line "lot of Magikarp…"
+	text "A FISHER caught a"
+	line "lot of MAGIKARP…"
 
-	para "They're Splashing"
+	para "They're SPLASHing"
 	line "at the same time!"
 
 	para "Look at the water"
@@ -296,7 +296,7 @@ Binoculars3Text:
 
 PokeDollVendingMachineText:
 	text "A vending machine"
-	line "for #mon dolls!"
+	line "for #MON dolls!"
 	done
 
 PokeDollVendingMachineNoMoneyText:
@@ -309,30 +309,30 @@ PokeDollVendingMachineAlreadyBoughtText:
 
 BoughtJigglypuffDollText:
 	text "<PLAYER> bought"
-	line "Jigglypuff Doll."
+	line "JIGGLYPUFF DOLL."
 	done
 
 JigglypuffDollSentText:
-	text "Jigglypuff Doll"
+	text "JIGGLYPUFF DOLL"
 	line "was sent home."
 	done
 
 BoughtDittoDollText:
 	text "<PLAYER> bought"
-	line "Ditto Doll."
+	line "DITTO DOLL."
 	done
 
 DittoDollSentText:
-	text "Ditto Doll"
+	text "DITTO DOLL"
 	line "was sent home."
 	done
 
 BoughtMeowthDollText:
 	text "<PLAYER> bought"
-	line "Meowth Doll."
+	line "MEOWTH DOLL."
 	done
 
 MeowthDollSentText:
-	text "Meowth Doll"
+	text "MEOWTH DOLL"
 	line "was sent home."
 	done

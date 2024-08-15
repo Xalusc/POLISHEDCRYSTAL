@@ -1,4 +1,4 @@
-	db "Drill@" ; species name
+	db "DRILL@" ; species name
 	dw 407, 1370 ; height, width
 
 	db   "It uses its thick"

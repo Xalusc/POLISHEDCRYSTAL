@@ -1,7 +1,7 @@
-	db "Thunder@" ; species name
+	db "THUNDER@" ; species name
 	dw 603, 3920 ; height, width
 
-	db   "This rough #mon"
+	db   "This rough #MON"
 	next "stores energy"
 	next "inside its body,"
 	page "then sweeps across"

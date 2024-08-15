@@ -16,9 +16,9 @@ PewterNidoranSpeechHouse_MapScriptHeader:
 	pokemon_event  4,  5, NIDORAN_M, -1, -1, PAL_NPC_PURPLE, PewterNidoranText, -1
 
 PewterNidoranSpeechHouseSuperNerdText:
-	text "Nidoran, shake!"
+	text "NIDORAN, shake!"
 	done
 
 PewterNidoranText:
-	text "Nidoran: Gau gau!"
+	text "NIDORAN: Gau gau!"
 	done

@@ -1,4 +1,4 @@
-	db "Mushroom@" ; species name
+	db "MUSHROOM@" ; species name
 	dw 303, 650 ; height, width
 
 	db   "When nothing's"

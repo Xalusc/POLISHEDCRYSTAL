@@ -51,16 +51,16 @@ SwimmerfNicoleBeatenText:
 GenericTrainerSwimmerfLori:
 	generictrainer SWIMMERF, LORI, EVENT_BEAT_SWIMMERF_LORI, SwimmerfLoriSeenText, SwimmerfLoriBeatenText
 
-	text "Surf is no longer"
+	text "SURF is no longer"
 	line "the only HM move"
 	cont "you use in water."
 	done
 
 SwimmerfLoriSeenText:
 	text "What an impressive"
-	line "collection of Gym"
+	line "collection of GYM"
 
-	para "Badges. We should"
+	para "BADGES. We should"
 	line "battle!"
 	done
 
@@ -93,7 +93,7 @@ GenericTrainerSwimmerfMina:
 GenericTrainerSwimmerfLeona:
 	generictrainer SWIMMERF, LEONA, EVENT_BEAT_SWIMMERF_LEONA, .SeenText, .BeatenText
 
-	text "Your #mon--are"
+	text "Your #MON--are"
 	line "you following the"
 
 	para "latest trend in"
@@ -105,7 +105,7 @@ GenericTrainerSwimmerfLeona:
 	line "best swimsuit and"
 
 	para "my very best"
-	line "#mon!"
+	line "#MON!"
 	done
 
 .BeatenText:
@@ -125,7 +125,7 @@ SwimmermCameronSeenText:
 	line "possible to swim"
 
 	para "all the way to"
-	line "Johto."
+	line "JOHTO."
 	done
 
 SwimmermCameronBeatenText:
@@ -160,7 +160,7 @@ GenericTrainerSwimmermElmo:
 
 .SeenText:
 	text "I used to be a"
-	line "Fisherman."
+	line "FISHERMAN."
 
 	para "I've grown to love"
 	line "swimming so much,"
@@ -177,7 +177,7 @@ GenericTrainerPicnickerCheyenne:
 	generictrainer PICNICKER, CHEYENNE, EVENT_BEAT_PICNICKER_CHEYENNE, .SeenText, .BeatenText
 
 	text "If I'm with #-"
-	line "mon, I don't mind"
+	line "MON, I don't mind"
 	cont "losing so much!"
 	done
 
@@ -188,7 +188,7 @@ GenericTrainerPicnickerCheyenne:
 
 	para "Now I love playing"
 	line "outside with #-"
-	cont "mon!"
+	cont "MON!"
 	done
 
 .BeatenText:
@@ -221,13 +221,13 @@ GenericTrainerCamperPedro:
 	line "blanket, you can"
 
 	para "snuggle up to a"
-	line "warm #mon!"
+	line "warm #MON!"
 	done
 
 .SeenText:
 	text "Have you ever gone"
 	line "camping with #-"
-	cont "mon?"
+	cont "MON?"
 	done
 
 .BeatenText:
@@ -273,15 +273,15 @@ GenericTrainerBird_keeperErnie:
 	done
 
 CinnabarGymSignText:
-	text "Seafoam Islands"
+	text "SEAFOAM ISLANDS"
 
 	para "…What does this"
 	line "notice say?"
 
-	para "Cinnabar Gym"
-	line "Leader: Blaine"
+	para "CINNABAR GYM"
+	line "LEADER: BLAINE"
 	done
 
 SeafoamIslandsSignText:
-	text "Seafoam Islands"
+	text "SEAFOAM ISLANDS"
 	done

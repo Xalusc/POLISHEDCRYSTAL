@@ -25,7 +25,7 @@ SaffronBookSpeechHouseLassText:
 	line "of books from the"
 
 	para "university library"
-	line "in Celadon."
+	line "in CELADON."
 	done
 
 SaffronBookSpeechHouseBookText:
@@ -33,9 +33,9 @@ SaffronBookSpeechHouseBookText:
 	line "story books."
 
 	para "The Princess and"
-	line "the #mon,"
+	line "the #MON,"
 
-	para "Edward Scizor-"
+	para "Edward SCIZOR-"
 	line "hands, Dr.Jekyll"
-	cont "& Mr.Mime…"
+	cont "& MR.MIME…"
 	done

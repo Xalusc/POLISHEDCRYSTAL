@@ -22,18 +22,18 @@ MahoganyRedGyaradosSpeechHouseTeacherScript:
 
 	text "My favorite radio"
 	line "program? I'd say"
-	cont "#mon Music."
+	cont "#MON MUSIC."
 	done
 
 MahoganyRedGyaradosSpeechHouseBlackBeltText:
 	text "I heard that a red"
-	line "Gyarados appeared"
+	line "GYARADOS appeared"
 	cont "at the lake."
 
 	para "That's odd, since"
 	line "even ordinary"
 
-	para "Gyarados are rare"
+	para "GYARADOS are rare"
 	line "in that lake…"
 	done
 

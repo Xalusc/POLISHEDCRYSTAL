@@ -65,7 +65,7 @@ BattleTower2FCherylScript:
 	setflag ENGINE_CHERYL_DONE_TODAY
 	writethistext
 		text "I should warn you,"
-		line "my #mon can be"
+		line "my #MON can be"
 		cont "quite rambunc-"
 		cont "tious."
 		done
@@ -98,7 +98,7 @@ BattleTower2FCherylScript:
 	cont "you discover."
 
 	para "But, you know?"
-	line "I love #mon"
+	line "I love #MON"
 	cont "for that, too!"
 	done
 
@@ -114,7 +114,7 @@ BattleTower2FCherylScript:
 .RefuseText:
 	text "Giggle…"
 
-	para "#mon would get"
+	para "#MON would get"
 	line "all worn out if we"
 
 	para "battled all the"
@@ -161,10 +161,10 @@ BattleTower2FRileyScript:
 
 .AfterText:
 	text "If I weren't in"
-	line "Dim Cave then…"
+	line "DIM CAVE then…"
 
 	para "If you hadn't been"
-	line "in Dim Cave then…"
+	line "in DIM CAVE then…"
 
 	para "Perhaps we would"
 	line "have never met."
@@ -206,10 +206,10 @@ BattleTower2FBuckScript:
 	setflag ENGINE_BUCK_DONE_TODAY
 	writethistext
 		text "I can feel my"
-		line "#mon shivering"
+		line "#MON shivering"
 
 		para "inside their #"
-		line "Balls with antici-"
+		line "BALLS with antici-"
 		cont "pation!"
 		done
 	waitbutton
@@ -309,14 +309,14 @@ BattleTower2FMiraScript:
 		line "stronger now!"
 
 		para "Please! Battle"
-		line "with Mira!"
+		line "with MIRA!"
 		done
 	yesorno
 	iffalse_jumpopenedtext .RefuseText
 	setflag ENGINE_MIRA_DONE_TODAY
 	writethistext
-		text "Mira will show you"
-		line "that Mira doesn't"
+		text "MIRA will show you"
+		line "that MIRA doesn't"
 
 		para "get lost anymore,"
 		line "<PLAYER>!"
@@ -339,25 +339,25 @@ BattleTower2FMiraScript:
 .AfterText:
 	text "<PLAYER>, you are"
 	line "always with your"
-	cont "#mon."
+	cont "#MON."
 
 	para "That's how you got"
 	line "to be so strong."
 
-	para "Mira is beginning"
+	para "MIRA is beginning"
 	line "to understand!"
 	done
 
 .BeatenText:
-	text "Mira wonders if"
+	text "MIRA wonders if"
 	line "she can get very"
 
-	para "far in the Battle"
-	line "Tower."
+	para "far in the BATTLE"
+	line "TOWER."
 	done
 
 .RefuseText:
-	text "Mira is a little"
+	text "MIRA is a little"
 	line "sad…"
 	done
 
@@ -402,7 +402,7 @@ BattleTower2FAnabelScript:
 	text "That was fun…"
 
 	para "I have never had"
-	line "a #mon battle"
+	line "a #MON battle"
 
 	para "so enjoyable"
 	line "before…"
@@ -431,7 +431,7 @@ BattleTower2FLadyText:
 	cont "trainer?"
 
 	para "The fact that"
-	line "#mon will bring"
+	line "#MON will bring"
 
 	para "me lots of"
 	line "friends!"
@@ -442,8 +442,8 @@ BattleTower2FTwinText:
 	line "surprised to see"
 
 	para "a small girl like"
-	line "me at the Battle"
-	cont "Tower."
+	line "me at the BATTLE"
+	cont "TOWER."
 
 	para "It's not like I"
 	line "have to battle"
@@ -461,11 +461,11 @@ BattleTower2FSuperNerdText:
 
 	para "Don't let your"
 	line "guard down,"
-	cont "Pikachu!"
+	cont "PIKACHU!"
 	done
 
 BattleTower2FPikachuText:
-	text "Pikachu: Pichuu!"
+	text "PIKACHU: Pichuu!"
 	done
 
 BattleTower2FYoungsterText:
@@ -491,6 +491,6 @@ BattleTower2FBlackbeltText:
 	para "There is nothing"
 	line "better suited for"
 
-	para "the Battle Tower"
+	para "the BATTLE TOWER"
 	line "than this!"
 	done

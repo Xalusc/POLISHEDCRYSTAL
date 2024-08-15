@@ -16,7 +16,7 @@ SaffronRichSpeechHouse_MapScriptHeader:
 
 SaffronRichSpeechHouseRichBoyText:
 	text "Houses are expen-"
-	line "sive in Saffron."
+	line "sive in SAFFRON."
 
 	para "If you want to"
 	line "live here, you've"

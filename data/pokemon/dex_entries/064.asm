@@ -1,4 +1,4 @@
-	db "Psi@" ; species name
+	db "PSI@" ; species name
 	dw 403, 1250 ; height, width
 
 	db   "When it closes its"

@@ -1,6 +1,6 @@
 BikeShopPhoneCallerText:
 	text "Hi, <PLAYER>!"
-	line "Our Bicycle sales"
+	line "Our BICYCLE sales"
 
 	para "have gone through"
 	line "the roof!"
@@ -9,12 +9,12 @@ BikeShopPhoneCallerText:
 	line "your advertising"
 
 	para "by riding around"
-	line "on our Bicycle."
+	line "on our BICYCLE."
 
 	para "As our way of say-"
 	line "ing thanks, please"
 
-	para "keep that Bicycle."
+	para "keep that BICYCLE."
 	line "Thanks again!"
 	done
 
@@ -81,15 +81,15 @@ JackThunderTriviaText:
 	text "Did you know?"
 
 	para "When it's raining,"
-	line "Thunder is sure to"
+	line "THUNDER is sure to"
 	cont "strike."
 	done
 
 JackRolloutTriviaText:
 	text "Did you know…?"
 
-	para "If you use Defense"
-	line "Curl, Rollout's"
+	para "If you use DEFENSE"
+	line "CURL, ROLLOUT's"
 
 	para "power goes way up"
 	line "past normal."
@@ -99,7 +99,7 @@ JackSolarbeamTriviaText:
 	text "Did you know…?"
 
 	para "If the sunlight is"
-	line "harsh, Solar Beam"
+	line "harsh, SOLAR BEAM"
 
 	para "doesn't need to be"
 	line "charged up."
@@ -109,9 +109,9 @@ JackStompTriviaText:
 	text "Did you know…?"
 
 	para "If the opponent"
-	line "uses Minimize,"
+	line "uses MINIMIZE,"
 
-	para "your Stomp becomes"
+	para "your STOMP becomes"
 	line "more powerful."
 	done
 
@@ -119,9 +119,9 @@ JackGustTriviaText:
 	text "Did you know…?"
 
 	para "If your opponent"
-	line "is Flying, your"
+	line "is FLYing, your"
 
-	para "Gust becomes much"
+	para "GUST becomes much"
 	line "more powerful."
 	done
 
@@ -129,9 +129,9 @@ JackTwisterTriviaText:
 	text "Did you know…?"
 
 	para "If your opponent"
-	line "is Flying, your"
+	line "is FLYing, your"
 
-	para "Thunder becomes"
+	para "THUNDER becomes"
 	line "more powerful."
 	done
 
@@ -139,9 +139,9 @@ JackEarthquakeTriviaText:
 	text "Did you know…?"
 
 	para "If your opponent"
-	line "uses Dig, your"
+	line "uses DIG, your"
 
-	para "Earthquake becomes"
+	para "EARTHQUAKE becomes"
 	line "more powerful."
 	done
 
@@ -149,27 +149,27 @@ JackMagnitudeTriviaText:
 	text "Did you know…?"
 
 	para "If your opponent"
-	line "uses Dig, your"
+	line "uses DIG, your"
 
-	para "Magnitude becomes"
+	para "MAGNITUDE becomes"
 	line "more powerful."
 	done
 
 JackSandstormTriviaText:
 	text "Did you know…?"
 
-	para "The Rock, Ground"
-	line "and Steel types"
+	para "The rock, ground"
+	line "and steel types"
 
 	para "can't be hurt by"
-	line "Sandstorm."
+	line "SANDSTORM."
 	done
 
 JackSunnyDayTriviaText:
 	text "Did you know…?"
 
 	para "If the sunlight is"
-	line "harsh, Water-type"
+	line "harsh, water-type"
 
 	para "moves become much"
 	line "weaker."
@@ -179,7 +179,7 @@ JackRainDanceTriviaText:
 	text "Did you know…?"
 
 	para "When it's raining,"
-	line "Fire-type moves"
+	line "fire-type moves"
 
 	para "become much weaker"
 	line "than usual."
@@ -225,9 +225,9 @@ BeverlyMadeMonEvenCuterText:
 BeverlyDefeatedMonText:
 	text "I happened to come"
 	line "across a wild"
-	cont "Snubbull recently."
+	cont "SNUBBULL recently."
 
-	para "My Snubbull, I"
+	para "My SNUBBULL, I"
 	line "assure you, was"
 
 	para "far cuter than the"
@@ -236,7 +236,7 @@ BeverlyDefeatedMonText:
 
 BeverlyLostAMonText:
 	text "I happened to see"
-	line "a wild Marill the"
+	line "a wild MARILL the"
 
 	para "other day."
 	line "Or so I thought."
@@ -257,7 +257,7 @@ BeverlyHangUpText:
 
 BeverlyFoundItemText:
 	text "My husband got"
-	line "some Nuggets."
+	line "some NUGGETS."
 
 	para "If you'd like, you"
 	line "could have one as"
@@ -275,16 +275,16 @@ BeverlyFoundItemText:
 	done
 
 BeverlyLetsChatAboutMonAgainText:
-	text "Are your #mon"
+	text "Are your #MON"
 	line "in prime form?"
 
 	para "Let's chat about"
-	line "#mon again."
+	line "#MON again."
 	done
 
 BeverlyComePickUpText:
 	text "Pardon?"
-	line "Oh, the Nugget?"
+	line "Oh, the NUGGET?"
 
 	para "There's no need to"
 	line "hurry. Come see me"
@@ -370,7 +370,7 @@ GavenDefeatedMonText:
 	line "your guard down,"
 
 	para "even against a"
-	line "#mon you're"
+	line "#MON you're"
 	cont "used to seeing."
 	done
 
@@ -471,7 +471,7 @@ BethLostAMonText:
 
 	para "noticed that I was"
 	line "all out of #"
-	cont "Balls."
+	cont "BALLS."
 
 	para "If you don't check"
 	line "your items, you"
@@ -536,13 +536,13 @@ JoseMonsStickHasADeliciousAromaText:
 
 JoseDefeatedMonText:
 	text "A while ago, my"
-	line "Farfetch'd KO'd"
+	line "FARFETCH'D KO'd"
 	cont "this "
 	text_ram wStringBuffer4
 	text "."
 
 	para "You should have"
-	line "seen Farfetch'd"
+	line "seen FARFETCH'D"
 
 	para "wield that stick."
 	line "Amazing stuff!"
@@ -569,7 +569,7 @@ JoseBattleRematchText:
 	line "again?"
 
 	para "For some reason,"
-	line "my Farfetch'd is"
+	line "my FARFETCH'D is"
 
 	para "all worked up and"
 	line "raring to go."
@@ -588,7 +588,7 @@ JoseHangUpText:
 	done
 
 JoseFoundItemText:
-	text "My Farfetch'd had"
+	text "My FARFETCH'D had"
 	line "something pretty"
 	cont "in its beak."
 
@@ -620,7 +620,7 @@ JoseReminderText:
 	text "<PLAYER>, could you"
 	line "hurry over?"
 
-	para "Farfetch'd is"
+	para "FARFETCH'D is"
 	line "agitated."
 
 	para "If you don't come"
@@ -673,7 +673,7 @@ ReenaDefeatedMonText:
 ReenaLostAMonText:
 	text "Have I ever failed"
 	line "to catch a wild"
-	cont "#mon?"
+	cont "#MON?"
 
 	para "You need to ask?"
 
@@ -734,7 +734,7 @@ JoeyMonLookingSharperText:
 	cont "than before!"
 
 	para "I doubt there's a"
-	line "#mon as cool as"
+	line "#MON as cool as"
 
 	para "this guy in your"
 	line "party!"
@@ -819,10 +819,10 @@ JoeyReminderText:
 	done
 
 WadeAreYourMonGrowingText:
-	text "Are your #mon"
+	text "Are your #MON"
 	line "growing?"
 
-	para "My #mon are"
+	para "My #MON are"
 	line "growing a bit too"
 
 	para "quickly for me."
@@ -862,7 +862,7 @@ WadeLostAMonText:
 	line "the last second."
 
 	para "I know it's a"
-	line "common #mon…"
+	line "common #MON…"
 
 	para "But it does annoy"
 	line "me that it got"
@@ -873,7 +873,7 @@ WadeLostAMonText:
 
 WadeBattleRematchText:
 	text "Do you feel like a"
-	line "#mon battle?"
+	line "#MON battle?"
 
 	para "It won't be like"
 	line "last time!"
@@ -895,7 +895,7 @@ WadeBugCatchingContestText:
 	text "The Bug-Catching"
 	line "Contest is at the"
 
-	para "National Park"
+	para "NATIONAL PARK"
 	line "today."
 
 	para "Are you going,"
@@ -907,7 +907,7 @@ WadeBugCatchingContestText:
 
 WadeFoundItemText:
 	text "I found all kinds"
-	line "of Berries. If you"
+	line "of BERRIES. If you"
 
 	para "want, I'll share"
 	line "some with you."
@@ -919,7 +919,7 @@ WadeFoundItemText:
 	done
 
 WadeNoBerriesText:
-	text "Huh? Berries?"
+	text "Huh? BERRIES?"
 
 	para "Sorry, I haven't"
 	line "found any yet."
@@ -997,7 +997,7 @@ RalphLostAMonText:
 	line "about it until he"
 
 	para "shared his #"
-	line "Balls with me."
+	line "BALLS with me."
 
 	para "Hahah, that sure"
 	line "made my day!"
@@ -1057,11 +1057,11 @@ RalphNoItemText:
 	text "Yeah, I know."
 
 	para "You're looking for"
-	line "rare #mon."
+	line "rare #MON."
 
 	para "Recently, all I've"
 	line "been catching are"
-	cont "Magikarp, though…"
+	cont "MAGIKARP, though…"
 	done
 
 RalphReminderText:
@@ -1083,7 +1083,7 @@ RalphHurryText:
 
 	para "Aren't you coming"
 	line "over to fish for"
-	cont "Qwilfish?"
+	cont "QWILFISH?"
 
 	para "I'm on ROUTE 32,"
 	line "so hurry up!"
@@ -1153,8 +1153,8 @@ LizBattleRematchText:
 	done
 
 LizWrongNumberText:
-	text "Hi, Tania. How are"
-	line "you? This is Liz."
+	text "Hi, TANIA. How are"
+	line "you? This is LIZ."
 
 	para "I'm fine, but I'm"
 	line "bored silly!"
@@ -1174,7 +1174,7 @@ LizRuinsOfAlphGossipText:
 	para "I was listening to"
 	line "the radio in the"
 
-	para "Ruins of Alph when"
+	para "RUINS OF ALPH when"
 	line "an odd broadcast"
 
 	para "suddenly cut it on"
@@ -1188,9 +1188,9 @@ LizFalknerGossipText:
 	text "Listen, listen!"
 
 	para "Don't you think"
-	line "Falkner of Violet"
+	line "FALKNER of VIOLET"
 
-	para "Gym is cool and"
+	para "GYM is cool and"
 	line "handsome?"
 
 	para "But they say his"
@@ -1200,7 +1200,7 @@ LizFalknerGossipText:
 	line "road, is even more"
 
 	para "cool and handsome"
-	line "than Falkner."
+	line "than FALKNER."
 
 	para "I wish I could"
 	line "meet him!"
@@ -1209,11 +1209,11 @@ LizFalknerGossipText:
 LizEarlGossipText:
 	text "Listen, listen!"
 
-	para "Do you know Earl,"
+	para "Do you know EARL,"
 	line "the teacher who"
 
-	para "runs the #mon"
-	line "Academy in Violet?"
+	para "runs the #MON"
+	line "ACADEMY in VIOLET?"
 
 	para "I saw him doing"
 	line "pirouettes while"
@@ -1225,13 +1225,13 @@ LizEarlGossipText:
 LizSurfPikachuGossipText:
 	text "Listen, listen!"
 
-	para "I collect #mon"
+	para "I collect #MON"
 	line "plush dolls."
 
 	para "But I can't seem"
 	line "to get a hold of a"
 
-	para "Surf Pikachu Doll."
+	para "SURF PIKACHU DOLL."
 	line "None of my friends"
 
 	para "have it. It must"
@@ -1246,10 +1246,10 @@ LizMooMooMilkGossipText:
 	text "Listen, listen!"
 
 	para "Do you know about"
-	line "Moomoo Milk?"
+	line "MOOMOO MILK?"
 
 	para "You can buy it at"
-	line "Moomoo Farm."
+	line "MOOMOO FARM."
 
 	para "It's supposed to"
 	line "be good for health"
@@ -1264,8 +1264,8 @@ LizMooMooMilkGossipText:
 LizSalonGossipText:
 	text "Listen, listen!"
 
-	para "There's a #mon"
-	line "Salon in Goldenrod"
+	para "There's a #MON"
+	line "SALON in GOLDENROD"
 
 	para "that's run by two"
 	line "brothers."
@@ -1292,15 +1292,15 @@ LizSalonGossipText:
 LizWhitneyGossipText:
 	text "Listen, listen!"
 
-	para "Goldenrod Gym's"
-	line "Whitney began"
+	para "GOLDENROD GYM's"
+	line "WHITNEY began"
 
 	para "battling only a"
 	line "little while ago!"
 
-	para "But the #mon"
-	line "League chose her"
-	cont "as a Gym Leader!"
+	para "But the #MON"
+	line "LEAGUE chose her"
+	cont "as a GYM LEADER!"
 
 	para "I bet she must be"
 	line "totally talented."
@@ -1314,16 +1314,16 @@ LizBugCatchingContestGossipText:
 
 	para "Bug-Catching"
 	line "Contest at the"
-	cont "National Park?"
+	cont "NATIONAL PARK?"
 
 	para "I did once, but"
 	line "all I could catch"
-	cont "was a Caterpie."
+	cont "was a CATERPIE."
 
 	para "But guess what!"
 
 	para "I won with that"
-	line "Caterpie. Isn't"
+	line "CATERPIE. Isn't"
 	cont "that great?"
 	done
 
@@ -1405,7 +1405,7 @@ AnthonyMonAteSomeBerriesText:
 	para ""
 	text_ram wStringBuffer4
 	text " eat"
-	line "some Berries."
+	line "some BERRIES."
 
 	para "It looked like it"
 	line "was enjoying its"
@@ -1443,7 +1443,7 @@ AnthonyLostAMonText:
 
 	para "It took off when I"
 	line "got distracted by"
-	cont "a passing Beauty."
+	cont "a passing BEAUTY."
 
 	para "Learn from my"
 	line "mistake--always"
@@ -1494,11 +1494,11 @@ AnthonySwarmText:
 	line "I didn't see any"
 
 	para "where there are"
-	line "strong #mon."
+	line "strong #MON."
 	done
 
 AnthonyWasntPayingAttentionText:
-	text "Rare #mon?"
+	text "Rare #MON?"
 
 	para "Hey, sorry! I was"
 	line "too focused on my"
@@ -1522,17 +1522,17 @@ AnthonyReminderText:
 
 AnthonyHurryText:
 	text "Hello? What? Where"
-	line "is Dunsparce?"
+	line "is DUNSPARCE?"
 
-	para "Dark Cave! Hurry!"
+	para "DARK CAVE! Hurry!"
 
 	para "I know I've said"
 	line "it before, but"
 
-	para "Dunsparce don't"
+	para "DUNSPARCE don't"
 	line "appear when there"
 
-	para "are strong #mon"
+	para "are strong #MON"
 	line "around."
 	done
 
@@ -1555,7 +1555,7 @@ ToddDefeatedMonText:
 	text " easily."
 
 	para "I should challenge"
-	line "the Goldenrod Gym."
+	line "the GOLDENROD GYM."
 	done
 
 ToddLostAMonText:
@@ -1568,7 +1568,7 @@ ToddLostAMonText:
 	line "a tiny margin."
 
 	para "I'm guessing my"
-	line "#mon's levels"
+	line "#MON's levels"
 
 	para "aren't high enough"
 	line "yet…"
@@ -1599,15 +1599,15 @@ ToddDepartmentStoreBargainSaleText:
 	line "one we've all been"
 	cont "waiting for!"
 
-	para "Goldenrod Dept."
-	line "Store's bargain"
+	para "GOLDENROD DEPT."
+	line "STORE's bargain"
 	cont "sale is on now!"
 
 	para "Want it cheap?"
 	line "Want it lots?"
 
 	para "Don't miss this"
-	line "Goldenrod chance!"
+	line "GOLDENROD chance!"
 
 	para "Huh? I sound like"
 	line "a huckster?"
@@ -1642,9 +1642,9 @@ ToddLookingForwardToBattleText:
 
 ToddHaveYouGoneToDepartmentStoreText:
 	text "Haven't you gone"
-	line "to Goldenrod Dept."
+	line "to GOLDENROD DEPT."
 
-	para "Store? I've scoped"
+	para "STORE? I've scoped"
 	line "it out already!"
 
 	para "They had some real"
@@ -1711,11 +1711,11 @@ GinaHangUpText:
 
 GinaRocketTakeoverRumorText:
 	text "Have you heard"
-	line "about Team Rocket?"
+	line "about TEAM ROCKET?"
 
 	para "They've taken over"
-	line "the Radio Tower in"
-	cont "Goldenrod."
+	line "the RADIO TOWER in"
+	cont "GOLDENROD."
 
 	para "Are the people"
 	line "inside safe?"

@@ -1,4 +1,4 @@
-	db "Barrier@" ; species name
+	db "BARRIER@" ; species name
 	dw 403, 1200 ; height, width
 
 	db   "It uses the"

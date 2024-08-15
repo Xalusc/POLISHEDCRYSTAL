@@ -145,7 +145,7 @@ LanceScript:
 	end
 
 .SeenText:
-	text "Lance: I've been"
+	text "LANCE: I've been"
 	line "waiting for you."
 
 	para "<PLAYER>!"
@@ -168,10 +168,10 @@ LanceScript:
 	para "As the most power-"
 	line "ful trainer and as"
 
-	para "the #mon League"
-	line "Champion…"
+	para "the #MON LEAGUE"
+	line "CHAMPION…"
 
-	para "I, Lance the drag-"
+	para "I, LANCE the drag-"
 	line "on master, accept"
 	cont "your challenge!"
 	done
@@ -190,7 +190,7 @@ LanceScript:
 	line "witnessed the rise"
 
 	para "of a great new"
-	line "Champion!"
+	line "CHAMPION!"
 	done
 
 .AfterText:
@@ -200,7 +200,7 @@ LanceScript:
 	line "truly powerful,"
 	cont "<PLAYER>."
 
-	para "Your #mon have"
+	para "Your #MON have"
 	line "responded to your"
 
 	para "strong and up-"
@@ -210,11 +210,11 @@ LanceScript:
 	line "will continue to"
 
 	para "grow strong with"
-	line "your #mon."
+	line "your #MON."
 	done
 
 .SeenRematchText:
-	text "Lance: There's no"
+	text "LANCE: There's no"
 	line "need for words"
 	cont "now."
 
@@ -224,7 +224,7 @@ LanceScript:
 	para "the stronger of"
 	line "the two of us."
 
-	para "I, Lance the drag-"
+	para "I, LANCE the drag-"
 	line "on master, accept"
 	cont "your challenge!"
 	done
@@ -234,26 +234,26 @@ LanceScript:
 	line "expected."
 
 	para "You and your"
-	line "#mon make"
+	line "#MON make"
 	cont "quite a team."
 
 	para "As a trainer, you"
 	line "will continue to"
 
 	para "grow strong with"
-	line "your #mon."
+	line "your #MON."
 	done
 
 .MaryText1:
-	text "Mary: Oh, no!"
+	text "MARY: Oh, no!"
 	line "It's all over!"
 
-	para "Prof.Oak, if you"
+	para "PROF.OAK, if you"
 	line "weren't so slow…"
 	done
 
 .OakSpeechText:
-	text "Prof.Oak: Ah,"
+	text "PROF.OAK: Ah,"
 	line "<PLAYER>!"
 
 	para "It's been a long"
@@ -263,16 +263,16 @@ LanceScript:
 	line "more impressive."
 
 	para "Your conquest of"
-	line "the League is just"
+	line "the LEAGUE is just"
 	cont "fantastic!"
 
 	para "Your dedication,"
 	line "trust and love for"
 
-	para "your #mon made"
+	para "your #MON made"
 	line "this happen."
 
-	para "Your #mon were"
+	para "Your #MON were"
 	line "outstanding too."
 
 	para "Because they be-"
@@ -286,13 +286,13 @@ LanceScript:
 	done
 
 .MaryText2:
-	text "Mary: Let's inter-"
+	text "MARY: Let's inter-"
 	line "view the brand new"
-	cont "Champion!"
+	cont "CHAMPION!"
 	done
 
 .LanceLeavingText:
-	text "Lance: This is"
+	text "LANCE: This is"
 	line "getting to be a"
 	cont "bit too noisy…"
 
@@ -301,7 +301,7 @@ LanceScript:
 	done
 
 .MaryText3:
-	text "Mary: Oh, wait!"
+	text "MARY: Oh, wait!"
 	line "We haven't done"
 	cont "the interview!"
 	done

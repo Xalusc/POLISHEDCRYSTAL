@@ -102,45 +102,45 @@ ProfIvyScript:
 	jumpthisopenedtext
 
 .NoBerryText:
-	text "Ivy: I under-"
+	text "IVY: I under-"
 	line "stand…"
 
 	para "You don't have"
-	line "three Liechi"
-	cont "Berries to spare."
+	line "three LIECHI"
+	cont "BERRIES to spare."
 	done
 
 .RequestText:
-	text "Ivy: Hello again,"
+	text "IVY: Hello again,"
 	line "<PLAYER>!"
 
 	para "Can I ask you to"
 	line "to do me a favor?"
 
-	para "This Nidorino"
+	para "This NIDORINO"
 	line "is sick, and my"
 
-	para "Lum Berries aren't"
+	para "LUM BERRIES aren't"
 	line "helping it."
 
 	para "Can you please"
-	line "find three Liechi"
-	cont "Berries for it?"
+	line "find three LIECHI"
+	cont "BERRIES for it?"
 	done
 
 .OkayText:
-	text "Ivy: Perfect!"
+	text "IVY: Perfect!"
 	line "Thanks, <PLAYER>!"
 
 	para "Let's see if this"
-	line "helps Nidorino…"
+	line "helps NIDORINO…"
 	done
 
 .ThanksText:
-	text "Ivy: Thank you,"
+	text "IVY: Thank you,"
 	line "<PLAYER>!"
 
-	para "Nidorino looks"
+	para "NIDORINO looks"
 	line "much healthier!"
 
 	para "Please take this"
@@ -148,7 +148,7 @@ ProfIvyScript:
 	done
 
 .ChallengeText:
-	text "Ivy: I could use a"
+	text "IVY: I could use a"
 	line "break from work."
 
 	para "How about a quick"
@@ -162,8 +162,8 @@ ProfIvyScript:
 	done
 
 .SeenText:
-	text "Professor versus"
-	line "Champion--let's go!"
+	text "PROFESSOR versus"
+	line "CHAMPION--let's go!"
 	done
 
 .BeatenText:
@@ -172,7 +172,7 @@ ProfIvyScript:
 	done
 
 .AfterText:
-	text "Ivy: That was an"
+	text "IVY: That was an"
 	line "exhilarating"
 	cont "battle!"
 	done
@@ -182,21 +182,21 @@ IvysLabHopeScript:
 	iftrue_jumptextfaceplayer .Text2
 	jumpthistextfaceplayer
 
-	text "Hope: Prof.Ivy"
+	text "HOPE: PROF.IVY"
 	line "takes care of the"
 
-	para "#mon on this"
+	para "#MON on this"
 	line "island."
 
 	para "Right now she's"
 	line "tending to a sick"
-	cont "Nidorino."
+	cont "NIDORINO."
 	done
 
 .Text2:
-	text "Hope: Thanks for"
+	text "HOPE: Thanks for"
 	line "helping out with"
-	cont "that Nidorino!"
+	cont "that NIDORINO!"
 	done
 
 IvysLabNidorinoScript:
@@ -213,7 +213,7 @@ IvysLabNidorinoScript:
 	done
 
 .WeakCry:
-	text "Nidorino: Gyun…"
+	text "NIDORINO: Gyun…"
 	done
 
 .Healed:
@@ -221,7 +221,7 @@ IvysLabNidorinoScript:
 	end
 
 IvysLabNidorinoText:
-	text "Nidorino: Gyun!"
+	text "NIDORINO: Gyun!"
 	done
 
 IvysLabWindowText:
@@ -250,22 +250,22 @@ IvysLabHealingMachine:
 
 .Text:
 	text "Would you like to"
-	line "heal your #mon?"
+	line "heal your #MON?"
 	done
 
 PokemonJournalProfIvyScript:
 	setflag ENGINE_READ_PROF_IVY_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "#mon Prof.Ivy!"
+	para "SPECIAL FEATURE:"
+	line "#MON PROF.IVY!"
 
-	para "Philena Ivy worked"
-	line "with Brock of Pew-"
-	cont "ter City to study"
+	para "PHILENA IVY worked"
+	line "with BROCK of PEW-"
+	cont "TER CITY to study"
 
-	para "a shiny Onix's"
+	para "a shiny ONIX's"
 	line "crystalline body."
 	done

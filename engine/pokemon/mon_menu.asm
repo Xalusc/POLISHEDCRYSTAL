@@ -218,7 +218,7 @@ GiveTakePartyMonItem:
 	ret
 
 .noItemString
-	db "No held item@"
+	db "NO HELD ITEM@"
 
 .GiveItem:
 	call GetItemToGive
@@ -481,9 +481,9 @@ GiveTakeItemMenuData:
 .Items:
 	db %10000000 ; x padding
 	db 3 ; # items
-	db "Give@"
-	db "Take@"
-	db "Swap@"
+	db "GIVE@"
+	db "TAKE@"
+	db "SWAP@"
 
 TookAndMadeHoldText:
 	text_far _PokemonSwapItemText
@@ -518,7 +518,7 @@ CantBeHeldText:
 	text_end
 
 CantPlaceMailInStorageText:
-	text "Can't place Mail in"
+	text "Can't place MAIL in"
 	line "storage."
 	prompt
 
@@ -612,9 +612,9 @@ MonMailAction:
 .MenuData2:
 	db $80 ; flags
 	db 3 ; items
-	db "Read@"
-	db "Take@"
-	db "Quit@"
+	db "READ@"
+	db "TAKE@"
+	db "QUIT@"
 
 TakeMail:
 	ld hl, .sendmailtopctext

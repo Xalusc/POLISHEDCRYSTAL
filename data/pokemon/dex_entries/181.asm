@@ -1,4 +1,4 @@
-	db "Light@" ; species name
+	db "LIGHT@" ; species name
 	dw 407, 1360 ; height, width
 
 	db   "When it gets dark,"

@@ -23,16 +23,16 @@ PokemonJournalSabrinaScript:
 	setflag ENGINE_READ_SABRINA_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Leader Sabrina!"
+	para "SPECIAL FEATURE:"
+	line "LEADER SABRINA!"
 
 	para "People say that"
-	line "Sabrina can com-"
+	line "SABRINA can com-"
 	cont "municate with her"
 
-	para "#mon during"
+	para "#MON during"
 	line "battle without"
 	cont "speaking."
 	done
@@ -43,11 +43,11 @@ SaffronPokeCenter1FFisherScript:
 	jumpthistextfaceplayer
 
 	text "I just happened to"
-	line "come through Rock"
+	line "come through ROCK"
 
-	para "Tunnel. There was"
+	para "TUNNEL. There was"
 	line "some commotion at"
-	cont "the Power Plant."
+	cont "the POWER PLANT."
 	done
 
 .Text2:
@@ -59,36 +59,36 @@ SaffronPokeCenter1FFisherScript:
 
 	para "past few years,"
 	line "like the one out-"
-	cont "side Cerulean."
+	cont "side CERULEAN."
 
-	para "As a pro Hiker,"
+	para "As a pro HIKER,"
 	line "that's common"
 	cont "knowledge."
 	done
 
 SaffronPokeCenter1FTeacherText:
-	text "What are Johto's"
-	line "#mon Centers"
+	text "What are JOHTO's"
+	line "#MON CENTERS"
 	cont "like?"
 
 	para "…Oh, I see. So"
 	line "they're not much"
 
 	para "different from the"
-	line "ones in Kanto."
+	line "ones in KANTO."
 
-	para "I can go to Johto"
+	para "I can go to JOHTO"
 	line "without worrying,"
 	cont "then!"
 	done
 
 SaffronPokeCenter1FYoungsterText:
-	text "Silph Co.'s Head"
-	line "Office and the"
+	text "SILPH CO.'s HEAD"
+	line "OFFICE and the"
 
-	para "Magnet Train Sta-"
-	line "tion--they're the"
+	para "MAGNET TRAIN STA-"
+	line "TION--they're the"
 
 	para "places to see in"
-	line "Saffron."
+	line "SAFFRON."
 	done

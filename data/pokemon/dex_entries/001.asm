@@ -1,4 +1,4 @@
-	db "Seed@" ; species name
+	db "SEED@" ; species name
 	dw 204, 150 ; height, width
 
 	db   "While it is young,"

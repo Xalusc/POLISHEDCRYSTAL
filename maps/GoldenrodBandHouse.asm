@@ -21,8 +21,8 @@ GoldenrodBandHouseRocker1Text:
 	line "our cover band."
 
 	para "Give us a listen"
-	line "on the Variety"
-	cont "Channel!"
+	line "on the VARIETY"
+	cont "CHANNEL!"
 	done
 
 GoldenrodBandHouseRocker2Text:
@@ -41,5 +41,5 @@ GoldenrodBandHouseCooltrainerFText:
 	para "one's entitled to"
 	line "their own opinion."
 
-	para "Don't be a hater!"
+	para "Don't be a hater!" ;hell yeah brother
 	done

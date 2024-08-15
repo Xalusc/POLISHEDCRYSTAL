@@ -1,4 +1,4 @@
-	db "Fairy@" ; species name
+	db "FAIRY@" ; species name
 	dw 403, 880 ; height, width
 
 	db   "Said to live in"

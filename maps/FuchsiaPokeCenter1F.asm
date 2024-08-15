@@ -26,16 +26,16 @@ PokemonJournalJanineScript:
 	setflag ENGINE_READ_JANINE_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Leader Janine!"
+	para "SPECIAL FEATURE:"
+	line "LEADER JANINE!"
 
-	para "Janine was said to"
+	para "JANINE was said to"
 	line "be a fan of the"
 
-	para "#mon zoo in"
-	line "Fuchsia City"
+	para "#MON zoo in"
+	line "FUCHSIA CITY"
 	cont "as a child."
 	done
 
@@ -53,7 +53,7 @@ JanineImpersonatorScript:
 	end
 
 .Text1:
-	text "I'm Janine! Hocus-"
+	text "I'm JANINE! Hocus-"
 	line "pocus… Poof!"
 	done
 
@@ -75,15 +75,15 @@ endr
 FuchsiaPokeCenter1FCooltrainerMText:
 	text "Hey! You have a"
 	line "brand new kind of"
-	cont "#dex."
+	cont "#DEX."
 
-	para "Did Prof.Oak give"
+	para "Did PROF.OAK give"
 	line "that to you?"
 	done
 
 FuchsiaPokeCenter1FCooltrainerFText:
 	text "I got quite a"
-	line "shock at the Gym."
+	line "shock at the GYM."
 
 	para "There were all"
 	line "these girls who"

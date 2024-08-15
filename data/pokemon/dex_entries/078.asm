@@ -1,4 +1,4 @@
-	db "Fire Horse@" ; species name
+	db "FIRE HORSE@" ; species name
 	dw 507, 2090 ; height, width
 
 	db   "It just loves to"

@@ -699,7 +699,7 @@ CameraGrunt2SeenText:
 
 CameraGrunt2BeatenText:
 	text "Surveillance cams"
-	line "are in the #mon"
+	line "are in the #MON"
 	cont "statues."
 
 	para "We'll keep appear-"
@@ -736,7 +736,7 @@ GruntM16BeatenText:
 	done
 
 SecurityCameraText:
-	text "It's a Persian"
+	text "It's a PERSIAN"
 	line "statue…"
 
 	para "Its eyes are oddly"

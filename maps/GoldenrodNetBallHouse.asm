@@ -30,7 +30,7 @@ GoldenrodNetBallHouseYoungsterScript:
 .Text2:
 	text "Sometimes you get"
 	line "really lucky and"
-	cont "catch a #mon at"
+	cont "catch a #MON at"
 
 	para "full HP. I love"
 	line "that feeling."
@@ -38,8 +38,8 @@ GoldenrodNetBallHouseYoungsterScript:
 
 .Text1:
 	text "I stocked up on"
-	line "Net Balls to catch"
-	cont "a Pineco, but got"
+	line "NET BALLS to catch"
+	cont "a PINECO, but got"
 
 	para "it with my very"
 	line "first one!"
@@ -52,9 +52,9 @@ GoldenrodNetBallHouseBugCatcherText:
 	text "They hold Bug-"
 	line "Catching Contests"
 
-	para "in National Park"
-	line "on Route 35."
+	para "in NATIONAL PARK"
+	line "on ROUTE 35."
 
 	para "Sometimes even"
-	line "Bugsy competes."
+	line "BUGSY competes."
 	done

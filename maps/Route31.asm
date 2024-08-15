@@ -80,12 +80,12 @@ TrainerCooltrainermFinch:
 
 .AfterText2:
 	text "You saw the effect"
-	line "of an Air Balloon"
+	line "of an AIR BALLOON"
 	cont "in our battle."
 
 	para "You may find other"
 	line "trainers like me"
-	cont "wandering Johto."
+	cont "wandering JOHTO."
 
 	para "Searching for"
 	line "strength."
@@ -96,7 +96,7 @@ TrainerCooltrainermFinch:
 
 .IntroText:
 	text "I am a trainer who"
-	line "uses Air Balloons"
+	line "uses AIR BALLOONS"
 	cont "in battle."
 
 	para "I want to be"
@@ -105,7 +105,7 @@ TrainerCooltrainermFinch:
 
 	para "If you can defeat"
 	line "every trainer on"
-	cont "Route 30 and 31,"
+	cont "ROUTE 30 and 31,"
 	cont "then come face me."
 	done
 
@@ -134,7 +134,7 @@ TrainerCooltrainermFinch:
 	text "Well met! I will"
 	line "stand before you"
 
-	para "as an Air Balloon"
+	para "as an AIR BALLOON"
 	line "user!"
 	done
 
@@ -152,7 +152,7 @@ TrainerCooltrainermFinch:
 
 	para "Here is proof of"
 	line "our battle."
-	cont "An Air Balloon!"
+	cont "An AIR BALLOON!"
 
 	para "Take it, my"
 	line "strong friend!"
@@ -345,12 +345,12 @@ Route31MailRecipientScript:
 	jumpopenedtext Text_Route31CantTakeLastMon
 
 ReceivedFarfetch_dMailText:
-	db   "Dark Cave leads"
+	db   "DARK CAVE leads"
 	next "to another road@"
 
 Bug_catcherWade1SeenText:
 	text "I caught a bunch"
-	line "of #mon. Let me"
+	line "of #MON. Let me"
 	cont "battle with you!"
 	done
 
@@ -360,14 +360,14 @@ Bug_catcherWade1BeatenText:
 
 Bug_catcherWade1AfterText:
 	text "You can catch"
-	line "#mon even if"
+	line "#MON even if"
 
 	para "you have six with"
 	line "you."
 
 	para "If you catch one,"
 	line "it'll go to your"
-	cont "Box automatically."
+	cont "BOX automatically."
 	done
 
 Text_Route31SleepyMan:
@@ -375,13 +375,13 @@ Text_Route31SleepyMan:
 
 	para "I walked too far"
 	line "today looking for"
-	cont "#mon."
+	cont "#MON."
 
 	para "My feet hurt and"
 	line "I'm sleepy…"
 
 	para "If I were a wild"
-	line "#mon, I'd be"
+	line "#MON, I'd be"
 	cont "easy to catch…"
 
 	para "…Zzzz…"
@@ -391,19 +391,19 @@ Text_Route31SleepyManGotMail:
 	text "…Zzzz… Huh?"
 
 	para "What's that? You"
-	line "have Mail for me?"
+	line "have MAIL for me?"
 	done
 
 Text_Route31HandOverMailMon:
 	text "<PLAYER> handed"
-	line "over the #mon"
-	cont "holding the Mail."
+	line "over the #MON"
+	cont "holding the MAIL."
 	done
 
 Text_Route31ReadingMail:
 	text "Let's see…"
 
-	para "…Dark Cave leads"
+	para "…DARK CAVE leads"
 	line "to another road…"
 
 	para "That's good to"
@@ -423,23 +423,23 @@ Text_Route31ReadingMail:
 
 Text_Route31TutorSleepTalk:
 	text "For just one"
-	line "Silver Leaf,"
+	line "SILVER LEAF,"
 
 	para "I can teach your"
-	line "#mon to talk"
+	line "#MON to talk"
 	cont "in their sleep!"
 	done
 
 Text_Route31TutorNoSilverLeaf:
 	text "You don't have a"
-	line "Silver Leaf,"
+	line "SILVER LEAF,"
 	cont "though…"
 	done
 
 Text_Route31TutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Sleep Talk?"
+	line "your #MON"
+	cont "SLEEP TALK?"
 	done
 
 Text_Route31TutorRefused:
@@ -448,21 +448,21 @@ Text_Route31TutorRefused:
 
 Text_Route31TutorTaught:
 	text "There! Now your"
-	line "#mon knows"
-	cont "Sleep Talk!"
+	line "#MON knows"
+	cont "SLEEP TALK!"
 	done
 
 Text_Route31WrongMail:
-	text "This Mail isn't"
+	text "This MAIL isn't"
 	line "for me."
 	done
 
 Text_Route31MissingMail:
 	text "Why is this #-"
-	line "mon so special?"
+	line "MON so special?"
 
 	para "It doesn't have"
-	line "any Mail."
+	line "any MAIL."
 	done
 
 Text_Route31DeclinedToHandOverMail:
@@ -472,7 +472,7 @@ Text_Route31DeclinedToHandOverMail:
 
 Text_Route31CantTakeLastMon:
 	text "If I take that"
-	line "#mon from you,"
+	line "#MON from you,"
 
 	para "what are you going"
 	line "to use in battle?"
@@ -480,24 +480,24 @@ Text_Route31CantTakeLastMon:
 
 Route31YoungsterText:
 	text "I found a good"
-	line "#mon in Dark"
-	cont "Cave."
+	line "#MON in DARK"
+	cont "CAVE."
 
 	para "I'm going to raise"
 	line "it to take on"
-	cont "Falkner."
+	cont "FALKNER."
 
 	para "He's the leader of"
-	line "Violet City's Gym."
+	line "VIOLET CITY's GYM."
 	done
 
 Route31SignText:
-	text "Route 31"
+	text "ROUTE 31"
 
-	para "Violet City -"
-	line "Cherrygrove City"
+	para "VIOLET CITY -"
+	line "CHERRYGROVE CITY"
 	done
 
 DarkCaveSignText:
-	text "Dark Cave"
+	text "DARK CAVE"
 	done

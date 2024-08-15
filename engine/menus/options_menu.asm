@@ -67,38 +67,38 @@ OptionsMenu_LoadOptions:
 	jmp ApplyTilemapInVBlank
 
 StringOptions1:
-	db "Text Speed<LNBRK>"
+	db "TEXT SPEED<LNBRK>"
 	db "        :<LNBRK>"
-	db "Battle Effects<LNBRK>"
+	db "BATTLE EFFECTS<LNBRK>"
 	db "        :<LNBRK>"
-	db "Battle Style<LNBRK>"
+	db "BATTLE STYLE<LNBRK>"
 	db "        :<LNBRK>"
-	db "Running Shoes<LNBRK>"
+	db "RUNNING SHOES<LNBRK>"
 	db "        :<LNBRK>"
-	db "Frame<LNBRK>"
-	db "        :Type<LNBRK>"
-	db "Sound<LNBRK>"
+	db "FRAME<LNBRK>"
+	db "        :TYPE<LNBRK>"
+	db "SOUND<LNBRK>"
 	db "        :<LNBRK>"
-	db "Next<LNBRK>"
+	db "NEXT<LNBRK>"
 	db "        <LNBRK>"
-	db "Done@"
+	db "DONE@"
 
 StringOptions2:
-	db "Clock Format<LNBRK>"
+	db "CLOCK FORMAT<LNBRK>"
 	db "        :<LNBRK>"
-	db "#dex Units<LNBRK>"
+	db "#DEX UNITS<LNBRK>"
 	db "        :<LNBRK>"
-	db "Text Autoscroll<LNBRK>"
+	db "TEXT AUTOSCROLL<LNBRK>"
 	db "        :<LNBRK>"
-	db "Turning Speed<LNBRK>"
+	db "TURNING SPEED<LNBRK>"
 	db "        :<LNBRK>"
-	db "Typeface<LNBRK>"
+	db "TYPEFACE<LNBRK>"
 	db "        :<LNBRK>"
-	db "Keyboard<LNBRK>"
+	db "KEYBOARD<LNBRK>"
 	db "        :<LNBRK>"
-	db "Previous<LNBRK>"
+	db "PREVIOUS<LNBRK>"
 	db "        <LNBRK>"
-	db "Done@"
+	db "DONE@"
 
 GetOptionPointer:
 	ld a, [wCurOptionsPage]
@@ -169,13 +169,13 @@ Options_TextSpeed:
 	dw .Slow
 
 .Fast:
-	db "Fast   @"
+	db "FAST   @"
 .Medium:
-	db "Medium @"
+	db "MEDIUM @"
 .Slow:
-	db "Slow   @"
+	db "SLOW   @"
 .Instant:
-	db "Instant@"
+	db "INSTANT@"
 
 Options_BattleEffects:
 	ld hl, wOptions1
@@ -202,9 +202,9 @@ Options_BattleEffects:
 	ret
 
 .Off:
-	db "Off@"
+	db "OFF@"
 .On:
-	db "On @"
+	db "ON @"
 
 Options_BattleStyle:
 	ld hl, wOptions2
@@ -252,11 +252,11 @@ Options_BattleStyle:
 	ret
 
 .Set:
-	db "Set    @"
+	db "SET    @"
 .Switch:
-	db "Switch @"
+	db "SWITCH @"
 .Predict:
-	db "Predict@"
+	db "PREDICT@"
 
 Options_RunningShoes:
 	ld hl, wOptions2
@@ -283,9 +283,9 @@ Options_RunningShoes:
 	ret
 
 .Off:
-	db "Off@"
+	db "OFF@"
 .On:
-	db "On @"
+	db "ON @"
 
 Options_Frame:
 	ld hl, wTextboxFrame
@@ -351,9 +351,9 @@ Options_Sound:
 	ret
 
 .Mono:
-	db "Mono  @"
+	db "MONO  @"
 .Stereo:
-	db "Stereo@"
+	db "STEREO@"
 
 Options_ClockFormat:
 	ld hl, wOptions2
@@ -380,9 +380,9 @@ Options_ClockFormat:
 	ret
 
 .Twelve:
-	db "12-hour@"
+	db "12-HOUR@"
 .TwentyFour:
-	db "24-hour@"
+	db "24-HOUR@"
 
 Options_PokedexUnits:
 	ld hl, wOptions2
@@ -409,9 +409,9 @@ Options_PokedexUnits:
 	ret
 
 .Imperial:
-	db "Imperial@"
+	db "IMPERIAL@"
 .Metric:
-	db "Metric  @"
+	db "METRIC  @"
 
 Options_TextAutoscroll:
 	ldh a, [hJoyPressed]
@@ -455,13 +455,13 @@ Options_TextAutoscroll:
 	dw .AorB
 
 .None:
-	db "None   @"
+	db "NONE   @"
 .Start:
-	db "Start  @"
+	db "START  @"
 .AandB:
-	db "A and B@"
+	db "A AND B@"
 .AorB:
-	db "A or B @"
+	db "A OR B @"
 
 Options_TurningSpeed:
 	ldh a, [hJoyPressed]
@@ -493,9 +493,9 @@ Options_TurningSpeed:
 	dw .Fast
 
 .Slow:
-	db "Slow@"
+	db "SLOW@"
 .Fast:
-	db "Fast@"
+	db "FAST@"
 
 Options_Typeface:
 	ld hl, wOptions2
@@ -564,21 +564,21 @@ Options_Typeface:
 	dw .Unown
 
 .Normal:
-	db "Normal @"
+	db "NORMAL @"
 .Narrow:
-	db "Narrow @"
+	db "NARROW @"
 .Bold:
-	db "Bold   @"
+	db "BOLD   @"
 .Italic:
-	db "Italic @"
+	db "ITALIC @"
 .Serif:
-	db "Serif  @"
+	db "SERIF  @"
 .Chicago:
-	db "Chicago@"
+	db "CHICAGO@"
 .MICR:
 	db "MICR   @"
 .Unown:
-	db "Unown  @"
+	db "UNOWN  @"
 
 Options_Keyboard:
 	ld hl, wOptions3

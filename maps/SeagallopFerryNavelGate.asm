@@ -89,14 +89,14 @@ SeagallopFerryNavelGateSailorArrive2MovementData:
 
 SeagallopFerryNavelToVermilionQuestionText:
 	text "Ready to head back"
-	line "to Vermilion City?"
+	line "to VERMILION CITY?"
 	done
 
 SeagallopFerryNavelToVermilionText:
 	text "All right!"
 
 	para "All aboard the"
-	line "Seagallop Ferry!"
+	line "SEAGALLOP FERRY!"
 	done
 
 SeagallopFerryNavelRockRefusedText:

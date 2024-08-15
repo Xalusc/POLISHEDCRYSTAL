@@ -41,6 +41,6 @@ GruntM22BeatenText:
 CliffCaveRocketText:
 	text "Don't just wander"
 	line "around during a"
-	cont "Team Rocket"
+	cont "TEAM ROCKET"
 	cont "operation!"
 	done

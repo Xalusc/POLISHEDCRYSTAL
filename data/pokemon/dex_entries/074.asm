@@ -1,4 +1,4 @@
-	db "Rock@" ; species name
+	db "ROCK@" ; species name
 	dw 104, 440 ; height, width
 
 	db   "Proud of their"

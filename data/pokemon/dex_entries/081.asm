@@ -1,4 +1,4 @@
-	db "Magnet@" ; species name
+	db "MAGNET@" ; species name
 	dw 100, 130 ; height, width
 
 	db   "The electricity"

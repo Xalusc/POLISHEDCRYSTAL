@@ -18,8 +18,8 @@ Route8SaffronGate_MapScriptHeader:
 
 Route8SaffronGateOfficerText:
 	text "Have you been to"
-	line "Lavender Town?"
+	line "LAVENDER TOWN?"
 
 	para "There's a tall"
-	line "Radio Tower there."
+	line "RADIO TOWER there."
 	done

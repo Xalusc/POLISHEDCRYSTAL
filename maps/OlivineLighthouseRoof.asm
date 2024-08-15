@@ -77,7 +77,7 @@ OlivineLighthouseRoofSkylaScript:
 
 .WaitingText:
 	text "I saw a hurt #-"
-	line "mon from my plane,"
+	line "MON from my plane,"
 
 	para "but I don't have"
 	line "anything that can"
@@ -91,30 +91,30 @@ OlivineLighthouseRoofSkylaScript:
 	done
 
 .IntroText:
-	text "Skyla: Who are"
+	text "SKYLA: Who are"
 	line "you?"
 
 	para "Oh, I see! You're"
 	line "<PLAYER>, a #-"
-	cont "mon trainer."
+	cont "MON trainer."
 
-	para "I'm Skyla, a cargo"
+	para "I'm SKYLA, a cargo"
 	line "pilot from the"
-	cont "Unova region."
+	cont "UNOVA region."
 
 	para "I've flown to the"
-	line "top of Unova's"
+	line "top of UNOVA's"
 
-	para "Celestial Tower"
+	para "CELESTIAL TOWER"
 	line "before, but this"
 
-	para "Lighthouse is even"
+	para "LIGHTHOUSE is even"
 	line "taller."
 	done
 
 .ChallengeText:
 	text "I saw a hurt #-"
-	line "mon from my plane,"
+	line "MON from my plane,"
 
 	para "but it looks just"
 	line "fine now!"
@@ -169,9 +169,9 @@ OlivineLighthouseRoofSkylaScript:
 
 .AfterText:
 	text "You're an amazing"
-	line "#mon trainer."
+	line "#MON trainer."
 
-	para "My #mon and I"
+	para "My #MON and I"
 	line "are happy, because"
 
 	para "for the first time"

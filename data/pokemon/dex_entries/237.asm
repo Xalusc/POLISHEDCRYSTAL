@@ -1,4 +1,4 @@
-	db "Handstand@" ; species name
+	db "HANDSTAND@" ; species name
 	dw 407, 1060 ; height, width
 
 	db   "After doing a"

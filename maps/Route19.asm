@@ -61,10 +61,10 @@ GenericTrainerSwimmerfDawn:
 	generictrainer SWIMMERF, DAWN, EVENT_BEAT_SWIMMERF_DAWN, SwimmerfDawnSeenText, SwimmerfDawnBeatenText
 
 	text "It's a quick swim"
-	line "between Fuchsia"
+	line "between FUCHSIA"
 
-	para "and Seafoam Is-"
-	line "lands…"
+	para "and SEAFOAM IS-"
+	line "LANDS…"
 
 	para "Sheesh, some big"
 	line "man my boyfriend"
@@ -76,7 +76,7 @@ GenericTrainerSwimmermTucker:
 
 	text "I… asked my girl-"
 	line "friend to swim to"
-	cont "Fuchsia… Gasp…"
+	cont "FUCHSIA… Gasp…"
 	done
 
 GenericTrainerSwimmermJerome:
@@ -134,7 +134,7 @@ SwimmermTuckerSeenText:
 	line "Just… a little…"
 
 	para "farther… to…"
-	line "Fuchsia…"
+	line "FUCHSIA…"
 	done
 
 SwimmermTuckerBeatenText:
@@ -182,10 +182,10 @@ Route19Fisher1Text:
 	cont "construction."
 
 	para "If you want to get"
-	line "to Cinnabar, you'd"
+	line "to CINNABAR, you'd"
 
 	para "better go south"
-	line "from Pallet Town."
+	line "from PALLET TOWN."
 	done
 
 Route19Fisher1Text_RocksCleared:
@@ -208,17 +208,17 @@ Route19EngineerText2:
 	done
 
 Route19SignText:
-	text "Route 19"
+	text "ROUTE 19"
 
-	para "Fuchsia City -"
-	line "Seafoam Islands"
+	para "FUCHSIA CITY -"
+	line "SEAFOAM ISLANDS"
 	done
 
 CarefulSwimmingSignText:
 	text "Please be careful"
 	line "if you are swim-"
-	cont "ming to Seafoam"
-	cont "Islands."
+	cont "ming to SEAFOAM"
+	cont "ISLANDS."
 
-	para "Fuchsia Police"
+	para "FUCHSIA POLICE"
 	done

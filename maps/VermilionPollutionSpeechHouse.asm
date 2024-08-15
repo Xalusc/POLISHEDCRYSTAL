@@ -16,7 +16,7 @@ VermilionPollutionSpeechHouse_MapScriptHeader:
 	object_event  5,  3, SPRITE_COOL_DUDE, SPRITEMOVEDATA_STANDING_LEFT, 1, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_COMMAND, jumptextfaceplayer, VermilionPollutionSpeechHouseCooltrainerMText, -1
 
 VermilionPollutionSpeechHouseBreederText:
-	text "Vermilion is a"
+	text "VERMILION is a"
 	line "wonderful place,"
 
 	para "but in a port like"

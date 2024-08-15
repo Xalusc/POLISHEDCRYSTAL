@@ -482,13 +482,13 @@ Special_SetDayOfWeek:
 	dw .Saturday
 	dw .Sunday
 
-.Sunday:    db " Sunday@"
-.Monday:    db " Monday@"
-.Tuesday:   db " Tuesday@"
-.Wednesday: db "Wednesday@"
-.Thursday:  db "Thursday@"
-.Friday:    db " Friday@"
-.Saturday:  db "Saturday@"
+.Sunday:    db " SUNDAY@"
+.Monday:    db " MONDAY@"
+.Tuesday:   db " TUESDAY@"
+.Wednesday: db "WEDNESDAY@"
+.Thursday:  db "THURSDAY@"
+.Friday:    db " FRIDAY@"
+.Saturday:  db "SATURDAY@"
 
 .WhatDayIsItText:
 	; What day is it?
@@ -589,10 +589,10 @@ GetTimeOfDayString:
 	ld de, NITE_String
 	ret
 
-NITE_String: db "Night@"
-MORN_String: db "Morning@"
-DAY_String:  db "Day@"
-EVE_String:  db "Evening@"
+NITE_String: db "NITE@"
+MORN_String: db "MORN@"
+DAY_String:  db "DAY@"
+EVE_String:  db "EVE@"
 
 PlaceCaughtTimeOfDayString::
 	and CAUGHT_TIME_MASK

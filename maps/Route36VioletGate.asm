@@ -31,8 +31,8 @@ Route36VioletGateOfficerText1:
 	text "Lately, I don't"
 	line "see people coming"
 
-	para "from Goldenrod"
-	line "City."
+	para "from GOLDENROD"
+	line "CITY."
 	done
 
 Route36VioletGateOfficerText2:
@@ -42,8 +42,8 @@ Route36VioletGateOfficerText2:
 	para "many people are"
 	line "coming from"
 
-	para "Goldenrod and"
-	line "Ecruteak!"
+	para "GOLDENROD and"
+	line "ECRUTEAK!"
 	done
 
 Route36VioletGateYoungsterText:

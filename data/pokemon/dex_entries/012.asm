@@ -1,4 +1,4 @@
-	db "Butterfly@" ; species name
+	db "BUTTERFLY@" ; species name
 	dw 307, 710 ; height, width
 
 	db   "It flits from"

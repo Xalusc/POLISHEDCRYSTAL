@@ -32,8 +32,8 @@ WardensGranddaughter:
 
 WardensGranddaughterText1:
 	text "My grandpa is the"
-	line "Safari Zone War-"
-	cont "den."
+	line "SAFARI ZONE WAR-"
+	cont "DEN."
 
 	para "At least he was…"
 
@@ -44,7 +44,7 @@ WardensGranddaughterText1:
 	line "all by himself."
 
 	para "He quit running"
-	line "Safari Zone just"
+	line "SAFARI ZONE just"
 	cont "like that."
 	done
 
@@ -62,13 +62,13 @@ WardenPhotoText:
 	line "grinning old man"
 
 	para "who's surrounded"
-	line "by #mon."
+	line "by #MON."
 	done
 
 SafariZonePhotoText:
 	text "It's a photo of a"
 	line "huge grassy plain"
 
-	para "with rare #mon"
+	para "with rare #MON"
 	line "frolicking in it."
 	done

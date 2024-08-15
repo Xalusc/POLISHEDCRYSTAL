@@ -50,7 +50,7 @@ OlivineGymJasmineScript:
 
 	text "…You could use"
 	line "that TM to teach"
-	cont "Iron Tail."
+	cont "IRON TAIL."
 	done
 
 OlivineGymGuyScript:
@@ -60,9 +60,9 @@ OlivineGymGuyScript:
 	iffalse_jumptextfaceplayer OlivineGymGuyPreText
 	jumpthistextfaceplayer
 
-	text "Jasmine uses the"
+	text "JASMINE uses the"
 	line "newly discovered"
-	cont "Steel-type."
+	cont "steel-type."
 
 	para "I don't know very"
 	line "much about it."
@@ -82,11 +82,11 @@ OlivineGymLassConnie:
 	line "how capable you"
 
 	para "are from the"
-	line "Lighthouse."
+	line "LIGHTHOUSE."
 
 	para "It's time you"
 	line "showed that to"
-	cont "Jasmine!"
+	cont "JASMINE!"
 
 	para "Good luck!"
 	done
@@ -99,7 +99,7 @@ OlivineGymLassConnie:
 	line "such potential."
 
 	para "Have you been to"
-	line "Mahogany Town?"
+	line "MAHOGANY TOWN?"
 	done
 
 OlivineGymGentlemanPreston:
@@ -117,7 +117,7 @@ OlivineGymGentlemanPreston:
 
 	para "Thank you for"
 	line "helping the"
-	cont "Gym Leader,"
+	cont "GYM LEADER,"
 
 	para "but battle is a"
 	line "separate matter."
@@ -129,7 +129,7 @@ OlivineGymGentlemanPreston:
 	text "Impressive!"
 	line "You should earn"
 
-	para "more badges with"
+	para "more BADGES with"
 	line "that much skill."
 	done
 
@@ -152,7 +152,7 @@ OlivineGymStatue:
 Jasmine_SteelTypeIntro:
 	text "…Thank you for"
 	line "your help at the"
-	cont "Lighthouse…"
+	cont "LIGHTHOUSE…"
 
 	para "But this is dif-"
 	line "ferent. Please"
@@ -160,12 +160,12 @@ Jasmine_SteelTypeIntro:
 	para "allow me to intro-"
 	line "duce myself."
 
-	para "I am Jasmine, a"
-	line "Gym Leader. I use"
-	cont "the Steel-type."
+	para "I am JASMINE, a"
+	line "GYM LEADER. I use"
+	cont "the steel-type."
 
 	para "…Do you know about"
-	line "the Steel-type?"
+	line "the steel-type?"
 
 	para "They are very"
 	line "hard, cold, sharp,"
@@ -182,20 +182,20 @@ Jasmine_BetterTrainer:
 	line "kindness."
 
 	para "In accordance with"
-	line "League rules, I"
+	line "LEAGUE rules, I"
 
 	para "confer upon you"
-	line "this Badge."
+	line "this BADGE."
 	done
 
 Text_ReceivedMineralBadge:
 	text "<PLAYER> received"
-	line "the Mineral Badge."
+	line "the MINERAL BADGE."
 	done
 
 Jasmine_BadgeSpeech:
-	text "With that Badge,"
-	line "all #mon up"
+	text "With that BADGE,"
+	line "all #MON up"
 
 	para "to <LV>70, even"
 	line "traded ones, will"
@@ -216,7 +216,7 @@ Jasmine_GoodLuck:
 OlivineGymGuyWinText:
 	text "That was awesome."
 
-	para "The Steel-type,"
+	para "The steel-type,"
 	line "huh?"
 
 	para "That was a close"
@@ -225,12 +225,12 @@ OlivineGymGuyWinText:
 	done
 
 OlivineGymGuyPreText:
-	text "Jasmine, the Gym"
-	line "Leader, is at the"
-	cont "Lighthouse."
+	text "JASMINE, the GYM"
+	line "LEADER, is at the"
+	cont "LIGHTHOUSE."
 
 	para "She's been tending"
-	line "to a sick #mon."
+	line "to a sick #MON."
 
 	para "A strong trainer"
 	line "has to be compas-"

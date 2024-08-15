@@ -1,4 +1,4 @@
-	db "Rainbow@" ; species name
+	db "RAINBOW@" ; species name
 	dw 1206, 4390 ; height, width
 
 	db   "It will reveal"

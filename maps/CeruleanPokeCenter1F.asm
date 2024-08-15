@@ -22,16 +22,16 @@ PokemonJournalMistyScript:
 	setflag ENGINE_READ_MISTY_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Leader Misty!"
+	para "SPECIAL FEATURE:"
+	line "LEADER MISTY!"
 
-	para "Misty is said to"
-	line "worship Lorelei,"
+	para "MISTY is said to"
+	line "worship LORELEI,"
 
 	para "a former member of"
-	line "the Elite Four."
+	line "the ELITE FOUR."
 	done
 
 CeruleanPokeCenter1FGymGuyScript:
@@ -39,41 +39,41 @@ CeruleanPokeCenter1FGymGuyScript:
 	iftrue_jumptextfaceplayer .MetricText
 	jumpthistextfaceplayer
 
-	text "The Magnet Train"
+	text "The MAGNET TRAIN"
 	line "travels at over"
 
 	para "340 mph. It goes"
-	line "between Kanto and"
+	line "between KANTO and"
 
-	para "Johto in almost no"
+	para "JOHTO in almost no"
 	line "time at all."
 
 	para "It really makes"
-	line "Johto accessible."
+	line "JOHTO accessible."
 	done
 
 .MetricText:
-	text "The Magnet Train"
+	text "The MAGNET TRAIN"
 	line "travels at over"
 
 	para "550 kph. It goes"
-	line "between Kanto and"
+	line "between KANTO and"
 
-	para "Johto in almost no"
+	para "JOHTO in almost no"
 	line "time at all."
 
 	para "It really makes"
-	line "Johto accessible."
+	line "JOHTO accessible."
 	done
 
 CeruleanPokeCenter1FSuperNerdText:
 	text "For battles, I'd"
 	line "much rather use"
 
-	para "#mon I've been"
+	para "#MON I've been"
 	line "raising, even if"
 
 	para "they're weaker"
 	line "than some newly"
-	cont "caught #mon."
+	cont "caught #MON."
 	done

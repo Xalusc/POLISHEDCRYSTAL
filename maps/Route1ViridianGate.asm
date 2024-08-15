@@ -19,17 +19,17 @@ Route1ViridianGate_MapScriptHeader:
 
 Route1ViridianGateOfficerText:
 	text "To the south is"
-	line "Pallet Town."
+	line "PALLET TOWN."
 
 	para "That's where"
-	line "Prof.Oak lives."
+	line "PROF.OAK lives."
 	done
 
 Route1ViridianGateRockerText:
 	text "If you really"
 	line "think about it,"
 
-	para "aren't we ALL on"
-	line "the road to Vir-"
-	cont "idian City?"
+	para "aren't we all on"
+	line "the road to VIR-"
+	cont "IDIAN CITY?"
 	done

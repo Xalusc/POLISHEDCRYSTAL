@@ -24,11 +24,11 @@ Route7SaffronGuardScript:
 
 	text "Did you hear about"
 	line "the accident at"
-	cont "the Power Plant?"
+	cont "the POWER PLANT?"
 
 	para "It's located in"
 	line "the East, close to"
-	cont "Lavender Town."
+	cont "LAVENDER TOWN."
 	done
 
 Route7SaffronGuardSeriousText:
@@ -36,21 +36,21 @@ Route7SaffronGuardSeriousText:
 	line "job seriously."
 
 	para "Hey! You have a"
-	line "#dex."
+	line "#DEX."
 
 	para "OK. You can go"
 	line "through."
 	done
 
 Route7SaffronGateSilphEmployeeText:
-	text "The Elite Four's"
-	line "Bruno used to hone"
+	text "The ELITE FOUR's"
+	line "BRUNO used to hone"
 
 	para "his skills in"
-	line "Saffron."
+	line "SAFFRON."
 
 	para "He trained with a"
-	line "guy named Brawly"
+	line "guy named BRAWLY"
 
 	para "back in the early"
 	line "days."

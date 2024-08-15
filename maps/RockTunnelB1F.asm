@@ -26,8 +26,8 @@ RockTunnelB1F_MapScriptHeader:
 GenericTrainerFirebreatherDick:
 	generictrainer FIREBREATHER, DICK, EVENT_BEAT_FIREBREATHER_DICK, FirebreatherDickSeenText, FirebreatherDickBeatenText
 
-	text "A #mon that"
-	line "knows Flash is"
+	text "A #MON that"
+	line "knows FLASH is"
 
 	para "helpful in dark"
 	line "caves like this."

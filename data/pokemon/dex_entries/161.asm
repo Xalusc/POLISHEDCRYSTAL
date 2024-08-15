@@ -1,4 +1,4 @@
-	db "Scout@" ; species name
+	db "SCOUT@" ; species name
 	dw 207, 130 ; height, width
 
 	db   "When acting as a"

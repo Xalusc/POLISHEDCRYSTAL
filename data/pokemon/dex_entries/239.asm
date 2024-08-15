@@ -1,4 +1,4 @@
-	db "Electric@" ; species name
+	db "ELECTRIC@" ; species name
 	dw 200, 520 ; height, width
 
 	db   "It loves violent"

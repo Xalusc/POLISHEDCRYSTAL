@@ -1,4 +1,4 @@
-	db "Legendary@" ; species name
+	db "LEGENDARY@" ; species name
 	dw 603, 3420 ; height, width
 
 	db   "An ancient picture"

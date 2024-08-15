@@ -18,8 +18,8 @@ SaffronMart_MapScriptHeader:
 
 SaffronMartCooltrainerMText:
 	text "There's a big"
-	line "Radio Tower in"
-	cont "Lavender."
+	line "RADIO TOWER in"
+	cont "LAVENDER."
 	done
 
 SaffronMartCooltrainerFText:

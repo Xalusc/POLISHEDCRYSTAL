@@ -94,7 +94,7 @@ CeladonCityRichBoyText:
 	line "bedazzling?"
 
 	para "It turns heads"
-	line "when I swagger"
+	line "when I SWAGGER"
 	cont "down the street!"
 
 	para "The people love"
@@ -106,23 +106,23 @@ CeladonCityRichBoyText:
 
 Text_CeladonCityTutorSwagger:
 	text "I shall teach"
-	line "your #mon to"
+	line "your #MON to"
 
-	para "Swagger like me"
+	para "SWAGGER like me"
 	line "for merely a"
-	cont "Silver Leaf."
+	cont "SILVER LEAF."
 	done
 
 Text_CeladonCityTutorNoSilverLeaf:
 	text "…You have no"
-	line "Silver Leaf?"
+	line "SILVER LEAF?"
 	cont "What a pity."
 	done
 
 Text_CeladonCityTutorQuestion:
 	text "You wish me to"
 	line "teach your #-"
-	cont "mon Swagger?"
+	cont "MON SWAGGER?"
 	done
 
 Text_CeladonCityTutorRefused:
@@ -131,21 +131,21 @@ Text_CeladonCityTutorRefused:
 
 Text_CeladonCityTutorTaught:
 	text "Behold! Your #-"
-	line "mon has learned"
-	cont "to Swagger!"
+	line "MON has learned"
+	cont "to SWAGGER!"
 	done
 
 CeladonCityFisherText:
-	text "This Poliwrath is"
+	text "This POLIWRATH is"
 	line "my partner."
 
 	para "I wonder if it'll"
 	line "ever evolve into a"
-	cont "frog #mon."
+	cont "frog #MON."
 	done
 
 CeladonCityPoliwrathText:
-	text "Poliwrath: Croak!"
+	text "POLIWRATH: Croak!"
 	done
 
 CeladonCityTeacher1Text:
@@ -160,13 +160,13 @@ CeladonCityTeacher1Text:
 	done
 
 CeladonCityGramps1Text:
-	text "Grimer have been"
+	text "GRIMER have been"
 	line "appearing lately."
 
 	para "See that pond out"
 	line "in front of the"
 
-	para "house? Grimer live"
+	para "house? GRIMER live"
 	line "there now."
 
 	para "Where did they"
@@ -175,7 +175,7 @@ CeladonCityGramps1Text:
 	done
 
 CeladonCityGramps2Text:
-	text "Nihihi! This Gym"
+	text "Nihihi! This GYM"
 	line "is great! Only"
 
 	para "girls are allowed"
@@ -186,7 +186,7 @@ CeladonCityYoungster1Text:
 	text "Want to know a"
 	line "secret?"
 
-	para "Celadon Condo"
+	para "CELADON CONDO"
 	line "has a hidden back"
 	cont "door."
 	done
@@ -199,7 +199,7 @@ CeladonCityYoungster2Text:
 	para "There's one con-"
 	line "testant from the"
 
-	para "Sinnoh region this"
+	para "SINNOH region this"
 	line "year."
 
 	para "Just watching her"
@@ -208,7 +208,7 @@ CeladonCityYoungster2Text:
 	done
 
 CeladonCityTeacher2Text:
-	text "Celadon Dept.Store"
+	text "CELADON DEPT.STORE"
 	line "has the biggest"
 
 	para "and best selection"
@@ -230,115 +230,115 @@ CeladonCityLassText_PCC:
 	cont "buildings!"
 
 	para "Isn't it true that"
-	line "Goldenrod #mon"
+	line "GOLDENROD #MON"
 
-	para "Center was made"
+	para "CENTER was made"
 	line "much, much bigger?"
 
 	para "That is so neat!"
 	line "I wish we had a"
 
 	para "place like that in"
-	line "Kanto…"
+	line "KANTO…"
 	done
 
 CeladonCityLassText:
-	text "#mon are offer-"
+	text "#MON are offer-"
 	line "ed as prizes at"
-	cont "the Game Corner."
+	cont "the GAME CORNER."
 
 	para "The poor things…"
 	done
 
 CeladonCitySignText:
-	text "Celadon City"
+	text "CELADON CITY"
 
 	para "The City of"
 	line "Rainbow Dreams"
 	done
 
 CeladonGymSignText:
-	text "Celadon City"
-	line "#mon Gym"
-	cont "Leader: Erika"
+	text "CELADON CITY"
+	line "#MON GYM"
+	cont "LEADER: ERIKA"
 
 	para "The Nature-Loving"
 	line "Princess"
 	done
 
 CeladonUniversitySignText:
-	text "Celadon University"
+	text "CELADON UNIVERSITY"
 	done
 
 CeladonCityDeptStoreSignText:
 	text "Find What You"
-	line "Need at Celadon"
-	cont "Dept.Store!"
+	line "Need at CELADON"
+	cont "DEPT.STORE!"
 	done
 
 CeladonCityHomeDecorStoreSignText:
-	text "Celadon Dept.Store"
-	line "Home Decor Wing"
+	text "CELADON DEPT.STORE"
+	line "HOME DECOR WING"
 	done
 
 CeladonCityMansionSignText:
-	text "Celadon"
-	line "Condominium"
+	text "CELADON"
+	line "CONDOMINIUM"
 	done
 
 CeladonCityGameCornerSignText:
 	text "The Playground for"
-	line "Everybody--Celadon"
-	cont "Game Corner"
+	line "Everybody--CELADON"
+	cont "GAME CORNER"
 	done
 
 CeladonCityPrizeExchangeSignText:
 	text "Coins exchanged"
 	line "for prizes!"
-	cont "Prize Exchange"
+	cont "PRIZE EXCHANGE"
 	done
 
 CeladonCityCafeSignText:
-	text "Celadon Diner"
+	text "CELADON DINER"
 
 	para "Eatathon Contest"
 	line "all day today!"
 	done
 
 CeladonCityHotelSignText:
-	text "Celadon Hotel"
+	text "CELADON HOTEL"
 
 	para "Relax in our"
 	line "swimming pool!"
 	done
 
 CeladonCityTrainerTips1Text:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
 if DEF(FAITHFUL)
-	para "Guard Spec."
+	para "GUARD SPEC."
 else
-	para "Guard Stats"
+	para "GUARD STATS"
 endc
-	line "protects #mon"
+	line "protects #MON"
 
 	para "against stat"
 	line "reductions."
 
 	para "Get your items at"
-	line "Celadon Dept."
-	cont "Store!"
+	line "CELADON DEPT."
+	cont "STORE!"
 	done
 
 CeladonCityTrainerTips2Text:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "Eevee is a #mon"
+	para "EEVEE is a #MON"
 	line "full of potential."
 
 	para "Try exposing it to"
 	line "many different"
 	cont "locations, times"
 	cont "of day, and"
-	cont "Evolution stones."
+	cont "evolution stones."
 	done

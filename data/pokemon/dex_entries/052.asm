@@ -1,4 +1,4 @@
-	db "Scratch Cat@" ; species name
+	db "SCRATCH CAT@" ; species name
 	dw 104, 90 ; height, width
 
 	db   "It loves things"

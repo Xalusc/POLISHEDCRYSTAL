@@ -1,4 +1,4 @@
-	db "FangScorpio@" ; species name
+	db "FANGSCORPIO@" ; species name
 	dw 607, 937 ; height, width
 
 	db   "Its flight is"

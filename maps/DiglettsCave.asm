@@ -65,7 +65,7 @@ DiglettsCaveFossilManiacScript:
 	cont "deal for ya!"
 
 	para "You know how #-"
-	line "mon fossils turn"
+	line "MON fossils turn"
 	cont "up in rocks?"
 
 	para "If you find one,"
@@ -94,7 +94,7 @@ DiglettsCaveFossilManiacScript:
 
 .NoItemText:
 	text "…Nope, nothing"
-	line "cool in your Bag."
+	line "cool in your PACK."
 
 	para "Oh well. Maybe"
 	line "next time!"
@@ -106,7 +106,7 @@ GenericTrainerHikerGerard:
 	text "This place makes"
 	line "me so nervous."
 
-	para "What if a Diglett"
+	para "What if a DIGLETT"
 	line "attacks me out of"
 	cont "nowhere?"
 	done
@@ -125,15 +125,15 @@ GenericTrainerHikerDent:
 	generictrainer HIKER, DENT, EVENT_BEAT_HIKER_DENT, .SeenText, .BeatenText
 
 	text "I'll fit right in"
-	line "with Pewter Gym's"
+	line "with PEWTER GYM's"
 	cont "buff crew. Hohoh!"
 	done
 
 .SeenText:
 	text "I'm headed to"
-	line "Pewter."
+	line "PEWTER."
 
-	para "Its Rock-type Gym"
+	para "Its rock-type GYM"
 	line "is perfect for a"
 	cont "buff guy like me!"
 	done
@@ -158,23 +158,23 @@ GenericTrainerBlackbeltInigo:
 .SeenText:
 	text "Prepare for"
 	line "battle!"
-	cont "HOO-HAH!"
+	cont "Hoo-hah!"
 	done
 
 .BeatenText:
-	text "HIIYAAAH!"
+	text "Hiiyaaah!"
 	done
 
 GenericTrainerEngineerSmith:
 	generictrainer ENGINEER, SMITH, EVENT_BEAT_ENGINEER_SMITH, .SeenText, .BeatenText
 
-	text "Those Diglett are"
+	text "Those DIGLETT are"
 	line "just natural"
 	cont "engineers."
 	done
 
 .SeenText:
-	text "How did Diglett"
+	text "How did DIGLETT"
 	line "create such a long"
 	cont "tunnel?"
 	done
@@ -185,7 +185,7 @@ GenericTrainerEngineerSmith:
 
 DiglettsCaveCooltrainerfText:
 	text "Look at all these"
-	line "cute Diglett!"
+	line "cute DIGLETT!"
 
 	para "I swear I saw one"
 	line "with a blue nose!"
@@ -193,28 +193,28 @@ DiglettsCaveCooltrainerfText:
 
 DiglettsCavePokefanMText:
 if DEF(FAITHFUL)
-	text "A bunch of Diglett"
+	text "A bunch of DIGLETT"
 	line "popped out of the"
 
 	para "ground! That was"
 	line "shocking."
 else
 	text "When the volcano"
-	line "on Cinnabar Island"
+	line "on CINNABAR ISLAND"
 	cont "erupted, it radic-"
 
 	para "ally affected some"
-	line "#mon species."
+	line "#MON species."
 
-	para "Diglett and Dug-"
-	line "trio burrowing"
+	para "DIGLETT and DUG-"
+	line "TRIO burrowing"
 	cont "underground got"
 
 	para "covered in strands"
 	line "of cooled lava,"
 
 	para "blown here all the"
-	line "way from Cinnabar."
+	line "way from CINNABAR."
 
 	para "It's made them even"
 	line "tougher. Good luck"

@@ -1,4 +1,4 @@
-	db "Pincer@" ; species name
+	db "PINCER@" ; species name
 	dw 403, 1320 ; height, width
 
 	db   "Its oversized claw"

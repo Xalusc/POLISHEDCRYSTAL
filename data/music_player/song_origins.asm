@@ -13,9 +13,9 @@ SongOrigins:
 	li "X/Y"
 	li "OR/AS"
 	li "S/M"
-	li "Stadium"
-	li "Go"
+	li "STADIUM"
+	li "GO"
 	li "M02"
-	li "Prism"
-	li "Undertale"
+	li "PRISM"
+	li "UNDERTALE"
 	assert_list_length NUM_SONG_ORIGINS

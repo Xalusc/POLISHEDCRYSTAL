@@ -98,7 +98,7 @@ EusinesHouseGrampsScript:
 	jumptextfaceplayer EusinesHouseGrampsText1
 
 CeladonEusineText1:
-	text "Eusine: Hi!"
+	text "EUSINE: Hi!"
 
 	para "I'm back visiting"
 	line "my hometown."
@@ -115,14 +115,14 @@ EusineLeavesCeladonText:
 	line "fresh rumors of a"
 
 	para "rainbow-colored"
-	line "#mon appearing"
-	cont "at Bell Tower."
+	line "#MON appearing"
+	cont "at BELL TOWER."
 
 	para "I've just had my"
 	line "party healed, so"
 
 	para "now I'm headed to"
-	line "Ecruteak."
+	line "ECRUTEAK."
 
 	para "I'll be seeing"
 	line "you, <PLAYER>!"
@@ -134,7 +134,7 @@ EusineNoBeastsText:
 
 	para "Have you caught"
 	line "the legendary"
-	cont "beast #mon?"
+	cont "beast #MON?"
 
 	para "………………"
 
@@ -145,16 +145,16 @@ EusineNoBeastsText:
 	done
 
 EusineShowsRaikouText:
-	text "This is Raikou:"
+	text "This is RAIKOU:"
 	done
 
 EusineShowsEnteiText:
-	text "This is Entei:"
+	text "This is ENTEI:"
 	done
 
 EusineShowsSuicuneText:
 	text "This, of course,"
-	line "is Suicune:"
+	line "is SUICUNE:"
 	done
 
 EusineQuestHintText:
@@ -173,13 +173,13 @@ EusinesHouseGrampsText1:
 	done
 
 EusinesHouseGrampsText2:
-	text "My grandson Eusine"
-	line "is in Johto,"
+	text "My grandson EUSINE"
+	line "is in JOHTO,"
 
 	para "searching far and"
-	line "wide for Suicune."
+	line "wide for SUICUNE."
 
 	para "I taught him all"
 	line "about the legend-"
-	cont "ary #mon!"
+	cont "ary #MON!"
 	done

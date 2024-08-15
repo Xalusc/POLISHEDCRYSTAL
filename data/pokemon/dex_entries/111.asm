@@ -1,4 +1,4 @@
-	db "Spikes@" ; species name
+	db "SPIKES@" ; species name
 	dw 303, 2540 ; height, width
 
 	db   "It can remember"

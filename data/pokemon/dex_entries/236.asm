@@ -1,4 +1,4 @@
-	db "Scuffle@" ; species name
+	db "SCUFFLE@" ; species name
 	dw 204, 460 ; height, width
 
 	db   "To brush up on its"

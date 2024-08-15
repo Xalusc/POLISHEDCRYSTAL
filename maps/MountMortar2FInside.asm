@@ -25,18 +25,18 @@ GenericTrainerSupernerdHugh:
 	generictrainer SUPER_NERD, HUGH, EVENT_BEAT_SUPER_NERD_HUGH, SupernerdHughSeenText, SupernerdHughBeatenText
 
 	text "I'm investigating"
-	line "Mt.Mortar, but my"
+	line "MT.MORTAR, but my"
 	cont "pal's gone AWOL."
 
 	para "Have you seen a"
 	line "trainer who has a"
 
-	para "Slowpoke that can"
-	line "use Strength?"
+	para "SLOWPOKE that can"
+	line "use STRENGTH?"
 	done
 
 SupernerdHughSeenText:
-	text "Yo! Markus!"
+	text "Yo! MARKUS!"
 	done
 
 SupernerdHughBeatenText:

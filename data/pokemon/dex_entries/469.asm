@@ -1,4 +1,4 @@
-	db "Ogre Darner@" ; species name
+	db "OGRE DARNER@" ; species name
 	dw 603, 1135 ; height, width
 
 	db   "Its jaw power is"

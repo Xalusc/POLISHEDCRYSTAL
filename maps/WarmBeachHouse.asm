@@ -58,8 +58,8 @@ WarmBeachHouseBookScript:
 	done
 
 .Text0:
-	text "The Shamouti"
-	line "Prophecy"
+	text "THE SHAMOUTI"
+	line "PROPHECY"
 
 	para "Want to read it?"
 	done
@@ -88,7 +88,7 @@ WarmBeachHouseBookScript:
 	done
 
 .Text2:
-	text "O Chosen One,"
+	text "O CHOSEN ONE,"
 	line "into thine hands"
 	cont "bring together"
 	cont "all three."

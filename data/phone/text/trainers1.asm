@@ -59,7 +59,7 @@ JackGreetNiteText:
 
 JackGenericText:
 	text "How are your"
-	line "#mon doing?"
+	line "#MON doing?"
 
 	para "My "
 	text_ram wStringBuffer4
@@ -130,7 +130,7 @@ BeverlyGreetNiteText:
 
 BeverlyGenericText:
 	text "Keeping your"
-	line "#mon happy?"
+	line "#MON happy?"
 
 	para "My "
 	text_ram wStringBuffer4
@@ -201,9 +201,9 @@ HueyGreetNiteText:
 
 UnknownGenericText:
 	text "How are your"
-	line "#mon doing?"
+	line "#MON doing?"
 
-	para "My #mon are a"
+	para "My #MON are a"
 	line "bit too energetic."
 
 	para ""
@@ -290,7 +290,7 @@ GavenGreetNiteText:
 
 GavenGenericText:
 	text "How are your"
-	line "#mon doing?"
+	line "#MON doing?"
 
 	para "My "
 	text_ram wStringBuffer4
@@ -299,8 +299,8 @@ GavenGenericText:
 	cont "ever."
 
 	para "Let's keep at it"
-	line "and become #mon"
-	cont "Champs!"
+	line "and become #MON"
+	cont "CHAMPS!"
 	done
 
 BethAnswerPhoneText:
@@ -368,17 +368,17 @@ BethGenericText:
 	text "Are you the kind"
 	line "of person who goes"
 
-	para "to #mon Centers"
+	para "to #MON CENTERS"
 	line "often?"
 
 	para "I go every day."
 	line "Watching out for"
 
 	para "the health of your"
-	line "#mon is a basic"
+	line "#MON is a basic"
 
 	para "part of being a"
-	line "#mon trainer."
+	line "#MON trainer."
 	done
 
 JoseAnswerPhoneText:
@@ -438,7 +438,7 @@ JoseGreetNiteText:
 	done
 
 JoseGenericText:
-	text "Are your #mon"
+	text "Are your #MON"
 	line "still cooking?"
 
 	para "My "
@@ -510,12 +510,12 @@ ReenaGreetNiteText:
 
 ReenaGenericText:
 	text "Hey, how are your"
-	line "#mon doing?"
+	line "#MON doing?"
 
 	para "What? Great?"
 	line "I see…"
 
-	para "What? My #mon?"
+	para "What? My #MON?"
 
 	para "Of course they're"
 	line "doing great! What"
@@ -583,7 +583,7 @@ JoeyGreetNiteText:
 
 JoeyGenericText:
 	text "How are your"
-	line "#mon doing?"
+	line "#MON doing?"
 
 	para "My "
 	text_ram wStringBuffer4
@@ -658,15 +658,15 @@ WadeGreetNiteText:
 
 WadeGenericText:
 	text "How are your"
-	line "#mon doing?"
+	line "#MON doing?"
 
-	para "My #mon have"
+	para "My #MON have"
 	line "too much energy to"
 
 	para "burn. It gets to"
 	line "be a problem."
 
-	para "Of all my #mon,"
+	para "Of all my #MON,"
 	line ""
 	text_ram wStringBuffer4
 	text " is the"
@@ -731,7 +731,7 @@ RalphGenericText:
 	text "Are you taking"
 	line "good care of your"
 
-	para "#mon? You have"
+	para "#MON? You have"
 	line "to be good to your"
 	cont "partners!"
 	done
@@ -798,15 +798,15 @@ LizGenericText:
 	line "so I called you."
 
 	para "So anyway, how are"
-	line "your #mon?"
+	line "your #MON?"
 
 	para "Me, I take my"
 	line ""
 	text_ram wStringBuffer4
 	text " to the"
 
-	para "#mon Center in"
-	line "Violet every day,"
+	para "#MON CENTER in"
+	line "VIOLET every day,"
 
 	para "so it's doing just"
 	line "fantastic!"
@@ -819,7 +819,7 @@ AnthonyAnswerPhoneText:
 	text "Yeah, "
 	text_ram wStringBuffer3
 	text " the"
-	line "Hiker here."
+	line "HIKER here."
 
 	para "Ah, <PLAYER>!"
 	done
@@ -828,7 +828,7 @@ AnthonyAnswerPhoneDayText:
 	text "Yeah, "
 	text_ram wStringBuffer3
 	text " the"
-	line "Hiker here."
+	line "HIKER here."
 
 	para "Ah, <PLAYER>,"
 	line "right?"
@@ -838,7 +838,7 @@ AnthonyAnswerPhoneNiteText:
 	text "Yeah, "
 	text_ram wStringBuffer3
 	text " the"
-	line "Hiker here."
+	line "HIKER here."
 
 	para "Ah, <PLAYER>, isn't"
 	line "it?"
@@ -849,7 +849,7 @@ AnthonyGreetText:
 
 	para "This is "
 	text_ram wStringBuffer3
-	line "the Hiker!"
+	line "the HIKER!"
 	done
 
 AnthonyGreetDayText:
@@ -858,7 +858,7 @@ AnthonyGreetDayText:
 
 	para "This is "
 	text_ram wStringBuffer3
-	line "the Hiker!"
+	line "the HIKER!"
 	done
 
 AnthonyGreetNiteText:
@@ -867,11 +867,11 @@ AnthonyGreetNiteText:
 
 	para "This is "
 	text_ram wStringBuffer3
-	line "the Hiker!"
+	line "the HIKER!"
 	done
 
 AnthonyGenericText:
-	text "Are your #mon"
+	text "Are your #MON"
 	line "as feisty as ever?"
 
 	para "My "
@@ -945,13 +945,13 @@ ToddGreetNiteText:
 
 ToddGenericText:
 	text "How do you raise"
-	line "your #mon?"
+	line "your #MON?"
 
 	para "I do all sorts"
 	line "of things, like"
 
 	para "leaving them in"
-	line "Day-Care and"
+	line "DAY-CARE and"
 
 	para "toughening them up"
 	line "with items."
@@ -1015,7 +1015,7 @@ GinaGreetNiteText:
 	done
 
 GinaGenericText:
-	text "Are your #mon"
+	text "Are your #MON"
 	line "still tough?"
 
 	para "I train every day"
@@ -1136,7 +1136,7 @@ ArnieGreetNiteText:
 	done
 
 ArnieGenericText:
-	text "I bet your #mon"
+	text "I bet your #MON"
 	line "are a lot stronger"
 	cont "than before."
 	done
@@ -1191,12 +1191,12 @@ AlanGreetNiteText:
 AlanGenericText:
 	text "<PLAYER>, are you"
 	line "raising your"
-	cont "#mon properly?"
+	cont "#MON properly?"
 
 	para "I read in a book"
 	line "that you should"
 
-	para "raise any #mon"
+	para "raise any #MON"
 	line "you catch with"
 	cont "love and care."
 	done
@@ -1267,7 +1267,7 @@ DanaGenericText:
 	line "scary."
 
 	para "How are your"
-	line "#mon doing?"
+	line "#MON doing?"
 	done
 
 ChadAnswerPhoneText:
@@ -1332,19 +1332,19 @@ ChadGreetNiteText:
 
 ChadGenericText:
 	text "How are your"
-	line "#mon doing?"
+	line "#MON doing?"
 
-	para "You know Prof.Oak,"
+	para "You know PROF.OAK,"
 	line "so of course your"
-	cont "#mon are fine!"
+	cont "#MON are fine!"
 
-	para "My #mon are"
+	para "My #MON are"
 	line "doing well too."
 
 	para "But then, I am"
 	line "trying to become a"
 
-	para "#mon professor,"
+	para "#MON professor,"
 	line "so that shouldn't"
 	cont "be a big surprise."
 	done
@@ -1543,11 +1543,11 @@ BrentGenericText:
 	text "Oh yeah, I saw you"
 	line "coming out of a"
 
-	para "#mon Center the"
+	para "#MON CENTER the"
 	line "other day."
 
 	para "You heal your"
-	line "#mon regularly,"
+	line "#MON regularly,"
 
 	para "don't you?"
 	line "I'm impressed."
@@ -1557,7 +1557,7 @@ BrentGenericText:
 	line "is so tough, it"
 
 	para "doesn't need to go"
-	line "to #mon Centers"
+	line "to #MON CENTERS"
 	cont "often. Heheh!"
 	done
 
@@ -1618,12 +1618,12 @@ TiffanyGreetNiteText:
 	done
 
 TiffanyGenericText:
-	text "Are your #mon"
+	text "Are your #MON"
 	line "doing well?"
 
 	para "I hope you take"
-	line "them to a #mon"
-	cont "Center every day."
+	line "them to a #MON"
+	cont "CENTER every day."
 
 	para "Don't push them"
 	line "too hard."
@@ -1636,7 +1636,7 @@ TiffanyGenericText:
 	para "precisely because"
 	line "I take it to a"
 
-	para "#mon Center"
+	para "#MON CENTER"
 	line "every day."
 	done
 
@@ -1649,7 +1649,7 @@ VanceAnswerPhoneText:
 	para "Morning, <PLAYER>!"
 
 	para "Are you using bird"
-	line "#mon?"
+	line "#MON?"
 	done
 
 VanceAnswerPhoneDayText:
@@ -1661,7 +1661,7 @@ VanceAnswerPhoneDayText:
 	para "Hi, <PLAYER>!"
 
 	para "Are your bird"
-	line "#mon flying?"
+	line "#MON flying?"
 	done
 
 VanceAnswerPhoneNiteText:
@@ -1673,7 +1673,7 @@ VanceAnswerPhoneNiteText:
 	para "Evening, <PLAYER>!"
 	line "Are you letting"
 
-	para "your bird #mon"
+	para "your bird #MON"
 	line "see some action?"
 	done
 
@@ -1708,7 +1708,7 @@ VanceGreetNiteText:
 
 VanceGenericText:
 	text "Are you and your"
-	line "#mon fine?"
+	line "#MON fine?"
 
 	para "My "
 	text_ram wStringBuffer4
@@ -1718,7 +1718,7 @@ VanceGenericText:
 	line "to face and beat"
 
 	para "the legendary bird"
-	line "#mon!"
+	line "#MON!"
 	done
 
 WiltonAnswerPhoneText:
@@ -1777,7 +1777,7 @@ WiltonGreetNiteText:
 	done
 
 WiltonGenericText:
-	text "Have your #mon"
+	text "Have your #MON"
 	line "grown any?"
 
 	para "My "
@@ -1892,7 +1892,7 @@ ParryGreetNiteText:
 	done
 
 ParryGenericText:
-	text "Are your #mon"
+	text "Are your #MON"
 	line "looking good?"
 
 	para "My "
@@ -1962,7 +1962,7 @@ ErinGreetNiteText:
 
 ErinGenericText:
 	text "Are you raising"
-	line "your #mon?"
+	line "your #MON?"
 
 	para "Hey, "
 	text_ram wStringBuffer3

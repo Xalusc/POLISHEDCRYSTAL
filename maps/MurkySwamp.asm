@@ -72,7 +72,7 @@ MurkySwampCherylScript:
 
 .ChallengeText:
 	text "Hello, my name's"
-	line "Cheryl."
+	line "CHERYL."
 	cont "And you are…?"
 
 	para "OK, so your name"
@@ -91,13 +91,13 @@ MurkySwampCherylScript:
 
 .YesText:
 	text "I should warn you,"
-	line "my #mon can be"
+	line "my #MON can be"
 	cont "quite rambunc-"
 	cont "tious."
 	done
 
 .NoText:
-	text "Oh, but my #mon"
+	text "Oh, but my #MON"
 	line "were itching for"
 	cont "a battle…"
 	done
@@ -131,8 +131,8 @@ MurkySwampCherylScript:
 
 .GoodbyeText:
 	text "I'm heading to the"
-	line "Battle Tower near"
-	cont "Olivine City."
+	line "BATTLE TOWER near"
+	cont "OLIVINE CITY."
 
 	para "Have you heard of"
 	line "it?"
@@ -172,7 +172,7 @@ GenericTrainerBug_catcherCallum:
 	done
 
 .SeenText:
-	text "I'm from Azalea,"
+	text "I'm from AZALEA,"
 	line "but I've never seen"
 
 	para "this part of the"
@@ -209,11 +209,11 @@ GenericTrainerPokemaniacClive:
 	generictrainer POKEMANIAC, CLIVE, EVENT_BEAT_POKEMANIAC_CLIVE, .SeenText, .BeatenText
 
 	text "I know a fellow"
-	line "#maniac when I"
+	line "#MANIAC when I"
 	cont "see one."
 
 	para "Leave some rare"
-	line "#mon for me,"
+	line "#MON for me,"
 	cont "OK?"
 	done
 
@@ -279,7 +279,7 @@ GenericTrainerFisherDundee:
 	done
 
 .SeenText:
-	text "All the #mon I"
+	text "All the #MON I"
 	line "fish up here are"
 	cont "poisonous!"
 	done

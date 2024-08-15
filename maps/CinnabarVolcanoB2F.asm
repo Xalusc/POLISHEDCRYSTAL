@@ -114,11 +114,11 @@ MoltresText:
 	done
 
 CinnabarVolcanoB2FLawrenceSpeechText:
-	text "Lawrence: Hello"
+	text "LAWRENCE: Hello"
 	line "again, <PLAYER>."
 
 	para "So you are search-"
-	line "ing for Moltres"
+	line "ing for MOLTRES"
 	cont "here too."
 	cont "Did I inspire you?"
 
@@ -129,9 +129,9 @@ CinnabarVolcanoB2FLawrenceSpeechText:
 	para "I spent years"
 	line "hunting through"
 
-	para "Victory Road, and"
+	para "VICTORY ROAD, and"
 	line "the islands south"
-	cont "of Kanto…"
+	cont "of KANTO…"
 
 	para "Why have you"
 	line "succeeded where I"
@@ -152,16 +152,16 @@ CinnabarVolcanoB2FLawrenceSpeechText:
 
 	para "Meet me at the"
 	line "ruined shrine on"
-	cont "Shamouti Island."
+	cont "SHAMOUTI ISLAND."
 
 	para "I'll show you that"
 	line "I deserve to own"
-	cont "those #mon."
+	cont "those #MON."
 	done
 
 CinnabarVolcanoB2FLawrenceEscapeRopeText:
-	text "Lawrence used an"
-	line "Escape Rope!"
+	text "LAWRENCE used an"
+	line "ESCAPE ROPE!"
 	done
 
 CinnabarVolcanoB2FMovementData_LawrenceApproachUp:

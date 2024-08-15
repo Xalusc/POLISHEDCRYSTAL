@@ -104,7 +104,7 @@ GenericTrainerPokefanfRuth:
 	generictrainer POKEFANF, RUTH, EVENT_BEAT_POKEFANF_RUTH, PokefanfRuthSeenText, PokefanfRuthBeatenText
 
 	text "Do you know about"
-	line "baby #mon?"
+	line "baby #MON?"
 
 	para "I bet they're just"
 	line "adorable!"
@@ -163,12 +163,12 @@ Route39CowgirlAnnieScript:
 .AfterText2:
 	text "We make cheese"
 	line "and yogurt out"
-	cont "of Miltank milk."
+	cont "of MILTANK milk."
 	done
 
 .IntroText:
 	text "Hey! Don't scare"
-	line "the Miltank!"
+	line "the MILTANK!"
 
 	para "…Oh, you want to"
 	line "battle?"
@@ -179,8 +179,8 @@ Route39CowgirlAnnieScript:
 	para "Tell ya what--"
 	line "beat everyone else"
 
-	para "from Ecruteak to"
-	line "Olivine and I'll"
+	para "from ECRUTEAK to"
+	line "OLIVINE and I'll"
 	cont "fight ya."
 	done
 
@@ -192,7 +192,7 @@ Route39CowgirlAnnieScript:
 	line "these routes."
 
 	para "Now then, my team"
-	line "beat Morty, and I"
+	line "beat MORTY, and I"
 
 	para "reckon we can beat"
 	line "you."
@@ -202,13 +202,13 @@ Route39CowgirlAnnieScript:
 
 .RefusedText:
 	text "Shucks. Back to"
-	line "tending the Mil-"
-	cont "tank, then."
+	line "tending the MIL-"
+	cont "TANK, then."
 	done
 
 .SeenText:
 	text "I'll show ya what"
-	line "a Cowgirl can do!"
+	line "a cowgirl can do!"
 	done
 
 .BeatenText:
@@ -230,7 +230,7 @@ Route39CowgirlAnnieScript:
 GenericTrainerSailorEugene:
 	generictrainer SAILOR, EUGENE, EVENT_BEAT_SAILOR_EUGENE, SailorEugeneSeenText, SailorEugeneBeatenText
 
-	text "My #mon were"
+	text "My #MON were"
 	line "caught and raised"
 	cont "overseas."
 
@@ -243,7 +243,7 @@ GenericTrainerPsychicNorman:
 	generictrainer PSYCHIC_T, NORMAN, EVENT_BEAT_PSYCHIC_NORMAN, PsychicNormanSeenText, PsychicNormanBeatenText
 
 	text "You know how #-"
-	line "mon have different"
+	line "MON have different"
 	cont "abilities?"
 
 	para "People are like"
@@ -276,15 +276,15 @@ TrainerPokefanfJaime:
 	jumpopenedtext PokefanfJaimeHopeItGetsDarkText
 
 Route39MiltankText:
-	text "Miltank: Mooo!"
+	text "MILTANK: Mooo!"
 	done
 
 SailorEugeneSeenText:
 	text "I just got back to"
-	line "Olivine."
+	line "OLIVINE."
 
 	para "So how about a"
-	line "#mon battle?"
+	line "#MON battle?"
 	done
 
 SailorEugeneBeatenText:
@@ -294,19 +294,19 @@ SailorEugeneBeatenText:
 PokefanmDerek1SeenText:
 	text "This is a good"
 	line "time to brag about"
-	cont "my Pikachu!"
+	cont "my PIKACHU!"
 	done
 
 PokefanmDerek1BeatenText:
 	text "I had no time to"
-	line "show off Pikachu…"
+	line "show off PIKACHU…"
 	done
 
 PokefanMDerekText_NotBragging:
 	text "I'm not listening"
 	line "to your bragging!"
 
-	para "We # Fans have"
+	para "We # FANS have"
 	line "a policy of not"
 
 	para "listening to other"
@@ -315,10 +315,10 @@ PokefanMDerekText_NotBragging:
 
 PokefanfRuthSeenText:
 	text "Such darling"
-	line "#mon."
+	line "#MON."
 
 	para "Let's show our"
-	line "#mon together"
+	line "#MON together"
 	cont "at the same time."
 	done
 
@@ -328,18 +328,18 @@ PokefanfRuthBeatenText:
 	done
 
 PokefanMDerekPikachuIsItText:
-	text "Pikachu is it!"
+	text "PIKACHU is it!"
 	line "Don't you agree?"
 	done
 
 PsychicNormanSeenText:
 	text "Let me see what"
-	line "your #mon are"
+	line "your #MON are"
 	cont "capable of."
 	done
 
 PsychicNormanBeatenText:
-	text "Ooh, your #mon"
+	text "Ooh, your #MON"
 	line "have potential."
 	done
 
@@ -361,9 +361,9 @@ PokefanfJaimeBeatenText:
 	done
 
 PokefanfJaimeAfterBattleText:
-	text "I met my Meowth at"
+	text "I met my MEOWTH at"
 	line "night, right here"
-	cont "on Route 39."
+	cont "on ROUTE 39."
 
 	para "I'm not sure why,"
 	line "but it seems to"
@@ -380,41 +380,41 @@ PokefanfJaimeAfterBattleText:
 
 Route39BeautyText:
 	text "Which is taller:"
-	line "the Bell Tower in"
-	cont "Ecruteak City,"
+	line "the BELL TOWER in"
+	cont "ECRUTEAK CITY,"
 
-	para "or the Lighthouse"
-	line "in Olivine City?"
+	para "or the LIGHTHOUSE"
+	line "in OLIVINE CITY?"
 
-	para "The Bell Tower,"
+	para "The BELL TOWER,"
 	line "no doubt!"
 	done
 
 Route39SignText:
-	text "Route 39"
+	text "ROUTE 39"
 
-	para "Olivine City -"
-	line "Ecruteak City"
+	para "OLIVINE CITY -"
+	line "ECRUTEAK CITY"
 	done
 
 MoomooFarmSignText:
-	text "Moomoo Farm"
+	text "MOOMOO FARM"
 
 	para "Enjoy Our Fresh"
 	line "and Tasty Milk"
 	done
 
 Route39TrainerTipsText:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "Use Headbutt on"
+	para "Use HEADBUTT on"
 	line "trees to shake"
-	cont "#mon out."
+	cont "#MON out."
 
 	para "Different kinds of"
-	line "#mon drop out"
+	line "#MON drop out"
 	cont "of trees."
 
-	para "Use Headbutt on"
+	para "Use HEADBUTT on"
 	line "any tree you see!"
 	done
