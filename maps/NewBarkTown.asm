@@ -236,7 +236,7 @@ Movement_LyraSaysGoodbye3_NBT:
 	step_end
 
 Text_GearIsImpressive:
-	text "Wow, your #gear"
+	text "Wow, your #GEAR"
 	line "is impressive!"
 
 	para "Did your mom get"
@@ -261,9 +261,9 @@ Text_WhatDoYouThinkYoureDoing:
 Text_ItsDangerousToGoAlone:
 	text "It's dangerous to"
 	line "go out without a"
-	cont "#mon!"
+	cont "#MON!"
 
-	para "Wild #mon"
+	para "Wild #MON"
 	line "jump out of the"
 
 	para "grass on the way"
@@ -271,7 +271,7 @@ Text_ItsDangerousToGoAlone:
 	done
 
 Text_YourMonIsAdorable:
-	text "Oh! Your #mon"
+	text "Oh! Your #MON"
 	line "is adorable!"
 	cont "I wish I had one!"
 	done
@@ -287,7 +287,7 @@ Text_TellMomIfLeaving:
 
 Text_CallMomOnGear:
 	text "Call your mom on"
-	line "your #gear to"
+	line "your #GEAR to"
 
 	para "let her know how"
 	line "you're doing."
@@ -296,17 +296,17 @@ Text_CallMomOnGear:
 Text_ElmDiscoveredNewMon:
 	text "Yo, <PLAYER>!"
 
-	para "I hear Prof.Elm"
+	para "I hear PROF.ELM"
 	line "discovered some"
-	cont "new #mon."
+	cont "new #MON."
 	done
 
 NewBarkTownRivalText1:
 	text "……"
 
 	para "So this is the"
-	line "famous Elm #mon"
-	cont "Lab…"
+	line "famous ELM #MON"
+	cont "LAB…"
 	done
 
 NewBarkTownRivalText2:
@@ -315,7 +315,7 @@ NewBarkTownRivalText2:
 	done
 
 Text_LyraIntro:
-	text "Lyra: Oh, hello,"
+	text "LYRA: Oh, hello,"
 	line "<PLAYER>!"
 
 	para "I came by your"
@@ -329,7 +329,7 @@ Text_LyraIntro:
 	cont "sometimes?"
 
 	para "He's starting new"
-	line "#mon research"
+	line "#MON research"
 
 	para "and would like us"
 	line "both to help."
@@ -339,11 +339,11 @@ Text_LyraIntro:
 	done
 
 Text_LyraGoodbye1:
-	text "Lyra: <PLAYER>!"
+	text "LYRA: <PLAYER>!"
 
 	para "I heard that you"
-	line "have all the Gym"
-	cont "badges in Johto."
+	line "have all the GYM"
+	cont "badges in JOHTO."
 
 	para "…You're really"
 	line "something,"
@@ -356,11 +356,11 @@ Text_LyraGoodbye1:
 	line "town…"
 
 	para "I do what I can"
-	line "to help the Prof-"
+	line "to help the prof-"
 	cont "essor, but I could"
 
 	para "never take on the"
-	line "League Champion."
+	line "LEAGUE CHAMPION."
 
 	para "…Before you go…"
 
@@ -390,21 +390,21 @@ Text_LyraGoodbye2:
 
 	para "love you put into"
 	line "raising your"
-	cont "#mon."
+	cont "#MON."
 
 	para "…So, this is"
 	line "goodbye."
 
 	para "I know you can win"
-	line "at the #mon"
-	cont "League!"
+	line "at the #MON"
+	cont "LEAGUE!"
 
 	para "You're going to be"
-	line "a great Champion!"
+	line "a great CHAMPION!"
 	done
 
 NewBarkTownSignText:
-	text "New Bark Town"
+	text "NEW BARK TOWN"
 
 	para "The Town Where the"
 	line "Winds of a New"
@@ -416,9 +416,9 @@ PlayersHouseSignText:
 	done
 
 ElmsLabSignText:
-	text "Elm #mon Lab"
+	text "ELM #MON LAB"
 	done
 
 LyrasHouseSignText:
-	text "Lyra's House"
+	text "LYRA'S HOUSE"
 	done

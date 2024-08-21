@@ -103,14 +103,14 @@ SaffronGymSabrinaScript:
 	setevent EVENT_GOT_TM29_PSYCHIC
 	jumpthisopenedtext
 
-	text "TM29 is Psychic."
+	text "TM29 is PSYCHIC."
 
 	para "It may lower the"
-	line "target's Sp.Def."
+	line "target's SPCL.DEF."
 
 	para "You will become a"
 	line "celebrated and"
-	cont "beloved Champion!"
+	cont "beloved CHAMPION!"
 	done
 
 GenericTrainerMediumDoris:
@@ -124,28 +124,28 @@ GenericTrainerMediumDoris:
 GenericTrainerPsychicLeon:
 	generictrainer PSYCHIC_T, LEON, EVENT_BEAT_PSYCHIC_LEON, PsychicLeonSeenText, PsychicLeonBeatenText
 
-	text "Sabrina's power is"
+	text "SABRINA's power is"
 	line "greater than mine!"
 	done
 
 GenericTrainerPsychicJared:
 	generictrainer PSYCHIC_T, JARED, EVENT_BEAT_PSYCHIC_JARED, PsychicJaredSeenText, PsychicJaredBeatenText
 
-	text "Karate King, the"
+	text "KARATE KING, the"
 	line "master of the"
 
-	para "Fighting Dojo, was"
+	para "FIGHTING DOJO, was"
 	line "just destroyed by"
-	cont "Sabrina."
+	cont "SABRINA."
 	done
 
 GenericTrainerHexManiacLuna:
 	generictrainer HEX_MANIAC, LUNA, EVENT_BEAT_HEX_MANIAC_LUNA, HexManiacLunaSeenText, HexManiacLunaBeatenText
 
-	text "Alakazam is a pow-"
-	line "erful #mon,"
+	text "ALAKAZAM is a pow-"
+	line "erful #MON,"
 
-	para "so Hex Maniacs use"
+	para "so HEX MANIACS use"
 	line "its name for"
 	cont "powerful spells."
 	done
@@ -154,8 +154,8 @@ GenericTrainerHexManiacNatalie:
 	generictrainer HEX_MANIAC, NATALIE, EVENT_BEAT_HEX_MANIAC_NATALIE, HexManiacNatalieSeenText, HexManiacNatalieBeatenText
 
 	text "Maybe I'm not cut"
-	line "out to be a Hex"
-	cont "Maniac…"
+	line "out to be a HEX"
+	cont "MANIAC…"
 	done
 
 GenericTrainerPsychicFranklin:
@@ -187,7 +187,7 @@ SaffronGymStatue:
 	jumpstd gymstatue2
 
 SabrinaIntroText:
-	text "Sabrina: I knew"
+	text "SABRINA: I knew"
 	line "you were coming…"
 
 	para "Three years ago I"
@@ -195,13 +195,13 @@ SabrinaIntroText:
 	cont "your arrival."
 
 	para "You're after my"
-	line "Badge."
+	line "BADGE."
 
 	para "I don't enjoy bat-"
 	line "tling, but it's my"
 
-	para "duty as a Leader"
-	line "to confer Badges"
+	para "duty as a LEADER"
+	line "to confer BADGES"
 
 	para "on anyone who has"
 	line "proven themselves"
@@ -213,7 +213,7 @@ SabrinaIntroText:
 	done
 
 SabrinaWinLossText:
-	text "Sabrina: Your"
+	text "SABRINA: Your"
 	line "power…"
 
 	para "It far exceeds"
@@ -228,23 +228,23 @@ SabrinaWinLossText:
 	para "OK, you win. You"
 	line "earned yourself"
 if DEF(FAITHFUL)
-	cont "the Marsh Badge."
+	cont "the MARSH BADGE."
 else
-	cont "the Soul Badge."
+	cont "the SOUL BADGE."
 endc
 	done
 
 ReceivedMarshBadgeText:
 	text "<PLAYER> received"
 if DEF(FAITHFUL)
-	line "the Marsh Badge."
+	line "the MARSH BADGE."
 else
-	line "the Soul Badge."
+	line "the SOUL BADGE."
 endc
 	done
 
 SabrinaMarshBadgeText:
-	text "Sabrina: I failed"
+	text "SABRINA: I failed"
 	line "to accurately pre-"
 
 	para "dict your power."
@@ -258,8 +258,8 @@ SabrinaMarshBadgeText:
 	done
 
 SabrinaFightDoneText:
-	text "Sabrina: Your love"
-	line "for your #mon"
+	text "SABRINA: Your love"
+	line "for your #MON"
 
 	para "overwhelmed my"
 	line "psychic power…"
@@ -295,9 +295,9 @@ PsychicLeonBeatenText:
 	done
 
 PsychicJaredSeenText:
-	text "The Fighting Dojo"
+	text "The FIGHTING DOJO"
 	line "next door was once"
-	cont "this city's Gym."
+	cont "this city's GYM."
 	done
 
 PsychicJaredBeatenText:
@@ -305,8 +305,8 @@ PsychicJaredBeatenText:
 	done
 
 HexManiacLunaSeenText:
-	text "Abra, Kadabra,"
-	line "Alakazam!"
+	text "ABRA, KADABRA,"
+	line "ALAKAZAM!"
 	done
 
 HexManiacLunaBeatenText:
@@ -345,7 +345,7 @@ MediumRebeccaBeatenText:
 	done
 
 SaffronGymGuyText:
-	text "Yo, Champ in"
+	text "Yo, CHAMP in"
 	line "making!"
 
 	para "A trainer as"
@@ -354,8 +354,8 @@ SaffronGymGuyText:
 	para "doesn't need to be"
 	line "told how to deal"
 
-	para "with Psychic-type"
-	line "#mon, right?"
+	para "with psychic-type"
+	line "#MON, right?"
 
 	para "I expect great"
 	line "things from you!"

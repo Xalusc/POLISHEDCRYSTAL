@@ -33,33 +33,33 @@ GoldenrodHoneyHousePokefanFScript:
 .AfterText:
 	text "My little brother"
 if DEF(FAITHFUL)
-	line "takes Honey and"
+	line "takes HONEY and"
 
 	para "spreads it around"
 else
-	line "takes Sweet Honey"
+	line "takes SWEET HONEY"
 
 	para "and spreads it in"
 endc
 	line "tall grass."
 
-	para "#mon are"
+	para "#MON are"
 	line "enticed by it."
 
 	para "It tends to draw"
-	line "in #mon at the"
+	line "in #MON at the"
 
 	para "same level as"
 	line "your own!"
 	done
 
 .IntroText:
-	text "My #mon is an"
+	text "My #MON is an"
 	line "expert at collect-"
 if DEF(FAITHFUL)
-	cont "ing Honey."
+	cont "ing HONEY."
 else
-	cont "ing Sweet Honey."
+	cont "ing SWEET HONEY."
 endc
 
 	para "I'll share some"
@@ -117,15 +117,15 @@ endc
 .SellText:
 	text "Would you like to"
 if DEF(FAITHFUL)
-	line "buy some Honey"
+	line "buy some HONEY"
 
 	para "for attracting"
-	line "#mon?"
+	line "#MON?"
 else
-	line "buy some Sweet"
+	line "buy some SWEET"
 
-	para "Honey for attract-"
-	line "ing #mon?"
+	para "HONEY for attract-"
+	line "ing #MON?"
 endc
 	cont "Just ¥1000 each!"
 	done
@@ -152,8 +152,8 @@ endc
 	db 3 ; items
 	db "× 1   ¥1000@"
 	db "×10  ¥10000@"
-	db "Cancel@"
+	db "CANCEL@"
 
 GoldenrodHoneyHouseButterfreeText:
-	text "Butterfree: Freeh!"
+	text "BUTTERFREE: Freeh!"
 	done

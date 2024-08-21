@@ -88,41 +88,41 @@ SaffronCityLass1Text:
 	done
 
 SaffronCityLass1Text_ReturnedMachinePart:
-	text "The Copycat girl"
+	text "The COPYCAT girl"
 	line "looked unhappy."
 
 	para "She said she lost"
 	line "her favorite #"
-	cont "Doll--Clefairy."
+	cont "DOLL--CLEFAIRY."
 	done
 
 SaffronCityPokefanMText:
 	text "You came out from"
-	line "Johto?"
+	line "JOHTO?"
 
 	para "You can zip back"
-	line "home if the Magnet"
-	cont "Train's running."
+	line "home if the MAGNET"
+	cont "TRAIN's running."
 	done
 
 SaffronCityPokefanMText_ReturnedMachinePart:
 	text "You came out from"
-	line "Johto?"
+	line "JOHTO?"
 
 	para "You can zip back"
 	line "home by hopping on"
-	cont "the Magnet Train."
+	cont "the MAGNET TRAIN."
 	done
 
 SaffronCityCooltrainerMText:
-	text "I went to the Gym,"
+	text "I went to the GYM,"
 	line "raring for battles"
 	cont "against trainers…"
 
 	para "It turns out, I"
 	line "stumbled into the"
 
-	para "Fighting Dojo"
+	para "FIGHTING DOJO"
 	line "next door."
 
 	para "Boy, I was pretty"
@@ -130,12 +130,12 @@ SaffronCityCooltrainerMText:
 	done
 
 SaffronCityCooltrainerFText:
-	text "This is Silph Co.,"
-	line "famous for #mon"
+	text "This is SILPH CO.,"
+	line "famous for #MON"
 	cont "merchandise."
 
-	para "In the past, Team"
-	line "Rocket wanted the"
+	para "In the past, TEAM"
+	line "ROCKET wanted the"
 
 	para "company because of"
 	line "that."
@@ -146,7 +146,7 @@ SaffronCityFisherText:
 
 	para "I hear there's big"
 	line "trouble brewing at"
-	cont "the Power Plant."
+	cont "the POWER PLANT."
 
 	para "Chew… Chew…"
 	done
@@ -156,7 +156,7 @@ SaffronCityFisherText_ReturnedMachinePart:
 
 	para "I hear there was"
 	line "big trouble at the"
-	cont "Power Plant."
+	cont "POWER PLANT."
 
 	para "Chew… Chew…"
 	line "Haaah, I'm full!"
@@ -172,9 +172,9 @@ SaffronCityYoungster1Text:
 
 SaffronCityYoungster2Text:
 	text "There's a place"
-	line "called Trainer"
+	line "called TRAINER"
 
-	para "House in Viridian"
+	para "HOUSE in VIRIDIAN"
 	line "where trainers"
 
 	para "gather from all"
@@ -207,7 +207,7 @@ SaffronCityBlackBelt1Text:
 
 SaffronCityBlackBelt2Text:
 	text "If I was an item,"
-	line "I'd be X Attack."
+	line "I'd be X ATTACK."
 
 	para "I'm just brimming"
 	line "with power, and"
@@ -218,31 +218,31 @@ SaffronCityBlackBelt2Text:
 
 SaffronCitySuperNerdText:
 	text "There was a time"
-	line "when Psychic-type"
+	line "when psychic-type"
 
-	para "#mon were be-"
+	para "#MON were be-"
 	line "lieved to be the"
 
-	para "strongest, and Bug"
+	para "strongest, and bug-"
 	line "types the weakest."
 
-	para "The irony is, Bug"
+	para "The irony is, bug"
 	line "is super effective"
-	cont "against Psychic!"
+	cont "against psychic!"
 	done
 
 SaffronCityScientistText:
-	text "The original Silph"
-	line "Scope had some"
+	text "The original SILPH"
+	line "SCOPE had some"
 	cont "bugs, so we've been"
 
 	para "working tirelessly"
 	line "on its successor--"
-	cont "the SilphScope2!"
+	cont "the SILPHSCOPE2!"
 	done
 
 SaffronCitySilphEmployeeText:
-	text "Silph is named"
+	text "SILPH is named"
 	line "after a mythical"
 	cont "spirit of the air."
 
@@ -254,45 +254,45 @@ SaffronCitySilphEmployeeText:
 	done
 
 SaffronCitySignText:
-	text "Saffron City"
+	text "SAFFRON CITY"
 
 	para "Shining, Golden"
 	line "Land of Commerce"
 	done
 
 SaffronGymSignText:
-	text "Saffron City"
-	line "#mon Gym"
-	cont "Leader: Sabrina"
+	text "SAFFRON CITY"
+	line "#MON GYM"
+	cont "LEADER: SABRINA"
 
 	para "The Mistress of"
-	line "Psychic #mon!"
+	line "Psychic #MON!"
 	done
 
 FightingDojoSignText:
 	text "Everyone Welcome!"
-	line "Fighting Dojo"
+	line "FIGHTING DOJO"
 	done
 
 SilphCoSignText:
-	text "Silph Co."
-	line "Office Building"
+	text "SILPH CO."
+	line "OFFICE BUILDING"
 	done
 
 MrPsychicsHouseSignText:
-	text "Mr.Psychic's"
-	line "House"
+	text "MR.PSYCHIC'S"
+	line "HOUSE"
 	done
 
 SaffronCityMagnetTrainStationSignText:
-	text "Saffron City"
-	line "Magnet Train"
-	cont "Station"
+	text "SAFFRON CITY"
+	line "MAGNET TRAIN"
+	cont "STATION"
 	done
 
 PokemonTrainerFanClubSignText:
-	text "#mon Trainer"
-	line "Fan Club"
+	text "#MON TRAINER"
+	line "FAN CLUB"
 
 	para "Many trainers have"
 	line "scribbled their"
@@ -300,25 +300,25 @@ PokemonTrainerFanClubSignText:
 	done
 
 SaffronTrainerTips1Text:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "New SilphScope2"
+	para "New SILPHSCOPE2"
 	line "identifies even"
 
 	para "the most well-"
-	line "disguised #mon!"
+	line "disguised #MON!"
 	done
 
 SaffronTrainerTips2Text:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "Use Quick Balls"
+	para "Use QUICK BALLS"
 	line "early during a"
 	cont "battle. Later,"
-	cont "use Timer Balls."
+	cont "use TIMER BALLS."
 
 	para "They cost more"
-	line "than # Balls,"
+	line "than # BALLS,"
 
 	para "but they're more"
 	line "convenient."

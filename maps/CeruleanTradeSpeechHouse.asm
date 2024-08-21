@@ -20,7 +20,7 @@ CeruleanTradeSpeechHouse_MapScriptHeader:
 CeruleanTradeSpeechHouseGrannyText:
 	text "My husband lives"
 	line "happily with #-"
-	cont "mon he got through"
+	cont "MON he got through"
 	cont "trades."
 	done
 
@@ -29,9 +29,9 @@ CeruleanTradeSpeechHouseGrampsText:
 	done
 
 CeruleanTradeSpeechHouseRhydonText:
-	text "Poliwrath: Ribbit!"
+	text "POLIWRATH: Ribbit!"
 	done
 
 CeruleanTradeSpeechHouseZubatText:
-	text "Ivysaur: Sauur!"
+	text "IVYSAUR: Sauur!"
 	done

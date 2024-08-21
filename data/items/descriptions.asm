@@ -298,172 +298,172 @@ KeyItemDescriptions:
 
 PokeBallDesc:
 	text "An item for catch-"
-	next "ing #mon."
+	next "ing #MON."
 	done
 
 GreatBallDesc:
-	text "A Ball with a de-"
+	text "A BALL with a de-"
 	next "cent success rate."
 	done
 
 UltraBallDesc:
-	text "A Ball with a high"
+	text "A BALL with a high"
 	next "rate of success."
 	done
 
 MasterBallDesc:
-	text "The best Ball. It"
+	text "The best BALL. It"
 	next "never misses."
 	done
 
 SafariBallDesc:
-	text "The Safari Game"
-	next "Ball."
+	text "The SAFARI GAME"
+	next "BALL."
 	done
 
 LevelBallDesc:
-	text "A Ball for lower-"
-	next "level #mon."
+	text "A BALL for lower-"
+	next "level #MON."
 	done
 
 LureBallDesc:
-	text "A Ball for #mon"
-	next "hooked by a Rod."
+	text "A BALL for #MON"
+	next "hooked by a ROD."
 	done
 
 MoonBallDesc:
-	text "A Ball for Moon"
-	next "Stone evolvers."
+	text "A BALL for MOON"
+	next "STONE evolvers."
 	done
 
 FriendBallDesc:
-	text "A Ball that makes"
-	next "#mon friendly."
+	text "A BALL that makes"
+	next "#MON friendly."
 	done
 
 FastBallDesc:
-	text "A Ball for catch-"
-	next "ing fast #mon."
+	text "A BALL for catch-"
+	next "ing fast #MON."
 	done
 
 HeavyBallDesc:
-	text "A Ball for catch-"
-	next "ing heavy #mon."
+	text "A BALL for catch-"
+	next "ing heavy #MON."
 	done
 
 LoveBallDesc:
-	text "A Ball for the"
+	text "A BALL for the"
 	next "opposite gender."
 	done
 
 AbilityPatchDesc:
 	text "Switches to a"
-	next "rare ability."
+	next "rare ABILITY."
 	done
 
 RepeatBallDesc:
-	text "A Ball for #mon"
+	text "A BALL for #MON"
 	next "caught before."
 	done
 
 TimerBallDesc:
-	text "A Ball for late"
+	text "A BALL for late"
 	next "in a battle."
 	done
 
 NestBallDesc:
-	text "A Ball for weaker"
-	next "#mon."
+	text "A BALL for weaker"
+	next "#MON."
 	done
 
 NetBallDesc:
-	text "A Ball for Water"
-	next "or Bug #mon."
+	text "A BALL for water"
+	next "or bug #MON."
 	done
 
 DiveBallDesc:
-	text "A Ball for under-"
-	next "water #mon."
+	text "A BALL for under-"
+	next "water #MON."
 	done
 
 LuxuryBallDesc:
-	text "A cozy Ball to"
-	next "befriend #mon."
+	text "A cozy BALL to"
+	next "befriend #MON."
 	done
 
 HealBallDesc:
-	text "A remedial Ball to"
-	next "heal #mon."
+	text "A remedial BALL to"
+	next "heal #MON."
 	done
 
 QuickBallDesc:
-	text "A Ball for early"
+	text "A BALL for early"
 	next "in a battle."
 	done
 
 DuskBallDesc:
-	text "A Ball for night-"
+	text "A BALL for night-"
 	next "time or caves."
 	done
 
 DreamBallDesc:
-	text "A Ball for sleep-"
-	next "ing #mon."
+	text "A BALL for sleep-"
+	next "ing #MON."
 	done
 
 PremierBallDesc:
 	text "A rare commemor-"
-	next "ative Ball."
+	next "ative BALL."
 	done
 
 CherishBallDesc:
 	text "A quite rare com-"
-	next "memorative Ball."
+	next "memorative BALL."
 	done
 
 PotionDesc:
-	text "Restores #mon"
+	text "Restores #MON"
 	next "HP by 20."
 	done
 
 SuperPotionDesc:
-	text "Restores #mon"
+	text "Restores #MON"
 	next "HP by 60."
 	done
 
 HyperPotionDesc:
-	text "Restores #mon"
+	text "Restores #MON"
 	next "HP by 120."
 	done
 
 MaxPotionDesc:
 	text "Fully restores"
-	next "#mon HP."
+	next "#MON HP."
 	done
 
 AntidoteDesc:
 	text "Cures poisoned"
-	next "#mon."
+	next "#MON."
 	done
 
 BurnHealDesc:
 	text "Heals burned"
-	next "#mon."
+	next "#MON."
 	done
 
 ParalyzeHealDesc:
 	text "Heals paralyzed"
-	next "#mon."
+	next "#MON."
 	done
 
 AwakeningDesc:
 	text "Awakens sleeping"
-	next "#mon."
+	next "#MON."
 	done
 
 IceHealDesc:
 	text "Defrosts frozen"
-	next "#mon."
+	next "#MON."
 	done
 
 FullHealDesc:
@@ -480,12 +480,12 @@ FullRestoreDesc:
 
 ReviveDesc:
 	text "Restores a fainted"
-	next "#mon to 1/2 HP."
+	next "#MON to 1/2 HP."
 	done
 
 MaxReviveDesc:
 	text "Fully restores a"
-	next "fainted #mon."
+	next "fainted #MON."
 	done
 
 EtherDesc:
@@ -505,42 +505,42 @@ ElixirDesc:
 
 MaxElixirDesc:
 	text "Fully restores the"
-	next "PP of one #mon."
+	next "PP of one #MON."
 	done
 
 HPUpDesc:
 	text "Raises the HP of"
-	next "one #mon."
+	next "one #MON."
 	done
 
 ProteinDesc:
-	text "Raises Attack of"
-	next "one #mon."
+	text "Raises ATTACK of"
+	next "one #MON."
 	done
 
 IronDesc:
-	text "Raises Defense of"
-	next "one #mon."
+	text "Raises DEFENSE of"
+	next "one #MON."
 	done
 
 CarbosDesc:
-	text "Raises Speed of"
-	next "one #mon."
+	text "Raises SPEED of"
+	next "one #MON."
 	done
 
 CalciumDesc:
-	text "Raises Sp.Atk of"
-	next "one #mon."
+	text "Raises SPCL.ATK of"
+	next "one #MON."
 	done
 
 ZincDesc:
-	text "Raises Sp.Def of"
-	next "one #mon."
+	text "Raises SPCL.DEF of"
+	next "one #MON."
 	done
 
 RareCandyDesc:
 	text "Raises level of a"
-	next "#mon by one."
+	next "#MON by one."
 	done
 
 PPUpDesc:
@@ -554,37 +554,37 @@ PPMaxDesc:
 	done
 
 FreshWaterDesc:
-	text "Restores #mon"
+	text "Restores #MON"
 	next "HP by 30."
 	done
 
 SodaPopDesc:
-	text "Restores #mon"
+	text "Restores #MON"
 	next "HP by 50."
 	done
 
 LemonadeDesc:
-	text "Restores #mon"
+	text "Restores #MON"
 	next "HP by 70."
 	done
 
 MoomooMilkDesc:
-	text "Restores #mon"
+	text "Restores #MON"
 	next "HP by 100."
 	done
 
 SacredAshDesc:
 	text "Fully revives all"
-	next "fainted #mon."
+	next "fainted #MON."
 	done
 
 EnergyPowderDesc:
-	text "Restores #mon"
+	text "Restores #MON"
 	next "HP by 60. Bitter."
 	done
 
 EnergyRootDesc:
-	text "Restores #mon"
+	text "Restores #MON"
 	next "HP by 120. Bitter."
 	done
 
@@ -595,31 +595,31 @@ HealPowderDesc:
 
 RevivalHerbDesc:
 	text "Revives fainted"
-	next "#mon. Bitter."
+	next "#MON. Bitter."
 	done
 
 XAttackDesc:
-	text "Raises Attack."
+	text "Raises ATTACK."
 	next "(1 battle)"
 	done
 
 XDefendDesc:
-	text "Raises Defense."
+	text "Raises DEFENSE."
 	next "(1 battle)"
 	done
 
 XSpeedDesc:
-	text "Raises Speed."
+	text "Raises SPEED."
 	next "(1 battle)"
 	done
 
 XSpAtkDesc:
-	text "Raises Sp.Atk."
+	text "Raises SPCL.ATK."
 	next "(1 battle)"
 	done
 
 XSpDefDesc:
-	text "Raises Sp.Def."
+	text "Raises SPCL.DEF."
 	next "(1 battle)"
 	done
 
@@ -640,17 +640,17 @@ XAccuracyDesc:
 
 RepelDesc:
 	text "Repels weak #-"
-	next "mon for 100 steps."
+	next "MON for 100 steps."
 	done
 
 SuperRepelDesc:
 	text "Repels weak #-"
-	next "mon for 200 steps."
+	next "MON for 200 steps."
 	done
 
 MaxRepelDesc:
 	text "Repels weak #-"
-	next "mon for 250 steps."
+	next "MON for 250 steps."
 	done
 
 EscapeRopeDesc:
@@ -660,12 +660,12 @@ EscapeRopeDesc:
 
 PokeDollDesc:
 	text "Use to escape from"
-	next "a wild #mon."
+	next "a wild #MON."
 	done
 
 AbilityCapDesc:
 	text "Switches a #-"
-	next "mon's ability."
+	next "MON's ABILITY."
 	done
 
 LeafStoneDesc:
@@ -679,47 +679,47 @@ ShinyStoneDesc:
 IceStoneDesc:
 LinkingCordDesc:
 	text "Evolves certain"
-	next "kinds of #mon."
+	next "kinds of #MON."
 	done
 
 EverstoneDesc:
 	text "Stops evolution."
-	next "(Hold)"
+	next "(HOLD)"
 	done
 
 ExpShareDesc:
-	text "Shares battle Exp."
-	next "Points. (Hold)"
+	text "Shares battle EXP."
+	next "Points. (HOLD)"
 	done
 
 CheriBerryDesc:
 	text "A self-cure for"
-	next "paralysis. (Hold)"
+	next "paralysis. (HOLD)"
 	done
 
 ChestoBerryDesc:
 	text "A self-awakening"
-	next "for sleep. (Hold)"
+	next "for sleep. (HOLD)"
 	done
 
 PechaBerryDesc:
 	text "A self-cure for"
-	next "poison. (Hold)"
+	next "poison. (HOLD)"
 	done
 
 RawstBerryDesc:
 	text "A self-heal for a"
-	next "burn. (Hold)"
+	next "burn. (HOLD)"
 	done
 
 AspearBerryDesc:
 	text "A self-cure for"
-	next "freezing. (Hold)"
+	next "freezing. (HOLD)"
 	done
 
 LeppaBerryDesc:
 	text "A self-restore"
-	next "item. (10<BOLDP><BOLDP>, Hold)"
+	next "item. (10<BOLDP><BOLDP>, HOLD)"
 	done
 
 OranBerryDesc:
@@ -729,22 +729,22 @@ OranBerryDesc:
 
 PersimBerryDesc:
 	text "A self-cure for"
-	next "confusion. (Hold)"
+	next "confusion. (HOLD)"
 	done
 
 LumBerryDesc:
 	text "Cures all status"
-	next "problems. (Hold)"
+	next "problems. (HOLD)"
 	done
 
 SitrusBerryDesc:
 	text "Self-restore item."
-	next "(1/4 max HP, Hold)"
+	next "(1/4 max HP, HOLD)"
 	done
 
 FigyBerryDesc:
 	text "Self-restore item."
-	next "(1/3 max HP, Hold)"
+	next "(1/3 max HP, HOLD)"
 	done
 
 PomegBerryDesc:
@@ -754,51 +754,51 @@ PomegBerryDesc:
 
 KelpsyBerryDesc:
 	text "Raises friendship"
-	next "but lowers Attack."
+	next "but lowers ATTACK."
 	done
 
 QualotBerryDesc:
 	text "Raises friendship,"
-	next "lowers Defense."
+	next "lowers DEFENSE."
 	done
 
 HondewBerryDesc:
 	text "Raises friendship"
-	next "but lowers Sp.Atk."
+	next "but lowers SPCL.ATK."
 	done
 
 GrepaBerryDesc:
 	text "Raises friendship"
-	next "but lowers Sp.Def."
+	next "but lowers SPCL.DEF."
 	done
 
 TamatoBerryDesc:
 	text "Raises friendship"
-	next "but lowers Speed."
+	next "but lowers SPEED."
 	done
 
 LiechiBerryDesc:
-	text "Raises Attack in"
+	text "Raises ATTACK in"
 	next "a pinch."
 	done
 
 GanlonBerryDesc:
-	text "Raises Defense in"
+	text "Raises DEFENSE in"
 	next "a pinch."
 	done
 
 SalacBerryDesc:
-	text "Raises Speed in"
+	text "Raises SPEED in"
 	next "a pinch."
 	done
 
 PetayaBerryDesc:
-	text "Raises Sp.Atk in"
+	text "Raises SPCL.ATK in"
 	next "a pinch."
 	done
 
 ApicotBerryDesc:
-	text "Raises Sp.Def in"
+	text "Raises SPCL.DEF in"
 	next "a pinch."
 	done
 
@@ -833,170 +833,170 @@ RowapBerryDesc:
 	done
 
 KeeBerryDesc:
-	text "Raises Defense on"
+	text "Raises DEFENSE on"
 	next "a physical hit."
 	done
 
 MarangaBerryDesc:
-	text "Raises Sp.Def on"
+	text "Raises SPCL.DEF on"
 	next "a special hit."
 	done
 
 BerryJuiceDesc:
 	text "A self-restore"
-	next "item. (20HP, Hold)"
+	next "item. (20HP, HOLD)"
 	done
 
 SilkScarfDesc:
-	text "Powers up Normal-"
-	next "type moves. (Hold)"
+	text "Powers up normal-"
+	next "type moves. (HOLD)"
 	done
 
 BlackBeltDesc:
-	text "Boosts Fighting-"
-	next "type moves. (Hold)"
+	text "Boosts fighting-"
+	next "type moves. (HOLD)"
 	done
 
 SharpBeakDesc:
-	text "Powers up Flying-"
-	next "type moves. (Hold)"
+	text "Powers up flying-"
+	next "type moves. (HOLD)"
 	done
 
 PoisonBarbDesc:
-	text "Powers up Poison-"
-	next "type moves. (Hold)"
+	text "Powers up poison-"
+	next "type moves. (HOLD)"
 	done
 
 SoftSandDesc:
-	text "Powers up Ground-"
-	next "type moves. (Hold)"
+	text "Powers up ground-"
+	next "type moves. (HOLD)"
 	done
 
 HardStoneDesc:
-	text "Powers up Rock-"
-	next "type moves. (Hold)"
+	text "Powers up rock-"
+	next "type moves. (HOLD)"
 	done
 
 SilverPowderDesc:
-	text "Powers up Bug-type"
-	next "moves. (Hold)"
+	text "Powers up bug-type"
+	next "moves. (HOLD)"
 	done
 
 SpellTagDesc:
-	text "Powers up Ghost-"
-	next "type moves. (Hold)"
+	text "Powers up ghost-"
+	next "type moves. (HOLD)"
 	done
 
 MetalCoatDesc:
-	text "Powers up Steel-"
-	next "type moves. (Hold)"
+	text "Powers up steel-"
+	next "type moves. (HOLD)"
 	done
 
 CharcoalDesc:
-	text "Powers up Fire-"
-	next "type moves. (Hold)"
+	text "Powers up fire-"
+	next "type moves. (HOLD)"
 	done
 
 MysticWaterDesc:
-	text "Powers up Water-"
-	next "type moves. (Hold)"
+	text "Powers up water-"
+	next "type moves. (HOLD)"
 	done
 
 MiracleSeedDesc:
-	text "Powers up Grass-"
-	next "type moves. (Hold)"
+	text "Powers up grass-"
+	next "type moves. (HOLD)"
 	done
 
 MagnetDesc:
-	text "Boosts Electric-"
-	next "type moves. (Hold)"
+	text "Boosts electric-"
+	next "type moves. (HOLD)"
 	done
 
 TwistedSpoonDesc:
-	text "Powers up Psychic-"
-	next "type moves. (Hold)"
+	text "Powers up psychic-"
+	next "type moves. (HOLD)"
 	done
 
 NeverMeltIceDesc:
-	text "Powers up Ice-type"
-	next "moves. (Hold)"
+	text "Powers up ice-type"
+	next "moves. (HOLD)"
 	done
 
 DragonFangDesc:
-	text "Powers up Dragon-"
-	next "type moves. (Hold)"
+	text "Powers up dragon-"
+	next "type moves. (HOLD)"
 	done
 
 BlackGlassesDesc:
-	text "Powers up Dark-"
-	next "type moves. (Hold)"
+	text "Powers up dark-"
+	next "type moves. (HOLD)"
 	done
 
 PinkBowDesc:
-	text "Powers up Fairy-"
-	next "type moves. (Hold)"
+	text "Powers up fairy-"
+	next "type moves. (HOLD)"
 	done
 
 BrightPowderDesc:
 	text "Lowers the foe's"
-	next "accuracy. (Hold)"
+	next "accuracy. (HOLD)"
 	done
 
 ScopeLensDesc:
 RazorClawDesc:
 	text "Raises critical"
-	next "hit ratio. (Hold)"
+	next "hit ratio. (HOLD)"
 	done
 
 QuickClawDesc:
 	text "Boosts chances of"
-	next "moving 1st. (Hold)"
+	next "moving 1st. (HOLD)"
 	done
 
 KingsRockDesc:
 RazorFangDesc:
 	text "May make the foe"
-	next "flinch. (Hold)"
+	next "flinch. (HOLD)"
 	done
 
 FocusBandDesc:
 	text "May prevent faint-"
-	next "ing. (Hold)"
+	next "ing. (HOLD)"
 	done
 
 LeftoversDesc:
 	text "Restores HP during"
-	next "battle. (Hold)"
+	next "battle. (HOLD)"
 	done
 
 LuckyEggDesc:
-	text "Earns extra Exp."
-	next "points. (Hold)"
+	text "Earns extra EXP."
+	next "points. (HOLD)"
 	done
 
 AmuletCoinDesc:
 	text "Doubles monetary"
-	next "earnings. (Hold)"
+	next "earnings. (HOLD)"
 	done
 
 CleanseTagDesc:
 	text "Helps repel wild"
-	next "#mon. (Hold)"
+	next "#MON. (HOLD)"
 	done
 
 SmokeBallDesc:
 	text "Escape from wild"
-	next "#mon. (Hold)"
+	next "#MON. (HOLD)"
 	done
 
 BerserkGeneDesc:
-	text "Boosts Attack but"
+	text "Boosts ATTACK but"
 	next "causes confusion."
 	done
 
 LightBallDesc:
 	text "An odd, electrical"
-	next "orb. (Hold)"
+	next "orb. (HOLD)"
 	done
 
 LeekDesc:
@@ -1011,52 +1011,52 @@ ThickClubDesc:
 
 LuckyPunchDesc:
 	text "Ups critical hit"
-	next "ratio of Chansey."
+	next "ratio of CHANSEY."
 	done
 
 MetalPowderDesc:
-	text "Raises Defense of"
-	next "Ditto. (Hold)"
+	text "Raises DEFENSE of"
+	next "DITTO. (HOLD)"
 	done
 
 QuickPowderDesc:
-	text "Raises Speed of"
-	next "Ditto. (Hold)"
+	text "Raises SPEED of"
+	next "DITTO. (HOLD)"
 	done
 
 ArmorSuitDesc:
 	text "A suit of armor"
-	next "for some #mon."
+	next "for some #MON."
 	done
 
 AirBalloonDesc:
-	text "Avoids one Ground"
-	next "attack. (Hold)"
+	text "Avoids one ground"
+	next "attack. (HOLD)"
 	done
 
 AssaultVestDesc:
-	text "Boosts Sp.Def, but"
+	text "Boosts SPCL.DEF, but"
 	next "bans status moves."
 	done
 
 BigRootDesc:
 	text "Powers up draining"
-	next "moves. (Hold)"
+	next "moves. (HOLD)"
 	done
 
 BindingBandDesc:
 	text "Powers up trapping"
-	next "moves. (Hold)"
+	next "moves. (HOLD)"
 	done
 
 DestinyKnotDesc:
 	text "Infatuates the foe"
-	next "back. (Hold)"
+	next "back. (HOLD)"
 	done
 
 ExpertBeltDesc:
 	text "Ups super effect-"
-	next "ive moves. (Hold)"
+	next "ive moves. (HOLD)"
 	done
 
 FocusSashDesc:
@@ -1071,7 +1071,7 @@ GripClawDesc:
 
 LifeOrbDesc:
 	text "Powers up moves"
-	next "with HP. (Hold)"
+	next "with HP. (HOLD)"
 	done
 
 LightClayDesc:
@@ -1081,7 +1081,7 @@ LightClayDesc:
 
 MetronomeIDesc:
 	text "Powers up moves"
-	next "used again. (Hold)"
+	next "used again. (HOLD)"
 	done
 
 ProtectPadsDesc:
@@ -1091,7 +1091,7 @@ ProtectPadsDesc:
 
 RockyHelmetDesc:
 	text "Damages foe on"
-	next "contact. (Hold)"
+	next "contact. (HOLD)"
 	done
 
 SafeGogglesDesc:
@@ -1101,17 +1101,17 @@ SafeGogglesDesc:
 
 ShedShellDesc:
 	text "Allows switching"
-	next "out. (Hold)"
+	next "out. (HOLD)"
 	done
 
 ShellBellDesc:
 	text "Self-restore item."
-	next "(1/8 damage, Hold)"
+	next "(1/8 damage, HOLD)"
 	done
 
 SootheBellDesc:
 	text "Calms and fosters"
-	next "friendship. (Hold)"
+	next "friendship. (HOLD)"
 	done
 
 WeakPolicyDesc:
@@ -1121,7 +1121,7 @@ WeakPolicyDesc:
 
 WideLensDesc:
 	text "Slightly boosts"
-	next "accuracy. (Hold)"
+	next "accuracy. (HOLD)"
 	done
 
 ZoomLensDesc:
@@ -1136,7 +1136,7 @@ MentalHerbDesc:
 
 PowerHerbDesc:
 	text "Skips charging"
-	next "of moves. (Hold)"
+	next "of moves. (HOLD)"
 	done
 
 WhiteHerbDesc:
@@ -1146,12 +1146,12 @@ WhiteHerbDesc:
 
 DampRockDesc:
 	text "Extends duration"
-	next "of rain. (Hold)"
+	next "of rain. (HOLD)"
 	done
 
 HeatRockDesc:
 	text "Extends duration"
-	next "of sun. (Hold)"
+	next "of sun. (HOLD)"
 	done
 
 SmoothRockDesc:
@@ -1161,107 +1161,107 @@ SmoothRockDesc:
 
 IcyRockDesc:
 	text "Extends duration"
-	next "of hail. (Hold)"
+	next "of hail. (HOLD)"
 	done
 
 ChoiceBandDesc:
-	text "Boosts Attack, but"
+	text "Boosts ATTACK, but"
 	next "allows one move."
 	done
 
 ChoiceScarfDesc:
-	text "Boosts Speed, but"
+	text "Boosts SPEED, but"
 	next "allows one move."
 	done
 
 ChoiceSpecsDesc:
-	text "Boosts Sp.Atk, but"
+	text "Boosts SPCL.ATK, but"
 	next "allows one move."
 	done
 
 FlameOrbDesc:
 	text "Causes a burn."
-	next "(Hold)"
+	next "(HOLD)"
 	done
 
 ToxicOrbDesc:
 	text "Causes bad poison."
-	next "(Hold)"
+	next "(HOLD)"
 	done
 
 BlackSludgeDesc:
 	text "Restores HP for"
-	next "Poison #mon."
+	next "poison #MON."
 	done
 
 MachoBraceDesc:
 	text "Boosts stat gain,"
-	next "but lowers Speed."
+	next "but lowers SPEED."
 	done
 
 PowerWeightDesc:
 	text "Boosts HP gain,"
-	next "but lowers Speed."
+	next "but lowers SPEED."
 	done
 
 PowerBracerDesc:
-	text "Ups Attack gain,"
-	next "but lowers Speed."
+	text "Ups ATTACK gain,"
+	next "but lowers SPEED."
 	done
 
 PowerBeltDesc:
-	text "Ups Defense gain,"
-	next "but lowers Speed."
+	text "Ups DEFENSE gain,"
+	next "but lowers SPEED."
 	done
 
 PowerLensDesc:
-	text "Ups Sp.Atk gain,"
-	next "but lowers Speed."
+	text "Ups SPCL.ATK gain,"
+	next "but lowers SPEED."
 	done
 
 PowerBandDesc:
-	text "Ups Sp.Def gain,"
-	next "but lowers Speed."
+	text "Ups SPCL.DEF gain,"
+	next "but lowers SPEED."
 	done
 
 PowerAnkletDesc:
-	text "Ups Speed gain,"
-	next "but lowers Speed."
+	text "Ups SPEED gain,"
+	next "but lowers SPEED."
 	done
 
 MulchDesc:
 	text "Plant fertilizer"
-	next "for Berry trees."
+	next "for BERRY trees."
 	done
 
 SweetHoneyDesc:
 	text "The aroma attracts"
-	next "wild #mon."
+	next "wild #MON."
 	done
 
 EvioliteDesc:
-	text "Ups Def and Sp.Def"
-	next "of evolvers."
+	text "Ups DEFENSE and"
+	next "SPCL.DEF of evolvers."
 	done
 
 MuscleBandDesc:
 	text "Powers up physical"
-	next "moves. (Hold)"
+	next "moves. (HOLD)"
 	done
 
 WiseGlassesDesc:
 	text "Powers up special"
-	next "moves. (Hold)"
+	next "moves. (HOLD)"
 	done
 
 DragonScaleDesc:
-	text "A rare Dragon-type"
+	text "A rare dragon-type"
 	next "item."
 	done
 
 UpGradeDesc:
 	text "A mysterious box"
-	next "made by Silph Co."
+	next "made by SILPH CO."
 	done
 
 DubiousDiscDesc:
@@ -1286,7 +1286,7 @@ MagmarizerDesc:
 
 OvalStoneDesc:
 	text "A stone as round"
-	next "as a #mon Egg."
+	next "as a #MON EGG."
 	done
 
 OddSouvenirDesc:
@@ -1377,7 +1377,7 @@ BottleCapDesc:
 HelixFossilDesc:
 DomeFossilDesc:
 	text "A fossilized"
-	next "#mon shell."
+	next "#MON shell."
 	done
 
 OldAmberDesc:
@@ -1386,78 +1386,78 @@ OldAmberDesc:
 	done
 
 FlowerMailDesc:
-	text "Flower-print Mail."
-	next "(Hold)"
+	text "Flower-print MAIL."
+	next "(HOLD)"
 	done
 
 SurfMailDesc:
-	text "Lapras-print Mail."
-	next "(Hold)"
+	text "LAPRAS-print MAIL."
+	next "(HOLD)"
 	done
 
 LiteBlueMailDesc:
-	text "Dratini-print"
-	next "Mail. (Hold)"
+	text "DRATINI-print"
+	next "MAIL. (HOLD)"
 	done
 
 PortraitMailDesc:
-	text "Mail featuring the"
+	text "MAIL featuring the"
 	next "holder's likeness."
 	done
 
 LovelyMailDesc:
-	text "Heart-print Mail."
-	next "(Hold)"
+	text "Heart-print MAIL."
+	next "(HOLD)"
 	done
 
 EonMailDesc:
-	text "Eevee-print Mail."
-	next "(Hold)"
+	text "EEVEE-print MAIL."
+	next "(HOLD)"
 	done
 
 MorphMailDesc:
-	text "Ditto-print Mail."
-	next "(Hold)"
+	text "DITTO-print MAIL."
+	next "(HOLD)"
 	done
 
 BlueSkyMailDesc:
-	text "Sky-print Mail."
-	next "(Hold)"
+	text "Sky-print MAIL."
+	next "(HOLD)"
 	done
 
 MusicMailDesc:
-	text "Natu-print Mail."
-	next "(Hold)"
+	text "NATU-print MAIL."
+	next "(HOLD)"
 	done
 
 MirageMailDesc:
-	text "Mew-print Mail."
-	next "(Hold)"
+	text "MEW-print MAIL."
+	next "(HOLD)"
 	done
 
 EjectButtonDesc:
 	text "Switches out when"
-	next "hit. (Hold)"
+	next "hit. (HOLD)"
 	done
 
 LaggingTailDesc:
 	text "Always moves last."
-	next "(Hold)"
+	next "(HOLD)"
 	done
 
 IronBallDesc:
-	text "Lowers Speed and"
-	next "grounds. (Hold)"
+	text "Lowers SPEED and"
+	next "grounds. (HOLD)"
 	done
 
 RingTargetDesc:
 	text "Loses type immun-"
-	next "ities. (Hold)"
+	next "ities. (HOLD)"
 	done
 
 RedCardDesc:
 	text "Switches out foe"
-	next "when hit. (Hold)"
+	next "when hit. (HOLD)"
 	done
 
 ClearAmuletDesc:
@@ -1482,27 +1482,27 @@ CovertCloakDesc:
 
 EjectPackDesc:
 	text "Switches out when"
-	next "stats fall. (Hold)"
+	next "stats fall. (HOLD)"
 	done
 
 RoomServiceDesc:
-	text "Lowers Speed in"
-	next "Trick Room. (Hold)"
+	text "Lowers SPEED in"
+	next "TRICK ROOM. (HOLD)"
 	done
 
 BlundrPolicyDesc:
-	text "Raises Speed when"
+	text "Raises SPEED when"
 	next "a move misses."
 	done
 
 ThroatSprayDesc:
-	text "Raises Sp.Atk on"
+	text "Raises SPCL.ATK on"
 	next "a sound move."
 	done
 
 HeavyBootsDesc:
 	text "Protects from"
-	next "traps. (Hold)"
+	next "traps. (HOLD)"
 	done
 
 LoadedDiceDesc:
@@ -1522,17 +1522,17 @@ BicycleDesc:
 
 OldRodDesc:
 	text "Use by water to"
-	next "fish for #mon."
+	next "fish for #MON."
 	done
 
 GoodRodDesc:
-	text "A good Rod for"
-	next "catching #mon."
+	text "A good ROD for"
+	next "catching #MON."
 	done
 
 SuperRodDesc:
-	text "The best Rod for"
-	next "catching #mon."
+	text "The best ROD for"
+	next "catching #MON."
 	done
 
 CoinCaseDesc:
@@ -1546,8 +1546,8 @@ ItemfinderDesc:
 	done
 
 MysteryEggDesc:
-	text "An Egg obtained"
-	next "from Mr.#mon."
+	text "An EGG obtained"
+	next "from MR.#MON."
 	done
 
 SquirtBottleDesc:
@@ -1562,17 +1562,17 @@ GoGogglesDesc:
 
 SecretPotionDesc:
 	text "Fully heals any"
-	next "#mon."
+	next "#MON."
 	done
 
 RedScaleDesc:
 	text "A scale from the"
-	next "red Gyarados."
+	next "red GYARADOS."
 	done
 
 CardKeyDesc:
 	text "Opens shutters in"
-	next "the Radio Tower."
+	next "the RADIO TOWER."
 	done
 
 BasementKeyDesc:
@@ -1581,22 +1581,22 @@ BasementKeyDesc:
 
 SSTicketDesc:
 	text "A ticket for the"
-	next "S.S.Aqua."
+	next "S.S.AQUA."
 	done
 
 PassDesc:
 	text "A ticket for the"
-	next "Magnet Train."
+	next "MAGNET TRAIN."
 	done
 
 MachinePartDesc:
 	text "A machine part for"
-	next "the Power Plant."
+	next "the POWER PLANT."
 	done
 
 LostItemDesc:
-	text "The # Doll lost"
-	next "by the Copycat."
+	text "The # DOLL lost"
+	next "by the COPYCAT."
 	done
 
 RainbowWingDesc:
@@ -1616,7 +1616,7 @@ ClearBellDesc:
 
 GSBallDesc:
 	text "The mysterious"
-	next "Ball."
+	next "BALL."
 	done
 
 GBCSoundsDesc:
@@ -1632,7 +1632,7 @@ BlueCardDesc:
 OrangeTicketDesc:
 MysticTicketDesc:
 	text "A ticket for the"
-	next "Seagallop Ferry."
+	next "SEAGALLOP FERRY."
 	done
 
 OldSeaMapDesc:
@@ -1657,27 +1657,27 @@ MalignLureDesc:
 
 ShinyCharmDesc:
 	text "A charm for find-"
-	next "ing shiny #mon."
+	next "ing shiny #MON."
 	done
 
 OvalCharmDesc:
 	text "A charm for find-"
-	next "ing Eggs."
+	next "ing EGGS."
 	done
 
 CatchCharmDesc:
 	text "A charm for catch-"
-	next "ing #mon."
+	next "ing #MON."
 	done
 
 SilphScope2Desc:
 	text "A scope to see in-"
-	next "visible #mon."
+	next "visible #MON."
 	done
 
 ApricornBoxDesc:
 	text "Holds up to 99 of"
-	next "each Apricorn."
+	next "each APRICORN."
 	done
 
 TypeChartDesc:
@@ -1687,5 +1687,5 @@ TypeChartDesc:
 
 WingCaseDesc:
 	text "Holds up to 999 of"
-	next "each Wing."
+	next "each WING."
 	done

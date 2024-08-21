@@ -112,7 +112,7 @@ Route27VeteranfScript:
 
 .AfterText2:
 	text "Good luck! Say"
-	line "hello to Lance"
+	line "hello to LANCE"
 	cont "for me."
 	done
 
@@ -121,13 +121,13 @@ Route27VeteranfScript:
 	line "then you must be"
 
 	para "heading for the"
-	line "#mon League."
+	line "#MON LEAGUE."
 
 	para "Want to train"
 	line "with me?"
 
 	para "Then beat everyone"
-	line "else on Routes 26"
+	line "else on ROUTES 26"
 	cont "and 27."
 
 	para "I'll wait for you"
@@ -148,9 +148,9 @@ Route27VeteranfScript:
 	done
 
 .SeenText:
-	text "My #mon are"
+	text "My #MON are"
 	line "all wearing"
-	cont "Choice Specs."
+	cont "CHOICE SPECS."
 
 	para "They may look"
 	line "weird, but they"
@@ -159,14 +159,14 @@ Route27VeteranfScript:
 
 .BeatenText:
 	text "You're ready for"
-	line "the #mon"
-	cont "League, I'm sure!"
+	line "the #MON"
+	cont "LEAGUE, I'm sure!"
 	done
 
 .AfterText1:
-	text "Choice Specs will"
-	line "boost a #mon's"
-	cont "Special Attack,"
+	text "CHOICE SPECS will"
+	line "boost a #MON's"
+	cont "SPCL.ATK,"
 
 	para "but it can only"
 	line "use one move."
@@ -180,7 +180,7 @@ GenericTrainerPsychicGilbert:
 
 	text "With your skills,"
 	line "you'll do well at"
-	cont "the League."
+	cont "the LEAGUE."
 
 	para "That's what my"
 	line "premonition says."
@@ -306,7 +306,7 @@ GenericTrainerCooltrainermBlake:
 GenericTrainerAceDuoJakeandbri1:
 	generictrainer ACE_DUO, JAKEANDBRI1, EVENT_BEAT_ACE_DUO_JAKE_AND_BRI, AceDuoJakeandbri1SeenText, AceDuoJakeandbri1BeatenText
 
-	text "Jake: A good"
+	text "JAKE: A good"
 	line "trainer can recog-"
 
 	para "nize other good"
@@ -316,7 +316,7 @@ GenericTrainerAceDuoJakeandbri1:
 GenericTrainerAceDuoJakeandbri2:
 	generictrainer ACE_DUO, JAKEANDBRI2, EVENT_BEAT_ACE_DUO_JAKE_AND_BRI, AceDuoJakeandbri2SeenText, AceDuoJakeandbri2BeatenText
 
-	text "Bri: Good trainers"
+	text "BRI: Good trainers"
 	line "also know how to"
 
 	para "fight alongside"
@@ -413,10 +413,10 @@ GenericTrainerCooltrainerfMegan:
 
 	text "I'm checking out"
 	line "pre- and post-"
-	cont "evolution #mon."
+	cont "evolution #MON."
 
 	para "Evolution really"
-	line "does make #mon"
+	line "does make #MON"
 	cont "stronger."
 
 	para "But evolved forms"
@@ -440,10 +440,10 @@ Route27FisherText:
 
 	para "You've taken your"
 	line "first step into"
-	cont "Kanto."
+	cont "KANTO."
 
 	para "Check your #-"
-	line "gear Map and see."
+	line "GEAR MAP and see."
 	done
 
 CooltrainermBlakeSeenText:
@@ -457,23 +457,23 @@ CooltrainermBlakeBeatenText: ; text > text
 	done
 
 AceDuoJakeandbri1SeenText:
-	text "Jake: Hm? You're"
+	text "JAKE: Hm? You're"
 	line "good, aren't you?"
 	done
 
 AceDuoJakeandbri1BeatenText:
-	text "Jake: Just as I"
+	text "JAKE: Just as I"
 	line "thought!"
 	done
 
 AceDuoJakeandbri2SeenText:
-	text "Bri: The two of"
+	text "BRI: The two of"
 	line "us together are"
 	cont "unstoppable!"
 	done
 
 AceDuoJakeandbri2BeatenText:
-	text "Bri: Our teamwork"
+	text "BRI: Our teamwork"
 	line "wasn't enough…"
 	done
 
@@ -481,7 +481,7 @@ CooltrainerfReena1SeenText:
 	text "You shouldn't"
 	line "underestimate the"
 
-	para "wild #mon in"
+	para "wild #MON in"
 	line "these parts."
 	done
 
@@ -520,8 +520,8 @@ PsychicGilbertSeenText:
 	para "Mmmmmmm…"
 
 	para "I got it! You're"
-	line "on the #mon"
-	cont "League challenge!"
+	line "on the #MON"
+	cont "LEAGUE challenge!"
 	done
 
 PsychicGilbertBeatenText:
@@ -538,16 +538,16 @@ Bird_keeperJose1BeatenText:
 	done
 
 BirdKeeperJose2AfterBattleText:
-	text "Bird Keepers like"
+	text "BIRD KEEPERS like"
 	line "me mimic bird"
 
 	para "whistles to com-"
-	line "mand #mon."
+	line "mand #MON."
 	done
 
 TohjoFallsSignText:
-	text "Tohjo Falls"
+	text "TOHJO FALLS"
 
 	para "The Link Between"
-	line "Kanto and Johto"
+	line "KANTO and JOHTO"
 	done

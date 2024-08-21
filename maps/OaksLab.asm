@@ -188,11 +188,11 @@ EeveeDollScript:
 	jumpopenedtext ProfOakAfterTradeText
 
 OakWelcomeKantoText:
-	text "Oak: Ah, <PLAYER>!"
+	text "OAK: Ah, <PLAYER>!"
 	line "It's good of you"
 
 	para "to come all this"
-	line "way to Kanto."
+	line "way to KANTO."
 
 	para "What do you think"
 	line "of the trainers"
@@ -202,8 +202,8 @@ OakWelcomeKantoText:
 	done
 
 OakLabGiveStarterText:
-	text "Oak: Oh, so Prof."
-	line "Ivy says hello?"
+	text "OAK: Oh, so PROF."
+	line "IVY says hello?"
 
 	para "Thanks for convey-"
 	line "ing her message,"
@@ -213,23 +213,23 @@ OakLabGiveStarterText:
 	line "of mine."
 
 	para "If she gave you a"
-	line "#mon, let me do"
+	line "#MON, let me do"
 	cont "the same!"
 
 	para "You don't see this"
-	line "#mon very often"
-	cont "in Kanto or Johto."
+	line "#MON very often"
+	cont "in KANTO or JOHTO."
 	done
 
 OakLabPartyAndBoxFullText:
 	text "Hm, you don't have"
 	line "room for it, and"
-	line "your Box is full."
+	line "your BOX is full."
 	done
 
 OakLabDexCheckText:
 	text "How is your #-"
-	line "dex coming?"
+	line "DEX coming?"
 
 	para "Let's see…"
 	done
@@ -240,7 +240,7 @@ OakLabCatchMoreText:
 
 	para "such help with"
 	line "filling out the"
-	cont "#dex."
+	cont "#DEX."
 
 	para "Take this as a"
 	line "reward for your"
@@ -248,14 +248,14 @@ OakLabCatchMoreText:
 	done
 
 OakLabCatchCharmText:
-	text "Holding a Catch"
-	line "Charm will improve"
+	text "Holding a CATCH"
+	line "CHARM will improve"
 
 	para "your chances of a"
 	line "critical capture."
 
 	para "That's when your"
-	line "# Ball is"
+	line "# BALL is"
 
 	para "thrown just right"
 	line "and is more likely"
@@ -264,7 +264,7 @@ OakLabCatchCharmText:
 
 OakLabSeenAllText:
 	text "You've been meeting"
-	line "new #mon at a"
+	line "new #MON at a"
 
 	para "good clip, haven't"
 	line "you?"
@@ -275,12 +275,12 @@ OakLabSeenAllText:
 	done
 
 OakLabOvalCharmText:
-	text "Holding an Oval"
-	line "Charm will improve"
+	text "Holding an OVAL"
+	line "CHARM will improve"
 
 	para "your chances of"
-	line "finding an Egg at"
-	cont "the Day-Care."
+	line "finding an EGG at"
+	cont "the DAY-CARE."
 	done
 
 OakLabCaughtAllText:
@@ -288,7 +288,7 @@ OakLabCaughtAllText:
 	line "justified in"
 
 	para "giving you that"
-	line "#dex."
+	line "#DEX."
 
 	para "It is a testament"
 	line "to your effort…"
@@ -299,7 +299,7 @@ OakLabCaughtAllText:
 
 	para "And to the bonds"
 	line "you have built"
-	cont "with your #mon!"
+	cont "with your #MON!"
 
 	para "Take this as a"
 	line "reward for your"
@@ -307,12 +307,12 @@ OakLabCaughtAllText:
 	done
 
 OakLabShinyCharmText:
-	text "Holding a Shiny"
-	line "Charm will improve"
+	text "Holding a SHINY"
+	line "CHARM will improve"
 
 	para "your chances of"
 	line "finding a shiny"
-	cont "#mon!"
+	cont "#MON!"
 	done
 
 OakLabGoodbyeText:
@@ -322,24 +322,24 @@ OakLabGoodbyeText:
 	done
 
 OakMightBeReadyText:
-	text "Oak: Incredible,"
+	text "OAK: Incredible,"
 	line "<PLAYER>!"
 
 	para "You won against"
-	line "the Elite Four"
+	line "the ELITE FOUR"
 	cont "a second time!"
 
 	para "You just might be"
 	line "ready to ascend"
-	cont "Mt.Silver."
+	cont "MT.SILVER."
 	done
 
 OakChallengeText:
-	text "Oak: Mt.Silver is"
+	text "OAK: MT.SILVER is"
 	line "a tall mountain"
 
 	para "that is home to"
-	line "many wild #mon."
+	line "many wild #MON."
 
 	para "It's too dangerous"
 	line "for your average"
@@ -356,12 +356,12 @@ OakChallengeText:
 	done
 
 OakRefusedText:
-	text "Oak: Come back"
+	text "OAK: Come back"
 	line "when you're ready."
 	done
 
 OakSeenText:
-	text "Oak: Put every-"
+	text "OAK: Put every-"
 	line "thing you have"
 	cont "into this battle!"
 	done
@@ -372,14 +372,14 @@ OakWinText:
 	done
 
 OakOpenMtSilverText:
-	text "Oak: Spectacular,"
+	text "OAK: Spectacular,"
 	line "<PLAYER>!"
 
 	para "I'll make arrange-"
 	line "ments so that you"
 
-	para "can go to Mt."
-	line "Silver."
+	para "can go to MT."
+	line "SILVER."
 
 	para "It's unusual, but"
 	line "we can make an"
@@ -387,34 +387,34 @@ OakOpenMtSilverText:
 	para "exception in your"
 	line "case, <PLAYER>."
 
-	para "Go up to Indigo"
-	line "Plateau. You can"
+	para "Go up to INDIGO"
+	line "PLATEAU. You can"
 
-	para "reach Mt.Silver"
+	para "reach MT.SILVER"
 	line "from there."
 
 	para "…"
 
-	para "I let Red train on"
-	line "Mt.Silver after"
+	para "I let RED train on"
+	line "MT.SILVER after"
 
 	para "his first defeat"
-	line "as Champion."
+	line "as CHAMPION."
 
 	para "But he hasn't"
 	line "come back…"
 	done
 
 OakNoKantoBadgesText:
-	text "Oak: Hmm? You're"
+	text "OAK: Hmm? You're"
 	line "not collecting"
-	cont "Kanto Gym Badges?"
+	cont "KANTO GYM BADGES?"
 
-	para "The Gym Leaders in"
-	line "Kanto are as tough"
+	para "The GYM LEADERS in"
+	line "KANTO are as tough"
 
 	para "as any you battled"
-	line "in Johto."
+	line "in JOHTO."
 
 	para "I recommend that"
 	line "you challenge"
@@ -422,27 +422,27 @@ OakNoKantoBadgesText:
 	done
 
 OakNoEliteFourRematchText:
-	text "Oak: Wow! That's"
+	text "OAK: Wow! That's"
 	line "excellent!"
 
 	para "You collected the"
-	line "Badges of Gyms in"
-	cont "Kanto. Well done!"
+	line "BADGES of GYMS in"
+	cont "KANTO. Well done!"
 
 	para "Now you can cha-"
-	line "llenge the Elite"
+	line "llenge the ELITE"
 
-	para "Four with their"
-	line "best #mon."
+	para "FOUR with their"
+	line "best #MON."
 
 	para "Keep trying hard,"
 	line "<PLAYER>!"
 	done
 
 OakYesKantoBadgesText:
-	text "Oak: Ah, you're"
-	line "collecting Kanto"
-	cont "Gym Badges."
+	text "OAK: Ah, you're"
+	line "collecting KANTO"
+	cont "GYM BADGES."
 
 	para "I imagine that"
 	line "it's hard, but the"
@@ -454,7 +454,7 @@ OakYesKantoBadgesText:
 	line "eight, you can"
 	cont "challenge the"
 
-	para "Elite Four at"
+	para "ELITE FOUR at"
 	line "their best."
 
 	para "Keep trying hard,"
@@ -462,11 +462,11 @@ OakYesKantoBadgesText:
 	done
 
 OaksAssistant1Text:
-	text "The Prof's #mon"
-	line "Talk radio program"
+	text "The PROF'S #MON"
+	line "TALK radio program"
 
 	para "isn't aired here"
-	line "in Kanto."
+	line "in KANTO."
 
 	para "It's a shame--I'd"
 	line "like to hear it."
@@ -475,7 +475,7 @@ OaksAssistant1Text:
 OaksAssistant2Text:
 	text "Thanks to your"
 	line "work on the #-"
-	cont "dex, the Prof's"
+	cont "DEX, the PROF's"
 
 	para "research is coming"
 	line "along great."
@@ -483,20 +483,20 @@ OaksAssistant2Text:
 
 OaksAssistant3Text:
 	text "Don't tell anyone,"
-	line "but Prof.Oak's"
+	line "but PROF.OAK'S"
 
-	para "#mon Talk isn't"
+	para "#MON TALK isn't"
 	line "a live broadcast."
 	done
 
 OaksLabPoster1Text:
-	text "Press Start to"
-	line "open the Menu."
+	text "Press START to"
+	line "open the menu."
 	done
 
 OaksLabPoster2Text:
-	text "The Save option is"
-	line "on the Menu."
+	text "The SAVE option is"
+	line "on the menu."
 
 	para "Use it in a timely"
 	line "manner."
@@ -508,7 +508,7 @@ OaksLabPCText:
 
 	para "…"
 
-	para "Prof.Oak, how is"
+	para "PROF.OAK, how is"
 	line "your research"
 	cont "coming along?"
 
@@ -524,18 +524,18 @@ OaksLabPCText:
 	para "I'm delighted to"
 	line "hear that."
 
-	para "Elm in New Bark"
-	line "Town 8-)"
+	para "ELM in NEW BARK"
+	line "TOWN 8-)"
 	done
 
 ProfOakEeveeDollTradeText:
-	text "Oak: Oh, are you"
+	text "OAK: Oh, are you"
 	line "admiring my"
-	cont "Eevee Doll?"
+	cont "EEVEE DOLL?"
 
 	para "I'll trade it"
 	line "to you for an"
-	cont "Everstone."
+	cont "EVERSTONE."
 	done
 
 NoEverstoneText:
@@ -556,21 +556,21 @@ NoTradeText:
 
 EeveeDollText:
 	text "<PLAYER> received"
-	line "Eevee Doll."
+	line "EEVEE DOLL."
 	done
 
 EeveeDollSentText:
-	text "Eevee Doll"
+	text "EEVEE DOLL"
 	line "was sent home."
 	done
 
 ProfOakAfterTradeText:
-	text "Prof.Oak: Set it"
+	text "PROF.OAK: Set it"
 	line "somewhere you can"
 	cont "appreciate it!"
 	done
 
 OaksLabPokedexText:
-	text "It's Prof.Oak's"
-	line "#dex."
+	text "It's PROF.OAK's"
+	line "#DEX."
 	done

@@ -20,23 +20,23 @@ PokemonJournalProfOakScript:
 	setflag ENGINE_READ_PROF_OAK_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "#mon Prof.Oak!"
+	para "SPECIAL FEATURE:"
+	line "#MON PROF.OAK!"
 
-	para "Samuel Oak's grand-"
-	line "children, Blue and"
+	para "SAMUEL OAK's grand-"
+	line "children, BLUE and"
 
-	para "Daisy, live near"
-	line "his lab in Pallet"
-	cont "Town."
+	para "DAISY, live near"
+	line "his lab in PALLET"
+	cont "TOWN."
 
-	para "His cousin Samson"
+	para "His cousin SAMSON"
 	line "is rumored to live"
 
 	para "in the far-off"
-	line "Alola region."
+	line "ALOLA region."
 	done
 
 RedsHouse2FPCText:

@@ -414,17 +414,17 @@ DynamicpunchDescription:
 
 MetalClawDescription:
 	text "An attack that may"
-	next "up user's Attack."
+	next "up user's ATTACK."
 	done
 
 SteelWingDescription:
 	text "An attack that may"
-	next "up user's Defense."
+	next "up user's DEFENSE."
 	done
 
 FlameChargeDescription:
 	text "An attack that may"
-	next "up user's Speed."
+	next "up user's SPEED."
 	done
 
 AncientpowerDescription:
@@ -434,45 +434,45 @@ AncientpowerDescription:
 
 CloseCombatDescription:
 	text "Lowers the user's"
-	next "Def and Sp.Def."
+	next "DEF and SPCL.DEF."
 	done
 
 AuroraBeamDescription:
 PlayRoughDescription:
 	text "An attack that may"
-	next "lower Attack."
+	next "lower ATTACK."
 	done
 
 RockSmashDescription:
 if !DEF(FAITHFUL)
-	text "Removes Reflect"
-	next "and Light Screen."
+	text "Removes REFLECT"
+	next "and LIGHT SCREEN."
 	done
 endc
 CrunchDescription:
 IronTailDescription:
 	text "An attack that may"
-	next "lower Defense."
+	next "lower DEFENSE."
 	done
 
 BubbleBeamDescription:
 	text "An attack that may"
-	next "lower Speed."
+	next "lower SPEED."
 	done
 
 BulldozeDescription:
-	text "A Ground attack"
-	next "that lowers Speed."
+	text "A ground attack"
+	next "that lowers SPEED."
 	done
 
 IcyWindDescription:
 	text "An icy attack that"
-	next "lowers Speed."
+	next "lowers SPEED."
 	done
 
 MoonblastDescription:
 	text "An attack that may"
-	next "lower Sp.Atk."
+	next "lower SPCL.ATK."
 	done
 
 AcidDescription:
@@ -484,7 +484,7 @@ EnergyBallDescription:
 FlashCannonDescription:
 FocusBlastDescription:
 	text "An attack that may"
-	next "lower Sp.Def."
+	next "lower SPCL.DEF."
 	done
 
 MudSlapDescription:
@@ -543,7 +543,7 @@ SporeDescription:
 	done
 
 ToxicDescription:
-	text "A Poison move with"
+	text "A poison move with"
 	next "increasing damage."
 	done
 
@@ -556,7 +556,7 @@ SweetKissDescription:
 
 DefenseCurlDescription:
 	text "Raises the user's"
-	next "Defense."
+	next "DEFENSE."
 	done
 
 DoubleTeamDescription:
@@ -571,27 +571,27 @@ FocusEnergyDescription:
 
 SwordsDanceDescription:
 	text "Sharply raises the"
-	next "user's Attack."
+	next "user's ATTACK."
 	done
 
 BarrierDescription:
 	text "Sharply raises the"
-	next "user's Defense."
+	next "user's DEFENSE."
 	done
 
 AgilityDescription:
 	text "Sharply raises the"
-	next "user's Speed."
+	next "user's SPEED."
 	done
 
 NastyPlotDescription:
 	text "Sharply raises the"
-	next "user's Sp.Atk."
+	next "user's SPCL.ATK."
 	done
 
 AmnesiaDescription:
 	text "Sharply raises the"
-	next "user's Sp.Def."
+	next "user's SPCL.DEF."
 	done
 
 MinimizeDescription:
@@ -601,42 +601,42 @@ MinimizeDescription:
 
 GrowthDescription:
 	text "Raises the user's"
-	next "Atk and Sp.Atk."
+	next "ATK and SPCL.ATK."
 	done
 
 BulkUpDescription:
 	text "Raises the user's"
-	next "Atk and Def."
+	next "ATK and DEF."
 	done
 
 CalmMindDescription:
 	text "Raises the user's"
-	next "Sp.Atk and Sp.Def."
+	next "SPCL.ATK and SPCL.DEF."
 	done
 
 DragonDanceDescription:
 	text "Raises the user's"
-	next "Attack and Speed."
+	next "ATTACK and SPEED."
 	done
 
 HoneClawsDescription:
 	text "Raises the user's"
-	next "Atk and accuracy."
+	next "ATK and accuracy."
 	done
 
 GrowlDescription:
 	text "A move that lowers"
-	next "the foe's Attack."
+	next "the foe's ATTACK."
 	done
 
 LeerDescription:
 	text "A move that lowers"
-	next "the foe's Defense."
+	next "the foe's DEFENSE."
 	done
 
 StringShotDescription:
 	text "A move that lowers"
-	next "the foe's Speed."
+	next "the foe's SPEED."
 	done
 
 SmokescreenDescription:
@@ -647,17 +647,17 @@ FlashDescription:
 
 CharmDescription:
 	text "Sharply lowers the"
-	next "foe's Attack."
+	next "foe's ATTACK."
 	done
 
 ScreechDescription:
 	text "Sharply lowers the"
-	next "foe's Defense."
+	next "foe's DEFENSE."
 	done
 
 ScaryFaceDescription:
 	text "Sharply lowers the"
-	next "foe's Speed."
+	next "foe's SPEED."
 	done
 
 HazeDescription:
@@ -671,12 +671,12 @@ SafeguardDescription:
 	done
 
 ReflectDescription:
-	text "Raises Defense"
+	text "Raises DEFENSE"
 	next "with a barrier."
 	done
 
 LightScreenDescription:
-	text "Raises Sp.Def with"
+	text "Raises SPCL.DEF with"
 	next "a wall of light."
 	done
 
@@ -710,7 +710,7 @@ WrapDescription:
 	done
 
 TrickRoomDescription:
-	text "Slow #mon move"
+	text "Slow #MON move"
 	next "first for 5 turns."
 	done
 
@@ -771,12 +771,12 @@ VenoshockDescription:
 	done
 
 RainDanceDescription:
-	text "Boosts Water-type"
+	text "Boosts water-type"
 	next "moves for 5 turns."
 	done
 
 SunnyDayDescription:
-	text "Boosts Fire-type"
+	text "Boosts fire-type"
 	next "moves for 5 turns."
 	done
 
@@ -943,12 +943,12 @@ WaterGunDescription:
 	done
 
 SurfDescription:
-	text "A strong Water-"
+	text "A strong water-"
 	next "type attack."
 	done
 
 HydroPumpDescription:
-	text "A powerful Water-"
+	text "A powerful water-"
 	next "type attack."
 	done
 
@@ -978,7 +978,7 @@ EarthquakeDescription:
 	done
 
 RageDescription:
-	text "Raises Attack if"
+	text "Raises ATTACK if"
 	next "the user is hit."
 	done
 
@@ -999,7 +999,7 @@ AquaTailDescription:
 
 MetronomeDescription:
 	text "Randomly uses any"
-	next "#mon move."
+	next "#MON move."
 	done
 
 SkillSwapDescription:
@@ -1074,7 +1074,7 @@ ThiefDescription:
 
 FacadeDescription:
 	text "Double damage with"
-	next "Psn, Brn, or Prz."
+	next "PSN, BRN, or PRZ."
 	done
 
 HyperVoiceDescription:
@@ -1084,7 +1084,7 @@ HyperVoiceDescription:
 
 CurseDescription:
 	text "Works differently"
-	next "for Ghost-types."
+	next "for ghost-types."
 	done
 
 ReversalDescription:
@@ -1104,7 +1104,7 @@ ProtectDescription:
 
 BellyDrumDescription:
 	text "Sacrifices HP to"
-	next "maximize Attack."
+	next "maximize ATTACK."
 	done
 
 ForesightDescription:
@@ -1134,7 +1134,7 @@ RolloutDescription:
 
 SwaggerDescription:
 	text "Causes confusion"
-	next "but raises Attack."
+	next "but raises ATTACK."
 	done
 
 ShellSmashDescription:
@@ -1144,7 +1144,7 @@ ShellSmashDescription:
 
 BugBiteDescription:
 	text "Bites the foe and"
-	next "eats a held Berry."
+	next "eats a held BERRY."
 	done
 
 MeanLookDescription:
@@ -1183,7 +1183,7 @@ PainSplitDescription:
 	done
 
 MagnitudeDescription:
-	text "A Ground attack"
+	text "A ground attack"
 	next "with random power."
 	done
 
@@ -1214,7 +1214,7 @@ EncoreDescription:
 
 PursuitDescription:
 	text "Heavily strikes"
-	next "switching #mon."
+	next "switching #MON."
 	done
 
 RapidSpinDescription:
@@ -1234,7 +1234,7 @@ KnockOffDescription:
 
 HiddenPowerDescription:
 	text "The type varies"
-	next "with the #mon."
+	next "with the #MON."
 	done
 
 FutureSightDescription:

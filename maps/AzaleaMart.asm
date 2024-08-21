@@ -19,24 +19,24 @@ AzaleaMart_MapScriptHeader:
 	object_event  8,  6, SPRITE_ROCKER, SPRITEMOVEDATA_WALK_LEFT_RIGHT, 0, 1, -1, (1 << EVE) | (1 << NITE), PAL_NPC_PURPLE, OBJECTTYPE_COMMAND, jumptextfaceplayer, AzaleaMartRockerText, -1
 
 AzaleaMartCooltrainermText:
-	text "There's no Great"
-	line "Ball here. #"
+	text "There's no GREAT"
+	line "BALL here. #"
 
-	para "Balls will have"
+	para "BALLS will have"
 	line "to do."
 
-	para "I wish Kurt would"
+	para "I wish KURT would"
 	line "make me some of"
-	cont "his custom Balls."
+	cont "his custom BALLS."
 	done
 
 AzaleaMartBugCatcherText:
-	text "A Great Ball is"
+	text "A GREAT BALL is"
 	line "better for catch-"
-	cont "ing #mon than a"
-	cont "# Ball."
+	cont "ing #MON than a"
+	cont "# BALL."
 
-	para "But Kurt's might"
+	para "But KURT's might"
 	line "be better some-"
 	cont "times."
 	done
@@ -44,31 +44,31 @@ AzaleaMartBugCatcherText:
 AzaleaMartLadyText:
 	text "I can buy many"
 	line "items at home in"
-	cont "Goldenrod City,"
+	cont "GOLDENROD CITY,"
 
 	para "but for boosting"
-	line "Fire-type moves,"
+	line "fire-type moves,"
 
 	para "nothing beats"
-	line "Azalea's Charcoal!"
+	line "AZALEA's CHARCOAL!"
 	done
 
 AzaleaMartRockerText:
 	text "The prototype"
 	line "versions of"
 
-	para "Kurt's balls had"
+	para "KURT's BALLS had"
 	line "some problems."
 
-	para "Love Balls used"
+	para "LOVE BALLS used"
 	line "to catch same-"
-	cont "gender #mon,"
+	cont "gender #MON,"
 
-	para "and Fast Balls"
+	para "and FAST BALLS"
 	line "only worked for"
 
 	para "three different"
-	line "#mon species."
+	line "#MON species."
 
 	para "Thank goodness"
 	line "those problems"

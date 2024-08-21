@@ -20,7 +20,7 @@ Route31VioletGate_MapScriptHeader:
 Route31VioletGateOfficerText:
 	text "Hi there!"
 	line "Did you visit"
-	cont "Sprout Tower?"
+	cont "SPROUT TOWER?"
 	done
 
 Route31VioletGateCooltrainerFText:

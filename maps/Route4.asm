@@ -41,7 +41,7 @@ GenericTrainerYoungsterOliver:
 GenericTrainerLassJennifer:
 	generictrainer LASS, JENNIFER, EVENT_BEAT_LASS_JENNIFER, LassJenniferSeenText, LassJenniferBeatenText
 
-	text "#mon are so"
+	text "#MON are so"
 	line "much fun."
 	cont "Don't you agree?"
 	done
@@ -50,7 +50,7 @@ GenericTrainerBird_keeperHank:
 	generictrainer BIRD_KEEPER, HANK, EVENT_BEAT_BIRD_KEEPER_HANK, Bird_keeperHankSeenText, Bird_keeperHankBeatenText
 
 	text "If you have a"
-	line "specific #mon"
+	line "specific #MON"
 
 	para "that you want to"
 	line "raise, put it out"
@@ -65,8 +65,8 @@ GenericTrainerBird_keeperHank:
 GenericTrainerPicnickerHope:
 	generictrainer PICNICKER, HOPE, EVENT_BEAT_PICNICKER_HOPE, PicnickerHopeSeenText, PicnickerHopeBeatenText
 
-	text "I heard Clefairy"
-	line "appear at Mt.Moon."
+	text "I heard CLEFAIRY"
+	line "appear at MT.MOON."
 
 	para "But where could"
 	line "they be?"
@@ -161,7 +161,7 @@ LassJenniferSeenText:
 	line "chance I get,"
 
 	para "just to spend time"
-	line "with my #mon."
+	line "with my #MON."
 	done
 
 LassJenniferBeatenText:
@@ -170,7 +170,7 @@ LassJenniferBeatenText:
 
 Bird_keeperHankSeenText:
 	text "I'm raising my"
-	line "#mon. Want to"
+	line "#MON. Want to"
 	cont "battle with me?"
 	done
 
@@ -202,78 +202,78 @@ PicnickerSharonBeatenText: ; text > text
 	done
 
 Route4SuperNerd1Text:
-	text "#mon with tough"
+	text "#MON with tough"
 	line "heads are best!"
 
-	para "Arcanine, Golem,"
-	line "Snorlax!"
+	para "ARCANINE, GOLEM,"
+	line "SNORLAX!"
 
 	para "Don't you agree?"
 	done
 
 Route4SuperNerd2Text:
-	text "#mon with long"
+	text "#MON with long"
 	line "tails are best!"
 
-	para "Slowbro, Golduck,"
-	line "Feraligatr!"
+	para "SLOWBRO, GOLDUCK,"
+	line "FERALIGATR!"
 
 	para "Don't you agree?"
 	done
 
 Text_Route4TutorIronHead:
 	text "If you give me a"
-	line "Silver Leaf, I'll"
+	line "SILVER LEAF, I'll"
 
-	para "teach your #mon"
-	line "to use Iron Head!"
+	para "teach your #MON"
+	line "to use IRON HEAD!"
 	done
 
 Text_Route4TutorAquaTail:
 	text "If you give me a"
-	line "Silver Leaf, I'll"
+	line "SILVER LEAF, I'll"
 
-	para "teach your #mon"
-	line "to use Aqua Tail!"
+	para "teach your #MON"
+	line "to use AQUA TAIL!"
 	done
 
 Text_Route4TutorsNoSilverLeaf:
 	text "But you don't have"
-	line "a Silver Leaf."
+	line "a SILVER LEAF."
 	done
 
 Text_Route4Tutor1Question:
 	text "Should I teach"
-	line "your #mon"
-	cont "Iron Head?"
+	line "your #MON"
+	cont "IRON HEAD?"
 	done
 
 Text_Route4Tutor2Question:
 	text "Should I teach"
-	line "your #mon"
-	cont "Aqua Tail?"
+	line "your #MON"
+	cont "AQUA TAIL?"
 	done
 
 Text_Route4Tutor1Refused:
 	text "But it's better"
-	line "than Aqua Tail!"
+	line "than AQUA TAIL!"
 	done
 
 Text_Route4Tutor2Refused:
 	text "But it's better"
-	line "than Iron Head!"
+	line "than IRON HEAD!"
 	done
 
 Text_Route4Tutor1Taught:
-	text "Now your #mon"
+	text "Now your #MON"
 	line "knows how to use"
-	cont "Iron Head!"
+	cont "IRON HEAD!"
 	done
 
 Text_Route4Tutor2Taught:
-	text "Now your #mon"
+	text "Now your #MON"
 	line "knows how to use"
-	cont "Aqua Tail!"
+	cont "AQUA TAIL!"
 	done
 
 Route4EngineerText1:
@@ -288,15 +288,15 @@ Route4EngineerText2:
 	para "Until we're done"
 	line "fixing it,"
 
-	para "Mt.Moon Square"
+	para "MT.MOON SQUARE"
 	line "is closed."
 	done
 
 MtMoonSignText:
-	text "Mt.Moon Tunnel"
+	text "MT.MOON TUNNEL"
 	done
 
 CableCarSignText:
-	text "Cable Car to"
-	line "Mt.Moon Square"
+	text "CABLE CAR TO"
+	line "MT.MOON SQUARE"
 	done

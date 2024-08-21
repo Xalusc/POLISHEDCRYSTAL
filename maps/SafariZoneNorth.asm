@@ -45,7 +45,7 @@ GenericTrainerBattleGirlPadma:
 GenericTrainerYoungsterTyler:
 	generictrainer YOUNGSTER, TYLER, EVENT_BEAT_YOUNGSTER_TYLER, YoungsterTylerSeenText, YoungsterTylerBeatenText
 
-	text "#mon leap out"
+	text "#MON leap out"
 	line "when you least"
 	cont "expect it."
 	done
@@ -53,7 +53,7 @@ GenericTrainerYoungsterTyler:
 GenericTrainerBeautyRachael:
 	generictrainer BEAUTY, RACHAEL, EVENT_BEAT_BEAUTY_RACHAEL, BeautyRachaelSeenText, BeautyRachaelBeatenText
 
-	text "I was a Black Belt"
+	text "I was a BLACK BELT"
 	line "just one year ago."
 
 	para "The power of med-"
@@ -95,7 +95,7 @@ SafariZoneNorthTutorDoubleEdgeScript:
 
 BattleGirlPadmaSeenText:
 	text "I spar with my"
-	line "#mon to improve"
+	line "#MON to improve"
 	cont "as a team!"
 	done
 
@@ -106,7 +106,7 @@ BattleGirlPadmaBeatenText:
 
 YoungsterTylerSeenText:
 	text "You can find #-"
-	line "mon anywhere!"
+	line "MON anywhere!"
 
 	para "In grass, in"
 	line "water, or up a"
@@ -120,8 +120,8 @@ YoungsterTylerBeatenText:
 BeautyRachaelSeenText:
 	text "My sundress is"
 	line "perfect for a day"
-	cont "in the Safari"
-	cont "Zone!"
+	cont "in the SAFARI"
+	cont "ZONE!"
 	done
 
 BeautyRachaelBeatenText:
@@ -131,7 +131,7 @@ BeautyRachaelBeatenText:
 
 SafariZoneNorthCooltrainerFText:
 	text "I caught a"
-	line "Chansey!"
+	line "CHANSEY!"
 
 	para "I'm so lucky!"
 	line "I'm going to teach"
@@ -145,21 +145,21 @@ SafariZoneNorthCooltrainerFText:
 
 Text_SafariZoneNorthTutorDoubleEdge:
 	text "I'll teach your"
-	line "#mon how to"
+	line "#MON how to"
 
-	para "use Double-Edge"
-	line "for a Silver Leaf."
+	para "use DOUBLE-EDGE"
+	line "for a SILVER LEAF."
 	done
 
 Text_SafariZoneNorthTutorNoSilverLeaf:
 	text "You don't have any"
-	line "Silver Leaves…"
+	line "SILVER LEAVES…"
 	done
 
 Text_SafariZoneNorthTutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Double-Edge?"
+	line "your #MON"
+	cont "DOUBLE-EDGE?"
 	done
 
 Text_SafariZoneNorthTutorRefused:
@@ -168,23 +168,23 @@ Text_SafariZoneNorthTutorRefused:
 
 Text_SafariZoneNorthTutorTaught:
 	text "There!"
-	line "Now your #mon"
+	line "Now your #MON"
 
 	para "knows how to use"
-	cont "Double-Edge!"
+	cont "DOUBLE-EDGE!"
 	done
 
 SafariZoneNorthAreaSignText:
-	text "Safari Zone"
-	line "North Area"
+	text "SAFARI ZONE"
+	line "NORTH AREA"
 	done
 
 SafariZoneNorthRestHouseSignText:
-	text "Rest House"
+	text "REST HOUSE"
 	done
 
 SafariZoneNorthTrainerTips1SignText:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
 	para "Moves of the same"
 	line "type can be"
@@ -193,9 +193,9 @@ SafariZoneNorthTrainerTips1SignText:
 	done
 
 SafariZoneNorthTrainerTips2SignText:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "#mon hide in"
+	para "#MON hide in"
 	line "tall grass!"
 
 	para "Zigzag through"
@@ -204,7 +204,7 @@ SafariZoneNorthTrainerTips2SignText:
 	done
 
 SafariZoneNorthTrainerTips3SignText:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
 	para "The rest of the"
 	line "sign has been"

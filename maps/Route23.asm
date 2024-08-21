@@ -59,7 +59,7 @@ Route23_MapScriptHeader:
 	const ROUTE23_OFFICER8
 
 VictoryRoadSignText:
-	text "Victory Road"
+	text "VICTORY ROAD"
 	done
 
 Route23HealOfficerScript:
@@ -73,7 +73,7 @@ Route23HealOfficerScript:
 	special RestartMapMusic
 	jumpthistext
 
-	text "The #mon League"
+	text "The #MON LEAGUE"
 	line "awaits you!"
 
 	para "Just don't give up,"
@@ -85,7 +85,7 @@ Route23HealOfficerScript:
 	line "ready to face"
 
 	para "anything on"
-	line "Victory Road."
+	line "VICTORY ROAD."
 
 	para "Let me give you a"
 	line "bit of encourage-"
@@ -108,7 +108,7 @@ Route23ZephyrBadgeTriggerScript:
 	sjump Route23OfficerHaveBadgeScript
 
 .ZephyrBadgeText:
-	db "Zephyr Badge@"
+	db "ZEPHYR BADGE@"
 
 Route23HiveBadgeOfficerScript:
 Route23HiveBadgeTriggerScript:
@@ -126,7 +126,7 @@ Route23HiveBadgeTriggerScript:
 	sjump Route23OfficerHaveBadgeScript
 
 .HiveBadgeText:
-	db "Hive Badge@"
+	db "HIVE BADGE@"
 
 Route23PlainBadgeOfficerScript:
 Route23PlainBadgeTriggerScript:
@@ -144,7 +144,7 @@ Route23PlainBadgeTriggerScript:
 	sjump Route23OfficerHaveBadgeScript
 
 .PlainBadgeText:
-	db "Plain Badge@"
+	db "PLAIN BADGE@"
 
 Route23FogBadgeOfficerScript:
 Route23FogBadgeTriggerScript:
@@ -162,7 +162,7 @@ Route23FogBadgeTriggerScript:
 	sjumpfwd Route23OfficerHaveBadgeScript
 
 .FogBadgeText:
-	db "Fog Badge@"
+	db "FOG BADGE@"
 
 Route23StormBadgeOfficerScript:
 Route23StormBadgeTriggerScript:
@@ -180,7 +180,7 @@ Route23StormBadgeTriggerScript:
 	sjumpfwd Route23OfficerHaveBadgeScript
 
 .StormBadgeText:
-	db "Storm Badge@"
+	db "STORM BADGE@"
 
 Route23MineralBadgeOfficerScript:
 Route23MineralBadgeTriggerScript:
@@ -198,7 +198,7 @@ Route23MineralBadgeTriggerScript:
 	sjumpfwd Route23OfficerHaveBadgeScript
 
 .MineralBadgeText:
-	db "Mineral Badge@"
+	db "MINERAL BADGE@"
 
 Route23GlacierBadgeOfficerScript:
 Route23GlacierBadgeTriggerScript:
@@ -216,7 +216,7 @@ Route23GlacierBadgeTriggerScript:
 	sjumpfwd Route23OfficerHaveBadgeScript
 
 .GlacierBadgeText:
-	db "Glacier Badge@"
+	db "GLACIER BADGE@"
 
 Route23RisingBadgeOfficerScript:
 Route23RisingBadgeTriggerScript:
@@ -234,7 +234,7 @@ Route23RisingBadgeTriggerScript:
 	sjumpfwd Route23OfficerHaveBadgeScript
 
 .RisingBadgeText:
-	db "Rising Badge@"
+	db "RISING BADGE@"
 
 Route23OfficerNoBadgeText:
 	text "You don't have the"
@@ -244,7 +244,7 @@ Route23OfficerNoBadgeText:
 
 	para "You have to have"
 	line "it to get to the"
-	cont "#mon League!"
+	cont "#MON LEAGUE!"
 	done
 
 Route23OfficerHaveBadgeScript:

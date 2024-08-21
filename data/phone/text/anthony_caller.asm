@@ -5,7 +5,7 @@ AnthonyMonAteSomeBerriesText:
 	para ""
 	text_ram wStringBuffer4
 	text " eat"
-	line "some Berries."
+	line "some BERRIES."
 
 	para "It looked like it"
 	line "was enjoying its"
@@ -44,7 +44,7 @@ AnthonyLostAMonText:
 
 	para "It took off when I"
 	line "got distracted by"
-	cont "a passing Beauty."
+	cont "a passing BEAUTY."
 
 	para "Learn from my"
 	line "mistake--always"
@@ -98,11 +98,11 @@ AnthonySwarmText:
 	line "I didn't see any"
 
 	para "where there are"
-	line "strong #mon."
+	line "strong #MON."
 	done
 
 AnthonyWasntPayingAttentionText:
-	text "Rare #mon?"
+	text "Rare #MON?"
 
 	para "Hey, sorry! I was"
 	line "too focused on my"
@@ -126,16 +126,16 @@ AnthonyReminderText:
 
 AnthonyHurryText:
 	text "Hello? What? Where"
-	line "is Dunsparce?"
+	line "is DUNSPARCE?"
 
-	para "Dark Cave! Hurry!"
+	para "DARK CAVE! Hurry!"
 
 	para "I know I've said"
 	line "it before, but"
 
-	para "Dunsparce don't"
+	para "DUNSPARCE don't"
 	line "appear when there"
 
-	para "are strong #mon"
+	para "are strong #MON"
 	line "around."
 	done

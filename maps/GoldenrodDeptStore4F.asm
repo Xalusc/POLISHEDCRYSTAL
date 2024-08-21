@@ -26,37 +26,37 @@ GoldenrodDeptStore4FGameboyKidScript:
 
 GoldenrodDeptStore4FCooltrainerMText:
 	text "Hey. I love strong"
-	line "#mon."
+	line "#MON."
 
-	para "I feed them Pro-"
-	line "tein to crank up"
-	cont "their Attack."
+	para "I feed them PRO-"
+	line "TEIN to crank up"
+	cont "their ATTACK."
 	done
 
 GoldenrodDeptStore4FBugCatcherText:
 	text "There are four"
-	line "#mon that"
+	line "#MON that"
 
 	para "evolve if exposed"
-	line "to a Linking Cord:"
+	line "to a LINKING CORD:"
 
-	para "Machoke, Graveler,"
-	line "Kadabra, and"
-	cont "Haunter!"
+	para "MACHOKE, GRAVELER,"
+	line "KADABRA, and"
+	cont "HAUNTER!"
 	done
 
 GoldenrodDeptStore4FGameboyKidText:
-	text "Some #mon"
+	text "Some #MON"
 	line "evolve only"
 
 	para "when they hold"
 	line "a certain item."
 
 	para "I know of four:"
-	line "Poliwhirl, Onix,"
+	line "POLIWHIRL, ONIX,"
 
-	para "Slowpoke and, um,"
-	line "Scyther."
+	para "SLOWPOKE and, um,"
+	line "SCYTHER."
 
 	para "I heard there are"
 	line "others too."
@@ -64,7 +64,7 @@ GoldenrodDeptStore4FGameboyKidText:
 
 GoldenrodDeptStore4FDirectoryText:
 	text "Let Us Pump Up"
-	line "Your #mon!"
+	line "Your #MON!"
 
-	para "4F Medicine Box"
+	para "4F MEDICINE BOX"
 	done

@@ -80,7 +80,7 @@ Copycat1Script:
 
 CopycatGreeting1Text:
 	text "<PLAYER>: Hi! Do"
-	line "you like #mon?"
+	line "you like #MON?"
 
 	para "<PLAYER>: Uh, no, I"
 	line "just asked you."
@@ -94,24 +94,24 @@ CopycatLostDoll1Text:
 	line "I heard that you"
 
 	para "lost your favorite"
-	line "# Doll."
+	line "# DOLL."
 
 	para "<PLAYER>: If I find"
 	line "it, you'll give me"
-	cont "a rail pass?"
+	cont "a rail PASS?"
 
 	para "<PLAYER>: I'll go"
 	line "find it for you."
 
 	para "You think you lost"
 	line "it when you went"
-	cont "to Vermilion City?"
+	cont "to VERMILION CITY?"
 	done
 
 CopycatThanks1Text:
 	text "<PLAYER>: Hi!"
 	line "Thanks a lot for"
-	cont "the rail pass!"
+	cont "the rail PASS!"
 
 	para "<PLAYER>: Pardon?"
 
@@ -156,7 +156,7 @@ Copycat2Script:
 
 CopycatGreeting2Text:
 	text "<PLAYER>: Hi. You"
-	line "must like #mon."
+	line "must like #MON."
 
 	para "<PLAYER>: No, not"
 	line "me. I asked you."
@@ -168,12 +168,12 @@ CopycatGreeting2Text:
 CopycatLostDoll2Text:
 	text "<PLAYER>: Hi. Did"
 	line "you really lose"
-	cont "your # Doll?"
+	cont "your # DOLL?"
 
 	para "<PLAYER>: You'll"
 	line "really give me a"
 
-	para "rail pass if I"
+	para "rail PASS if I"
 	line "find it for you?"
 
 	para "<PLAYER>: Sure,"
@@ -181,12 +181,12 @@ CopycatLostDoll2Text:
 
 	para "You think you lost"
 	line "it when you were"
-	cont "in Vermilion?"
+	cont "in VERMILION?"
 	done
 
 CopycatThanks2Text:
 	text "<PLAYER>: Thank you"
-	line "for the rail pass!"
+	line "for the rail PASS!"
 
 	para "<PLAYER>: …Pardon?"
 
@@ -238,7 +238,7 @@ CopycatRetortScript:
 	special RefreshSprites
 	jumpthistext
 
-	text "Copycat: Hmm?"
+	text "COPYCAT: Hmm?"
 	line "Quit mimicking?"
 
 	para "But that's my"
@@ -253,7 +253,7 @@ CopycatWorriedScript:
 	setevent EVENT_MET_COPYCAT_FOUND_OUT_ABOUT_LOST_ITEM
 	jumpthistext
 
-	text "Copycat: Pardon?"
+	text "COPYCAT: Pardon?"
 
 	para "I shouldn't decide"
 	line "what you should"
@@ -274,9 +274,9 @@ CopycatFoundLostItemScript:
 	sjumpfwd CopycatGivePassScript
 
 .FoundDollText:
-	text "Copycat: Yay!"
-	line "That's my Clefairy"
-	cont "# Doll!"
+	text "COPYCAT: Yay!"
+	line "That's my CLEFAIRY"
+	cont "# DOLL!"
 
 	para "See the tear where"
 	line "the right leg is"
@@ -295,9 +295,9 @@ CopycatGivePassScript:
 	setevent EVENT_GOT_PASS_FROM_COPYCAT
 	jumpthisopenedtext
 
-	text "Copycat: That's"
-	line "the pass for the"
-	cont "Magnet Train."
+	text "COPYCAT: That's"
+	line "the PASS for the"
+	cont "MAGNET TRAIN."
 
 	para "The rail company"
 	line "man gave me that"
@@ -309,7 +309,7 @@ CopycatGivePassScript:
 
 .GivePassText:
 	text "OK. Here's the"
-	line "Magnet Train Pass"
+	line "MAGNET TRAIN PASS"
 	cont "like I promised!"
 	done
 
@@ -320,7 +320,7 @@ CopycatFinalScript:
 	special RefreshSprites
 	jumpthistext
 
-	text "Copycat: You bet!"
+	text "COPYCAT: You bet!"
 	line "It's a scream!"
 	done
 
@@ -349,18 +349,18 @@ CopycatsDodrioScript:
 	done
 
 .Text1:
-	text "Dodrio: Gii giii!"
+	text "DODRIO: Gii giii!"
 	done
 
 CopycatsHouse2FDollScript:
 	jumpthistext
 
 	text "This is a rare"
-	line "#mon! Huh?"
+	line "#MON! Huh?"
 
 	para "It's only a doll…"
 	done
 
 CopycatsHouse2FDittoText:
-	text "Ditto: Dii…"
+	text "DITTO: Dii…"
 	done

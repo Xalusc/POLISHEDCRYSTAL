@@ -42,8 +42,8 @@ LugiaPaintingScript:
 	closepokepic
 	jumpthistext
 
-	text "  The Leviathan"
-	line "     Awakens"
+	text "  THE LEVIATHAN"
+	line "     AWAKENS"
 	done
 
 HoOhPaintingScript:
@@ -55,8 +55,8 @@ HoOhPaintingScript:
 	closepokepic
 	jumpthistext
 
-	text "   The Phoenix"
-	line "    Ascending"
+	text "   THE PHOENIX"
+	line "    ASCENDING"
 	done
 
 BellTowerPaintingScript:
@@ -68,8 +68,8 @@ BellTowerPaintingScript:
 	closepokepic
 	jumpthistext
 
-	text "    Friendship"
-	line "     and Hope"
+	text "    FRIENDSHIP"
+	line "     AND HOPE"
 	done
 
 KabutoPuzzleScript:
@@ -82,7 +82,7 @@ KabutoPuzzleScript:
 	jumpthistext
 
 	text "It's the completed"
-	line "Kabuto panel!"
+	line "KABUTO panel!"
 	done
 
 OmanytePuzzleScript:
@@ -95,7 +95,7 @@ OmanytePuzzleScript:
 	jumpthistext
 
 	text "It's the completed"
-	line "Omanyte panel!"
+	line "OMANYTE panel!"
 	done
 
 AerodactylPuzzleScript:
@@ -108,7 +108,7 @@ AerodactylPuzzleScript:
 	jumpthistext
 
 	text "It's the completed"
-	line "Aerodactyl panel!"
+	line "AERODACTYL panel!"
 	done
 
 HoOhPuzzleScript:
@@ -121,7 +121,7 @@ HoOhPuzzleScript:
 	jumpthistext
 
 	text "It's the completed"
-	line "Ho-Oh panel!"
+	line "HO-OH panel!"
 	done
 
 EmptyDisplayText:
@@ -132,7 +132,7 @@ EmptyDisplayText:
 TowerRelicText:
 	text "An ancient mural"
 	line "depicting a mys-"
-	cont "terious #mon."
+	cont "terious #MON."
 	done
 
 GoldenrodMuseum2FSightseerMScript:
@@ -155,7 +155,7 @@ GoldenrodMuseum2FSightseerMScript:
 	done
 
 GoldenrodMuseum2FSightseerMNoPaintingText:
-	text "Aww…! Smeargle and"
+	text "Aww…! SMEARGLE and"
 	line "I came because we"
 
 	para "heard an art exhi-"
@@ -172,7 +172,7 @@ GoldenrodMuseum2FSightseerMNoPaintingText:
 	done
 
 GoldenrodMuseum2FSmeargleText:
-	text "Smeargle: Smeer!"
+	text "SMEARGLE: Smeer!"
 	done
 
 GoldenrodMuseum2FScientistScript:
@@ -246,7 +246,7 @@ GoldenrodMuseum2FTutorIntroText:
 	text "Before the con-"
 	line "struction of the"
 
-	para "new Radio Tower,"
+	para "new RADIO TOWER,"
 	line "there once stood"
 
 	para "an ancient wooden"
@@ -260,10 +260,10 @@ GoldenrodMuseum2FTutorIntroText:
 	line "was necessary"
 
 	para "to preserve a"
-  line "piece of Johto's"
+  line "piece of JOHTO's"
   cont "history."
 
-	para "Even #mon"
+	para "Even #MON"
   line "can understand"
 
 	para "the value of"
@@ -272,21 +272,21 @@ GoldenrodMuseum2FTutorIntroText:
 
 GoldenrodMuseum2FTutorBatonPassText:
 	text "I can teach your"
-	line "#mon to use"
+	line "#MON to use"
 
-	para "Baton Pass for one"
-	line "Silver Leaf."
+	para "BATON PASS for one"
+	line "SILVER LEAF."
 	done
 
 GoldenrodMuseum2FTutorNoSilverLeaf:
 	text "You don't have a"
-	line "Silver Leaf!"
+	line "SILVER LEAF!"
 	done
 
 GoldenrodMuseum2FTutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Baton Pass?"
+	line "your #MON"
+	cont "BATON PASS?"
 	done
 
 GoldenrodMuseum2FTutorRefused:
@@ -294,7 +294,7 @@ GoldenrodMuseum2FTutorRefused:
 	done
 
 GoldenrodMuseum2FTutorTaught:
-	text "Now your #mon"
+	text "Now your #MON"
 	line "knows how to use"
-	cont "Baton Pass!"
+	cont "BATON PASS!"
 	done

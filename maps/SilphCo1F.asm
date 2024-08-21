@@ -41,8 +41,8 @@ SilphCoOfficerScript:
 
 SilphCoReceptionistText:
 	text "Welcome. This is"
-	line "Silph Co.'s Head"
-	cont "Office Building."
+	line "SILPH CO.'s HEAD"
+	cont "OFFICE BUILDING."
 	done
 
 SilphCoOfficerText:
@@ -81,7 +81,7 @@ SilphCo1FGentlemanText:
 	line "ment with the"
 
 	para "chief engineer"
-	line "here at Silph Co."
+	line "here at SILPH CO."
 	done
 
 SilphCo1FCooltrainerfText:

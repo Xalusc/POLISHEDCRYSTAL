@@ -325,20 +325,20 @@ RematchBrown2Script:
 FightingDojoBlackBeltText:
 	text "Hello!"
 
-	para "Karate King, the"
-	line "Fighting Dojo's"
+	para "KARATE KING, the"
+	line "FIGHTING DOJO's"
 
 	para "master, is in a"
-	line "cave in Johto for"
+	line "cave in JOHTO for"
 	cont "training."
 	done
 
 BlackBeltText_ExplainsRematches:
-	text "Gym Leaders from"
-	line "Kanto and Johto"
+	text "GYM LEADERS from"
+	line "KANTO and JOHTO"
 
 	para "come to this"
-	line "Fighting Dojo"
+	line "FIGHTING DOJO"
 	cont "to train."
 
 	para "You should join"
@@ -438,8 +438,8 @@ RematchYellowScript:
 	rematch_script Yellow, YELLOW, ENGINE_GYM_LEADER_REMATCH_3
 
 BrockText_Greeting:
-	text "I like Rock-type"
-	line "#mon best."
+	text "I like rock-type"
+	line "#MON best."
 
 	para "They're solid and"
 	line "rough, yet brittle"
@@ -448,7 +448,7 @@ BrockText_Greeting:
 	para "You'll see how"
 	line "much stronger my"
 
-	para "rock #mon have"
+	para "rock #MON have"
 	line "become!"
 	done
 
@@ -467,8 +467,8 @@ SurgeText_Greeting:
 	text "I can feel great"
 	line "electric power"
 
-	para "around the Magnet"
-	line "Train station!"
+	para "around the MAGNET"
+	line "TRAIN station!"
 
 	para "I'm psyched for"
 	line "an electrifying"
@@ -505,7 +505,7 @@ SabrinaText_Greeting:
 	done
 
 BlaineText_Greeting:
-	text "My Gym is still"
+	text "My GYM is still"
 	line "gone, so let's"
 
 	para "hold our rematch"
@@ -547,7 +547,7 @@ WhitneyText_Greeting:
 
 MortyText_Greeting:
 	text "The legendary"
-	line "#mon did not"
+	line "#MON did not"
 	cont "choose me…"
 
 	para "But that does not"
@@ -576,7 +576,7 @@ JasmineText_Greeting:
 
 PryceText_Greeting:
 	text "No need for words."
-	line "A #mon battle"
+	line "A #MON battle"
 
 	para "is the way for us"
 	line "to communicate."
@@ -592,8 +592,8 @@ PalmerText_Greeting:
 	text "So, you've come"
 	line "this far!"
 
-	para "As the Tower"
-	line "Tycoon, I'll have"
+	para "As the TOWER"
+	line "TYCOON, I'll have"
 
 	para "to give you my"
 	line "best effort."
@@ -608,7 +608,7 @@ PalmerText_Greeting:
 	line "out as dedicated"
 
 	para "students of"
-	line "#mon!"
+	line "#MON!"
 	done
 
 LoreleiText_Greeting:
@@ -625,12 +625,12 @@ AgathaText_Greeting:
 	text "Hello, child."
 
 	para "You're still"
-	line "filling a Pokedex"
+	line "filling a #DEX"
 
 	para "for that old duff"
-	line "Oak?"
+	line "OAK?"
 
-	para "#mon are for"
+	para "#MON are for"
 	line "battling!"
 
 	para "Show me your"
@@ -645,7 +645,7 @@ WalkerText_Greeting:
 	para "Seems like I just"
 	line "missed my son"
 
-	para "Falkner here"
+	para "FALKNER here"
 	line "earlier…"
 
 	para "How about if we"
@@ -659,7 +659,7 @@ YellowText_Greeting:
 
 	para "Yes! You still"
 	line "take good care of"
-	cont "your #mon!"
+	cont "your #MON!"
 
 	para "You've gotten"
 	line "stronger, but so"
@@ -715,7 +715,7 @@ BlueText_WinLoss:
 
 	para "No wonder you've"
 	line "become the"
-	cont "Champion…"
+	cont "CHAMPION…"
 	done
 
 FalknerText_WinLoss:
@@ -727,7 +727,7 @@ FalknerText_WinLoss:
 BugsyText_WinLoss:
 	text "You must have"
 	line "studied a lot"
-	cont "about #mon!"
+	cont "about #MON!"
 	done
 
 WhitneyText_WinLoss:
@@ -823,61 +823,61 @@ FightingDojoScheduleQuestionText:
 	done
 
 FightingDojoScheduleSundayText:
-	text "Sunday: Jasmine,"
-	line "Erika, Sabrina"
+	text "Sunday: JASMINE,"
+	line "ERIKA, SABRINA"
 	done
 
 FightingDojoScheduleMondayText:
-	text "Monday: Falkner,"
-	line "Janine, ???"
+	text "Monday: FALKNER,"
+	line "JANINE, ???"
 	done
 
 FightingDojoScheduleMondayWalkerText:
-	text "Monday: Falkner,"
-	line "Janine, Walker"
+	text "Monday: FALKNER,"
+	line "JANINE, WALKER"
 	done
 
 FightingDojoScheduleTuesdayText:
-	text "Tuesday: Pryce,"
-	line "Blaine, ???"
+	text "Tuesday: PRYCE,"
+	line "BLAINE, ???"
 	done
 
 FightingDojoScheduleTuesdayLoreleiText:
-	text "Tuesday: Pryce,"
-	line "Blaine, Lorelei"
+	text "Tuesday: PRYCE,"
+	line "BLAINE, LORELEI"
 	done
 
 FightingDojoScheduleWednesdayText:
-	text "Wednesday: Brock,"
-	line "Misty, Blue"
+	text "Wednesday: BROCK,"
+	line "MISTY, BLUE"
 	done
 
 FightingDojoScheduleThursdayText:
-	text "Thursday: Bugsy,"
-	line "???, Morty"
+	text "Thursday: BUGSY,"
+	line "???, MORTY"
 	done
 
 FightingDojoScheduleThursdayPalmerText:
-	text "Thursday: Bugsy,"
-	line "Palmer, Morty"
+	text "Thursday: BUGSY,"
+	line "PALMER, MORTY"
 	done
 
 FightingDojoScheduleFridayText:
-	text "Friday: Lt.Surge,"
-	line "???, Clair"
+	text "Friday: LT.SURGE,"
+	line "???, CLAIR"
 	done
 
 FightingDojoScheduleFridayYellowText:
-	text "Friday: Lt.Surge,"
-	line "Yellow, Clair"
+	text "Friday: LT.SURGE,"
+	line "YELLOW, CLAIR"
 	done
 
 FightingDojoScheduleSaturdayText:
-	text "Saturday: Whitney,"
-	line "Chuck, ???"
+	text "Saturday: WHITNEY,"
+	line "CHUCK, ???"
 	done
 
 FightingDojoScheduleSaturdayAgathaText:
-	text "Saturday: Whitney,"
-	line "Chuck, Agatha"
+	text "Saturday: WHITNEY,"
+	line "CHUCK, AGATHA"
 	done

@@ -27,7 +27,7 @@ GoldenrodPokecomCenterOffice_MapScriptHeader:
 	const GOLDENRODPOKECOMCENTEROFFICE_RANGI
 
 AdminRangiText:
-	text "Rangi: I hope"
+	text "RANGI: I hope"
 	line "you're enjoying"
 
 	para "your journey"
@@ -43,8 +43,8 @@ AdminRangiText:
 	done
 
 AdminLunaText:
-	text "Luna: When you"
-	line "Wonder Traded"
+	text "LUNA: When you"
+	line "WONDER TRADED"
 
 	para "with someone in"
 	line "another region"
@@ -55,12 +55,12 @@ AdminLunaText:
 
 	para "I built the orig-"
 	line "inal system right"
-	cont "here in Goldenrod!"
+	cont "here in GOLDENROD!"
 	done
 
 AdminFredrikText:
-	text "Fredrik: Bill's PC"
-	line "Storage System"
+	text "FREDRIK: BILL's PC"
+	line "STORAGE SYSTEM"
 	cont "is open-source,"
 
 	para "so I was able to"
@@ -71,13 +71,13 @@ AdminFredrikText:
 	done
 
 AdminAizawaText:
-	text "Aizawa: Dialog,"
+	text "AIZAWA: Dialog,"
 	line "map designs,"
 	cont "character sprites,"
 	cont "trainer parties…"
 
-	para "Game Freak over"
-	line "in Kanto is lucky"
+	para "GAME FREAK over"
+	line "in KANTO is lucky"
 
 	para "to have a whole"
 	line "team for this!"
@@ -102,7 +102,7 @@ RangiComputerText:
 
 LunaComputerText:
 	text "Network traffic"
-	line "from Wonder Trades"
+	line "from WONDER TRADES"
 
 	para "is streaming by"
 	line "on the screen."
@@ -118,7 +118,7 @@ FredrikComputerText:
 
 AizawaComputerText:
 	text "A program called"
-	line "Polished Map is"
+	line "POLISHED MAP is"
 	cont "displaying a"
 
 	para "half-drawn trop-"
@@ -130,7 +130,7 @@ RangiKeyboardScript:
 	showemote EMOTE_SHOCK, GOLDENRODPOKECOMCENTEROFFICE_RANGI, 10
 	jumpthistext
 
-	text "Rangi: Hey! If you"
+	text "RANGI: Hey! If you"
 	line "want to hack the"
 	cont "game, use your"
 	cont "own computer!"

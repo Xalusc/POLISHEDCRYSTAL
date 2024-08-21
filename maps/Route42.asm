@@ -284,11 +284,11 @@ GenericTrainerPokemaniacShane:
 	generictrainer POKEMANIAC, SHANE, EVENT_BEAT_POKEMANIAC_SHANE, PokemaniacShaneSeenText, PokemaniacShaneBeatenText
 
 	text "You're working on"
-	line "a #dex?"
+	line "a #DEX?"
 
 	para "Wow, you must know"
 	line "some pretty rare"
-	cont "#mon!"
+	cont "#MON!"
 
 	para "May I please see"
 	line "it. Please?"
@@ -330,7 +330,7 @@ Route42SuicuneMovement:
 	step_end
 
 Route42LyraGreetingText:
-	text "Lyra: Hi, <PLAYER>!"
+	text "LYRA: Hi, <PLAYER>!"
 
 	para "What a coinci-"
 	line "dence. I was just"
@@ -339,13 +339,13 @@ Route42LyraGreetingText:
 	line "ects of the recent"
 
 	para "avalanche on wild"
-	line "#mon."
+	line "#MON."
 
 	para "So you're heading"
-	line "to Mahogany Town"
+	line "to MAHOGANY TOWN"
 
-	para "for another Gym"
-	line "badge?"
+	para "for another GYM"
+	line "BADGE?"
 
 	para "Then I have a"
 	line "present for you!"
@@ -365,24 +365,24 @@ Route42LyraLossText:
 	done
 
 Route42LyraPresentText:
-	text "Lyra: Wow, you're"
+	text "LYRA: Wow, you're"
 	line "getting really"
 	cont "strong, <PLAYER>!"
 
 	para "I'm sure you can"
-	line "beat the Mahogany"
-	cont "Gym Leader."
+	line "beat the MAHOGANY"
+	cont "GYM LEADER."
 
 	para "And then you can"
 	line "use this!"
 	done
 
 Route42LyraWhirlpoolText:
-	text "Lyra: That's"
-	line "Whirlpool."
+	text "LYRA: That's"
+	line "WHIRLPOOL."
 
 	para "Teach it to a"
-	line "#mon to get"
+	line "#MON to get"
 	cont "across wild water."
 
 	para "I should get"
@@ -397,7 +397,7 @@ Route42LyraWhirlpoolText:
 FisherTully1SeenText:
 	text "Let me demonstrate"
 	line "the power of the"
-	cont "#mon I caught!"
+	cont "#MON I caught!"
 	done
 
 FisherTully1BeatenText:
@@ -407,9 +407,9 @@ FisherTully1BeatenText:
 
 FisherTullyAfterBattleText:
 	text "I want to become"
-	line "the trainer Champ"
+	line "the trainer CHAMP"
 
-	para "using the #mon"
+	para "using the #MON"
 	line "I caught."
 
 	para "That's the best"
@@ -436,7 +436,7 @@ PokemaniacShaneSeenText:
 
 PokemaniacShaneBeatenText:
 	text "I should have used"
-	line "my Moon Stone…"
+	line "my MOON STONE…"
 	done
 
 Route42OfficerText:
@@ -445,36 +445,36 @@ Route42OfficerText:
 
 	para "There's been an"
 	line "avalanche on"
-	cont "Mt.Mortar."
+	cont "MT.MORTAR."
 
 	para "We're still clear-"
 	line "ing the rubble."
 	done
 
 Route42Sign1Text:
-	text "Route 42"
+	text "ROUTE 42"
 
-	para "Ecruteak City -"
-	line "Mahogany Town"
+	para "ECRUTEAK CITY -"
+	line "MAHOGANY TOWN"
 	done
 
 MtMortarSign1Text:
-	text "Mt.Mortar"
+	text "MT.MORTAR"
 
-	para "Waterfall Cave"
-	line "Inside"
+	para "WATERFALL CAVE"
+	line "INSIDE"
 	done
 
 MtMortarSign2Text:
-	text "Mt.Mortar"
+	text "MT.MORTAR"
 
-	para "Waterfall Cave"
-	line "Inside"
+	para "WATERFALL CAVE"
+	line "INSIDE"
 	done
 
 Route42Sign2Text:
-	text "Route 42"
+	text "ROUTE 42"
 
-	para "Ecruteak City -"
-	line "Mahogany Town"
+	para "ECRUTEAK CITY -"
+	line "MAHOGANY TOWN"
 	done

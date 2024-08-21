@@ -109,7 +109,7 @@ GoldenrodMagnetTrainStationOfficerTheTrainHasntComeInText:
 
 GoldenrodMagnetTrainStationOfficerAreYouComingAboardText:
 	text "We'll soon depart"
-	line "for Saffron."
+	line "for SAFFRON."
 
 	para "Are you coming"
 	line "aboard?"
@@ -117,7 +117,7 @@ GoldenrodMagnetTrainStationOfficerAreYouComingAboardText:
 
 GoldenrodMagnetTrainStationOfficerRightThisWayText:
 	text "May I see your"
-	line "rail pass, please?"
+	line "rail PASS, please?"
 
 	para "OK. Right this"
 	line "way, please."
@@ -125,7 +125,7 @@ GoldenrodMagnetTrainStationOfficerRightThisWayText:
 
 GoldenrodMagnetTrainStationOfficerYouDontHaveARailPassText:
 	text "Sorry. You don't"
-	line "have a rail pass."
+	line "have a rail PASS."
 	done
 
 GoldenrodMagnetTrainStationOfficerHopeToSeeYouAgainText:
@@ -135,28 +135,28 @@ GoldenrodMagnetTrainStationOfficerHopeToSeeYouAgainText:
 
 GoldenrodMagnetTrainStationOfficerArrivedInGoldenrodText:
 	text "We have arrived in"
-	line "Goldenrod."
+	line "GOLDENROD."
 
 	para "We hope to see you"
 	line "again."
 	done
 
 GoldenrodMagnetTrainStationGentlemanText:
-	text "I'm the President."
+	text "I'm the PRESIDENT."
 
 	para "My dream was to"
 	line "build a train that"
 
 	para "is faster than any"
-	line "#mon."
+	line "#MON."
 
 	para "It really brings"
-	line "Johto much closer"
-	cont "to Kanto."
+	line "JOHTO much closer"
+	cont "to KANTO."
 	done
 
 GoldenrodMagnetTrainStationCooltrainerfText1:
-	text "The Magnet Train"
+	text "The MAGNET TRAIN"
 	line "is like, zoooom,"
 	cont "byun! Shuuu!"
 
@@ -165,7 +165,7 @@ GoldenrodMagnetTrainStationCooltrainerfText1:
 	done
 
 GoldenrodMagnetTrainStationCooltrainerfText2:
-	text "The Magnet Train"
+	text "The MAGNET TRAIN"
 	line "is like, zoooom,"
 	cont "byun! Shuuu!"
 

@@ -54,16 +54,16 @@ WarmBeachShackBodySlamFisherText:
 	para "who wimps out"
 	line "first."
 
-	para "I use Body Slam,"
-	line "and he Endures it!"
+	para "I use BODY SLAM,"
+	line "and he ENDURES it!"
 	done
 
 Text_WarmBeachShackBodySlamTutorBodySlamQuestion:
 	text "How about I teach"
-	line "Body Slam to a"
+	line "BODY SLAM to a"
 
-	para "#mon of yours"
-	line "for a Silver Leaf?"
+	para "#MON of yours"
+	line "for a SILVER LEAF?"
 	done
 
 Text_WarmBeachShackBodySlamTutorTaught:
@@ -110,16 +110,16 @@ WarmBeachShackEndureFisherText:
 	para "who gives up"
 	line "first."
 
-	para "He uses Body Slam,"
-	line "and I Endure it!"
+	para "He uses BODY SLAM,"
+	line "and I ENDURE it!"
 	done
 
 Text_WarmBeachShackEndureTutorEndureQuestion:
 	text "How about I teach"
-	line "Endure to one of"
+	line "ENDURE to one of"
 
-	para "your #mon for"
-	line "a Silver Leaf?"
+	para "your #MON for"
+	line "a SILVER LEAF?"
 	done
 
 Text_WarmBeachShackEndureTutorTaught:

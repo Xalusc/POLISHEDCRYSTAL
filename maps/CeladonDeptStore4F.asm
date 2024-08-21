@@ -94,10 +94,10 @@ PosterClerkScript:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Marill      ¥3200@"
-	db "Clefairy    ¥4800@"
-	db "Pikachu     ¥6400@"
-	db "Cancel@"
+	db "MARILL      ¥3200@"
+	db "CLEFAIRY    ¥4800@"
+	db "PIKACHU     ¥6400@"
+	db "CANCEL@"
 
 PosterClerkText:
 	text "Welcome! Would you"
@@ -116,37 +116,37 @@ PosterClerkAlreadyBoughtText:
 
 BoughtMarillPosterText:
 	text "<PLAYER> bought"
-	line "Marill Poster."
+	line "MARILL POSTER."
 	done
 
 MarillPosterSentText:
-	text "Marill Poster"
+	text "MARILL POSTER"
 	line "was sent home."
 	done
 
 BoughtClefairyPosterText:
 	text "<PLAYER> bought"
-	line "Clefairy Poster."
+	line "CLEFAIRY POSTER."
 	done
 
 ClefairyPosterSentText:
-	text "Clefairy Poster"
+	text "CLEFAIRY POSTER"
 	line "was sent home."
 	done
 
 BoughtPikachuPosterText:
 	text "<PLAYER> bought"
-	line "Pikachu Poster."
+	line "PIKACHU POSTER."
 	done
 
 PikachuPosterSentText:
-	text "Pikachu Poster"
+	text "PIKACHU POSTER"
 	line "was sent home."
 	done
 
 CeladonDeptStore4FSuperNerdText:
 	text "I'm here to buy"
-	line "Lovely Mail for"
+	line "LOVELY MAIL for"
 	cont "my girlfriend."
 	done
 
@@ -162,5 +162,5 @@ CeladonDeptStore4FDirectoryText:
 	text "Express Yourself"
 	line "With Gifts!"
 
-	para "4F: Wiseman Gifts"
+	para "4F: WISEMAN GIFTS"
 	done

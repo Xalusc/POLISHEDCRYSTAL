@@ -66,7 +66,7 @@ Route16GateCannotPassMovement:
 	step_end
 
 Route1617GateOfficerText:
-	text "Cycling Road"
+	text "CYCLING ROAD"
 	line "starts here."
 
 	para "It's all downhill,"
@@ -84,8 +84,8 @@ Route16GateCannotPassText:
 	text "Hey! Whoa! Stop!"
 
 	para "You can't go out"
-	line "on the Cycling"
+	line "on the CYCLING"
 
-	para "Road without a"
-	line "Bicycle."
+	para "ROAD without a"
+	line "BICYCLE."
 	done

@@ -81,20 +81,20 @@ KimonoGirlAmiScript:
 
 .OutroText:
 	text "My cousins and I"
-	line "dance in Ecruteak"
-	cont "City, but we are"
+	line "dance in ECRUTEAK"
+	cont "CITY, but we are"
 
 	para "known to travel"
 	line "as well."
 	done
 
 .IntroText:
-	text "I am a Kimono"
-	line "Girl."
+	text "I am a KIMONO"
+	line "GIRL."
 
 	para "Haven't you met my"
 	line "five dancing cou-"
-	cont "sins in Ecruteak?"
+	cont "sins in ECRUTEAK?"
 
 	para "Let me know if"
 	line "you do."
@@ -118,7 +118,7 @@ KimonoGirlAmiScript:
 
 .AfterText:
 	text "You are a well-"
-	line "balanced Trainer."
+	line "balanced trainer."
 
 	para "Please, make use"
 	line "of this item!"
@@ -164,28 +164,28 @@ SnowtopMountainInsideSkierText:
 
 	para "It could be a"
 	line "good technique"
-	cont "for a #mon!"
+	cont "for a #MON!"
 	done
 
 Text_SnowtopMountainInsideTutorIcyWind:
 	text "I'll teach a #-"
-	line "mon of yours to"
+	line "MON of yours to"
 
-	para "use Icy Wind if"
+	para "use ICY WIND if"
 	line "you trade me a"
-	cont "Silver Leaf."
+	cont "SILVER LEAF."
 	done
 
 Text_SnowtopMountainInsideTutorNoSilverLeaf:
 	text "Oh, but you don't"
-	line "have a Silver"
-	cont "Leaf."
+	line "have a SILVER"
+	cont "LEAF."
 	done
 
 Text_SnowtopMountainInsideTutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Icy Wind?"
+	line "your #MON"
+	cont "ICY WIND?"
 	done
 
 Text_SnowtopMountainInsideTutorRefused: ; text > text
@@ -194,6 +194,6 @@ Text_SnowtopMountainInsideTutorRefused: ; text > text
 
 Text_SnowtopMountainInsideTutorTaught:
 	text "OK! Now your"
-	line "#mon knows"
-	cont "Icy Wind!"
+	line "#MON knows"
+	cont "ICY WIND!"
 	done

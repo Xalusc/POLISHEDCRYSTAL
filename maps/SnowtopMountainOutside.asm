@@ -189,8 +189,8 @@ SnowtopMountainOutsideStopPanningMovement:
 	step_end
 
 SnowtopMountainOutsideOutlookText:
-	text "I can see Olivine"
-	line "City from here!"
+	text "I can see OLIVINE"
+	line "CITY from here!"
 
 	para "Want to look"
 	line "around?"

@@ -116,7 +116,7 @@ CinnabarVolcano1FBuckScript:
 	end
 
 .ChallengeText:
-	text "Howdy! I'm Buck."
+	text "Howdy! I'm BUCK."
 	line "And you're…"
 	cont "<PLAYER>?"
 
@@ -124,7 +124,7 @@ CinnabarVolcano1FBuckScript:
 	line "you're hunting for"
 	cont "treasure too?"
 
-	para "Stark Mountain"
+	para "STARK MOUNTAIN"
 	line "back home has"
 
 	para "treasure deep in-"
@@ -174,7 +174,7 @@ CinnabarVolcano1FBuckScript:
 .GoodbyeText:
 	text "I guess I'll better"
 	line "my team at the"
-	cont "Battle Tower."
+	cont "BATTLE TOWER."
 
 	para "Be seeing you,"
 	line "<PLAYER>!"

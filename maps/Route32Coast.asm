@@ -125,8 +125,8 @@ GenericTrainerSwimmerfStephanie:
 GenericTrainerBird_keeperPowell:
 	generictrainer BIRD_KEEPER, POWELL, EVENT_BEAT_BIRD_KEEPER_POWELL, .SeenText, .BeatenText
 
-	text "My #mon can"
-	line "use Fly even while"
+	text "My #MON can"
+	line "use FLY even while"
 
 	para "fainted, so I can"
 	line "still get home."
@@ -137,12 +137,12 @@ GenericTrainerBird_keeperPowell:
 .SeenText:
 	text "I can't swim, so"
 	line "I flew here on my"
-	cont "#mon."
+	cont "#MON."
 	done
 
 .BeatenText:
 	text "Oh no! My"
-	line "#mon!"
+	line "#MON!"
 	done
 
 GenericTrainerCosplayerChloe:
@@ -169,10 +169,10 @@ GenericTrainerFisherKiley:
 	generictrainer FISHER, KILEY, EVENT_BEAT_FISHER_KILEY, .SeenText, .BeatenText
 
 	text "You have to have a"
-	line "good Rod if you"
+	line "good ROD if you"
 
 	para "want to catch good"
-	line "#mon."
+	line "#MON."
 	done
 
 .SeenText:
@@ -229,38 +229,38 @@ GenericTrainerLassLayla:
 GenericTrainerCoupleFoxandrae1:
 	generictrainer COUPLE, FOXANDRAE1, EVENT_BEAT_COUPLE_FOX_AND_RAE, .SeenText, .BeatenText
 
-	text "Fox: Our teamwork"
-	line "as a Couple wasn't"
+	text "FOX: Our teamwork"
+	line "as a COUPLE wasn't"
 	cont "enough this time."
 	done
 
 .SeenText:
-	text "Fox: Come on, Rae,"
+	text "FOX: Come on, RAE,"
 	line "let's battle!"
 	done
 
 .BeatenText:
-	text "Fox: You beat Rae"
+	text "FOX: You beat RAE"
 	line "and me…"
 	done
 
 GenericTrainerCoupleFoxandrae2:
 	generictrainer COUPLE, FOXANDRAE2, EVENT_BEAT_COUPLE_FOX_AND_RAE, .SeenText, .BeatenText
 
-	text "Rae: We lost, but"
+	text "RAE: We lost, but"
 	line "we're still a"
-	cont "happy Couple."
+	cont "happy COUPLE."
 	done
 
 .SeenText:
-	text "Rae: Hey Fox, why"
+	text "RAE: Hey FOX, why"
 	line "don't we have a"
 	cont "battle?"
 	done
 
 .BeatenText:
-	text "Rae: How could you"
-	line "beat Fox and me?"
+	text "RAE: How could you"
+	line "beat FOX and me?"
 	done
 
 Route32CoastLassText:
@@ -280,16 +280,16 @@ Route32CoastLassText:
 	done
 
 Route32CoastTrainerTipsText:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "A #mon with the"
-	line "Pickup ability"
+	para "A #MON with the"
+	line "PICKUP ability"
 
 	para "might hold an item"
 	line "after a battle!"
 	done
 
 Route32CoastUnionCaveSignText:
-	text "Union Cave"
-	line "Ahead"
+	text "UNION CAVE"
+	line "AHEAD"
 	done

@@ -76,8 +76,8 @@ CeladonUniversityLibrary2FArtistScript:
 	end
 
 .Text1:
-	text "“Jasmine gazed"
-	line "into Erika's deep"
+	text "“JASMINE gazed"
+	line "into ERIKA's deep"
 	cont "brown eyes…”"
 	done
 
@@ -100,7 +100,7 @@ CeladonUniversityLibrary2FSuper_nerdText:
 	para "Hmm, what to send…"
 
 	para "“Free pizza in"
-	line "Prof.Westwood's"
+	line "PROF.WESTWOOD's"
 	cont "office!”"
 
 	para "Hehehe."
@@ -109,12 +109,12 @@ CeladonUniversityLibrary2FSuper_nerdText:
 CeladonUniversityLibrary2FCooltrainerfText:
 	text "This is my book."
 	line "And I'm going to"
-	cont "READ IT!"
+	cont "read it!"
 	done
 
 CeladonUniversityLibrary2FYoungsterText:
 	text "I'm reading about a"
-	line "legendary #mon"
+	line "legendary #MON"
 
 	para "with the power to"
 	line "distort space."
@@ -124,7 +124,7 @@ CeladonUniversityLibrary2FYoungsterText:
 
 CeladonUniversityLibrary2FBookshelf1Text:
 	text "It's a book con-"
-	line "taining #mon"
+	line "taining #MON"
 
 	para "of an ancient"
 	line "alphabet."
@@ -142,7 +142,7 @@ CeladonUniversityLibrary2FBookshelf2Text:
 	line "longer readable,"
 
 	para "but there's a pic-"
-	line "ture of a #mon"
+	line "ture of a #MON"
 
 	para "wearing heavy"
 	line "armor."
@@ -176,20 +176,20 @@ CeladonUniversityLibrary2FBookshelf5Text:
 
 CeladonUniversityLibrary2FBookshelf6Text:
 	text "It's a book about"
-	line "#mon that have"
+	line "#MON that have"
 
 	para "regional diff-"
 	line "erences."
 
 	para "There's a picture"
-	line "of a Raichu that"
+	line "of a RAICHU that"
 	cont "looks a little"
 	cont "strange…"
 	done
 
 CeladonUniversityLibrary2FBookshelf7Text:
 	text "It's a book about"
-	line "#mon Contests."
+	line "#MON CONTESTS."
 
 	para "An impressive-"
 	line "looking building"
@@ -200,13 +200,13 @@ CeladonUniversityLibrary2FBookshelf7Text:
 
 CeladonUniversityLibrary2FBookshelf8Text:
 	text "A boy is shown"
-	line "riding a #mon"
+	line "riding a #MON"
 
 	para "on the cover"
 	line "of this book."
 
-	para "“How to Train Your"
-	line "Dragonite” is"
+	para "“HOW TO TRAIN YOUR"
+	line "DRAGONITE” is"
 	cont "written in bold."
 	done
 
@@ -215,10 +215,10 @@ CeladonUniversityLibrary2FBookshelf9Text:
 	line "picting a world"
 
 	para "inhabited entirely"
-	line "by #mon!"
+	line "by #MON!"
 
-	para "“Pikachu's Adven-"
-	line "tures in #Park”"
+	para "“PIKACHU'S ADVEN-"
+	line "TURES IN #PARK”"
 
 	para "is written on the"
 	line "cover."
@@ -227,16 +227,16 @@ CeladonUniversityLibrary2FBookshelf9Text:
 CeladonUniversityLibrary2FBookshelf10Text:
 	text "It's a book about"
 	line "an island of giant"
-	cont "#mon robots."
+	cont "#MON robots."
 
-	para "“#mon Robotics”"
-	line "by Anne Droid…"
+	para "“#MON ROBOTICS”"
+	line "by ANNE DROID…"
 	done
 
 CeladonUniversityLibrary2FBookshelf11Text:
-	text "“Forgive and"
-	line "Forget” by Saul"
-	cont "Goode."
+	text "“FORGIVE AND"
+	line "FORGET” by SAUL"
+	cont "GOODE."
 
 	para "There's a picture"
 	line "of a man with a"
@@ -244,8 +244,8 @@ CeladonUniversityLibrary2FBookshelf11Text:
 	done
 
 CeladonUniversityLibrary2FBookshelf12Text:
-	text "“Weightlessness”"
-	line "by Andy Gravity."
+	text "“WEIGHTLESSNESS”"
+	line "by ANDY GRAVITY."
 	cont "Sounds flighty!"
 	done
 
@@ -254,7 +254,7 @@ CeladonUniversityLibrary2FBookshelf13Text:
 	line "explaining the"
 
 	para "biology of"
-	line "#mon."
+	line "#MON."
 
 	para "It's enormous!"
 	done
@@ -272,21 +272,21 @@ CeladonUniversityLibrary2FBookshelf14Text:
 CeladonUniversityLibrary2FBookshelf15Text:
 	text "It's a book de-"
 	line "picting a fearsome"
-	cont "#mon."
+	cont "#MON."
 
-	para "“Absofusion and"
-	line "the Tao Trio” is"
+	para "“ABSOFUSION AND"
+	line "THE TAO TRIO” is"
 
 	para "written in big"
 	line "letters."
 	done
 
 CeladonUniversityLibrary2FBookshelf16Text:
-	text "“Ancient #-"
-	line "mopolis: A History"
+	text "“ANCIENT #-"
+	line "MOPOLIS: A HISTORY"
 
-	para "of Extinct"
-	line "#mon”"
+	para "OF EXTINCT"
+	line "#MON”"
 
 	para "Sounds"
 	line "interesting!"
@@ -294,10 +294,10 @@ CeladonUniversityLibrary2FBookshelf16Text:
 
 CeladonUniversityLibrary2FBookshelf17Text:
 	text "It's a book titled"
-	line "“Typecasting: The"
+	line "“TYPECASTING: THE"
 
-	para "Mystery of"
-	line "Sudowoodo”."
+	para "MYSTERY OF"
+	line "SUDOWOODO”."
 	done
 
 CeladonUniversityLibrary2FBookshelf18Text:
@@ -314,11 +314,11 @@ CeladonUniversityLibrary2FBookshelf18Text:
 CeladonUniversityLibrary2FBookshelf19Text:
 	text "It's a copy of the"
 	line "original route for"
-	cont "the Magnet Train!"
+	cont "the MAGNET TRAIN!"
 
 	para "It shows a planned"
 	line "stop-off station"
-	cont "in Ecruteak City."
+	cont "in ECRUTEAK CITY."
 	done
 
 CeladonUniversityLibrary2FBookshelf20Text:
@@ -338,7 +338,7 @@ CeladonUniversityLibrary2FComputer1:
 	line "screen with a"
 
 	para "background image"
-	line "of a Magikarp."
+	line "of a MAGIKARP."
 	done
 
 CeladonUniversityLibrary2FComputer2:

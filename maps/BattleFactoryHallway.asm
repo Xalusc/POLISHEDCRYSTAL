@@ -71,7 +71,7 @@ BattleFactoryHallwayFollowReceptionist:
 		line "on your winning"
 		cont "streak, trainer!"
 
-		para "The Factory Head"
+		para "The FACTORY HEAD"
 		line "has sent word that"
 
 		para "he is demanding"
@@ -79,7 +79,7 @@ BattleFactoryHallwayFollowReceptionist:
 
 		para "Are you ready to"
 		line "battle the"
-		cont "Factory Head?"
+		cont "FACTORY HEAD?"
 		done
 .ShownText
 	yesorno
@@ -104,8 +104,8 @@ BattleFactoryHallwayFollowReceptionist:
 	special SoftReset
 .DontSaveAndEndTheSession:
 	writethistext
-		text "Cancel your Battle"
-		line "Floor challenge?"
+		text "Cancel your BATTLE"
+		line "FLOOR challenge?"
 
 		para "Beware, it counts"
 		line "as a loss."

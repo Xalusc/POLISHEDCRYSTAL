@@ -454,9 +454,9 @@ MemoryGame_InitStrings:
 	jmp PrintText
 
 .japstr1
-	db "№.Cards@"
+	db "№.CARDS@"
 .japstr2
-	db "№.Turns@"
+	db "№.TURNS@"
 
 MemoryGame_Card2Coord:
 	ld d, 0

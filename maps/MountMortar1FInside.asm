@@ -51,7 +51,7 @@ GenericTrainerSupernerdMarkus:
 	generictrainer SUPER_NERD, MARKUS, EVENT_BEAT_SUPER_NERD_MARKUS, SupernerdMarkusSeenText, SupernerdMarkusBeatenText
 
 	text "I came to explore"
-	line "Mt.Mortar, but I"
+	line "MT.MORTAR, but I"
 
 	para "got separated from"
 	line "my partner…"
@@ -59,8 +59,8 @@ GenericTrainerSupernerdMarkus:
 	para "Did you run into a"
 	line "trainer who uses a"
 
-	para "Seadra that knows"
-	line "Waterfall?"
+	para "SEADRA that knows"
+	line "WATERFALL?"
 	done
 
 PokemaniacMillerSeenText:
@@ -74,7 +74,7 @@ PokemaniacMillerBeatenText:
 	done
 
 SupernerdMarkusSeenText:
-	text "Hey! Hugh!"
+	text "Hey! HUGH!"
 	done
 
 SupernerdMarkusBeatenText:

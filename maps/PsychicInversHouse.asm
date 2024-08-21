@@ -89,12 +89,12 @@ PsychicInverGreetingText:
 	cont "battle?"
 
 	para "I call this an"
-	line "Inverse Battle!"
+	line "INVERSE BATTLE!"
 
 	para "What do you think?"
 	line "Would you care to"
-	cont "try an Inverse"
-	cont "Battle?"
+	cont "try an INVERSE"
+	cont "BATTLE?"
 	done
 
 PsychicInverNoText:
@@ -117,35 +117,35 @@ PsychicInverBeatenText:
 	line "have tired me out"
 
 	para "even more than my"
-	line "#mon…"
+	line "#MON…"
 	done
 
 InverseBattle0PointRewardText:
 	text "I'm not sure if"
 	line "you understand"
-	cont "Inverse Battles…"
+	cont "INVERSE BATTLES…"
 	done
 
 InverseBattle1_3PointRewardText:
 	text "You understand"
-	line "Inverse Battles…"
+	line "INVERSE BATTLES…"
 	done
 
 InverseBattle4_6PointRewardText:
 	text "You understand"
-	line "Inverse Battles"
+	line "INVERSE BATTLES"
 	cont "pretty well."
 	done
 
 InverseBattle7_9PointRewardText:
 	text "You understand"
-	line "Inverse Battles"
+	line "INVERSE BATTLES"
 	cont "perfectly!"
 	done
 
 InverseBattle10PointRewardText:
 	text "You're an expert at"
-	line "Inverse Battles."
+	line "INVERSE BATTLES."
 
 	para "I'm no match for"
 	line "you."

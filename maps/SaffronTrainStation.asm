@@ -93,13 +93,13 @@ SaffronMagnetTrainStationPlayerLeaveTrainAndEnterStationMovement:
 
 SaffronMagnetTrainStationOfficerTrainIsntOperatingText:
 	text "I'm sorry, but the"
-	line "Magnet Train isn't"
+	line "MAGNET TRAIN isn't"
 	cont "operating now."
 	done
 
 SaffronMagnetTrainStationOfficerAreYouComingOnBoardText:
 	text "We'll soon depart"
-	line "for Goldenrod."
+	line "for GOLDENROD."
 
 	para "Are you coming on"
 	line "board?"
@@ -125,14 +125,14 @@ SaffronMagnetTrainStationOfficerHopeToSeeYouAgainText:
 
 SaffronMagnetTrainStationOfficerArrivedInSaffronText:
 	text "We have arrived in"
-	line "Saffron."
+	line "SAFFRON."
 
 	para "We hope to see you"
 	line "again."
 	done
 
 SaffronMagnetTrainStationGymGuideText:
-	text "The Magnet Train"
+	text "The MAGNET TRAIN"
 	line "is a super modern"
 
 	para "rail liner that"
@@ -154,28 +154,28 @@ SaffronMagnetTrainStationGymGuideText_ReturnedMachinePart:
 	line "have I gone back"
 
 	para "and forth between"
-	line "Kanto and Johto?"
+	line "KANTO and JOHTO?"
 	done
 
 SaffronMagnetTrainStationTeacherText:
-	text "Before the Magnet"
-	line "Train Station was"
+	text "Before the MAGNET"
+	line "TRAIN STATION was"
 
 	para "built, there was a"
 	line "house there."
 
 	para "A little girl"
-	line "named Copycat used"
+	line "named COPYCAT used"
 	cont "to live there."
 	done
 
 SaffronMagnetTrainStationLassText:
 	text "Hi. Do you have a"
-	line "rail pass? I have"
+	line "rail PASS? I have"
 
 	para "one. All the peo-"
-	line "ple in Saffron who"
+	line "ple in SAFFRON who"
 
-	para "ride the Magnet"
-	line "Train have passes."
+	para "ride the MAGNET"
+	line "TRAIN have PASSES."
 	done

@@ -55,26 +55,26 @@ MrPsychicText:
 	para "…I got it!"
 
 	para "You want to learn"
-	line "Zen Headbutt!"
+	line "ZEN HEADBUTT!"
 	done
 
 Text_MrPsychicsHouseTutorZenHeadbutt:
 	text "I will teach your"
-	line "#mon to use Zen"
+	line "#MON to use ZEN"
 
-	para "Headbutt for a"
-	line "Silver Leaf."
+	para "HEADBUTT for a"
+	line "SILVER LEAF."
 	done
 
 Text_MrPsychicsHouseTutorNoSilverLeaf:
 	text "You don't have a"
-	line "Silver Leaf…"
+	line "SILVER LEAF…"
 	done
 
 Text_MrPsychicsHouseTutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Zen Headbutt?"
+	line "your #MON"
+	cont "ZEN HEADBUTT?"
 	done
 
 Text_MrPsychicsHouseTutorRefused:
@@ -82,7 +82,7 @@ Text_MrPsychicsHouseTutorRefused:
 	done
 
 Text_MrPsychicsHouseTutorTaught:
-	text "Your #mon now"
+	text "Your #MON now"
 	line "knows how to use"
-	cont "Zen Headbutt."
+	cont "ZEN HEADBUTT."
 	done

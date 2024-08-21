@@ -23,10 +23,10 @@ PokemonJournalMrFujiScript:
 	setflag ENGINE_READ_MR_FUJI_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Editor: The shy"
-	line "Mr.Fuji turned"
+	para "EDITOR: The shy"
+	line "MR.FUJI turned"
 
 	para "down our interview"
 	line "requests."
@@ -34,8 +34,8 @@ PokemonJournalMrFujiScript:
 	para "He is a kindly man"
 	line "who is adored and"
 
-	para "respected in Lav-"
-	line "ender Town."
+	para "respected in LAV-"
+	line "ENDER TOWN."
 	done
 
 LavenderPokeCenter1FYoungsterScript:
@@ -45,8 +45,8 @@ LavenderPokeCenter1FYoungsterScript:
 	iffalse_jumptextfaceplayer .NoExorcismText
 	jumpthistextfaceplayer
 
-	text "The Director of"
-	line "the Radio Station"
+	text "The DIRECTOR of"
+	line "the RADIO STATION"
 	cont "sure was happy."
 
 	para "He said they're"
@@ -55,23 +55,23 @@ LavenderPokeCenter1FYoungsterScript:
 	done
 
 .NoMachinePartText:
-	text "If the Power Plant"
+	text "If the POWER PLANT"
 	line "isn't running, the"
 
-	para "Magnet Train won't"
+	para "MAGNET TRAIN won't"
 	line "run either…"
 
 	para "It also means the"
-	line "Radio Tower can't"
+	line "RADIO TOWER can't"
 	cont "broadcast…"
 	done
 
 .NoExorcismText:
-	text "The Power Plant is"
+	text "The POWER PLANT is"
 	line "running smoothly"
 	cont "again, but the"
 
-	para "Radio Tower still"
+	para "RADIO TOWER still"
 	line "isn't broadcasting."
 
 	para "What's going on"
@@ -80,19 +80,19 @@ LavenderPokeCenter1FYoungsterScript:
 
 LavenderPokeCenter1FGentlemanText:
 	text "To the north of"
-	line "Lavender is Rock"
+	line "LAVENDER is ROCK"
 
-	para "Tunnel. Go through"
+	para "TUNNEL. Go through"
 	line "it to get to the"
-	cont "Power Plant."
+	cont "POWER PLANT."
 	done
 
 LavenderPokeCenter1FTeacherText:
 	text "There's a radio"
 	line "program that plays"
-	cont "# Flute music."
+	cont "# FLUTE music."
 
 	para "Oh? Ah, your radio"
-	line "needs an Expn.Card"
+	line "needs an EXPN.CARD"
 	cont "to tune into it."
 	done

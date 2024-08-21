@@ -101,6 +101,6 @@ ClefairyFleeMovement:
 	step_end
 
 DontLitterSignText:
-	text "Mt.Moon Square"
-	line "Don't Litter"
+	text "MT.MOON SQUARE"
+	line "DON'T LITTER"
 	done

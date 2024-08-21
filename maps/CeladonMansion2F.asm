@@ -32,7 +32,7 @@ CeladonMansion2FComputerText:
 	cont "ing an e-mail."
 
 	para "…I hope you'll"
-	line "come visit Kanto."
+	line "come visit KANTO."
 
 	para "I think you'll be"
 	line "surprised at how"
@@ -41,17 +41,17 @@ CeladonMansion2FComputerText:
 	line "changed here."
 
 	para "You'll also see"
-	line "many #mon that"
+	line "many #MON that"
 
 	para "aren't native to"
-	line "Johto."
+	line "JOHTO."
 
-	para "To the Producer"
+	para "To the PRODUCER"
 
 	para "…"
 	done
 
 CeladonMansion2FSignText:
 	text "GAME FREAK"
-	line "Meeting Room"
+	line "MEETING ROOM"
 	done

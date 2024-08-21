@@ -21,19 +21,19 @@ CeladonDeptStore1F_MapScriptHeader:
 
 CeladonDeptStore1FReceptionistText:
 	text "Hello! Welcome to"
-	line "Celadon Dept."
-	cont "Store!"
+	line "CELADON DEPT."
+	cont "STORE!"
 
 	para "The directory is"
 	line "on the wall."
 	done
 
 CeladonDeptStore1FGentlemanText:
-	text "This Dept.Store is"
+	text "This DEPT.STORE is"
 	line "part of the same"
 
 	para "chain as the one"
-	line "in Goldenrod City."
+	line "in GOLDENROD CITY."
 
 	para "They were both"
 	line "renovated at the"
@@ -51,18 +51,18 @@ CeladonDeptStore1FTeacherText:
 	done
 
 CeladonDeptStore1FDirectoryText:
-	text "1F: Service"
-	line "    Counter"
+	text "1F: SERVICE"
+	line "    COUNTER"
 
-	para "2F: Trainer's"
-	line "    Market"
+	para "2F: TRAINER'S"
+	line "    MARKET"
 
-	para "3F: Tech Shop"
+	para "3F: TECH SHOP"
 
-	para "4F: Wiseman Gifts"
+	para "4F: WISEMAN GIFTS"
 
-	para "5F: Drug Store"
+	para "5F: DRUG STORE"
 
-	para "6F: Rooftop"
-	line "    Atrium"
+	para "6F: ROOFTOP"
+	line "    ATRIUM"
 	done

@@ -116,7 +116,7 @@ RuinsOfAlphAerodactylChamberWallPatternLeftText:
 	done
 
 RuinsOfAlphChambersItsUnownText:
-	text "It's Unown text!"
+	text "It's UNOWN text!"
 	done
 
 RuinsOfAlphAerodactylChamberWallHoleText:
@@ -126,7 +126,7 @@ RuinsOfAlphAerodactylChamberWallHoleText:
 
 RuinsOfAlphAerodactylChamberDescriptionText:
 	text "This flying #-"
-	line "mon attacked its"
+	line "MON attacked its"
 
 	para "prey with saw-like"
 	line "fangs."

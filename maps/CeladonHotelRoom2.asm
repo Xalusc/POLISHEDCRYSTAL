@@ -44,20 +44,20 @@ MrHyperScript:
 
 .TextComeBackAnytime:
 	text "Come back anytime!"
-	line "Mr. Hyper will"
+	line "MR. HYPER will"
 	cont "always be hyped up"
 	cont "to see you!"
 	done
 
 .TextIntro:
-	text "I'm Mr. Hyper!"
+	text "I'm MR. HYPER!"
 	line "Want to know why?"
 
 	para "Because I can help"
-	line "#mon perform"
-	cont "Hyper Training!"
+	line "#MON perform"
+	cont "HYPER TRAINING!"
 
-	para "It lets a #mon"
+	para "It lets a #MON"
 	line "that has maxed out"
 	cont "its effort become"
 	cont "even stronger!"
@@ -68,39 +68,39 @@ MrHyperScript:
 
 	para "If you want me to"
 	line "train up your"
-	cont "#mon, bring me"
-	cont "some Bottle Caps."
+	cont "#MON, bring me"
+	cont "some BOTTLE CAPS."
 	done
 
 .TextAskTrain:
 	text "What do you say?"
 	line "Want to try my"
-	cont "Hyper Training?"
+	cont "HYPER TRAINING?"
 	done
 
 .TextNoBottleCaps:
 	text "You don't have any"
-	line "Bottle Caps?"
+	line "BOTTLE CAPS?"
 
-	para "I know Fishermen"
+	para "I know FISHERMEN"
 	line "snag them some-"
 	cont "times…"
 	done
 
 .TextTrainWho:
-	text "Hyper Train which"
-	line "#mon?"
+	text "HYPER TRAIN which"
+	line "#MON?"
 	done
 
 .TextGotStronger:
-	text "All done! My Hyper"
-	line "training improved"
+	text "All done! My HYPER"
+	line "TRAINING improved"
 	cont ""
 	text_ram wStringBuffer1
 	text "'s stats!"
 	done
 
 .TextTrainSomeMore:
-	text "Hyper Train more"
-	line "#mon?"
+	text "HYPER TRAIN more"
+	line "#MON?"
 	done

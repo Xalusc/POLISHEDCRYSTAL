@@ -44,13 +44,13 @@ ProfOaksAide1Script:
 	jumpopenedtext ProfOaksAide1NoRoomText
 
 IlexForestAzaleaGateOfficerText:
-	text "Ilex Forest is"
+	text "ILEX FOREST is"
 	line "big. Be careful!"
 	cont "Don't get lost."
 	done
 
 IlexForestAzaleaGateGrannyText:
-	text "The Forest is"
+	text "The forest is"
 	line "watched over by"
 	cont "its protector."
 
@@ -60,10 +60,10 @@ IlexForestAzaleaGateGrannyText:
 
 ProfOaksAide1HiText:
 	text "Hello there! I'm"
-	line "Prof.Oak's aide."
+	line "PROF.OAK's AIDE."
 
 	para "If you caught 15"
-	line "kinds of #mon,"
+	line "kinds of #MON,"
 
 	para "I'm supposed to"
 	line "give you an item."
@@ -72,7 +72,7 @@ ProfOaksAide1HiText:
 	line "have you caught"
 
 	para "at least 15 kinds"
-	line "of #mon?"
+	line "of #MON?"
 	done
 
 ProfOaksAide1UhOhText:
@@ -82,7 +82,7 @@ ProfOaksAide1UhOhText:
 	para "caught "
 	text_decimal wTempDexOwn, 2, 3
 	text " kinds"
-	line "of #mon."
+	line "of #MON."
 
 	para "Come back and see"
 	line "me when you catch"
@@ -96,7 +96,7 @@ ProfOaksAide1HereYouGoText:
 	para "caught "
 	text_decimal wTempDexOwn, 2, 3
 	text " kinds"
-	line "of #mon."
+	line "of #MON."
 
 	para "Congratulations!"
 	line "Here you go!"
@@ -109,13 +109,13 @@ ProfOaksAide1NoRoomText:
 	done
 
 ProfOaksAide1ExplainText:
-	text "That Exp.Share"
-	line "helps a #mon"
+	text "That EXP.SHARE"
+	line "helps a #MON"
 
 	para "gain experience"
 	line "without even"
 	cont "battling."
 
 	para "Use it to com-"
-	line "plete the #dex!"
+	line "plete the #DEX!"
 	done

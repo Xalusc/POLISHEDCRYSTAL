@@ -170,7 +170,7 @@ Script_TradeCenterClosed:
 	jumpthistextfaceplayer
 
 	text "I'm sorry--the"
-	line "Trade Machine is"
+	line "TRADE MACHINE is"
 	cont "being adjusted."
 	done
 
@@ -191,7 +191,7 @@ endc
 	jumpthistextfaceplayer
 
 	text "I'm sorry--the"
-	line "Battle Machine is"
+	line "BATTLE MACHINE is"
 	cont "being adjusted."
 	done
 
@@ -240,8 +240,8 @@ PokeCenter2FMovementData_ReceptionistStepsRightAndDown:
 	step_end
 
 Text_BattleReceptionistIntro:
-	text "Welcome to Cable"
-	line "Club Colosseum."
+	text "Welcome to CABLE"
+	line "CLUB COLOSSEUM."
 
 	para "You may battle a"
 	line "friend here."
@@ -251,11 +251,11 @@ Text_BattleReceptionistIntro:
 	done
 
 Text_TradeReceptionistIntro:
-	text "Welcome to Cable"
-	line "Trade Center."
+	text "Welcome to CABLE"
+	line "TRADE CENTER."
 
 	para "You may trade your"
-	line "#mon here with"
+	line "#MON here with"
 	cont "a friend."
 
 	para "Would you like to"
@@ -305,7 +305,7 @@ Text_OldVersionDetected:
 	line "to an old"
 
 	para "version of"
-	line "Polished Crystal."
+	line "POLISHED CRYSTAL."
 	prompt
 
 Text_WrongGameID:
@@ -319,7 +319,7 @@ Text_WrongVersion:
 	line "do not match."
 
 	para "In order to play"
-	line "Link Colosseum,"
+	line "LINK COLOSSEUM,"
 
 	para "your game versions"
 	line "must match."
@@ -358,6 +358,6 @@ Text_IncompatibleRooms:
 
 Text_TimeCapsuleClosed:
 	text "I'm sorry--the"
-	line "Time Capsule is"
+	line "TIME CAPSULE is"
 	cont "inoperative."
 	done

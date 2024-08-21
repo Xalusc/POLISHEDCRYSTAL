@@ -2129,13 +2129,13 @@ ApricornBox:
 	db 0 ; default option
 
 .Text
-	text  " Red   Blu"
+	text  " RED   BLU"
 	next1 "   ×     ×"
-	next1 " Ylw   Grn"
+	next1 " YLW   GRN"
 	next1 "   ×     ×"
-	next1 " Wht   Blk"
+	next1 " WHT   BLK"
 	next1 "   ×     ×"
-	next1 " Pnk"
+	next1 " PNK"
 	next1 "   ×"
 	done
 

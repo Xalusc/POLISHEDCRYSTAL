@@ -28,7 +28,7 @@ LyraPhoneLandmarkText:
 
 LyraPhoneKantoText:
 	text "So you're all the"
-	line "way over in Kanto!"
+	line "way over in KANTO!"
 	prompt
 
 LyraPhoneIslandsText:
@@ -50,7 +50,7 @@ LyraPhoneNextMoveQuestionText:
 	para "Want me to tell"
 	line "you when your"
 
-	para "#mon will learn"
+	para "#MON will learn"
 	line "its next move?"
 	done
 
@@ -76,7 +76,7 @@ LyraPhoneNoNextMoveText:
 	prompt
 
 LyraPhoneNoEggMovesText:
-	text "Eggs don't learn"
+	text "EGGS don't learn"
 	line "moves! …Do they?"
 	prompt
 
@@ -94,12 +94,12 @@ LyraPhoneSpecialText_YellowForest:
 	line "How are you?"
 
 	para "Have you been to"
-	line "see Yellow Forest?"
+	line "see YELLOW FOREST?"
 
 	para "I was going to"
 	line "visit, but I heard"
 
-	para "Team Rocket was"
+	para "TEAM ROCKET was"
 	line "up to something"
 	cont "there."
 
@@ -107,8 +107,8 @@ LyraPhoneSpecialText_YellowForest:
 	line "get mixed up in"
 	cont "that!"
 
-	para "You've faced Team"
-	line "Rocket before,"
+	para "You've faced TEAM"
+	line "ROCKET before,"
 
 	para "haven't you,"
 	line "<PLAYER>?"
@@ -124,9 +124,9 @@ LyraPhoneSpecialText_FirstBadge:
 	text "<PLAYER>! Hi!"
 
 	para "I just got my"
-	line "first Gym Badge!"
+	line "first GYM BADGE!"
 
-	para "Falkner's Pidgeot"
+	para "FALKNER's PIDGEOT"
 	line "is strong, but"
 	cont "mine beat him!"
 
@@ -135,22 +135,22 @@ LyraPhoneSpecialText_FirstBadge:
 
 	para "Oh, you got your"
 	line "first badge in"
-	cont "Kanto too?"
+	cont "KANTO too?"
 	cont "Good going!"
 
 	para "Let's both keep on"
-	line "winning Badges."
+	line "winning BADGES."
 
 	para "I'll see you at"
-	line "the League!"
+	line "the LEAGUE!"
 	done
 
 LyraPhoneSpecialText_LyrasEgg:
 	text "<PLAYER>! Hi!"
 
 	para "Are you doing well"
-	line "against Kanto's"
-	cont "Gym Leaders?"
+	line "against KANTO's"
+	cont "GYM LEADERS?"
 
 	para "I'm sure you are!"
 
@@ -158,24 +158,24 @@ LyraPhoneSpecialText_LyrasEgg:
 
 	para "I left my "
 	text_ram wStringBuffer4
-	line "at the Day-Care"
+	line "at the DAY-CARE"
 
 	para "with Grandma and"
 	line "Grandpa, and they"
-	cont "found an Egg!"
+	cont "found an EGG!"
 
 	para "Isn't that neat?"
 
 	para "I'm raising a full"
-	line "party of #mon,"
+	line "party of #MON,"
 
 	para "so, um, if you'd"
 	line "like to have it…"
 
 	para "That is… Anyway,"
-	line "I left the Egg at"
+	line "I left the EGG at"
 
-	para "the Day-Care if"
+	para "the DAY-CARE if"
 	line "you want it!"
 
 	para "I know you'll take"

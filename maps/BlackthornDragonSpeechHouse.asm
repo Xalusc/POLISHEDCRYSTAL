@@ -22,7 +22,7 @@ BlackthornDragonSpeechHouseGrannyText:
 
 	para "command dragons"
 	line "live right here in"
-	cont "Blackthorn."
+	cont "BLACKTHORN."
 
 	para "As a result, there"
 	line "are many legends"
@@ -32,5 +32,5 @@ BlackthornDragonSpeechHouseGrannyText:
 	done
 
 BlackthornDragonSpeechHouseDratiniText:
-	text "Dratini: Draa!"
+	text "DRATINI: Draa!"
 	done

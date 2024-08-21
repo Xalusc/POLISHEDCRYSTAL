@@ -195,7 +195,7 @@ GenericTrainerGruntM17:
 	generictrainer GRUNTM, 17, EVENT_BEAT_ROCKET_GRUNTM_17, GruntM17SeenText, GruntM17BeatenText
 
 	text "Heh, I'm just a"
-	line "Grunt."
+	line "GRUNT."
 
 	para "I don't know the"
 	line "password. Too bad"
@@ -210,7 +210,7 @@ GenericTrainerGruntM18:
 	cont "by a kid too."
 
 	para "When we were ab-"
-	line "ducting #mon,"
+	line "ducting #MON,"
 
 	para "this kid with long"
 	line "red hair and mean-"
@@ -552,7 +552,7 @@ RocketBaseBossFThrashText:
 	cont "the loose."
 
 	para "It's harmful to"
-	line "Team Rocket's"
+	line "TEAM ROCKET's"
 	cont "pride, you see."
 
 	para "However strong you"
@@ -582,11 +582,11 @@ RocketBaseBossDontMeddleText:
 	para "As the interim"
 	line "boss in place of"
 
-	para "Giovanni, I'll"
+	para "GIOVANNI, I'll"
 	line "show you how wrong"
 
 	para "it is to meddle"
-	line "with Team Rocket!"
+	line "with TEAM ROCKET!"
 	done
 
 RocketBaseBossWinText:
@@ -596,10 +596,10 @@ RocketBaseBossWinText:
 	para "It's too bad."
 
 	para "If you were to"
-	line "join Team Rocket,"
+	line "join TEAM ROCKET,"
 
 	para "you could become"
-	line "an Executive."
+	line "an EXECUTIVE."
 	done
 
 RocketBaseBossRetreatText:
@@ -619,9 +619,9 @@ RocketBaseBossRetreatText:
 	line "ger plans."
 
 	para "You'll come to"
-	line "appreciate Team"
+	line "appreciate TEAM"
 
-	para "Rocket's true"
+	para "ROCKET's true"
 	line "power soon enough."
 
 	para "Enjoy yourself"
@@ -631,10 +631,10 @@ RocketBaseBossRetreatText:
 	done
 
 RocketBaseLancePostBattleText:
-	text "Lance: That did"
+	text "LANCE: That did"
 	line "it. We defeated"
 
-	para "all the Rockets"
+	para "all the ROCKETS"
 	line "here."
 
 	para "But I'm concerned"
@@ -669,7 +669,7 @@ RockerBaseLanceElectrodeFaintText:
 	para "We have no choice."
 	line "We have to make"
 
-	para "all the Electrode"
+	para "all the ELECTRODE"
 	line "faint."
 
 	para "That should stop"
@@ -679,7 +679,7 @@ RockerBaseLanceElectrodeFaintText:
 	line "strange signal."
 
 	para "It's no fault of"
-	line "the #mon, so it"
+	line "the #MON, so it"
 
 	para "makes me feel"
 	line "guilty."
@@ -689,12 +689,12 @@ RockerBaseLanceElectrodeFaintText:
 	done
 
 RocketBaseLancesSideText:
-	text "Lance: Leave this"
+	text "LANCE: Leave this"
 	line "side to me."
 	done
 
 RocketBaseLanceElectrodeDoneText:
-	text "Lance: That odd"
+	text "LANCE: That odd"
 	line "signal has finally"
 	cont "stopped."
 
@@ -705,7 +705,7 @@ RocketBaseLanceElectrodeDoneText:
 	line "Let me thank you"
 
 	para "on behalf of all"
-	line "the #mon."
+	line "the #MON."
 
 	para "Oh, yes. You"
 	line "should take this."
@@ -716,20 +716,20 @@ RocketBaseLanceElectrodeDoneText:
 	done
 
 RocketBaseLanceWhirlpoolText:
-	text "That's Thief."
+	text "That's THIEF."
 	line "I trust you won't"
 
 	para "abuse it the way"
-	line "Team Rocket does."
+	line "TEAM ROCKET does."
 	done
 
 RocketBaseLanceMonMasterText:
 	text "<PLAYER>…"
 
 	para "The journey to be-"
-	line "coming the #mon"
+	line "coming the #MON"
 
-	para "Master is long and"
+	para "MASTER is long and"
 	line "difficult."
 
 	para "Knowing that, will"
@@ -754,10 +754,10 @@ RocketBaseLanceMonMasterText:
 	done
 
 LanceHealsText1:
-	text "Lance: Are you all"
+	text "LANCE: Are you all"
 	line "right?"
 
-	para "Your #mon are"
+	para "Your #MON are"
 	line "hurt and tired."
 
 	para "Here, give them"
@@ -766,9 +766,9 @@ LanceHealsText1:
 	done
 
 LanceHealsText2:
-	text "Lance: <PLAYER>,"
+	text "LANCE: <PLAYER>,"
 	line "let's give it our"
-	cont "best for #mon."
+	cont "best for #MON."
 	done
 
 GruntM17SeenText:
@@ -779,7 +779,7 @@ GruntM17SeenText:
 	line "It has to have a"
 
 	para "password that only"
-	line "Team Rocket knows."
+	line "TEAM ROCKET knows."
 	done
 
 GruntM17BeatenText:

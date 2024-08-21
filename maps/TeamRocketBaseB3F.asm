@@ -148,7 +148,7 @@ GenericTrainerRocketScientistRoss:
 
 	text "A radio signal"
 	line "that drives #-"
-	cont "mon mad…"
+	cont "MON mad…"
 
 	para "My experiment is a"
 	line "complete success."
@@ -288,7 +288,7 @@ RocketBaseRivalShovesPlayerMovement:
 	step_end
 
 LanceGetPasswordText:
-	text "Lance: It takes"
+	text "LANCE: It takes"
 	line "two passwords to"
 
 	para "get into the"
@@ -296,9 +296,9 @@ LanceGetPasswordText:
 
 	para "Those passwords"
 	line "are known only to"
-	cont "a few Rockets."
+	cont "a few ROCKETS."
 
-	para "That Rocket there"
+	para "That ROCKET there"
 	line "very graciously"
 	cont "told me so."
 
@@ -318,23 +318,23 @@ RocketBaseRivalText:
 	para "Didn't I tell you"
 	line "that I was going"
 
-	para "to destroy Team"
-	line "Rocket?"
+	para "to destroy TEAM"
+	line "ROCKET?"
 
 	para "…Tell me, who was"
 	line "the guy in the"
 
 	para "cape who used"
-	line "dragon #mon?"
+	line "dragon #MON?"
 
-	para "My #mon were no"
+	para "My #MON were no"
 	line "match at all."
 
 	para "I don't care that"
 	line "I lost. I can beat"
 
 	para "him by getting"
-	line "stronger #mon."
+	line "stronger #MON."
 
 	para "It's what he said"
 	line "that bothers me…"
@@ -342,7 +342,7 @@ RocketBaseRivalText:
 	para "He told me that"
 	line "I don't love and"
 
-	para "trust my #mon"
+	para "trust my #MON"
 	line "enough."
 
 	para "I'm furious that I"
@@ -359,10 +359,10 @@ ExecutiveM4BeforeText:
 	line "This is the office"
 
 	para "of our leader,"
-	line "Giovanni."
+	line "GIOVANNI."
 
 	para "Since disbanding"
-	line "Team Rocket three"
+	line "TEAM ROCKET three"
 
 	para "years ago, he has"
 	line "been in training."
@@ -385,7 +385,7 @@ ExecutiveM4BeatenText:
 	text "I… I couldn't do a"
 	line "thing…"
 
-	para "Giovanni, please"
+	para "GIOVANNI, please"
 	line "forgive me…"
 	done
 
@@ -398,10 +398,10 @@ ExecutiveM4AfterText:
 	done
 
 RocketBaseMurkrowText:
-	text "Murkrow: The"
+	text "MURKROW: The"
 	line "password is…"
 
-	para "Hail Giovanni."
+	para "Hail GIOVANNI."
 	done
 
 GruntF5SeenText:
@@ -423,7 +423,7 @@ GruntF5AfterBattleText:
 	text "The password to"
 	line "the boss's room is"
 
-	para "SlowpokeTail."
+	para "SLOWPOKETAIL."
 
 	para "But it's useless"
 	line "unless you have"
@@ -460,15 +460,15 @@ GruntM28AfterBattleText:
 	line "the boss's room…"
 
 	para "Uh…, I think it is"
-	line "Raticate Tail."
+	line "RATICATE TAIL."
 	done
 
 RocketScientistRossSeenText:
 	text "I used to work for"
-	line "Silph, but now I"
+	line "SILPH, but now I"
 
 	para "run research for"
-	line "Team Rocket."
+	line "TEAM ROCKET."
 
 	para "A meddlesome child"
 	line "like you needs to"
@@ -482,7 +482,7 @@ RocketScientistRossBeatenText:
 
 RocketScientistMitchSeenText:
 	text "I don't care that"
-	line "#mon are hurt"
+	line "#MON are hurt"
 	cont "by our experiment."
 	done
 

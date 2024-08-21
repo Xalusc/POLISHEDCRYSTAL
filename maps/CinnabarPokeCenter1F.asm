@@ -22,12 +22,12 @@ PokemonJournalBlaineScript:
 	setflag ENGINE_READ_BLAINE_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Leader Blaine!"
+	para "SPECIAL FEATURE:"
+	line "LEADER BLAINE!"
 
-	para "Blaine is said to"
+	para "BLAINE is said to"
 	line "only remove his"
 
 	para "shades when he is"
@@ -36,11 +36,11 @@ PokemonJournalBlaineScript:
 	done
 
 CinnabarPokeCenter1FCooltrainerfText:
-	text "Cinnabar Gym's"
-	line "Blaine apparently"
+	text "CINNABAR GYM's"
+	line "BLAINE apparently"
 
 	para "lives alone in the"
-	line "Seafoam Islands"
+	line "SEAFOAM ISLANDS"
 	cont "cave…"
 	done
 

@@ -37,7 +37,7 @@ ItemfinderExplanationText:
 	para "that aren't ob-"
 	line "vious."
 
-	para "Use Itemfinder to"
+	para "Use ITEMFINDER to"
 	line "check if there is"
 
 	para "an item on the"
@@ -52,8 +52,8 @@ ItemfinderExplanationText:
 	para "Oh yeah--I heard"
 	line "there are items"
 
-	para "in Ecruteak's"
-	line "Burned Tower."
+	para "in ECRUTEAK's"
+	line "BURNED TOWER."
 	done
 
 EcruteakHistoryBook:
@@ -66,10 +66,10 @@ EcruteakHistoryBook:
 	iffalse_endtext
 	jumpthisopenedtext
 
-	text "Ecruteak was also"
+	text "ECRUTEAK was also"
 	line "home to three"
 
-	para "#mon that raced"
+	para "#MON that raced"
 	line "around the town."
 
 	para "They were said to"
@@ -92,7 +92,7 @@ EcruteakHistoryBook:
 EcruteakItemfinderAdventureText:
 	text "Ah. You're on an"
 	line "adventure with"
-	cont "your #mon?"
+	cont "your #MON?"
 
 	para "Well, what's an"
 	line "adventure without"
@@ -119,25 +119,25 @@ EcruteakItemfinderToEachHisOwnText:
 	done
 
 EcruteakHistoryBookText:
-	text "History of"
-	line "Ecruteak"
+	text "HISTORY OF"
+	line "ECRUTEAK"
 
 	para "Want to read it?"
 	done
 
 EcruteakTwoTowersText:
-	text "In Ecruteak, there"
+	text "In ECRUTEAK, there"
 	line "were two towers."
 
 	para "Each tower was the"
 	line "roost of powerful"
-	cont "flying #mon."
+	cont "flying #MON."
 
 	para "But one of the"
 	line "towers burned to"
 	cont "the ground."
 
-	para "The two #mon"
+	para "The two #MON"
 	line "haven't been seen"
 	cont "since…"
 

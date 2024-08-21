@@ -69,16 +69,16 @@ GenericTrainerCooltrainermCody:
 	line "dragon-user clan"
 
 	para "can use dragon"
-	line "#mon only after"
+	line "#MON only after"
 
-	para "our Master allows"
+	para "our MASTER allows"
 	line "it."
 	done
 
 .SeenText:
 	text "It's not as if we"
-	line "all use Dragon-"
-	cont "type #mon."
+	line "all use dragon-"
+	cont "type #MON."
 	done
 
 .BeatenText:
@@ -89,7 +89,7 @@ GenericTrainerCooltrainermCody:
 GenericTrainerCooltrainerfFran:
 	generictrainer COOLTRAINERF, FRAN, EVENT_BEAT_COOLTRAINERF_FRAN, .SeenText, .BeatenText
 
-	text "Uh-oh… Clair is"
+	text "Uh-oh… CLAIR is"
 	line "going to be mad…"
 	done
 
@@ -98,7 +98,7 @@ GenericTrainerCooltrainerfFran:
 	line "nameless trainer"
 	cont "past me!"
 
-	para "Clair would be"
+	para "CLAIR would be"
 	line "livid if I did!"
 	done
 

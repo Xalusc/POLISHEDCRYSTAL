@@ -99,7 +99,7 @@ FlowerShopTeacherScript:
 	db 3 ; items
 	db "× 1    ¥200@"
 	db "×10   ¥2000@"
-	db "Cancel@"
+	db "CANCEL@"
 
 FlowerShopFloriaScript:
 	checkflag ENGINE_PLAINBADGE
@@ -112,14 +112,14 @@ FlowerShopFloriaScript:
 
 	text "So that jiggly"
 	line "tree really was a"
-	cont "#mon!"
+	cont "#MON!"
 	done
 
 GoldenrodFlowerShopTeacherMySisterWentToSeeWigglyTreeRoute36Text:
 	text "Have you seen that"
 	line "wiggly tree that's"
 
-	para "growing on Route"
+	para "growing on ROUTE"
 	line "36?"
 
 	para "My little sister"
@@ -159,7 +159,7 @@ GoldenrodFlowerShopTeacherAskWantToBorrowWaterBottleText:
 
 GoldenrodFlowerShopTeacherBetterThanWhitneyText:
 	text "Oh, you're better"
-	line "than Whitney."
+	line "than WHITNEY."
 
 	para "Do you know about"
 	line "that wiggly tree?"
@@ -169,13 +169,13 @@ GoldenrodFlowerShopTeacherBetterThanWhitneyText:
 	cont "attacks."
 
 	para "But since you"
-	line "have some Badges,"
+	line "have some BADGES,"
 	cont "you should be OK."
 	done
 
 GoldenrodFlowerShopTeacherHeresTheSquirtbottleText:
 	text "Oh, you're better"
-	line "than Whitney…"
+	line "than WHITNEY…"
 
 	para "You'll be OK,"
 	line "then. Here's my"
@@ -194,7 +194,7 @@ GoldenrodFlowerShopFloriaWonderIfSisWillLendWaterBottleText:
 	para "tree, she told me"
 	line "it's dangerous."
 
-	para "If I beat Whitney,"
+	para "If I beat WHITNEY,"
 	line "I wonder if she'll"
 
 	para "lend me her water"
@@ -203,7 +203,7 @@ GoldenrodFlowerShopFloriaWonderIfSisWillLendWaterBottleText:
 
 GoldenrodFlowerShopFloriaYouBeatWhitneyText:
 	text "Wow, you beat"
-	line "Whitney? Cool!"
+	line "WHITNEY? Cool!"
 
 	para "Maybe you can take"
 	line "care of the jiggly"
@@ -216,9 +216,9 @@ GoldenrodFlowerShopFloriaYouBeatWhitneyText:
 
 WoukdYouLikeMulchText:
 	text "Care to buy some"
-	line "Mulch?"
+	line "MULCH?"
 
-	para "It makes Berries"
+	para "It makes BERRIES"
 	line "grow faster!"
 	done
 
@@ -238,16 +238,16 @@ NotEnoughMulchMoneyText:
 	done
 
 NoRoomForMulchText:
-	text "Oh no, your Bag"
+	text "Oh no, your PACK"
 	line "is full!"
 	done
 
 DescribeMulchText:
-	text "Our Mulch is a"
+	text "Our MULCH is a"
 	line "mix of high-qual-"
 
 	para "ity soil and #-"
-	line "mon's… er… you"
+	line "MON's… er… you"
 
 	para "know. It's full"
 	line "of nutrients!"

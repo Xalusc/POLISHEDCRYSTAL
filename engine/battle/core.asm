@@ -4491,10 +4491,10 @@ BattleMenuPKMN_Loop:
 .MenuData:
 	db $c0 ; flags
 	db 4 ; items
-	db "Switch@"
-	db "Stats@"
-	db "Moves@"
-	db "Cancel@"
+	db "SWITCH@"
+	db "STATS@"
+	db "MOVES@"
+	db "CANCEL@"
 
 .EggMenuHeader:
 	db $00 ; flags
@@ -4505,9 +4505,9 @@ BattleMenuPKMN_Loop:
 .EggMenuData:
 	db $c0 ; flags
 	db 3 ; items
-	db "Switch@"
-	db "Stats@"
-	db "Cancel@"
+	db "SWITCH@"
+	db "STATS@"
+	db "CANCEL@"
 
 Battle_StatsScreen:
 	call DisableLCD

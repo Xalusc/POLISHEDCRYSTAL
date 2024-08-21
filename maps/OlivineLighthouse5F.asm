@@ -27,19 +27,19 @@ OlivineLighthouse5F_MapScriptHeader:
 GenericTrainerBird_keeperDenis:
 	generictrainer BIRD_KEEPER, DENIS, EVENT_BEAT_BIRD_KEEPER_DENIS, Bird_keeperDenisSeenText, Bird_keeperDenisBeatenText
 
-	text "My #mon learned"
-	line "how to use Fly in"
-	cont "the Yellow Forest."
+	text "My #MON learned"
+	line "how to use FLY in"
+	cont "the YELLOW FOREST."
 
 	para "Well, since I'm a"
-	line "loser, I'll Fly"
+	line "loser, I'll FLY"
 	cont "across the sea…"
 	done
 
 GenericTrainerSailorErnest:
 	generictrainer SAILOR, ERNEST, EVENT_BEAT_SAILOR_ERNEST, SailorErnestSeenText, SailorErnestBeatenText
 
-	text "A Gym Leader isn't"
+	text "A GYM LEADER isn't"
 	line "just about being"
 
 	para "strong. A Leader"
@@ -49,7 +49,7 @@ GenericTrainerSailorErnest:
 
 SailorErnestSeenText:
 	text "I wanted to battle"
-	line "Jasmine, but she's"
+	line "JASMINE, but she's"
 
 	para "not up to it now."
 	line "So, how about you?"
@@ -64,7 +64,7 @@ Bird_keeperDenisSeenText:
 	text "We're pretty high"
 	line "up here. My bird"
 
-	para "#mon are in"
+	para "#MON are in"
 	line "prime form."
 	done
 

@@ -101,13 +101,13 @@ HurtByCurseText:
 SandstormHitsText:
 	text "<USER> is"
 	line "buffeted by"
-	cont "the sandstorm!"
+	cont "the SANDSTORM!"
 	prompt
 
 HailHitsText:
 	text "<USER> is"
 	line "buffeted by"
-	cont "the hail!"
+	cont "the HAIL!"
 	prompt
 
 PerishCountText:
@@ -176,13 +176,13 @@ BattleText_UserRecoveredPPUsing:
 BrokeLightScreenText:
 	text "<USER>"
 	line "broke the target's"
-	cont "Light Screen!"
+	cont "LIGHT SCREEN!"
 	prompt
 
 BrokeReflectText:
 	text "<USER>"
 	line "broke the target's"
-	cont "Reflect!"
+	cont "REFLECT!"
 	prompt
 
 BattleText_ItemLowered:
@@ -270,7 +270,7 @@ BattleText_UserChargedWithItem:
 BattleText_UsersFutureSightMissed:
 ; used when Future Sight can't hit anything because there was
 ; no target (so <TARGET> is undefined)
-	text "The Future Sight"
+	text "The FUTURE SIGHT"
 	line "arrived!"
 
 	para "But it failed!"
@@ -279,31 +279,31 @@ BattleText_UsersFutureSightMissed:
 BattleText_TargetWasHitByFutureSight:
 	text "<TARGET>"
 	line "took the"
-	cont "Future Sight!"
+	cont "FUTURE SIGHT!"
 	prompt
 
 BattleText_MistFaded:
 	text_ram wStringBuffer1
-	text " #mon's"
-	line "mist faded!"
+	text " #MON's"
+	line "MIST faded!"
 	prompt
 
 BattleText_SafeguardFaded:
 	text_ram wStringBuffer1
-	text " #mon's"
-	line "Safeguard faded!"
+	text " #MON's"
+	line "SAFEGUARD faded!"
 	prompt
 
 BattleText_LightScreenFell:
 	text_ram wStringBuffer1
-	text " #mon's"
-	line "Light Screen fell!"
+	text " #MON's"
+	line "LIGHT SCREEN fell!"
 	prompt
 
 BattleText_ReflectFaded:
 	text_ram wStringBuffer1
-	text " #mon's"
-	line "Reflect faded!"
+	text " #MON's"
+	line "REFLECT faded!"
 	prompt
 
 BattleText_TheRainStopped:
@@ -316,12 +316,12 @@ BattleText_TheSunlightFaded:
 	prompt
 
 BattleText_TheSandstormSubsided:
-	text "The sandstorm"
+	text "The SANDSTORM"
 	line "subsided."
 	prompt
 
 BattleText_TheHailStopped:
-	text "The hail stopped."
+	text "The HAIL stopped."
 	prompt
 
 BattleText_EnemyPkmnFainted:
@@ -358,15 +358,15 @@ SentSomeToMomText:
 	text_decimal wBattleReward, 3, 6
 	text ""
 	line "for winning!"
-	cont "Sent some to Mom!"
+	cont "Sent some to MOM!"
 	prompt
 
 SentHalfToMomText:
-	text "Sent half to Mom!"
+	text "Sent half to MOM!"
 	prompt
 
 SentAllToMomText:
-	text "Sent all to Mom!"
+	text "Sent all to MOM!"
 	prompt
 
 BattleText_PkmnFainted:
@@ -376,7 +376,7 @@ BattleText_PkmnFainted:
 	prompt
 
 BattleText_UseNextMon:
-	text "Use next #mon?"
+	text "Use next #MON?"
 	done
 
 LostAgainstText:
@@ -392,7 +392,7 @@ BattleText_EnemyIsAboutToUseWillPlayerSwitchPkmn:
 	text "."
 
 	para "Will you switch"
-	line "your #mon?"
+	line "your #MON?"
 	done
 
 BattleText_EnemyAreAboutToUseWillPlayerSwitchPkmn:
@@ -403,25 +403,25 @@ BattleText_EnemyAreAboutToUseWillPlayerSwitchPkmn:
 	text "."
 
 	para "Will you switch"
-	line "your #mon?"
+	line "your #MON?"
 	done
 
 BattleText_EnemyIsAboutToSwitchWillPlayerSwitchPkmn:
 	text "<ENEMY>"
 	line "is about to switch"
-	cont "#mon."
+	cont "#MON."
 
 	para "Will you switch"
-	line "your #mon?"
+	line "your #MON?"
 	done
 
 BattleText_EnemyAreAboutToSwitchWillPlayerSwitchPkmn:
 	text "<ENEMY>"
 	line "are about to"
-	cont "switch #mon."
+	cont "switch #MON."
 
 	para "Will you switch"
-	line "your #mon?"
+	line "your #MON?"
 	done
 
 BattleText_EnemySentOut:
@@ -438,7 +438,7 @@ BattleText_TheresNoWillToBattle:
 	prompt
 
 BattleText_AnEGGCantBattle:
-	text "An Egg can't"
+	text "An EGG can't"
 	line "battle!"
 	prompt
 
@@ -465,7 +465,7 @@ BattleText_UserFledUsingAStringBuffer1:
 
 BattleText_UserHurtBySpikes:
 	text "<USER> is"
-	line "hurt by spikes!"
+	line "hurt by SPIKES!"
 	prompt
 
 RecoveredUsingText:
@@ -478,7 +478,7 @@ RecoveredUsingText:
 
 AirBalloonPoppedText:
 	text "<TARGET>'s"
-	line "Air Balloon"
+	line "AIR BALLOON"
 	cont "popped!"
 	prompt
 
@@ -549,7 +549,7 @@ BattleText_ItemPreventsStatusMoves: ; assault vest
 
 BattleText_TheMoveIsDisabled:
 	text "The move is"
-	line "disabled!"
+	line "DISABLED!"
 	prompt
 
 BattleText_PkmnHasNoMovesLeft:
@@ -560,7 +560,7 @@ BattleText_PkmnHasNoMovesLeft:
 
 BattleText_UserEncoreEnded:
 	text "<USER>'s"
-	line "encore ended!"
+	line "ENCORE ended!"
 	prompt
 
 BattleText_StringBuffer1GrewToLevel:
@@ -623,7 +623,7 @@ MustRechargeText:
 
 DisabledNoMoreText:
 	text "<USER> is"
-	line "disabled no more!"
+	line "DISABLED no more!"
 	prompt
 
 IsConfusedText:
@@ -1110,17 +1110,17 @@ RecoilText:
 
 MadeSubstituteText:
 	text "<USER>"
-	line "made a substitute!"
+	line "made a SUBSTITUTE!"
 	prompt
 
 HasSubstituteText:
 	text "<USER>"
-	line "has a substitute!"
+	line "has a SUBSTITUTE!"
 	prompt
 
 TooWeakSubText:
 	text "Too weak to make"
-	line "a substitute!"
+	line "a SUBSTITUTE!"
 	prompt
 
 SubTookDamageText:
@@ -1131,7 +1131,7 @@ SubTookDamageText:
 
 SubFadedText:
 	text "<TARGET>'s"
-	line "substitute faded!"
+	line "SUBSTITUTE faded!"
 	prompt
 
 WasSeededText:
@@ -1194,12 +1194,12 @@ TrickRoomEndedText:
 
 LightScreenEffectText:
 	text "<USER>'s"
-	line "Sp.Def rose!"
+	line "SPCL.DEF rose!"
 	prompt
 
 ReflectEffectText:
 	text "<USER>'s"
-	line "Defense rose!"
+	line "DEFENSE rose!"
 	prompt
 
 NothingHappenedText:
@@ -1272,7 +1272,7 @@ CuredInfatuationWithItem:
 
 CuredEncoreWithItem:
 	text "<USER>"
-	line "cured Encore"
+	line "cured ENCORE"
 	cont "with "
 	text_ram wStringBuffer1
 	text "!"
@@ -1280,7 +1280,7 @@ CuredEncoreWithItem:
 
 CuredDisableWithItem:
 	text "<USER>"
-	line "cured Disable"
+	line "cured DISABLE"
 	cont "with "
 	text_ram wStringBuffer1
 	text "!"
@@ -1316,7 +1316,7 @@ PutACurseText:
 	text "<USER>"
 	line "cut its own HP and"
 
-	para "put a curse on"
+	para "put a CURSE on"
 	line "<TARGET>!"
 	prompt
 
@@ -1331,13 +1331,13 @@ ProtectingItselfText:
 	done
 
 SpikesText:
-	text "Spikes scattered"
+	text "SPIKES scattered"
 	line "all around"
 	cont "<TARGET>!"
 	prompt
 
 ToxicSpikesText:
-	text "Toxic spikes"
+	text "TOXIC SPIKES"
 	line "scattered around"
 	cont "<TARGET>!"
 	prompt
@@ -1349,24 +1349,24 @@ IdentifiedText:
 	prompt
 
 StartPerishSongText:
-	text "#mon that heard"
+	text "#MON that heard"
 	line "the song will"
 	cont "faint in 3 turns!"
 	prompt
 
 StartPerishBodyText:
-	text "Both #mon will"
+	text "Both #MON will"
 	line "faint in 3 turns!"
 	prompt
 
 SandstormBrewedText:
-	text "A sandstorm"
+	text "A SANDSTORM"
 	line "brewed!"
 	prompt
 
 HailStartedText:
 	text "It started to"
-	line "hail!"
+	line "HAIL!"
 	prompt
 
 BracedItselfText:
@@ -1387,7 +1387,7 @@ CoveredByVeilText:
 SafeguardProtectText:
 	text "<TARGET>"
 	line "is protected by"
-	cont "Safeguard!"
+	cont "SAFEGUARD!"
 	prompt
 
 MagnitudeText:
@@ -1404,18 +1404,18 @@ ReleasedByText:
 
 ShedLeechSeedText:
 	text "<USER>"
-	line "shed Leech Seed!"
+	line "shed LEECH SEED!"
 	prompt
 
 BlewSpikesText:
 	text "<USER>"
-	line "blew away Spikes!"
+	line "blew away SPIKES!"
 	prompt
 
 BlewToxicSpikesText:
 	text "<USER>"
-	line "blew away Toxic"
-	cont "Spikes!"
+	line "blew away TOXIC"
+	cont "SPIKES!"
 	prompt
 
 DownpourText:
@@ -1431,13 +1431,13 @@ SunGotBrightText:
 BellyDrumText:
 	text "<USER>"
 	line "cut its HP and"
-	cont "maximized Attack!"
+	cont "maximized ATTACK!"
 	prompt
 
 BellyDrumContraryText:
 	text "<USER>"
 	line "cut its HP and"
-	cont "minimized Attack!"
+	cont "minimized ATTACK!"
 	prompt
 
 ForesawAttackText:
@@ -1542,7 +1542,7 @@ BattleText_IntimidateResisted:
 	text ""
 
 	para "protects it from"
-	line "Intimidate!"
+	line "INTIMIDATE!"
 	prompt
 
 NotifyCloudNine:
@@ -1553,7 +1553,7 @@ NotifyCloudNine:
 NotifyPressure:
 	text "<USER> is"
 	line "exerting its"
-	cont "pressure!"
+	cont "PRESSURE!"
 	prompt
 
 NotifyMoldBreaker:
@@ -1564,11 +1564,11 @@ NotifyMoldBreaker:
 NotifyUnnerve:
 	text "<TARGET> is"
 	line "too afraid to eat"
-	cont "Berries!"
+	cont "BERRIES!"
 	prompt
 
 NotifyNeutralizingGas:
-	text "Neutralizing gas"
+	text "NEUTRALIZING GAS"
 	line "filled the area!"
 	prompt
 
@@ -1600,13 +1600,13 @@ HarvestedItemText:
 
 FirePoweredUpText:
 	text "<USER>'s"
-	line "Fire-type moves"
+	line "fire-type moves"
 	cont "were powered up!"
 	prompt
 
 AngerPointMaximizedAttackText:
 	text "<USER>"
-	line "maxed its Attack!"
+	line "maxed its ATTACK!"
 	prompt
 
 CannotUseText:
@@ -1648,7 +1648,7 @@ ItemCantBeStolenText:
 SuckedUpOozeText:
 	text "<USER>"
 	line "sucked up the"
-	cont "liquid ooze!"
+	cont "LIQUID OOZE!"
 	prompt
 
 BattleText_EnemyWithdrew::
@@ -1684,7 +1684,7 @@ CarrieFinalPkmnText:
 CalFinalPkmnText:
 JackyFinalPkmnText:
 	text "I still have one"
-	line "#mon!"
+	line "#MON!"
 	prompt
 
 FalknerFinalPkmnText:
@@ -1694,9 +1694,9 @@ FalknerFinalPkmnText:
 
 BugsyFinalPkmnText:
 	text "Even though it's"
-	line "my last #mon,"
+	line "my last #MON,"
 
-	para "Bug #mon are"
+	para "bug #MON are"
 	line "tough!"
 	prompt
 
@@ -1726,17 +1726,17 @@ JasmineFinalPkmnText:
 
 PryceFinalPkmnText:
 	text "Humph… You are"
-	line "quite the Trainer."
+	line "quite the trainer."
 	prompt
 
 ClairFinalPkmnText:
-	text "One last #mon?"
+	text "One last #MON?"
 	line "This is where the"
 	cont "real fight begins!"
 	prompt
 
 WillFinalPkmnText:
-	text "We Psychics don't"
+	text "We psychics don't"
 	line "give up until we"
 	cont "reach zero!"
 	prompt
@@ -1803,7 +1803,7 @@ SabrinaFinalPkmnText:
 BlaineFinalPkmnText:
 	text "I'll show you the"
 	line "spirit of my cave"
-	cont "Gym!"
+	cont "GYM!"
 	prompt
 
 BlueFinalPkmnText:
@@ -1854,7 +1854,7 @@ Rival1_5FinalPkmnText:
 
 Rival2_1FinalPkmnText:
 	text "I see. You weren't"
-	line "coming to Kanto"
+	line "coming to KANTO"
 	cont "just to show off…"
 	prompt
 
@@ -1865,7 +1865,7 @@ Rival2_2FinalPkmnText:
 
 Lyra1_1FinalPkmnText:
 	text "You've never had a"
-	line "#mon battle"
+	line "#MON battle"
 	cont "before, have you?"
 
 	para "I could explain,"
@@ -1885,7 +1885,7 @@ Lyra1_2FinalPkmnText:
 
 Lyra1_3FinalPkmnText:
 	text "OK! Time for my"
-	line "last #mon!"
+	line "last #MON!"
 	prompt
 
 Lyra1_4FinalPkmnText:
@@ -1897,7 +1897,7 @@ Lyra1_4FinalPkmnText:
 Lyra2_1FinalPkmnText:
 	text "You've brought me"
 	line "down to my last"
-	cont "#mon…"
+	cont "#MON…"
 	prompt
 
 Proton1FinalPkmnText:
@@ -1924,7 +1924,7 @@ Archer1FinalPkmnText:
 	text "We can't have you"
 	line "getting in the way"
 
-	para "before Giovanni"
+	para "before GIOVANNI"
 	line "rejoins us!"
 	prompt
 
@@ -1946,7 +1946,7 @@ Ariana2FinalPkmnText:
 	prompt
 
 Giovanni1FinalPkmnText:
-	text "My #mon is"
+	text "My #MON is"
 	line "invincible!"
 	prompt
 
@@ -2113,7 +2113,7 @@ PiersFinalPkmnText:
 
 	para "Not songs…"
 	line "Not moves…"
-	cont "Not #mon!"
+	cont "Not #MON!"
 	prompt
 
 KatyFinalPkmnText:
@@ -2128,7 +2128,7 @@ BillFinalPkmnText:
 	prompt
 
 YellowFinalPkmnText:
-	text "My last #mon…"
+	text "My last #MON…"
 	line "Lend me your"
 	cont "power!"
 	prompt

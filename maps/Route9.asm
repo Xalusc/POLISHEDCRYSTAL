@@ -27,15 +27,15 @@ Route9_MapScriptHeader:
 GenericTrainerCamperDean:
 	generictrainer CAMPER, DEAN, EVENT_BEAT_CAMPER_DEAN, CamperDeanSeenText, CamperDeanBeatenText
 
-	text "My #mon were"
+	text "My #MON were"
 	line "hurt before even"
 
-	para "entering Rock"
-	line "Tunnel."
+	para "entering ROCK"
+	line "TUNNEL."
 
 	para "I'd better take"
-	line "them to a #mon"
-	cont "Center right away."
+	line "them to a #MON"
+	cont "CENTER right away."
 	done
 
 GenericTrainerPicnickerHeidi:
@@ -76,14 +76,14 @@ GenericTrainerHikerTim:
 GenericTrainerHikerSidney:
 	generictrainer HIKER, SIDNEY, EVENT_BEAT_HIKER_SIDNEY, HikerSidneySeenText, HikerSidneyBeatenText
 
-	text "The Power Plant is"
+	text "The POWER PLANT is"
 	line "across a small"
 	cont "river."
 	done
 
 CamperDeanSeenText:
 	text "I came to explore"
-	line "Rock Tunnel."
+	line "ROCK TUNNEL."
 	done
 
 CamperDeanBeatenText:
@@ -124,11 +124,11 @@ PicnickerEdnaBeatenText:
 
 HikerTimSeenText:
 	text "♪ She'll be coming"
-	line "'round Mt.Silver"
+	line "'round MT.SILVER"
 	cont "when she comes… ♪"
 
-	para "Mt.Silver is in"
-	line "Johto, right?"
+	para "MT.SILVER is in"
+	line "JOHTO, right?"
 	done
 
 HikerTimBeatenText:
@@ -150,26 +150,26 @@ HikerSidneyBeatenText:
 	done
 
 Route9SignText:
-	text "Route 9"
+	text "ROUTE 9"
 
-	para "Cerulean City -"
-	line "Rock Tunnel"
+	para "CERULEAN CITY -"
+	line "ROCK TUNNEL"
 	done
 
 Route9AdvancedTipsSignText:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
-	para "A #mon holding"
-	line "a Toxic Orb will"
+	para "A #MON holding"
+	line "a TOXIC ORB will"
 	cont "be poisoned, and"
 
 	para "one holding a"
-	line "Flame Orb will"
+	line "FLAME ORB will"
 	cont "be burned."
 
-	para "But the Ability"
-	line "Guts makes this"
+	para "But the ABILITY"
+	line "GUTS makes this"
 
 	para "an advantage by"
-	line "boosting Attack!"
+	line "boosting ATTACK!"
 	done

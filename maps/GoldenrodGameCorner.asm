@@ -183,7 +183,7 @@ GoldenrodGameCornerTMVendorMenuData:
 	db "TM35    {d:GOLDENRODGAMECORNER_TM35_COINS}@"
 	db "TM24    {d:GOLDENRODGAMECORNER_TM24_COINS}@"
 	db "TM13    {d:GOLDENRODGAMECORNER_TM13_COINS}@"
-	db "Cancel@"
+	db "CANCEL@"
 
 GoldenrodGameCornerPrizeMonVendorScript:
 	faceplayer
@@ -263,10 +263,10 @@ GoldenrodGameCornerPrizeMonVendorScript:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Abra        {d:GOLDENRODGAMECORNER_ABRA_COINS}@"
-	db "Cubone      {d:GOLDENRODGAMECORNER_CUBONE_COINS}@"
-	db "Clefairy   {d:GOLDENRODGAMECORNER_CLEFAIRY_COINS}@"
-	db "Cancel@"
+	db "ABRA        {d:GOLDENRODGAMECORNER_ABRA_COINS}@"
+	db "CUBONE      {d:GOLDENRODGAMECORNER_CUBONE_COINS}@"
+	db "CLEFAIRY   {d:GOLDENRODGAMECORNER_CLEFAIRY_COINS}@"
+	db "CANCEL@"
 
 GoldenrodGameCornerPharmacistScript:
 	showtextfaceplayer GoldenrodGameCornerPharmacistText
@@ -351,7 +351,7 @@ GoldenrodGameCornerPrizeVendorNeedMoreCoinsText:
 GoldenrodGameCornerPrizeVendorNoMoreRoomText:
 	text "Oh, no. You can't"
 	line "carry any more and"
-	cont "your Box is full."
+	cont "your BOX is full."
 
 	para "I'll return your"
 	line "coins to you."
@@ -365,7 +365,7 @@ GoldenrodGameCornerPrizeVendorQuitText:
 
 GoldenrodGameCornerPrizeVendorNoCoinCaseText:
 	text "Oh? You don't have"
-	line "a Coin Case."
+	line "a COIN CASE."
 	done
 
 GoldenrodGameCornerFisherText:
@@ -373,21 +373,21 @@ GoldenrodGameCornerFisherText:
 	line "Time to celebrate"
 	cont "with some slots!"
 
-	para "…You know, #mon"
-	line "get a Pay Day too."
+	para "…You know, #MON"
+	line "get a PAY DAY too."
 	done
 
 Text_GoldenrodGameCornerTutorPayDayQuestion:
 	text "If you give me a"
-	line "Silver Leaf, I'll"
+	line "SILVER LEAF, I'll"
 
-	para "teach Pay Day to"
-	line "your #mon."
+	para "teach PAY DAY to"
+	line "your #MON."
 	done
 
 Text_GoldenrodGameCornerTutorNoSilverLeaf:
 	text "You don't have a"
-	line "Silver Leaf?"
+	line "SILVER LEAF?"
 	cont "Never mind then."
 	done
 
@@ -396,7 +396,7 @@ Text_GoldenrodGameCornerTutorRefused:
 	done
 
 Text_GoldenrodGameCornerTutorTaught:
-	text "Pay Day nets you"
+	text "PAY DAY nets you"
 	line "more money after a"
 	cont "battle."
 
@@ -446,8 +446,8 @@ GoldenrodGameCornerCooltrainerFText:
 	done
 
 GoldenrodGameCornerGentlemanText:
-	text "I taught Ice Beam"
-	line "to my #mon."
+	text "I taught ICE BEAM"
+	line "to my #MON."
 
 	para "It was hard to get"
 	line "enough coins for"
@@ -466,8 +466,8 @@ GoldenrodGameCornerPokefanM2Text:
 	para "I got so furious,"
 	line "I tossed out my"
 
-	para "Coin Case in the"
-	line "Underground."
+	para "COIN CASE in the"
+	line "UNDERGROUND."
 	done
 
 GoldenrodGameCornerPokefanM3Text:

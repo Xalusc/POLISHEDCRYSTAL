@@ -256,7 +256,7 @@ TMHMPocket_GetCurrentLineCoord:
 	ret
 
 TMHM_String_Cancel:
-	db "Cancel@"
+	db "CANCEL@"
 
 TMHM_GetCurrentPocketPosition:
 	ld a, [wTMHMPocketScrollPosition]

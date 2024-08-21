@@ -18,7 +18,7 @@ WiltonDefeatedMonText:
 	line "more fun fishing"
 
 	para "than beating wild"
-	line "#mon."
+	line "#MON."
 	done
 
 WiltonLostAMonText:
@@ -98,6 +98,6 @@ WiltonWantThisText:
 	text "…"
 	line "Just head from"
 
-	para "Mahogany toward"
-	line "Blackthorn!"
+	para "MAHOGANY toward"
+	line "BLACKTHORN!"
 	done

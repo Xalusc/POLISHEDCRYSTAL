@@ -45,16 +45,16 @@ PlayersNeighborsHouseRadio:
 	endtext
 
 PlayersNeighborsDaughterText:
-	text "Pikachu is an"
-	line "evolved #mon."
+	text "PIKACHU is an"
+	line "evolved #MON."
 
 	para "I was amazed by"
-	line "Prof.Elm's find-"
+	line "PROF.ELM's find-"
 	cont "ings."
 
 	para "He's so famous for"
 	line "his research on"
-	cont "#mon evolution."
+	cont "#MON evolution."
 
 	para "…sigh…"
 
@@ -68,38 +68,38 @@ PlayersNeighborsHusbandText:
 	line "farthest south-"
 
 	para "east one in all"
-	line "of Johto."
+	line "of JOHTO."
 	done
 
 PlayersNeighborText:
 	text "My daughter is"
 	line "adamant about"
 
-	para "becoming Prof."
-	line "Elm's assistant."
+	para "becoming PROF."
+	line "ELM's assistant."
 
 	para "She really loves"
-	line "#mon!"
+	line "#MON!"
 
 	para "But then, so do I!"
 	done
 
 PlayerNeighborRadioText1:
-	text "Prof.Oak's #mon"
-	line "Talk! Please tune"
+	text "PROF.OAK'S #MON"
+	line "TALK! Please tune"
 	cont "in next time!"
 	done
 
 PlayerNeighborRadioText2:
-	text "#mon Channel!"
+	text "#MON Channel!"
 	done
 
 PlayerNeighborRadioText3:
-	text "This is DJ Mary,"
+	text "This is DJ MARY,"
 	line "your co-host!"
 	done
 
 PlayerNeighborRadioText4:
-	text "#mon!"
-	line "#mon Channel…"
+	text "#MON!"
+	line "#MON Channel…"
 	done

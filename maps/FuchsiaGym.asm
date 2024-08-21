@@ -80,8 +80,8 @@ FuchsiaGymJanineScript:
 	setevent EVENT_GOT_TM66_POISON_JAB
 	jumpthisopenedtext
 
-	text "It's Poison Jab,"
-	line "a powerful Poison-"
+	text "It's POISON JAB,"
+	line "a powerful poison-"
 
 	para "type move that"
 	line "may poison its"
@@ -227,40 +227,40 @@ JanineText_DisappointYou:
 
 	para "I'm the real deal!"
 
-	para "Janine of Fuchsia"
-	line "Gym, that's me!"
+	para "JANINE of FUCHSIA"
+	line "GYM, that's me!"
 	done
 
 JanineText_ToughOne:
-	text "Janine: You're a"
+	text "JANINE: You're a"
 	line "tough one. You"
 	cont "definitely won…"
 
 if DEF(FAITHFUL)
-	para "Here's the Soul"
+	para "Here's the SOUL"
 else
-	para "Here's the Marsh"
+	para "Here's the MARSH"
 endc
-	line "Badge. Take it."
+	line "BADGE. Take it."
 	done
 
 Text_ReceivedSoulBadge:
 	text "<PLAYER> received"
 if DEF(FAITHFUL)
-	line "the Soul Badge."
+	line "the SOUL BADGE."
 else
-	line "the Marsh Badge."
+	line "the MARSH BADGE."
 endc
 	done
 
 JanineText_ToxicSpeech:
-	text "Janine: You're so"
+	text "JANINE: You're so"
 	line "tough! I have a"
 	cont "special gift!"
 	done
 
 JanineText_ApplyMyself:
-	text "Janine: I'm going"
+	text "JANINE: I'm going"
 	line "to really apply"
 
 	para "myself and improve"
@@ -274,8 +274,8 @@ JanineText_ApplyMyself:
 LassAliceBeforeText:
 	text "Fufufu!"
 
-	para "I'm Janine, the"
-	line "Gym Leader!"
+	para "I'm JANINE, the"
+	line "GYM LEADER!"
 
 	para "No, I'm not!"
 	line "Gotcha, sucker!"
@@ -288,7 +288,7 @@ LassAliceBeatenText:
 LassAliceAfterText:
 	text "How will you dis-"
 	line "tinguish our real"
-	cont "Leader?"
+	cont "LEADER?"
 	done
 
 LassLindaBeforeText:
@@ -307,7 +307,7 @@ LassLindaAfterText:
 	done
 
 PicnickerCindyBeforeText:
-	text "I'm Janine!"
+	text "I'm JANINE!"
 
 	para "How did you know I"
 	line "was real?"
@@ -329,7 +329,7 @@ CamperBarryBeforeText:
 	text "Wahahaha!"
 
 	para "You betcha!"
-	line "I'm Janine!"
+	line "I'm JANINE!"
 	done
 
 CamperBarryBeatenText:
@@ -344,7 +344,7 @@ CamperBarryAfterText:
 	done
 
 FuchsiaGymGuyText:
-	text "Yo, Champ in"
+	text "Yo, CHAMP in"
 	line "making!"
 
 	para "Whoops! Take a"
@@ -352,14 +352,14 @@ FuchsiaGymGuyText:
 
 	para "you. The trainers"
 	line "all look like the"
-	cont "Leader, Janine."
+	cont "LEADER, JANINE."
 
 	para "Which of them is"
-	line "the real Janine?"
+	line "the real JANINE?"
 	done
 
 FuchsiaGymGuyWinText:
 	text "That was a great"
 	line "battle, trainer"
-	cont "from Johto!"
+	cont "from JOHTO!"
 	done

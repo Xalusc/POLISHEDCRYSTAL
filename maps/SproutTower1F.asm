@@ -33,7 +33,7 @@ SproutTower1FGrannyScript:
 	iftrue_jumptextfaceplayer .MetricText
 	jumpthistextfaceplayer
 
-	text "A Bellsprout over"
+	text "A BELLSPROUT over"
 	line "100 feet tall…"
 
 	para "People say that it"
@@ -42,7 +42,7 @@ SproutTower1FGrannyScript:
 	done
 
 .MetricText:
-	text "A Bellsprout over"
+	text "A BELLSPROUT over"
 	line "30 meters tall…"
 
 	para "People say that it"
@@ -67,7 +67,7 @@ SageChowSeenText:
 
 	para "Here, we express"
 	line "our gratitude to"
-	cont "honor all #mon."
+	cont "honor all #MON."
 	done
 
 SageChowBeatenText:
@@ -81,11 +81,11 @@ SproutTower1FSage1Text:
 	done
 
 SproutTower1FSage2Text:
-	text "Sprout Tower was"
+	text "SPROUT TOWER was"
 	line "built long ago"
 
 	para "as a place for"
-	line "#mon training."
+	line "#MON training."
 	done
 
 SproutTower1FTeacherText:
@@ -97,7 +97,7 @@ SproutTower1FTeacherText:
 	done
 
 SproutTower1FStatueText:
-	text "A #mon statue…"
+	text "A #MON statue…"
 
 	para "It looks very"
 	line "distinguished."
@@ -136,7 +136,7 @@ KimonoGirlMakoScript:
 	jumpthisopenedtext
 
 .OutroText:
-	text "We Kimono Girls"
+	text "We KIMONO GIRLS"
 	line "dance, but we also"
 	cont "battle."
 	done
@@ -144,13 +144,13 @@ KimonoGirlMakoScript:
 .IntroText:
 	text "Hello, trainer."
 
-	para "I am a Kimono"
-	line "Girl."
+	para "I am a KIMONO"
+	line "GIRL."
 
 	para "I journeyed here"
-	line "from Ecruteak"
+	line "from ECRUTEAK"
 
-	para "City, through for-"
+	para "CITY, through for-"
 	line "est and cavern,"
 
 	para "to train in this"
@@ -158,7 +158,7 @@ KimonoGirlMakoScript:
 
 	para "Have you met my"
 	line "five dancing cou-"
-	cont "sins in Ecruteak?"
+	cont "sins in ECRUTEAK?"
 
 	para "Come back and"
 	line "tell me if you do!"
@@ -173,7 +173,7 @@ KimonoGirlMakoScript:
 
 	para "Then allow me to"
 	line "challenge you and"
-	cont "your #mon!"
+	cont "your #MON!"
 	done
 
 .BeatenText:

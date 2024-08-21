@@ -65,15 +65,15 @@ SafariZoneWestRestHouse2FlanneryScript:
 	line "one else exploring"
 	cont "this place!"
 
-	para "I am Flannery."
+	para "I am FLANNERY."
 
-	para "I'm from the Hoenn"
+	para "I'm from the HOENN"
 	line "region, so I like"
 
 	para "humidity and hot"
 	line "springs."
 
-	para "The Safari Zone"
+	para "The SAFARI ZONE"
 	line "feels like home!"
 
 	para "Let's exchange"

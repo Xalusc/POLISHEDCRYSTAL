@@ -31,16 +31,16 @@ GenericTrainerDragonTamerKazu:
 
 	text "It's going to be"
 	line "tough to win at"
-	cont "the League."
+	cont "the LEAGUE."
 
 	para "I need to do some"
 	line "more training."
 
 	para "I hear that the"
-	line "League's Elite"
+	line "LEAGUE's ELITE"
 
-	para "Four are tougher"
-	line "than Gym Leaders."
+	para "FOUR are tougher"
+	line "than GYM LEADERS."
 	done
 
 TrainerCooltrainermGaven1:
@@ -132,7 +132,7 @@ GenericTrainerCooltrainerfJoyce:
 	generictrainer COOLTRAINERF, JOYCE, EVENT_BEAT_COOLTRAINERF_JOYCE, CooltrainerfJoyceSeenText, CooltrainerfJoyceBeatenText
 
 	text "I've defeated"
-	line "eight Gym Leaders,"
+	line "eight GYM LEADERS,"
 
 	para "so I was feeling"
 	line "confident."
@@ -229,7 +229,7 @@ TrainerCooltrainerfBeth1:
 GenericTrainerPsychicRichard:
 	generictrainer PSYCHIC_T, RICHARD, EVENT_BEAT_PSYCHIC_RICHARD, PsychicRichardSeenText, PsychicRichardBeatenText
 
-	text "People and #mon"
+	text "People and #MON"
 	line "grow from their"
 	cont "experiences."
 
@@ -256,14 +256,14 @@ GenericTrainerFisherScott:
 	text "Just like in fish-"
 	line "ing, it's all over"
 
-	para "in #mon if you"
+	para "in #MON if you"
 	line "give up."
 	done
 
 GenericTrainerDragonTamerErick:
 	generictrainer DRAGON_TAMER, ERICK, EVENT_BEAT_DRAGON_TAMER_ERICK, DragonTamerErickSeenText, DragonTamerErickBeatenText
 
-	text "Victory Road is"
+	text "VICTORY ROAD is"
 	line "harsh."
 
 	para "Every trainer must"
@@ -275,8 +275,8 @@ DragonTamerKazuSeenText:
 	text "I'm making my"
 	line "final preparations"
 
-	para "for the #mon"
-	line "League."
+	para "for the #MON"
+	line "LEAGUE."
 	done
 
 DragonTamerKazuBeatenText:
@@ -296,13 +296,13 @@ CooltrainermGaven1BeatenText:
 
 CooltrainermGavenAfterText:
 	text "To get to the"
-	line "#mon League,"
+	line "#MON LEAGUE,"
 
 	para "you have to get"
-	line "through Victory"
-	cont "Road."
+	line "through VICTORY"
+	cont "ROAD."
 
-	para "But Victory Road"
+	para "But VICTORY ROAD"
 	line "is tough."
 
 	para "Practically nobody"
@@ -336,23 +336,23 @@ CooltrainerfBeth1SeenText:
 	cont "win at any cost."
 
 	para "I felt sorry for"
-	line "his #mon."
+	line "his #MON."
 	done
 
 CooltrainerfBeth1BeatenText:
-	text "#mon aren't"
+	text "#MON aren't"
 	line "tools of war."
 	done
 
 CooltrainerfBethAfterText:
-	text "#mon are in-"
+	text "#MON are in-"
 	line "valuable, lifelong"
 	cont "partners."
 	done
 
 PsychicRichardSeenText:
 	text "Wow, look at all"
-	line "those Badges!"
+	line "those BADGES!"
 	cont "I'm impressed."
 
 	para "But you're not"
@@ -381,7 +381,7 @@ FisherScottSeenText:
 
 	para "I feel like I"
 	line "could boot even"
-	cont "the League Champ!"
+	cont "the LEAGUE CHAMP!"
 	done
 
 FisherScottBeatenText:
@@ -399,8 +399,8 @@ DragonTamerErickBeatenText:
 	done
 
 Route26SignText:
-	text "Route 26"
+	text "ROUTE 26"
 
-	para "#mon League"
-	line "Reception Gate"
+	para "#MON LEAGUE"
+	line "RECEPTION GATE"
 	done

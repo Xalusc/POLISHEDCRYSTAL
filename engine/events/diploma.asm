@@ -52,23 +52,23 @@ _Diploma:
 	jmp WaitPressAorB_BlinkCursor
 
 .PlayerString:
-	text "Player"
+	text "PLAYER"
 	done
 
 .DiplomaString:
 	text "This certifies"
 	next "that you have"
 	next "completed the"
-	next "National #dex."
+	next "NATIONAL #DEX."
 	next "Congratulations!"
 	done
 
 .PlayTime:
-	text "Play Time"
+	text "PLAY TIME"
 	done
 
 .PolishedCrystal:
-	text "Polished Crystal"
+	text "POLISHED CRYSTAL"
 	done
 
 DiplomaGFX:

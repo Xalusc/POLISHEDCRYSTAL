@@ -5,15 +5,15 @@ ElmPhoneStartText:
 	line "it."
 
 	para "Be sure to heal"
-	line "your #mon if"
+	line "your #MON if"
 	cont "they are hurt."
 	done
 
 ElmPhoneSawMrPokemonText:
 	text "Hello, <PLAYER>?"
 
-	para "Did you meet Mr."
-	line "#mon? Great!"
+	para "Did you meet MR."
+	line "#MON? Great!"
 	cont "Come back safely!"
 	done
 
@@ -21,7 +21,7 @@ ElmPhonePokemonStolenText:
 	text "<PLAYER>? I'm very"
 	line "upset now."
 
-	para "We had a #mon"
+	para "We had a #MON"
 	line "stolen from here."
 
 	para "How could anyone"
@@ -32,10 +32,10 @@ ElmPhoneCheckingEggText:
 	text "Hello, <PLAYER>?"
 
 	para "We're checking the"
-	line "Egg now. It does"
+	line "EGG now. It does"
 
 	para "appear to be a"
-	line "#mon Egg."
+	line "#MON EGG."
 	prompt
 
 ElmPhoneAssistantText:
@@ -44,14 +44,14 @@ ElmPhoneAssistantText:
 	para "Did you see my"
 	line "assistant? He's at"
 
-	para "the #mon Center"
-	line "in Violet City."
+	para "the #MON CENTER"
+	line "in VIOLET CITY."
 	done
 
 ElmPhoneEggUnhatchedText:
 	text "Hello, <PLAYER>?"
 
-	para "How's the Egg? Has"
+	para "How's the EGG? Has"
 	line "anything changed?"
 
 	para "If anything hap-"
@@ -60,11 +60,11 @@ ElmPhoneEggUnhatchedText:
 
 ElmPhoneEggHatchedText:
 	text "Hello, <PLAYER>?"
-	line "How is the Egg?"
+	line "How is the EGG?"
 
 	para "What? It hatched?"
 	line "Wow! What kind of"
-	cont "#mon is it?"
+	cont "#MON is it?"
 
 	para "Please come show"
 	line "me now!"
@@ -77,10 +77,10 @@ ElmPhoneDiscovery1Text:
 	line "discovery."
 
 	para "The time it takes"
-	line "for an Egg to"
+	line "for an EGG to"
 
 	para "hatch depends on"
-	line "the #mon."
+	line "the #MON."
 	prompt
 
 ElmPhoneDiscovery2Text:
@@ -90,7 +90,7 @@ ElmPhoneDiscovery2Text:
 	line "mystery what kinds"
 
 	para "of moves hatched"
-	line "#mon have."
+	line "#MON have."
 
 	para "We're investigat-"
 	line "ing that now."
@@ -105,17 +105,17 @@ ElmPhonePokerusText:
 	para "Apparently there's"
 	line "something called"
 
-	para "#rus that in-"
-	line "fects #mon."
+	para "#RUS that in-"
+	line "fects #MON."
 
 	para "Yes, it's like a"
 	line "virus, so it's"
-	cont "called #rus."
+	cont "called #RUS."
 
 	para "It multiplies fast"
 	line "and infects other"
 
-	para "#mon too. But"
+	para "#MON too. But"
 	line "that's all."
 
 	para "It doesn't seem to"
@@ -148,12 +148,12 @@ ElmPhoneEggAssistantText:
 	line "discovered some-"
 
 	para "thing about the"
-	line "Egg!"
+	line "EGG!"
 
 	para "My assistant is at"
-	line "the #mon Center"
+	line "the #MON CENTER"
 
-	para "in Violet City."
+	para "in VIOLET CITY."
 	line "Could you talk to"
 	cont "him?"
 	done
@@ -169,13 +169,13 @@ ElmPhoneRocketText:
 	line "radio broadcasts."
 
 	para "They were talking"
-	line "about Team Rocket."
+	line "about TEAM ROCKET."
 
 	para "<PLAYER>, do you"
 	line "know anything"
 	cont "about it?"
 
-	para "Maybe Team Rocket"
+	para "Maybe TEAM ROCKET"
 	line "has returned. No,"
 
 	para "that just can't"
@@ -192,7 +192,7 @@ ElmPhoneGiftText:
 	line "here for you."
 
 	para "Could you swing by"
-	line "my Lab?"
+	line "my LAB?"
 
 	para "See you later!"
 	done
@@ -202,7 +202,7 @@ ElmPhoneEvolutionQuestionText:
 	line "<PLAYER>, want to"
 
 	para "know how your"
-	line "#mon evolves?"
+	line "#MON evolves?"
 	done
 
 ElmPhoneEvoText_None:
@@ -302,8 +302,8 @@ ElmPhoneEvoText_Stat:
 	para "evolves into de-"
 	line "pends on its"
 
-	para "Attack and"
-	line "Defense stats."
+	para "ATTACK and"
+	line "DEFENSE stats."
 	prompt
 
 ElmPhoneEvoText_Location:
@@ -350,7 +350,7 @@ ElmPhoneEvoText_Party:
 	prompt
 
 ElmPhoneEvoText_Egg:
-	text "Eggs don't evolve,"
+	text "EGGS don't evolve,"
 	line "they hatch!"
 	prompt
 
@@ -359,8 +359,8 @@ ElmPhoneEvoText_Pikachu:
 	line "evolves when it's"
 
 	para "exposed to a"
-	line "ThunderStone or"
-	cont "an Odd Souvenir."
+	line "THUNDERSTONE or"
+	cont "an ODD SOUVENIR."
 	prompt
 
 ElmPhoneEvoText_Gloom:
@@ -368,8 +368,8 @@ ElmPhoneEvoText_Gloom:
 	line "evolves when it's"
 
 	para "exposed to a"
-	line "Leaf Stone or"
-	cont "a Sun Stone."
+	line "LEAF STONE or"
+	cont "a SUN STONE."
 	prompt
 
 ElmPhoneEvoText_Poliwhirl:
@@ -377,11 +377,11 @@ ElmPhoneEvoText_Poliwhirl:
 	line "evolves when it's"
 
 	para "exposed to a"
-	line "Water Stone, or"
+	line "WATER STONE, or"
 
 	para "when it gains a"
 	line "level while hold-"
-	cont "ing a King's Rock."
+	cont "ing a KING'S ROCK."
 	prompt
 
 ElmPhoneEvoText_SlowpokePlain:
@@ -392,7 +392,7 @@ ElmPhoneEvoText_SlowpokeGalarian:
 
 	para "gains a level"
 	line "while holding a"
-	cont "a King's Rock."
+	cont "a KING'S ROCK."
 	prompt
 
 ElmPhoneEvoText_Magneton:
@@ -400,15 +400,15 @@ ElmPhoneEvoText_Magneton:
 	line "evolves when it's"
 
 	para "exposed to a"
-	line "ThunderStone, or"
+	line "THUNDERSTONE, or"
 
 	para "when it gains a"
 	line "level in a mag-"
 	cont "netic field."
 
-	para "I've heard Magnet"
-	line "Tunnel and Dim"
-	cont "Cave have that."
+	para "I've heard MAGNET"
+	line "TUNNEL and DIM"
+	cont "CAVE have that."
 	prompt
 
 ElmPhoneEvoText_Exeggcute:
@@ -416,8 +416,8 @@ ElmPhoneEvoText_Exeggcute:
 	line "evolves when it's"
 
 	para "exposed to a"
-	line "Leaf Stone or"
-	cont "an Odd Souvenir."
+	line "LEAF STONE or"
+	cont "an ODD SOUVENIR."
 	prompt
 
 ElmPhoneEvoText_Koffing:
@@ -427,7 +427,7 @@ ElmPhoneEvoText_Koffing:
 
 	para "or when it gains a"
 	line "level while hold-"
-	cont "ing Charcoal."
+	cont "ing CHARCOAL."
 	prompt
 
 ElmPhoneEvoText_Cubone:
@@ -436,7 +436,7 @@ ElmPhoneEvoText_Cubone:
 	cont "28, or when it's"
 
 	para "exposed to an"
-	line "Odd Souvenir."
+	line "ODD SOUVENIR."
 	prompt
 
 ElmPhoneEvoText_Scyther:
@@ -445,8 +445,8 @@ ElmPhoneEvoText_Scyther:
 	cont "gains a level"
 
 	para "while holding a"
-	line "Metal Coat or a"
-	cont "Hard Stone."
+	line "METAL COAT or a"
+	cont "HARD STONE."
 	prompt
 
 ElmPhoneEvoText_Eevee:
@@ -456,17 +456,17 @@ ElmPhoneEvoText_Eevee:
 
 	para "It can be exposed"
 	line "to any of eight"
-	cont "different Stones,"
+	cont "different STONES,"
 
 	para "or gain a level"
-	line "near a Moss Rock"
-	cont "or an Ice Rock."
+	line "near a MOSS ROCK"
+	cont "or an ICE ROCK."
 
-	para "I've heard Ilex"
-	line "Forest and Ice"
-	cont "Path have those."
+	para "I've heard ILEX"
+	line "FOREST and ICE"
+	cont "PATH have those."
 
-	para "But also, Eevee"
+	para "But also, EEVEE"
 	line "will evolve just"
 
 	para "from the sun or"
@@ -479,14 +479,14 @@ ElmPhoneEvoText_MimeJr:
 	line "evolves when it's"
 
 	para "exposed to an"
-	line "Ice Stone, or"
+	line "ICE STONE, or"
 
 	para "when it gains a"
 	line "level near an"
-	cont "Ice Rock."
+	cont "ICE ROCK."
 
 	para "I've heard there's"
-	line "one in Ice Path."
+	line "one in ICE PATH."
 	prompt
 
 ElmPhoneEvoText_Stantler:
@@ -496,10 +496,10 @@ ElmPhoneEvoText_Stantler:
 	para "exposed to harsh"
 	line "hail or sand."
 
-	para "I've heard Rugged"
-	line "Road and Snowtop"
+	para "I've heard RUGGED"
+	line "ROAD and SNOWTOP"
 
-	para "Mountain have"
+	para "MOUNTAIN have"
 	line "weather like that."
 	prompt
 
@@ -510,7 +510,7 @@ ElmPhoneEvoText_AncientSinnoh:
 	para "may also evolve"
 	line "when reminded"
 
-	para "of ancient Sinnoh…"
+	para "of ancient SINNOH…"
 	line "somehow…"
 	prompt
 

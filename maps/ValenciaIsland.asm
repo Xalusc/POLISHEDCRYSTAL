@@ -44,29 +44,29 @@ ValenciaIslandYoungsterScript:
 	iftrue_jumptextfaceplayer .Text2
 	jumpthistextfaceplayer
 
-	text "Prof.Ivy is"
+	text "PROF.IVY is"
 	line "smokin' hot,"
 	cont "don't you think?"
 	done
 
 .Text2:
 	text "You may be cute,"
-	line "but Prof.Ivy is"
+	line "but PROF.IVY is"
 	cont "smokin' hot!"
 	done
 
 ValenciaIslandSignText:
-	text "Valencia Island"
+	text "VALENCIA ISLAND"
 
 	para "Bitter Oranges"
 	line "and Sweet Breezes"
 	done
 
 ValenciaIslandGoneFishingSignText:
-	text "Gone Fishing"
+	text "GONE FISHING"
 
 	para "(On vacation"
-	line "in Alola!)"
+	line "in ALOLA!)"
 	done
 
 ValenciaIslandLockedDoorText:
@@ -74,10 +74,10 @@ ValenciaIslandLockedDoorText:
 	done
 
 IvysLabSignText:
-	text "Ivy Research"
-	line "№.2 Bayview"
+	text "IVY RESEARCH"
+	line "№.2 BAYVIEW"
 	done
 
 IvysHouseSignText:
-	text "Ivy's House"
+	text "IVY'S HOUSE"
 	done

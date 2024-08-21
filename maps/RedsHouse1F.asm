@@ -24,7 +24,7 @@ RedsMom:
 
 	text "Hi!"
 
-	para "Red's been away"
+	para "RED's been away"
 	line "for a long time."
 
 	para "He hasn't called"
@@ -59,5 +59,5 @@ RedsHouse1FTVScript:
 
 	text "They have programs"
 	line "that aren't shown"
-	cont "in Johto…"
+	cont "in JOHTO…"
 	done

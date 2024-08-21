@@ -351,7 +351,7 @@ ExchangeBytes:
 	ret
 
 String_PleaseWait:
-	text "Please wait!"
+	text "PLEASE WAIT!"
 	done
 
 ClearLinkData:
@@ -656,7 +656,7 @@ InitTradeSpeciesList:
 INCBIN "gfx/trade/border.tilemap.lz"
 
 .Cancel:
-	text "Cancel"
+	text "CANCEL"
 	done
 
 PlaceTradePartnerNamesAndParty:
@@ -1195,7 +1195,7 @@ LinkTrade_TradeStatsMenu:
 	text_end
 
 .String_Stats_Trade:
-	text "Stats     Trade"
+	text "STATS     TRADE"
 	done
 
 .Text_Abnormal:
@@ -1682,8 +1682,8 @@ LinkTrade:
 	jmp Gen2ToGen2LinkComms
 
 .TradeCancel:
-	text "Trade"
-	next "Cancel"
+	text "TRADE"
+	next "CANCEL"
 	done
 
 .TradeThisForThat:

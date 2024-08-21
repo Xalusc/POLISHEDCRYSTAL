@@ -76,7 +76,7 @@ BlackthornGymClairScript:
 	end
 
 .IntroText:
-	text "I am Clair."
+	text "I am CLAIR."
 
 	para "The world's best"
 	line "dragon master."
@@ -84,8 +84,8 @@ BlackthornGymClairScript:
 	para "I can hold my own"
 	line "against even the"
 
-	para "#mon League's"
-	line "Elite Four."
+	para "#MON LEAGUE's"
+	line "ELITE FOUR."
 
 	para "Do you still want"
 	line "to take me on?"
@@ -93,7 +93,7 @@ BlackthornGymClairScript:
 	para "…Fine."
 	line "Let's do it!"
 
-	para "As a Gym Leader,"
+	para "As a GYM LEADER,"
 	line "I will use my full"
 
 	para "power against any"
@@ -116,15 +116,15 @@ BlackthornGymClairScript:
 	line "but you're still"
 
 	para "not ready for the"
-	line "#mon League."
+	line "#MON LEAGUE."
 
 	para "I know. You should"
-	line "take the Dragon-"
+	line "take the dragon"
 	cont "master challenge."
 
-	para "Behind this Gym is"
+	para "Behind this GYM is"
 	line "a place called"
-	cont "Dragon's Den."
+	cont "DRAGON'S DEN."
 
 	para "There is a small"
 	line "shrine at its"
@@ -138,8 +138,8 @@ BlackthornGymClairScript:
 	line "I will recognize"
 
 	para "you as a trainer"
-	line "worthy of a Gym"
-	cont "Badge!"
+	line "worthy of a GYM"
+	cont "BADGE!"
 	done
 
 .TooMuchToExpectText:
@@ -153,22 +153,22 @@ ClairPokemonLeagueDirectionsText:
 	text "What's the matter?"
 
 	para "Aren't you headed"
-	line "to the #mon"
-	cont "League?"
+	line "to the #MON"
+	cont "LEAGUE?"
 
 	para "Do you know how to"
 	line "get there?"
 
 	para "From here, go to"
-	line "New Bark Town."
-	cont "Then Surf east."
+	line "NEW BARK TOWN."
+	cont "Then SURF east."
 
 	para "The route there is"
 	line "very tough."
 
 	para "Don't you dare"
 	line "lose at the #-"
-	cont "mon League!"
+	cont "MON LEAGUE!"
 
 	para "If you do, I'll"
 	line "feel even worse"
@@ -185,7 +185,7 @@ BlackthornGymGuyScript:
 	iftrue_jumptextfaceplayer .WinText
 	jumpthistextfaceplayer
 
-	text "Yo! Champ in"
+	text "Yo! CHAMP in"
 	line "making!"
 
 	para "It's been a long"
@@ -194,10 +194,10 @@ BlackthornGymGuyScript:
 	para "are almost done!"
 	line "Count on me!"
 
-	para "Clair uses the"
+	para "CLAIR uses the"
 	line "mythical and sac-"
-	cont "red Dragon-type"
-	cont "#mon."
+	cont "red dragon-type"
+	cont "#MON."
 
 	para "You can't damage"
 	line "them very easily."
@@ -206,26 +206,26 @@ BlackthornGymGuyScript:
 	line "they're supposed"
 
 	para "to be weak against"
-	line "Ice-type moves."
+	line "ice-type moves."
 	done
 
 .WinText:
 	text "You were great to"
-	line "beat Clair!"
+	line "beat CLAIR!"
 
 	para "All that's left is"
-	line "the #mon League"
+	line "the #MON LEAGUE"
 	cont "challenge."
 
 	para "You're on the way"
 	line "to becoming the"
-	cont "#mon Champion!"
+	cont "#MON CHAMPION!"
 	done
 
 GenericTrainerDragonTamerPaul:
 	generictrainer DRAGON_TAMER, PAUL, EVENT_BEAT_DRAGON_TAMER_PAUL, .SeenText, .BeatenText
 
-	text "Lance told you"
+	text "LANCE told you"
 	line "that he'd like to"
 
 	para "see you again?"
@@ -241,7 +241,7 @@ GenericTrainerDragonTamerPaul:
 	done
 
 .BeatenText:
-	text "My dragon #mon"
+	text "My dragon #MON"
 	line "lost?"
 	done
 
@@ -269,13 +269,13 @@ GenericTrainerCooltrainerfLola:
 	generictrainer COOLTRAINERF, LOLA, EVENT_BEAT_COOLTRAINERF_LOLA, .SeenText, .BeatenText
 
 	text "Dragons are weak"
-	line "against Dragon-"
+	line "against dragon-"
 	cont "type moves."
 	done
 
 .SeenText:
 	text "Dragons are sacred"
-	line "#mon."
+	line "#MON."
 
 	para "They are full of"
 	line "life energy."

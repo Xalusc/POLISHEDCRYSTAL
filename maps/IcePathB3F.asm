@@ -56,9 +56,9 @@ LoreleiAfterText:
 	text "Go on ahead. You"
 	line "can challenge the"
 
-	para "#mon League"
+	para "#MON LEAGUE"
 	line "with one more"
-	cont "Badge."
+	cont "BADGE."
 
 	para "If you do beat"
 	line "them, meet me here"
@@ -97,16 +97,16 @@ LoreleiRematchAfterText:
 	line "over, you know."
 
 	para "You can earn more"
-	line "badges in Kanto,"
+	line "badges in KANTO,"
 
 	para "catch new species"
-	line "of #mon,"
+	line "of #MON,"
 
 	para "improve yourself"
 	line "and your team."
 
 	para "Becoming a"
-	line "#mon master is"
+	line "#MON master is"
 	cont "a life's work."
 	done
 
@@ -124,19 +124,19 @@ Text_IcePathB3FIceRock:
 	done
 
 LoreleiIntroText:
-	text "Lorelei: Hello"
+	text "LORELEI: Hello"
 	line "there, trainer."
-	cont "I am Lorelei."
+	cont "I am LORELEI."
 
 	para "See that icy rock"
 	line "over there?"
 
 	para "It emits an energy"
 	line "I've never seen in"
-	cont "Kanto."
+	cont "KANTO."
 
 	para "As an expert on"
-	line "Ice-type #mon,"
+	line "ice-type #MON,"
 	cont "I had to investi-"
 	cont "gate it."
 
@@ -145,10 +145,10 @@ LoreleiIntroText:
 	done
 
 LoreleiAfterIntroText:
-	text "Lorelei: You're"
-	line "taking the #mon"
+	text "LORELEI: You're"
+	line "taking the #MON"
 
-	para "League challenge."
+	para "LEAGUE challenge."
 	line "I see."
 	cont "How ironic."
 
@@ -161,7 +161,7 @@ LoreleiNoBattleText:
 	line "me, you'll never"
 
 	para "be able to beat"
-	line "the Champion."
+	line "the CHAMPION."
 	done
 
 LoreleiSeenText:
@@ -177,27 +177,27 @@ LoreleiBeatenText:
 
 LoreleiRewardText:
 	text "You know how to"
-	line "handle Ice-type"
-	cont "#mon."
+	line "handle ice-type"
+	cont "#MON."
 
 	para "Then you can use"
 	line "this item."
 	done
 
 LoreleiRematchIntroAgainText:
-	text "Lorelei: Hello"
+	text "LORELEI: Hello"
 	line "again, <PLAYER>."
 	done
 
 LoreleiRematchSeenText:
 	text "So you battled"
-	line "the Elite Four?"
+	line "the ELITE FOUR?"
 
 	para "I hope you took"
-	line "Karen down a peg."
+	line "KAREN down a peg."
 
 	para "…………You're the"
-	line "new Champion."
+	line "new CHAMPION."
 	cont "I'm impressed."
 
 	para "Then I won't have"
@@ -206,5 +206,5 @@ LoreleiRematchSeenText:
 
 LoreleiRematchBeatenText:
 	text "As expected of"
-	line "the Champion!"
+	line "the CHAMPION!"
 	done

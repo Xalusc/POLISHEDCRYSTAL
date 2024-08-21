@@ -59,11 +59,11 @@ BrentGenericText:
 	text "Oh yeah, I saw you"
 	line "coming out of a"
 
-	para "#mon Center the"
+	para "#MON CENTER the"
 	line "other day."
 
 	para "You heal your"
-	line "#mon regularly,"
+	line "#MON regularly,"
 
 	para "don't you?"
 	line "I'm impressed."
@@ -74,6 +74,6 @@ BrentGenericText:
 	line "is so tough, it"
 
 	para "doesn't need to go"
-	line "to #mon Centers"
+	line "to #MON CENTERS"
 	cont "often. Heheh!"
 	done

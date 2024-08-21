@@ -9,21 +9,21 @@ IrwinRocketTakeoverRumorText:
 	text "<PLAYER>, have you"
 	line "heard?"
 
-	para "Goldenrod's Radio"
-	line "Tower has been"
+	para "GOLDENROD's RADIO"
+	line "TOWER has been"
 
-	para "taken over by Team"
-	line "Rocket!"
+	para "taken over by TEAM"
+	line "ROCKET!"
 
-	para "…Um… What's Team"
-	line "Rocket?"
+	para "…Um… What's TEAM"
+	line "ROCKET?"
 	done
 
 IrwinPlainBadgeGossipText:
 	text "<PLAYER>, I heard!"
 
 	para "You defeated that"
-	line "Whitney?"
+	line "WHITNEY?"
 
 	para "It makes me proud"
 	line "to be your friend!"
@@ -34,9 +34,9 @@ IrwinJasmineReturnedGossipText:
 	line "you!"
 
 	para "You saved that"
-	line "#mon at the"
+	line "#MON at the"
 
-	para "Lighthouse, didn't"
+	para "LIGHTHOUSE, didn't"
 	line "you?"
 
 	para "<PLAYER>, I wish"
@@ -50,14 +50,14 @@ IrwinRocketHideoutGossipText:
 	text "I heard, I heard,"
 	line "I heard!"
 
-	para "You smashed Team"
-	line "Rocket's hideout!"
+	para "You smashed TEAM"
+	line "ROCKET's hideout!"
 
 	para "You're like a"
 	line "movie hero, even!"
 
 	para "But um… What was"
-	line "Team Rocket?"
+	line "TEAM ROCKET?"
 	done
 
 IrwinRadioTowerGossipText:
@@ -67,7 +67,7 @@ IrwinRadioTowerGossipText:
 	para "About your heroic"
 	line "liberation of the"
 
-	para "Radio Tower! You"
+	para "RADIO TOWER! You"
 	line "rock so hard!"
 	done
 
@@ -75,7 +75,7 @@ IrwinRisingBadgeGossipText:
 	text "I saw, I saw!"
 
 	para "I saw you go into"
-	line "the Dragon's Den!"
+	line "the DRAGON'S DEN!"
 
 	para "I'm certain you"
 	line "passed! Aww, no"
@@ -86,9 +86,9 @@ IrwinRisingBadgeGossipText:
 
 IrwinEliteFourGossipText:
 	text "Yesterday, I went"
-	line "out to New Bark"
+	line "out to NEW BARK"
 
-	para "Town.  There was a"
+	para "TOWN.  There was a"
 	line "lady who looked a"
 
 	para "lot like you,"
@@ -130,8 +130,8 @@ IrwinVermilionCityGossipText:
 IrwinTrainPassGossipText:
 	text "I heard, I heard!"
 
-	para "You got a Magnet"
-	line "Train Pass!"
+	para "You got a MAGNET"
+	line "TRAIN PASS!"
 
 	para "When I saw you"
 	line "departing on the"
@@ -143,23 +143,23 @@ IrwinTrainPassGossipText:
 	line "for a while."
 
 	para "But since you have"
-	line "that Pass, you can"
+	line "that PASS, you can"
 
 	para "zip back anytime!"
 	line "That's reassuring!"
 
-	para "What? You can Fly"
+	para "What? You can FLY"
 	line "back anytime?"
 
 	para "What do you mean"
-	line "by Fly?"
+	line "by FLY?"
 	done
 
 IrwinSnorlaxGossipText:
 	text "I saw, I saw!"
 
 	para "You waking up"
-	line "Snorlax!"
+	line "SNORLAX!"
 
 	para "I was watching you"
 	line "from afar, so I"
@@ -203,14 +203,14 @@ IrwinCalledRightAwayText:
 IrwinFogBadgeGossipText:
 	text "I saw, I heard!"
 
-	para "You beat Morty of"
-	line "Ecruteak Gym!"
+	para "You beat MORTY of"
+	line "ECRUTEAK GYM!"
 
 	para "Th-that's just"
 	line "incredible!"
 
 	para "I actually went to"
-	line "the Gym's entrance"
+	line "the GYM's entrance"
 
 	para "to cheer you on."
 	line "Did you know that?"
@@ -231,7 +231,7 @@ IrwinMarshBadgeGossipText:
 	para "You're kicking up"
 	line "a mighty ruckus"
 
-	para "over in Kanto!"
+	para "over in KANTO!"
 	line "What a glorious"
 
 	para "rampage it must"
@@ -267,7 +267,7 @@ IrwinSoMuchToChatAboutText:
 
 	para "Where are you?"
 
-	para "How many Badges do"
+	para "How many BADGES do"
 	line "you have now?"
 
 	para "How much money"
@@ -276,7 +276,7 @@ IrwinSoMuchToChatAboutText:
 	para "How's your mom?"
 
 	para "Have you got lots"
-	line "of #mon?"
+	line "of #MON?"
 
 	para "Is it going to be"
 	line "sunny tomorrow?"

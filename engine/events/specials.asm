@@ -82,7 +82,7 @@ SpecialNameRival:
 	jmp InitName
 
 .DefaultRivalName:
-	db "Silver@"
+	db "SILVER@"
 
 SpecialTrendyPhrase:
 	ld b, $3 ; trendy phrase
@@ -94,7 +94,7 @@ SpecialTrendyPhrase:
 	jmp InitName
 
 .DefaultTrendyPhrase:
-	db "Nothing@"
+	db "NOTHING@"
 
 SpecialNameRater:
 	farjp NameRater
@@ -337,7 +337,7 @@ CheckIfTrendyPhraseIsLucky:
 	ret
 
 .KeyPhrase:
-	db "Lucky@"
+	db "LUCKY@"
 
 RespawnOneOffs:
 	eventflagreset EVENT_BEAT_FLANNERY

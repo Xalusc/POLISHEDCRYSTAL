@@ -22,7 +22,7 @@ ViridianNicknameSpeechHousePokefanMText:
 	line "of thought into"
 
 	para "naming your"
-	line "#mon?"
+	line "#MON?"
 
 	para "Giving them good"
 	line "nicknames adds to"
@@ -32,15 +32,15 @@ ViridianNicknameSpeechHousePokefanMText:
 	done
 
 ViridianNicknameSpeechHouseLassText:
-	text "They're Hooty--"
-	line "a Hoothoot--and"
-	cont "Rattey--a Rattata."
+	text "They're HOOTY--"
+	line "a HOOTHOOT--and"
+	cont "RATTEY--a RATTATA."
 	done
 
 HootyText:
-	text "Hooty: Hoot!"
+	text "HOOTY: Hoot!"
 	done
 
 RatteyText:
-	text "Rattey: Kikiii!"
+	text "RATTEY: Kikiii!"
 	done

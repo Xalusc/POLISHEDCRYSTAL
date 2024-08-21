@@ -249,8 +249,8 @@ GenericTrainerBurglarDuncan:
 GenericTrainerBurglarOrson:
 	generictrainer BURGLAR, ORSON, EVENT_BEAT_BURGLAR_ORSON, BurglarOrsonSeenText, BurglarOrsonBeatenText
 
-	text "Underground Ware-"
-	line "house?"
+	text "UNDERGROUND WARE-"
+	line "HOUSE?"
 
 	para "What do you want"
 	line "to go there for?"
@@ -264,7 +264,7 @@ GenericTrainerGruntM13:
 
 	text "You must have ice"
 	line "in your veins to"
-	cont "dis Team Rocket."
+	cont "dis TEAM ROCKET."
 	done
 
 GenericTrainerGruntF3:
@@ -671,7 +671,7 @@ UndergroundPathSwitchRoomEntrancesVeteranMScript:
 	text "I tried to use"
 	line "this item in the"
 
-	para "Game Corner, but"
+	para "GAME CORNER, but"
 	line "they caught me."
 
 	para "You may as well"
@@ -687,8 +687,8 @@ UndergroundRivalBeforeText:
 	para "I don't need you"
 	line "underfoot while I"
 
-	para "take care of Team"
-	line "Rocket."
+	para "take care of TEAM"
+	line "ROCKET."
 
 	para "…Wait a second."
 	line "You beat me be-"
@@ -706,7 +706,7 @@ UndergroundRivalWinText:
 	line "Why do I lose?"
 
 	para "I've assembled the"
-	line "toughest #mon."
+	line "toughest #MON."
 
 	para "I didn't ease up"
 	line "on the gas."
@@ -718,11 +718,11 @@ UndergroundRivalAfterText:
 	text "…I don't under-"
 	line "stand…"
 
-	para "Is what that Lance"
+	para "Is what that LANCE"
 	line "guy said true?"
 
 	para "That I don't treat"
-	line "#mon properly?"
+	line "#MON properly?"
 
 	para "Love…"
 
@@ -747,18 +747,18 @@ UndergroundRivalAfterText:
 	line "dream of becoming"
 
 	para "the world's best"
-	line "#mon trainer!"
+	line "#MON trainer!"
 	done
 
 UndergroundRivalLossText:
 	text "Humph. This is my"
 	line "real power, wimp."
 
-	para "I'll make Team"
-	line "Rocket history."
+	para "I'll make TEAM"
+	line "ROCKET history."
 
 	para "And I'm going to"
-	line "grind that Lance"
+	line "grind that LANCE"
 	cont "under my heels."
 	done
 
@@ -798,9 +798,9 @@ UndergroundPathSwitchRoomEntrances_SuperNerd2Text:
 
 UndergroundPathSwitchRoomEntrances_BeautyText:
 	text "I went on a tour"
-	line "of the Radio"
+	line "of the RADIO"
 
-	para "Tower. I saw all"
+	para "TOWER. I saw all"
 	line "three studios and"
 
 	para "even ate in the"
@@ -874,7 +874,7 @@ GruntM13BeatenText:
 
 SwitchRoomText_Switch1:
 	text "It's labeled"
-	line "Switch 1."
+	line "SWITCH 1."
 	done
 
 GruntF3SeenText:
@@ -905,15 +905,15 @@ SwitchRoomText_OnTurnOff:
 
 SwitchRoomText_Switch2:
 	text "It's labeled"
-	line "Switch 2."
+	line "SWITCH 2."
 	done
 
 SwitchRoomText_Switch3:
 	text "It's labeled"
-	line "Switch 3."
+	line "SWITCH 3."
 	done
 
 SwitchRoomText_Emergency:
 	text "It's labeled"
-	line "Emergency."
+	line "EMERGENCY."
 	done

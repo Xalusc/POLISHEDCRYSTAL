@@ -162,7 +162,7 @@ Text_EarlAsksIfYouBeatFalkner:
 	text "Hello!"
 	line "You are trainer?"
 
-	para "Battle Gym Leader,"
+	para "Battle GYM LEADER,"
 	line "win you did?"
 	done
 
@@ -199,10 +199,10 @@ Text_EarlsTypeChart:
 VioletCityLassText:
 	text "Ghosts are rumored"
 	line "to appear in"
-	cont "Sprout Tower."
+	cont "SPROUT TOWER."
 
-	para "They said Normal-"
-	line "type #mon moves"
+	para "They said normal-"
+	line "type #MON moves"
 
 	para "had no effect on"
 	line "ghosts."
@@ -210,34 +210,34 @@ VioletCityLassText:
 
 VioletCityCooltrainerM1Text:
 	text "Hey, you're a"
-	line "#mon trainer?"
+	line "#MON trainer?"
 
 	para "If you beat the"
-	line "Gym Leader here,"
+	line "GYM LEADER here,"
 
 	para "you'll be ready"
 	line "for prime time!"
 	done
 
 VioletCityCooltrainerFText:
-	text "Bellsprout is a"
-	line "popular #mon"
+	text "BELLSPROUT is a"
+	line "popular #MON"
 	cont "in this town."
 
 	para "It doesn't do well"
-	line "against our Gym"
-	cont "Leader, though…"
+	line "against our GYM"
+	cont "LEADER, though…"
 	done
 
 VioletCityGrampsText:
-	text "Falkner, from the"
-	line "Violet #mon"
+	text "FALKNER, from the"
+	line "VIOLET #MON"
 
-	para "Gym, is a fine"
+	para "GYM, is a fine"
 	line "trainer!"
 
 	para "He inherited his"
-	line "father's gym and"
+	line "father's GYM and"
 
 	para "has done a great"
 	line "job with it."
@@ -266,37 +266,37 @@ VioletCityCooltrainerM2Text:
 	line "traditional build-"
 	cont "ings around here."
 
-	para "Even the # Mart"
-	line "and #mon Center"
+	para "Even the # MART"
+	line "and #MON CENTER"
 
 	para "are painted som-"
 	line "berly to blend in."
 	done
 
 VioletCitySignText:
-	text "Violet City"
+	text "VIOLET CITY"
 
 	para "The City of"
 	line "Nostalgic Scents"
 	done
 
 VioletGymSignText:
-	text "Violet City"
-	line "#mon Gym"
-	cont "Leader: Falkner"
+	text "VIOLET CITY"
+	line "#MON GYM"
+	cont "LEADER: FALKNER"
 
 	para "The Elegant Master"
-	line "of Flying #mon"
+	line "of Flying #MON"
 	done
 
 SproutTowerSignText:
-	text "Sprout Tower"
+	text "SPROUT TOWER"
 
 	para "Experience the"
-	line "Way of #mon"
+	line "Way of #MON"
 	done
 
 EarlsPokemonAcademySignText:
-	text "Earl's #mon"
-	line "Academy"
+	text "EARL'S #MON"
+	line "ACADEMY"
 	done

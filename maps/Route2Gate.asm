@@ -19,13 +19,13 @@ Route2Gate_MapScriptHeader:
 Route2GateScientistText:
 	text "Are you <PLAYER>?"
 
-	para "I work as Prof."
-	line "Oak's Aide."
+	para "I work as PROF."
+	line "OAK's AIDE."
 
 	para "I had no idea that"
 	line "you were out here."
 
-	para "Prof.Oak's Lab is"
-	line "nearby in Pallet"
-	cont "Town."
+	para "PROF.OAK's LAB is"
+	line "nearby in PALLET"
+	cont "TOWN."
 	done

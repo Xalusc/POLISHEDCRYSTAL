@@ -27,16 +27,16 @@ PokemonJournalJasmineScript:
 	setflag ENGINE_READ_JASMINE_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Leader Jasmine!"
+	para "SPECIAL FEATURE:"
+	line "LEADER JASMINE!"
 
 	para "Rumor has it that"
-	line "Jasmine and Erika,"
+	line "JASMINE and ERIKA,"
 
-	para "the Celadon Gym"
-	line "Leader, chat about"
+	para "the CELADON GYM"
+	line "LEADER, chat about"
 	cont "fashion together."
 	done
 
@@ -62,7 +62,7 @@ BeautyCharlotteScript:
 .AfterText:
 	text "How cool is it"
 	line "to have such a"
-	cont "special #mon?"
+	cont "special #MON?"
 	done
 
 .GreetingText:
@@ -73,14 +73,14 @@ BeautyCharlotteScript:
 	line "the right time!"
 
 	para "My unique and"
-	line "beautiful #mon"
+	line "beautiful #MON"
 	cont "is all healed."
 
 	para "Do you want to"
 	line "battle and be"
 
 	para "amazed by my"
-	line "#mon?"
+	line "#MON?"
 	done
 
 .NoBattleText:
@@ -102,11 +102,11 @@ BeautyCharlotteScript:
 
 OlivinePokeCenter1FFisherText:
 	text "There's this guy in"
-	line "Cianwood City who"
+	line "CIANWOOD CITY who"
 	cont "looks weak, but he"
 
 	para "taught my #-"
-	line "mon Strength."
+	line "MON STRENGTH."
 
 	para "Now it can move"
 	line "big boulders."
@@ -114,10 +114,10 @@ OlivinePokeCenter1FFisherText:
 
 OlivinePokeCenter1FTeacherText:
 	text "There's a person"
-	line "in Cianwood City"
+	line "in CIANWOOD CITY"
 	cont "across the sea."
 
 	para "I heard him brag-"
 	line "ging about his"
-	cont "rare #mon."
+	cont "rare #MON."
 	done

@@ -141,10 +141,10 @@ MahoganyMart1FBlackBeltText:
 	line "ment worked like a"
 	cont "charm."
 
-	para "Magikarp are just"
+	para "MAGIKARP are just"
 	line "worthless, but"
 
-	para "Gyarados are big"
+	para "GYARADOS are big"
 	line "moneymakers."
 	done
 
@@ -152,12 +152,12 @@ MahoganyMart1FBlackBeltText_LanceEntered:
 	text "Urrgh…"
 
 	para "That guy's dragon"
-	line "#mon are tough…"
+	line "#MON are tough…"
 	done
 
 MahoganyMart1FLanceDragoniteHyperBeamText:
-	text "Lance: Dragonite,"
-	line "Hyper Beam."
+	text "LANCE: DRAGONITE,"
+	line "HYPER BEAM."
 	done
 
 MahoganyMart1FLanceRadioText:
@@ -177,7 +177,7 @@ MahoganyMart1FLanceStairsText:
 	done
 
 MahoganyMart1FLanceSplitUpText:
-	text "Lance: <PLAYER>, we"
+	text "LANCE: <PLAYER>, we"
 	line "should split up to"
 
 	para "check this place."
@@ -188,21 +188,21 @@ PokemonJournalWillScript:
 	setflag ENGINE_READ_WILL_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Elite Four Will!"
+	para "SPECIAL FEATURE:"
+	line "ELITE FOUR WILL!"
 
-	para "Will does not talk"
+	para "WILL does not talk"
 	line "about his past"
 
 	para "before joining the"
-	line "Elite Four."
+	line "ELITE FOUR."
 
 	para "Some say he worked"
-	line "for Team Rocket."
+	line "for TEAM ROCKET."
 
-	para "#mon Journal"
+	para "#MON JOURNAL"
 	line "refuses to specu-"
 	cont "late."
 	done

@@ -49,8 +49,8 @@ GoldenrodMuseum1FRocketScoutScript:
 
 GoldenrodMuseumReceptionistText:
 	text "Welcome to the"
-	line "Goldenrod City"
-	cont "Museum."
+	line "GOLDENROD CITY"
+	cont "MUSEUM."
 
 	para "In celebration of"
 	line "our grand opening,"
@@ -79,7 +79,7 @@ GoldenrodMuseumOfficerText:
 GoldenrodMuseum1FLodestoneSignpostText:
 	text "Lodestone from the"
 	line "construction of"
-	cont "Magnet Tunnel."
+	cont "MAGNET TUNNEL."
 	done
 
 GoldenrodMuseum1FDrillText:
@@ -98,7 +98,7 @@ GoldenrodMuseum1FHikerText:
 	line "to excavate the"
 
 	para "tunnel for the"
-	line "Magnet Train."
+	line "MAGNET TRAIN."
 	done
 
 GoldenrodMuseum1FRadioDishText:
@@ -111,13 +111,13 @@ GoldenrodMuseum1FRadioDishText:
 
 GoldenrodMuseum1FHarborText:
 	text "An aquarium filled"
-	line "with Magikarp!"
+	line "with MAGIKARP!"
 	done
 
 GoldenrodMuseum1FBigPearlText:
 	text "It's a huge pearl"
 	line "fished up from"
-	cont "Goldenrod Harbor."
+	cont "GOLDENROD HARBOR."
 	done
 
 GoldenrodMuseum1FRocketScoutText1:

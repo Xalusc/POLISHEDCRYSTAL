@@ -59,8 +59,8 @@ GenericTrainerBird_keeperJulian:
 
 .SeenText:
 	text "I'm training my"
-	line "Flying-type #-"
-	cont "mon here."
+	line "flying-type #-"
+	cont "MON here."
 
 	para "Want to help me?"
 	done
@@ -78,7 +78,7 @@ GenericTrainerCamperFelix:
 
 	para "All I need is some"
 	line "firewood for my"
-	cont "#mon to light."
+	cont "#MON to light."
 	done
 
 .SeenText:

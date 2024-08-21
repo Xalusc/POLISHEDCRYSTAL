@@ -70,12 +70,12 @@ ShamoutiShrineRuinsLawrenceScript:
 	end
 
 .SeenText:
-	text "Lawrence: I sought"
+	text "LAWRENCE: I sought"
 	line "across many"
 
 	para "regions to catch"
-	line "Articuno, Zapdos,"
-	cont "and Moltres."
+	line "ARTICUNO, ZAPDOS,"
+	cont "and MOLTRES."
 
 	para "Without the"
 	line "complete set, I"
@@ -96,8 +96,8 @@ ShamoutiShrineRuinsLawrenceScript:
 	done
 
 .AfterText:
-	text "Lawrence: Your"
-	line "#mon aren't"
+	text "LAWRENCE: Your"
+	line "#MON aren't"
 
 	para "just a collection"
 	line "to you, are they?"
@@ -108,14 +108,14 @@ ShamoutiShrineRuinsLawrenceScript:
 
 	para "Could that be how"
 	line "you defeated my"
-	cont "legendary #mon?"
+	cont "legendary #MON?"
 
 	para "Well, I think you"
 	line "earned this."
 	done
 
 .SilverWingText:
-	text "That Silver Wing"
+	text "That SILVER WING"
 	line "feather comes from"
 
 	para "the guardian of"
@@ -139,7 +139,7 @@ ShamoutiShrineRuinsLawrenceScript:
 
 .GoodbyeText:
 	text "My dream was to"
-	line "own that #mon,"
+	line "own that #MON,"
 
 	para "but you've proven"
 	line "yourself worthy."
@@ -165,25 +165,25 @@ ShamoutiShrineRuinsGrampsText:
 	cont "island, but we"
 
 	para "were protected by"
-	line "the Guardian of"
-	cont "the Seas."
+	line "the guardian of"
+	cont "the seas."
 
 	para "Every year, I give"
 	line "thanks in honor"
 
 	para "of the great"
-	line "#mon who kept"
+	line "#MON who kept"
 	cont "us safe."
 	done
 
 ShamoutiShrineRuinsLadyText:
 	text "I simply had to"
-	line "stop at Shamouti"
+	line "stop at SHAMOUTI"
 
-	para "Island on my"
+	para "ISLAND on my"
 	line "world tour."
 
 	para "Apparently there's"
-	line "a talking #mon"
+	line "a talking #MON"
 	cont "here somewhere."
 	done

@@ -32,7 +32,7 @@ GoodRodGuru:
 	end
 
 OfferGoodRodText:
-	text "Olivine is on the"
+	text "OLIVINE is on the"
 	line "sea!"
 
 	para "And if it's on the"

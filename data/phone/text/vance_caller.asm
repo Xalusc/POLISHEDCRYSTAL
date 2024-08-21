@@ -27,7 +27,7 @@ VanceLostAMonText:
 	para "just barely eluded"
 	line "us."
 
-	para "I wanted to Fly"
+	para "I wanted to FLY"
 	line "after it…"
 	done
 
@@ -61,5 +61,5 @@ VanceHurryHurryText:
 	para ""
 	text_ram wStringBuffer5
 	text "!"
-	line "Fly over now!"
+	line "FLY over now!"
 	done

@@ -95,10 +95,10 @@ CeladonUniversityClassroom1ImakuniScript:
 
 	para "I am the super"
 	line "musical star,"
-	cont "Imakuni!"
+	cont "IMAKUNI!"
 
 	para "I'll sing the"
-	line "#Rap--you"
+	line "#RAP--you"
 	cont "dance!"
 
 	para "♪ La di da di da,"
@@ -107,7 +107,7 @@ CeladonUniversityClassroom1ImakuniScript:
 	para "Hey! Move those"
 	line "feet!"
 
-	para "What? #mon?"
+	para "What? #MON?"
 
 	para "You want to"
 	line "battle me?"
@@ -136,7 +136,7 @@ CeladonUniversityClassroom1ImakuniScript:
 	line "good!"
 
 	para "I'll give you this"
-	line "Berry, so don't"
+	line "BERRY, so don't"
 
 	para "tell anyone I"
 	line "lost, OK?"
@@ -144,7 +144,7 @@ CeladonUniversityClassroom1ImakuniScript:
 
 CeladonUniversityClassroom1AndyText:
 	text "Hello there!"
-	line "I'm Prof.Andy,"
+	line "I'm PROF.ANDY,"
 
 	para "and I teach what"
 	line "I love--art!"
@@ -214,8 +214,8 @@ CeladonUniversityClassroom1BlackboardText:
 
 CeladonUniversityClassroom1Bookshelf1Text:
 	text "It's a book about"
-	line "Smeargle, a"
-	cont "#mon artist."
+	line "SMEARGLE, a"
+	cont "#MON artist."
 
 	para "It's full of beau-"
 	line "tiful drawings."
@@ -226,6 +226,6 @@ CeladonUniversityClassroom1Bookshelf2Text:
 	line "showcasing fine"
 	cont "art from a place"
 
-	para "called Lilycove"
-	line "Museum."
+	para "called LILYCOVE"
+	line "MUSEUM."
 	done

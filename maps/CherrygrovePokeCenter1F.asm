@@ -24,18 +24,18 @@ PokemonJournalRedScript:
 	setflag ENGINE_READ_RED_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "<PK><MN> Trainer Red!"
+	para "SPECIAL FEATURE:"
+	line "<PK><MN> TRAINER RED!"
 
-	para "Red is said to"
+	para "RED is said to"
 	line "have defeated his"
 
-	para "rival Blue for the"
-	line "title of #mon"
+	para "rival BLUE for the"
+	line "title of #MON"
 
-	para "League Champion in"
+	para "LEAGUE CHAMPION in"
 	line "record time."
 	done
 
@@ -44,8 +44,8 @@ CherrygrovePokeCenter1FTeacherScript:
 	iftrue_jumptextfaceplayer .Text2
 	jumpthistextfaceplayer
 
-	text "The Communication"
-	line "Center upstairs"
+	text "The COMMUNICATION"
+	line "CENTER upstairs"
 	cont "was just built."
 
 	para "But they're still"
@@ -53,11 +53,11 @@ CherrygrovePokeCenter1FTeacherScript:
 	done
 
 .Text2:
-	text "The Communication"
-	line "Center upstairs"
+	text "The COMMUNICATION"
+	line "CENTER upstairs"
 	cont "was just built."
 
-	para "I traded #mon"
+	para "I traded #MON"
 	line "there already!"
 	done
 
@@ -65,7 +65,7 @@ CherrygrovePokeCenter1FFisherText:
 	text "It's great. I can"
 	line "store any number"
 
-	para "of #mon, and"
+	para "of #MON, and"
 	line "it's all free."
 	done
 
@@ -76,12 +76,12 @@ CherrygrovePokeCenter1FGentlemanText:
 	done
 
 CherrygrovePokeCenter1FLadyText:
-	text "#mon Journal"
+	text "#MON JOURNAL"
 	line "has such fascin-"
 	cont "ating stories!"
 
-	para "I come to #mon"
-	line "Centers for the"
+	para "I come to #MON"
+	line "CENTERS for the"
 
 	para "latest issues, but"
 	line "they're not the"

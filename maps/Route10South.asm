@@ -23,14 +23,14 @@ GenericTrainerHikerJim:
 
 	text "Hay fever is"
 	line "making me sneeze!"
-	cont "Ahahah-CHOO!"
+	cont "Ahahah-choo!"
 	done
 
 GenericTrainerPokefanmRobert:
 	generictrainer POKEFANM, ROBERT, EVENT_BEAT_POKEFANM_ROBERT, PokefanmRobertSeenText, PokefanmRobertBeatenText
 
 	text "Look what you did"
-	line "to my #mon…"
+	line "to my #MON…"
 
 	para "I won't forget"
 	line "this…"
@@ -39,7 +39,7 @@ GenericTrainerPokefanmRobert:
 GenericTrainerHexManiacAmy:
 	generictrainer HEX_MANIAC, AMY, EVENT_BEAT_HEX_MANIAC_AMY, HexManiacAmySeenText, HexManiacAmyBeatenText
 
-	text "A Hex Maniac is"
+	text "A HEX MANIAC is"
 	line "at peace among"
 	cont "the spirits…"
 	done
@@ -53,7 +53,7 @@ HikerJimBeatenText:
 	done
 
 PokefanmRobertSeenText:
-	text "You like #mon,"
+	text "You like #MON,"
 	line "don't you?"
 
 	para "Me too!"
@@ -65,21 +65,21 @@ PokefanmRobertBeatenText:
 	done
 
 HexManiacAmySeenText:
-	text "Lavender Town…"
+	text "LAVENDER TOWN…"
 
 	para "Where the spirits"
-	line "of #mon sleep…"
+	line "of #MON sleep…"
 	done
 
 HexManiacAmyBeatenText:
-	text "Your #mon are"
+	text "Your #MON are"
 	line "overflowing with"
 	cont "vitality…"
 	done
 
 Route10SignText:
-	text "Route 10"
+	text "ROUTE 10"
 
-	para "Cerulean City -"
-	line "Lavender Town"
+	para "CERULEAN CITY -"
+	line "LAVENDER TOWN"
 	done

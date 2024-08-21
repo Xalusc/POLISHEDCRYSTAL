@@ -74,7 +74,7 @@ GenericTrainerSwimmerfKendra:
 	text "I wonder if any"
 	line "place sells swim-"
 	cont "suits for #-"
-	cont "mon?"
+	cont "MON?"
 	done
 
 .SeenText:
@@ -92,19 +92,19 @@ GenericTrainerSwimmermEsteban:
 	generictrainer SWIMMERM, ESTEBAN, EVENT_BEAT_SWIMMERM_ESTEBAN, .SeenText, .BeatenText
 
 	text "We called our"
-	line "teacher Professor"
-	cont "Poliwhirl!"
+	line "teacher PROFESSOR"
+	cont "POLIWHIRL!"
 	done
 
 .SeenText:
 	text "My swimming teach-"
 	line "er had a face just"
-	cont "like a Poliwhirl."
+	cont "like a POLIWHIRL."
 	done
 
 .BeatenText:
 	text "I'm sorry,"
-	line "Teacher…"
+	line "teacher…"
 	done
 
 GenericTrainerSwimmermDuane:
@@ -124,7 +124,7 @@ GenericTrainerSwimmermDuane:
 	done
 
 .BeatenText:
-	text "My #mon and I"
+	text "My #MON and I"
 	line "have no strength…"
 	done
 
@@ -132,7 +132,7 @@ GenericTrainerSwimmermSeth:
 	generictrainer SWIMMERM, SETH, EVENT_BEAT_SWIMMERM_SETH, SwimmermSethSeenText, SwimmermSethBeatenText
 
 	text "This arrogant guy"
-	line "was at Cinnabar's"
+	line "was at CINNABAR's"
 	cont "volcano."
 	done
 
@@ -148,7 +148,7 @@ SwimmermSethBeatenText:
 GenericTrainerFisherMurphy:
 	generictrainer FISHER, MURPHY, EVENT_BEAT_FISHER_MURPHY, .SeenText, .BeatenText
 
-	text "The #mon that"
+	text "The #MON that"
 	line "escaped me was"
 	cont "huge."
 
@@ -158,7 +158,7 @@ GenericTrainerFisherMurphy:
 .SeenText:
 	text "Huh? I've caught"
 	line "a trainer instead"
-	cont "of a #mon!"
+	cont "of a #MON!"
 	done
 
 .BeatenText:
@@ -189,7 +189,7 @@ GenericTrainerFisherLiam:
 	line "you to wait until"
 
 	para "I reeled that"
-	line "#mon in…"
+	line "#MON in…"
 	done
 
 .SeenText:
@@ -203,7 +203,7 @@ GenericTrainerFisherLiam:
 
 .BeatenText:
 	text "If you chase two"
-	line "#mon, you"
+	line "#MON, you"
 
 	para "won't catch either"
 	line "one!"
@@ -214,17 +214,17 @@ GenericTrainerFisherGideon:
 
 	text "What's the reason"
 	line "you became a"
-	cont "#mon trainer?"
+	cont "#MON trainer?"
 	done
 
 .SeenText:
 	text "Did I become a"
-	line "Fisherman because"
+	line "fisherman because"
 	cont "I'm patient, or"
 
 	para "did I get more"
 	line "patient because"
-	cont "I'm a Fisherman?"
+	cont "I'm a fisherman?"
 	done
 
 .BeatenText:
@@ -242,7 +242,7 @@ GenericTrainerBird_keeperKinsley:
 .SeenText:
 	text "Someday I might be"
 	line "able to fly like"
-	cont "my bird #mon!"
+	cont "my bird #MON!"
 	done
 
 .BeatenText:
@@ -253,18 +253,18 @@ GenericTrainerBird_keeperEaston:
 	generictrainer BIRD_KEEPER, EASTON, EVENT_BEAT_BIRD_KEEPER_EASTON, .SeenText, .BeatenText
 
 	text "We think we're"
-	line "using #mon."
+	line "using #MON."
 
 	para "But at some point,"
-	line "the #mon start-"
+	line "the #MON start-"
 	cont "ed using us…"
 	done
 
 .SeenText:
-	text "Bird Keepers are"
+	text "BIRD KEEPERS are"
 	line "so wonderful with"
 	cont "their bird #-"
-	cont "mon!"
+	cont "MON!"
 	done
 
 .BeatenText:

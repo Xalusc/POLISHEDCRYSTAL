@@ -36,11 +36,11 @@ RadioTower4FDJMaryScript:
 	iftruefwd .ClearedRockets
 	jumpthisopenedtext
 
-	text "Mary: Why? Why do"
+	text "MARY: Why? Why do"
 	line "I have to suffer"
 	cont "through this?"
 
-	para "Meowth, help me!"
+	para "MEOWTH, help me!"
 	done
 
 .ClearedRockets:
@@ -51,10 +51,10 @@ RadioTower4FDJMaryScript:
 	setevent EVENT_GOT_PINK_BOW_FROM_MARY
 	jumpthisopenedtext
 
-	text "Mary: It's just"
-	line "right for #mon"
+	text "MARY: It's just"
+	line "right for #MON"
 
-	para "that know Fairy-"
+	para "that know fairy-"
 	line "type moves."
 	done
 
@@ -84,7 +84,7 @@ GenericTrainerGruntF4:
 	line "beautiful self!"
 
 	para "Who cares about"
-	line "#mon?"
+	line "#MON?"
 	done
 
 GenericTrainerRocketScientistRich:
@@ -92,7 +92,7 @@ GenericTrainerRocketScientistRich:
 
 	text "Do you honestly"
 	line "believe you can"
-	cont "stop Team Rocket?"
+	cont "stop TEAM ROCKET?"
 	done
 
 RadioTower4FFisherText:
@@ -105,7 +105,7 @@ RadioTower4FFisherText:
 	done
 
 RadioTower4FDJMaryText_ClearedRockets:
-	text "Mary: Oh! You're"
+	text "MARY: Oh! You're"
 	line "my little savior!"
 
 	para "Will you take this"
@@ -113,20 +113,20 @@ RadioTower4FDJMaryText_ClearedRockets:
 	done
 
 RadioTower4FDJMaryText_After:
-	text "Mary: Please tune"
-	line "into me on Prof."
+	text "MARY: Please tune"
+	line "into me on PROF."
 
-	para "Oak's #mon Talk"
+	para "OAK'S #MON TALK"
 	line "show."
 	done
 
 RadioTowerMeowthText:
-	text "Meowth: Meowth…"
+	text "MEOWTH: Meowth…"
 	done
 
 GruntM10SeenText:
 	text "You plan to rescue"
-	line "the Director?"
+	line "the DIRECTOR?"
 
 	para "That won't be pos-"
 	line "sible because I'm"
@@ -139,7 +139,7 @@ GruntM10BeatenText:
 
 Proton1SeenText:
 	text "Stop! I'm known as"
-	line "the Team Rocket"
+	line "the TEAM ROCKET"
 	cont "fortress!"
 
 	para "You're not taking"
@@ -153,10 +153,10 @@ Proton1BeatenText:
 
 GruntF4SeenText:
 	text "Don't I think"
-	line "#mon are cute?"
+	line "#MON are cute?"
 
 	para "I'll think my"
-	line "#mon are cute--"
+	line "#MON are cute--"
 
 	para "after they beat"
 	line "yours!"
@@ -170,7 +170,7 @@ GruntF4BeatenText:
 RocketScientistRichSeenText:
 	text "Most excellent."
 
-	para "This Radio Tower"
+	para "This RADIO TOWER"
 	line "will fulfill our"
 	cont "grand design."
 	done
@@ -183,9 +183,9 @@ RocketScientistRichBeatenText:
 	done
 
 RadioTower4FProductionSignText:
-	text "4F Production"
+	text "4F PRODUCTION"
 	done
 
 RadioTower4FStudio2SignText:
-	text "4F Studio 2"
+	text "4F STUDIO 2"
 	done

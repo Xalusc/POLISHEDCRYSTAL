@@ -51,7 +51,7 @@ GenericTrainerBug_maniacPierre:
 	done
 
 .SeenText:
-	text "My #mon love"
+	text "My #MON love"
 	line "this forest."
 
 	para "They buzz nonstop"
@@ -122,7 +122,7 @@ GenericTrainerGuitaristmEzekiel:
 GenericTrainerHikerLester:
 	generictrainer HIKER, LESTER, EVENT_BEAT_HIKER_LESTER, .SeenText, .BeatenText
 
-	text "What, can't a Hiker"
+	text "What, can't a HIKER"
 	line "explore a forest"
 
 	para "instead of a moun-"
@@ -202,12 +202,12 @@ NoisyForestPikabluScript:
 	sjump .Leave
 
 .PikabluText:
-	text "Marill: Rill!"
+	text "MARILL: Rill!"
 	done
 
 .OwnerText1:
 	text "You found my"
-	line "Pikablu!"
+	line "PIKABLU!"
 	cont "Thank you!"
 	done
 
@@ -218,8 +218,8 @@ NoisyForestPikabluScript:
 
 .OwnerText3:
 	text "A souvenir of your"
-	line "time on Shamouti"
-	cont "Island!"
+	line "time on SHAMOUTI"
+	cont "ISLAND!"
 
 	para "Doesn't it look"
 	line "strange?"
@@ -233,7 +233,7 @@ NoisyForestPikabluScript:
 	line "it right now."
 
 	para "Come find me by"
-	line "the #mon Center"
+	line "the #MON CENTER"
 	cont "if you want it."
 	done
 
@@ -332,7 +332,7 @@ KatyScript:
 
 .IntroText:
 	text "Hello there!"
-	line "My name is Katy."
+	line "My name is KATY."
 
 	para "I'm the owner of a"
 	line "patisserie in a"
@@ -348,7 +348,7 @@ KatyScript:
 	line "bring happiness"
 	cont "in just one bite,"
 
-	para "Bug-type #mon"
+	para "bug-type #MON"
 	line "hiding in foliage…"
 
 	para "Both are small but"
@@ -384,7 +384,7 @@ KatyScript:
 
 .BeatenText:
 	text "My sweet little"
-	line "#mon dropped"
+	line "#MON dropped"
 	cont "like flies!"
 	done
 
@@ -397,5 +397,5 @@ KatyScript:
 	done
 
 NoisyForestSignpostText:
-	text "Noisy Forest"
+	text "NOISY FOREST"
 	done

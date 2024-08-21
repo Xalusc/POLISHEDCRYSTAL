@@ -39,25 +39,25 @@ SunnyCallback:
 GenericTrainerTwinsToriandtil1:
 	generictrainer TWINS, ANNANDANNE1, EVENT_BEAT_TWINS_ANN_AND_ANNE, TwinsToriandtil1SeenText, TwinsToriandtil1BeatenText
 
-	text "Til: I can tell"
+	text "TIL: I can tell"
 	line "what my sister and"
 
-	para "my #mon are"
+	para "my #MON are"
 	line "thinking."
 	done
 
 GenericTrainerTwinsToriandtil2:
 	generictrainer TWINS, ANNANDANNE2, EVENT_BEAT_TWINS_ANN_AND_ANNE, TwinsToriandtil2SeenText, TwinsToriandtil2BeatenText
 
-	text "Tori: We share the"
+	text "TORI: We share the"
 	line "same feelings as"
-	cont "our #mon."
+	cont "our #MON."
 	done
 
 GenericTrainerPsychicGreg:
 	generictrainer PSYCHIC_T, GREG, EVENT_BEAT_PSYCHIC_GREG, PsychicGregSeenText, PsychicGregBeatenText
 
-	text "Putting #mon to"
+	text "Putting #MON to"
 	line "sleep or paralyz-"
 	cont "ing them are good"
 	cont "battle techniques."
@@ -110,25 +110,25 @@ GenericTrainerBeautyCassandra:
 	done
 
 TwinsToriandtil1SeenText:
-	text "Til: Tori and I"
+	text "TIL: TORI and I"
 	line "are in this to-"
 	cont "gether!"
 	done
 
 TwinsToriandtil1BeatenText:
 TwinsToriandtil2BeatenText:
-	text "Til & Tori: Nnn… A"
+	text "TIL & TORI: Nnn… A"
 	line "little too strong."
 	done
 
 TwinsToriandtil2SeenText:
-	text "Tori: Til and I"
+	text "TORI: TIL and I"
 	line "are in this to-"
 	cont "gether!"
 	done
 
 PsychicGregSeenText:
-	text "#mon can't do a"
+	text "#MON can't do a"
 	line "thing if they are"
 	cont "asleep."
 
@@ -142,9 +142,9 @@ PsychicGregBeatenText:
 	done
 
 MeetSunnyText:
-	text "Sunny: Hi!"
+	text "SUNNY: Hi!"
 
-	para "I'm Sunny of Sun-"
+	para "I'm SUNNY of Sun-"
 	line "day, meaning it's"
 	cont "Sunday today!"
 	done
@@ -156,7 +156,7 @@ SunnyGivesGiftText:
 	done
 
 SunnyGaveGiftText:
-	text "Sunny: That thing…"
+	text "SUNNY: That thing…"
 
 	para "Um…"
 
@@ -167,30 +167,30 @@ SunnyGaveGiftText:
 	para "Oh! I remember"
 	line "now!"
 
-	para "A #mon that"
-	line "knows Electric"
+	para "A #MON that"
+	line "knows electric"
 
 	para "moves should hold"
 	line "it."
 
-	para "My sis Monica said"
+	para "My sis MONICA said"
 	line "it powers up"
-	cont "Electric moves!"
+	cont "electric moves!"
 	done
 
 SunnySundayText:
-	text "Sunny: My sisters"
+	text "SUNNY: My sisters"
 	line "and brothers are"
-	cont "Monica, Tuscany,"
-	cont "Wesley, Arthur,"
-	cont "Frieda and Santos."
+	cont "MONICA, TUSCANY,"
+	cont "WESLEY, ARTHUR,"
+	cont "FRIEDA and SANTOS."
 
 	para "They're all older"
 	line "than me!"
 	done
 
 SunnyNotSundayText:
-	text "Sunny: Isn't today"
+	text "SUNNY: Isn't today"
 	line "Sunday?"
 	cont "Um… I forgot!"
 	done
@@ -220,5 +220,5 @@ BeautyCassandraBeatenText:
 	done
 
 Route37SignText:
-	text "Route 37"
+	text "ROUTE 37"
 	done

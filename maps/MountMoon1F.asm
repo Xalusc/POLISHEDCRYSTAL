@@ -90,7 +90,7 @@ MountMoon1FTrigger0:
 GenericTrainerBugManiacKenta:
 	generictrainer BUG_MANIAC, KENTA, EVENT_BEAT_BUG_MANIAC_KENTA, BugManiacKentaSeenText, BugManiacKentaBeatenText
 
-	text "Team Rocket used"
+	text "TEAM ROCKET used"
 	line "to lurk around"
 	cont "here."
 
@@ -103,7 +103,7 @@ GenericTrainerBugManiacKenta:
 GenericTrainerLassMiriam:
 	generictrainer LASS, MIRIAM, EVENT_BEAT_LASS_MIRIAM, LassMiriamSeenText, LassMiriamBeatenText
 
-	text "Mt.Moon is big,"
+	text "MT.MOON is big,"
 	line "but you'll get"
 	cont "used to it soon."
 	done
@@ -112,7 +112,7 @@ GenericTrainerSuperNerdJovan:
 	generictrainer SUPER_NERD, JOVAN, EVENT_BEAT_SUPER_NERD_JOVAN, SuperNerdJovanSeenText, SuperNerdJovanBeatenText
 
 	text "I have yet to find"
-	line "stronger #mon."
+	line "stronger #MON."
 
 	para "Where might they"
 	line "be?"
@@ -122,7 +122,7 @@ GenericTrainerBugManiacRobby:
 	generictrainer BUG_MANIAC, ROBBY, EVENT_BEAT_BUG_MANIAC_ROBBY, BugManiacRobbySeenText, BugManiacRobbyBeatenText
 
 	text "I used to only"
-	line "catch bug #mon"
+	line "catch bug #MON"
 	cont "as a hobby,"
 
 	para "but now it's my"
@@ -134,7 +134,7 @@ GenericTrainerLassIris:
 
 	text "I come here every"
 	line "day just to catch"
-	cont "a Clefairy, but"
+	cont "a CLEFAIRY, but"
 
 	para "I haven't seen a"
 	line "single one…"
@@ -177,7 +177,7 @@ MountMoonRivalTextBefore:
 
 	para "about what I was"
 	line "lacking with my"
-	cont "#mon…"
+	cont "#MON…"
 
 	para "And we came up"
 	line "with an answer."
@@ -190,7 +190,7 @@ MountMoonRivalTextWin:
 	text "…… …… ……"
 
 	para "I thought I raised"
-	line "my #mon to be"
+	line "my #MON to be"
 
 	para "the best they"
 	line "could be…"
@@ -211,11 +211,11 @@ MountMoonRivalTextAfter:
 
 	para "After some more"
 	line "training in"
-	cont "Dragon's Den…"
+	cont "DRAGON'S DEN…"
 
 	para "I'm going to be"
 	line "the greatest #-"
-	cont "mon trainer ever."
+	cont "MON trainer ever."
 
 	para "Because these guys"
 	line "are behind me."
@@ -235,10 +235,10 @@ MountMoonRivalTextLoss:
 	para "I've repaid my"
 	line "debt to you."
 
-	para "With my #mon,"
+	para "With my #MON,"
 	line "I'm going to beat"
 
-	para "the Champion and"
+	para "the CHAMPION and"
 	line "become the world's"
 	cont "greatest trainer."
 	done
@@ -273,7 +273,7 @@ SuperNerdJovanSeenText:
 	done
 
 SuperNerdJovanBeatenText:
-	text "My #mon"
+	text "My #MON"
 	line "won't do!"
 	done
 
@@ -281,8 +281,8 @@ BugManiacRobbySeenText:
 	text "You need to go"
 	line "through this cave"
 
-	para "to get to Cerulean"
-	line "City."
+	para "to get to CERULEAN"
+	line "CITY."
 	done
 
 BugManiacRobbyBeatenText:
@@ -291,7 +291,7 @@ BugManiacRobbyBeatenText:
 
 LassIrisSeenText:
 	text "Have you seen a"
-	line "Clefairy?"
+	line "CLEFAIRY?"
 
 	para "They're so cute!"
 	done

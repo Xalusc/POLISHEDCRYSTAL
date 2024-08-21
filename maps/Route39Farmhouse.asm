@@ -88,7 +88,7 @@ FarmerMScript_SellMilk:
 	db 3 ; items
 	db "× 1    ¥{d:ROUTE39FARMHOUSE_MILK_PRICE}@"
 	db "×12   ¥{d:ROUTE39FARMHOUSE_DOZEN_MILK_PRICE}@"
-	db "Cancel@"
+	db "CANCEL@"
 
 .Milking:
 	jumpopenedtext FarmerMText_Milking
@@ -111,11 +111,11 @@ PokefanF_AcrobaticsFarmer:
 	jumpopenedtext FarmerFText_AcrobaticsSpeech
 
 FarmerMText_SickCow:
-	text "My Miltank ain't"
+	text "My MILTANK ain't"
 	line "givin' me milk"
 	cont "n'more."
 
-	para "This here Farm's"
+	para "This here FARM's"
 	line "got famous milk."
 
 	para "Most everyone"
@@ -125,17 +125,17 @@ FarmerMText_SickCow:
 	line "o' milk if'n I"
 
 	para "feed it lots o'"
-	line "Berries, I reckon."
+	line "BERRIES, I reckon."
 	done
 
 FarmerMText_BuyMilk:
 	text "How'd you like my"
-	line "Moomoo Milk?"
+	line "MOOMOO MILK?"
 
 	para "It's my pride and"
 	line "joy, there."
 
-	para "Give it to #mon"
+	para "Give it to #MON"
 	line "to restore HP!"
 
 	para "I'll give it to ya"
@@ -154,7 +154,7 @@ FarmerMText_NoMoney:
 
 FarmerMText_NoRoom:
 	text "I reckon yer"
-	line "Bag's full."
+	line "PACK's full."
 	done
 
 FarmerMText_NoSale:
@@ -169,10 +169,10 @@ FarmerMText_Milking:
 
 FarmerFText_InTrouble:
 	text "Our milk even goes"
-	line "out to Kanto."
+	line "out to KANTO."
 
 	para "So if our own"
-	line "Miltank won't give"
+	line "MILTANK won't give"
 
 	para "us any milk, we're"
 	line "in trouble."
@@ -180,10 +180,10 @@ FarmerFText_InTrouble:
 
 FarmerFText_HealedMiltank:
 	text "You fixed our"
-	line "Miltank, hon. Now"
+	line "MILTANK, hon. Now"
 
-	para "it gives Moomoo"
-	line "Milk again."
+	para "it gives MOOMOO"
+	line "MILK again."
 
 	para "Here's somethin'"
 	line "fer your trouble."
@@ -191,12 +191,12 @@ FarmerFText_HealedMiltank:
 
 FarmerFText_AcrobaticsSpeech:
 	text "That there's"
-	line "Acrobatics."
+	line "ACROBATICS."
 
 	para "It's a move that"
 	line "hurts more if'n"
 
-	para "your #mon ain't"
+	para "your #MON ain't"
 	line "holdin' an item."
 
 	para "You best think how"

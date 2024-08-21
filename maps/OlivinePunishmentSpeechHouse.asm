@@ -17,7 +17,7 @@ OlivinePunishmentSpeechHouse_MapScriptHeader:
 
 OlivinePunishmentSpeechHouseDadText:
 	text "Along the way to"
-	line "Cianwood, there"
+	line "CIANWOOD, there"
 
 	para "are four deserted"
 	line "islands."

@@ -1093,6 +1093,6 @@ DayCare_GenerateEgg:
 	ret
 
 .String_EGG:
-	rawchar "Egg@"
+	rawchar "EGG@"
 
 INCLUDE "data/pokemon/invalid_breedmons.asm"

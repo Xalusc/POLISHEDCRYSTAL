@@ -25,21 +25,21 @@ CeladonHomeDecorStore1FBulbasaurDollScript:
 	jumpthistext
 
 	text "It's a cute"
-	line "Bulbasaur doll!"
+	line "BULBASAUR doll!"
 	done
 
 CeladonHomeDecorStore1FCharmanderDollScript:
 	jumpthistext
 
 	text "It's a tough"
-	line "Charmander doll!"
+	line "CHARMANDER doll!"
 	done
 
 CeladonHomeDecorStore1FSquirtleDollScript:
 	jumpthistext
 
 	text "It's a cool"
-	line "Squirtle doll!"
+	line "SQUIRTLE doll!"
 	done
 
 CeladonHomeDecorStore1FClerkScript:
@@ -117,15 +117,15 @@ CeladonHomeDecorStore1FClerkScript:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Bulbasaur  ¥16000@"
-	db "Charmander ¥16000@"
-	db "Squirtle   ¥16000@"
-	db "Cancel@"
+	db "BULBASAUR  ¥16000@"
+	db "CHARMANDER ¥16000@"
+	db "SQUIRTLE   ¥16000@"
+	db "CANCEL@"
 
 CeladonHomeDecorStore1FReceptionistText:
 	text "Hello! Welcome to"
-	line "Celadon Dept."
-	cont "Store Home Decor!"
+	line "CELADON DEPT."
+	cont "STORE HOME DECOR!"
 
 	para "The directory is"
 	line "on the wall."
@@ -134,36 +134,36 @@ CeladonHomeDecorStore1FReceptionistText:
 CeladonHomeDecorStore1FClerkText:
 	text "Welcome! Would you"
 	line "like a doll as a"
-	cont "Celadon souvenir?"
+	cont "CELADON souvenir?"
 	done
 
 BoughtBulbasaurDollText:
 	text "<PLAYER> bought"
-	line "Bulbasaur Doll."
+	line "BULBASAUR DOLL."
 	done
 
 BulbasaurDollSentText:
-	text "Bulbasaur Doll"
+	text "BULBASAUR DOLL"
 	line "was sent home."
 	done
 
 BoughtCharmanderDollText:
 	text "<PLAYER> bought"
-	line "Charmander Doll."
+	line "CHARMANDER DOLL."
 	done
 
 CharmanderDollSentText:
-	text "Charmander Doll"
+	text "CHARMANDER DOLL"
 	line "was sent home."
 	done
 
 BoughtSquirtleDollText:
 	text "<PLAYER> bought"
-	line "Squirtle Doll."
+	line "SQUIRTLE DOLL."
 	done
 
 SquirtleDollSentText:
-	text "Squirtle Doll"
+	text "SQUIRTLE DOLL"
 	line "was sent home."
 	done
 
@@ -182,15 +182,15 @@ CeladonHomeDecorStore1FCooltrainerfText:
 	line "feels more upscale"
 
 	para "than the main"
-	line "Dept.Store."
+	line "DEPT.STORE."
 	done
 
 CeladonHomeDecorStore1FDirectoryText:
-	text "1F: Lobby"
+	text "1F: LOBBY"
 
-	para "2F: Beds"
+	para "2F: BEDS"
 
-	para "3F: Carpets"
+	para "3F: CARPETS"
 
-	para "4F: Jumbo Dolls"
+	para "4F: JUMBO DOLLS"
 	done

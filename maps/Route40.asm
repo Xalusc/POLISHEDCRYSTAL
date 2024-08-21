@@ -60,7 +60,7 @@ GenericTrainerSwimmerfPaula:
 GenericTrainerSwimmermSimon:
 	generictrainer SWIMMERM, SIMON, EVENT_BEAT_SWIMMERM_SIMON, SwimmermSimonSeenText, SwimmermSimonBeatenText
 
-	text "Cianwood City is"
+	text "CIANWOOD CITY is"
 	line "a good distance"
 	cont "away from here."
 	done
@@ -110,10 +110,10 @@ Route40FisherScript:
 
 .IntroText:
 	text "I was fishing when"
-	line "some #mon leap-"
+	line "some #MON leap-"
 	cont "ed up and knocked"
 
-	para "my Rod into the"
+	para "my ROD into the"
 	line "water!"
 
 	para "How will I catch"
@@ -126,10 +126,10 @@ Route40FisherScript:
 
 .QuestionText:
 	text "You give me a"
-	line "Silver Leaf and"
+	line "SILVER LEAF and"
 
 	para "I'll teach your"
-	line "#mon Knock Off."
+	line "#MON KNOCK OFF."
 
 	para "How about that?"
 	done
@@ -138,7 +138,7 @@ Route40FisherScript:
 	waitbutton
 	jumpthisopenedtext
 
-	text "No Leaf, no move."
+	text "No LEAF, no move."
 	line "My time isn't free."
 	done
 
@@ -146,7 +146,7 @@ Route40FisherScript:
 	takeitem SILVER_LEAF
 	jumpthisopenedtext
 
-	text "Knock Off knocks"
+	text "KNOCK OFF knocks"
 	line "a held item away"
 
 	para "so it can't be used"
@@ -199,7 +199,7 @@ SwimmermRandallSeenText:
 	line "and fit!"
 
 	para "Don't ride your"
-	line "#mon! Swim!"
+	line "#MON! Swim!"
 	done
 
 SwimmermRandallBeatenText:
@@ -208,7 +208,7 @@ SwimmermRandallBeatenText:
 
 SwimmerfElaineSeenText:
 	text "Are you going to"
-	line "Cianwood?"
+	line "CIANWOOD?"
 
 	para "How about a quick"
 	line "battle first?"
@@ -223,7 +223,7 @@ SwimmerfPaulaSeenText:
 	line "me."
 
 	para "I'm hanging on to"
-	line "a sea #mon!"
+	line "a sea #MON!"
 	done
 
 SwimmerfPaulaBeatenText:
@@ -233,7 +233,7 @@ SwimmerfPaulaBeatenText:
 
 Route40BeachGirlText:
 	text "I just ate at the"
-	line "Olivine Café, so"
+	line "OLIVINE CAFE, so"
 
 	para "I'm taking a break"
 	line "before swimming."
@@ -256,7 +256,7 @@ Route40PokefanMText2:
 	done
 
 Route40PicnickerText:
-	text "I came to Olivine"
+	text "I came to OLIVINE"
 	line "by ship to see the"
 
 	para "sights and soak up"
@@ -268,11 +268,11 @@ Route40PicnickerText:
 	done
 
 Route40BeachGuyText:
-	text "The Battle Tower"
+	text "The BATTLE TOWER"
 	line "is almost ready!"
 
 	para "Trainers are head-"
-	line "ing to Olivine"
+	line "ing to OLIVINE"
 
 	para "from all over the"
 	line "world to test"
@@ -281,7 +281,7 @@ Route40BeachGuyText:
 
 Route40BeachGuyText2:
 	text "Have you gone to"
-	line "the Battle Tower?"
+	line "the BATTLE TOWER?"
 
 	para "I think a lot of"
 	line "tough trainers"
@@ -290,17 +290,17 @@ Route40BeachGuyText2:
 	line "there already."
 
 	para "But since you have"
-	line "so many Badges,"
+	line "so many BADGES,"
 
 	para "you shouldn't do"
 	line "badly at all."
 	done
 
 MeetMonicaText:
-	text "Monica: Glad to"
+	text "MONICA: Glad to"
 	line "meet you. I'm"
 
-	para "Monica of Monday."
+	para "MONICA of Monday."
 	done
 
 MonicaGivesGiftText:
@@ -310,19 +310,19 @@ MonicaGivesGiftText:
 	done
 
 MonicaGaveGiftText:
-	text "Monica: It's an"
+	text "MONICA: It's an"
 	line "item that raises"
 
-	para "the power of Fly-"
+	para "the power of fly-"
 	line "ing-type moves."
 
 	para "You should equip a"
-	line "bird #mon with"
+	line "bird #MON with"
 	cont "that item."
 	done
 
 MonicaMondayText:
-	text "Monica: My broth-"
+	text "MONICA: My broth-"
 	line "ers and sisters"
 
 	para "are all over the"
@@ -333,14 +333,14 @@ MonicaMondayText:
 	done
 
 MonicaNotMondayText:
-	text "Monica: I don't"
+	text "MONICA: I don't"
 	line "think today is"
 	cont "Monday. How sad…"
 	done
 
 Route40SignText:
-	text "Route 40"
+	text "ROUTE 40"
 
-	para "Cianwood City -"
-	line "Olivine City"
+	para "CIANWOOD CITY -"
+	line "OLIVINE CITY"
 	done

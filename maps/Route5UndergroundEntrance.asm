@@ -17,7 +17,7 @@ Route5UndergroundEntrance_MapScriptHeader:
 
 Route5UndergroundPathEntranceTeacherText:
 	text "Many cities in"
-	line "Johto have long"
+	line "JOHTO have long"
 
 	para "histories. I'd"
 	line "love to visit!"

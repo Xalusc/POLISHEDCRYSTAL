@@ -79,29 +79,29 @@ ElderLiScript:
 	setevent EVENT_BEAT_ELDER_LI
 	jumpthisopenedtext
 
-	text "Flash illuminates"
+	text "FLASH illuminates"
 	line "even the darkest"
 	cont "of all places."
 
 	para "You need not teach"
-	line "it to your #mon"
+	line "it to your #MON"
 
 	para "unless you wish"
-	line "to use Flash in"
+	line "to use FLASH in"
 	cont "battle."
 
 	para "Simply press A in"
 	line "the darkness, and"
 
 	para "if any of your"
-	line "#mon can use"
-	cont "Flash, they will."
+	line "#MON can use"
+	cont "FLASH, they will."
 	done
 
 GenericTrainerSageJin:
 	generictrainer SAGE, JIN, EVENT_BEAT_SAGE_JIN, SageJinSeenText, SageJinBeatenText
 
-	text "As #mon grow"
+	text "As #MON grow"
 	line "stronger, so does"
 	cont "the trainer."
 
@@ -109,14 +109,14 @@ GenericTrainerSageJin:
 	line "trainer grows"
 
 	para "stronger, so do"
-	line "the #mon."
+	line "the #MON."
 	done
 
 GenericTrainerSageTroy:
 	generictrainer SAGE, TROY, EVENT_BEAT_SAGE_TROY, SageTroySeenText, SageTroyBeatenText
 
 	text "It is not far to"
-	line "the Elder."
+	line "the ELDER."
 	done
 
 GenericTrainerSageNeal:
@@ -139,7 +139,7 @@ SproutTower3FRivalLeavesElderMovement:
 	step_end
 
 SproutTowerElderLecturesRivalText:
-	text "Elder: You are in-"
+	text "ELDER: You are in-"
 	line "deed skilled as a"
 	cont "trainer."
 
@@ -150,12 +150,12 @@ SproutTowerElderLecturesRivalText:
 	line "this: You should"
 
 	para "treat your"
-	line "#mon better."
+	line "#MON better."
 
 	para "The way you battle"
 	line "is far too harsh."
 
-	para "#mon are not"
+	para "#MON are not"
 	line "tools of war…"
 	done
 
@@ -164,7 +164,7 @@ SproutTowerRivalOnlyCareAboutStrongText:
 	line "…Humph!"
 
 	para "He claims to be"
-	line "the Elder but"
+	line "the ELDER but"
 	cont "he's weak."
 
 	para "It stands to"
@@ -174,20 +174,20 @@ SproutTowerRivalOnlyCareAboutStrongText:
 	line "fools who babble"
 
 	para "about being nice"
-	line "to #mon."
+	line "to #MON."
 
 	para "I only care about"
-	line "strong #mon"
+	line "strong #MON"
 	cont "that can win."
 
 	para "I really couldn't"
 	line "care less about"
-	cont "weak #mon."
+	cont "weak #MON."
 	done
 
 SproutTowerRivalUsedEscapeRopeText:
 	text "<RIVAL> used an"
-	line "Escape Rope!"
+	line "ESCAPE ROPE!"
 	done
 
 SageLiSeenText:
@@ -197,7 +197,7 @@ SageLiSeenText:
 	para "Sprout Tower is a"
 	line "place of training."
 
-	para "People and #mon"
+	para "People and #MON"
 	line "test their bonds"
 
 	para "to build a bright"
@@ -209,7 +209,7 @@ SageLiSeenText:
 	para "Allow me to check"
 	line "the ties between"
 
-	para "your #mon and"
+	para "your #MON and"
 	line "you!"
 	done
 
@@ -224,7 +224,7 @@ SageLiTakeThisFlashText:
 	para "no problem using"
 	line "this move."
 
-	para "Take this Flash"
+	para "Take this FLASH"
 	line "TM."
 	done
 
@@ -237,7 +237,7 @@ SageLiAfterBattleText:
 SageJinSeenText:
 	text "I train to find"
 	line "enlightenment in"
-	cont "#mon!"
+	cont "#MON!"
 	done
 
 SageJinBeatenText:
@@ -248,7 +248,7 @@ SageJinBeatenText:
 SageTroySeenText:
 	text "Let me see how"
 	line "much you trust"
-	cont "your #mon."
+	cont "your #MON."
 	done
 
 SageTroyBeatenText:
@@ -257,7 +257,7 @@ SageTroyBeatenText:
 	done
 
 SageNealSeenText:
-	text "The Elder's TM"
+	text "The ELDER's TM"
 	line "lights even pitch-"
 	cont "black darkness."
 	done
@@ -270,11 +270,11 @@ SageNealBeatenText:
 SproutTower3FPaintingText:
 	text "It's a powerful"
 	line "painting of a"
-	cont "Bellsprout."
+	cont "BELLSPROUT."
 	done
 
 SproutTower3FStatueText:
-	text "A #mon statue…"
+	text "A #MON statue…"
 
 	para "It looks very"
 	line "distinguished."

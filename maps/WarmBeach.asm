@@ -68,7 +68,7 @@ GenericTrainerAromaLadyHolly:
 	done
 
 WarmBeachCooltrainermText:
-	text "There's a #mon"
+	text "There's a #MON"
 	line "here that talks!"
 
 	para "I would never be-"
@@ -85,7 +85,7 @@ WarmBeachCooltrainerfText:
 
 	para "so I have to play"
 	line "the melody of the"
-	cont "Chosen One."
+	cont "chosen one."
 
 	para "I'm pretty nervous,"
 	line "so I came here to"
@@ -119,7 +119,7 @@ WarmBeachLassScript:
 	special PlaceMoneyTopRight
 	jumpthisopenedtext
 
-	text "One Shell Bell,"
+	text "One SHELL BELL,"
 	line "just for you!"
 	done
 
@@ -135,7 +135,7 @@ WarmBeachLassScript:
 	line "off the beach and"
 
 	para "turn them into"
-	line "Shell Bells."
+	line "SHELL BELLS."
 
 	para "People say their"
 	line "chime is healing."
@@ -146,7 +146,7 @@ WarmBeachLassScript:
 
 .Text3:
 	text "I only made one"
-	line "Shell Bell today…"
+	line "SHELL BELL today…"
 	done
 
 .Text4:
@@ -163,9 +163,9 @@ WarmBeachLadyText:
 	line "across the water"
 
 	para "are known as the"
-	line "temples of Fire,"
+	line "temples of fire,"
 
-	para "Ice, and Light-"
+	para "ice, and light-"
 	line "ning."
 
 	para "That's what this"
@@ -176,13 +176,13 @@ WarmBeachLadyText:
 	done
 
 WarmBeachShackSignText:
-	text "Beach Shack"
+	text "BEACH SHACK"
 	done
 
 WarmBeachShrineText:
 	text "It's a shrine"
 	line "dedicated to the"
 
-	para "Guardian of the"
-	line "Seas."
+	para "guardian of the"
+	line "seas."
 	done

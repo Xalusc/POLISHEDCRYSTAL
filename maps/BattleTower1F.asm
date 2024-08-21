@@ -32,7 +32,7 @@ BattleTower1F_MapScriptHeader:
 	const BATTLETOWER1F_RECEPTIONIST
 
 BattleTower1FContinueChallenge:
-; Triggers (usefully) if we're in an ongoing Battle Tower run.
+; Triggers (usefully) if we're in an ongoing BATTLE TOWER run.
 	; Only trigger this once.
 	setscene 1
 
@@ -45,7 +45,7 @@ BattleTower1FContinueChallenge:
 	end
 
 .ResumeChallenge:
-	; We saved in-between rounds. Resume Battle Tower challenge.
+	; We saved in-between rounds. Resume BATTLE TOWER challenge.
 	opentext
 	writethistext
 		text "We've been waiting"
@@ -68,7 +68,7 @@ BattleTower1FContinueChallenge:
 		line "You didn't save"
 
 		para "before exiting"
-		line "the Battle Room."
+		line "the BATTLE ROOM."
 
 		para "I'm awfully sorry,"
 		line "but your challenge"
@@ -116,7 +116,7 @@ Script_CommitBattleTowerResult:
 BattleTower1FRulesScript:
 	opentext
 	writethistext
-		text "Battle Tower rules"
+		text "BATTLE TOWER rules"
 		line "are written here."
 
 		para "Read the rules?"
@@ -124,7 +124,7 @@ BattleTower1FRulesScript:
 	yesorno
 	iffalse_endtext
 	jumpthisopenedtext
-		text "Three #mon may"
+		text "Three #MON may"
 		line "enter battles."
 
 		para "All three must be"
@@ -134,8 +134,8 @@ BattleTower1FRulesScript:
 		line "hold must also be"
 		cont "different."
 
-		para "Eggs or certain"
-		line "Legendary #mon"
+		para "EGGS or certain"
+		line "legendary #MON"
 		cont "aren't eligible"
 		cont "to battle."
 		done
@@ -152,50 +152,51 @@ BattleTower1FStreakText:
 BattleTower1FReceptionistScript:
 	opentext
 	writethistext
-		text "Battle Tower"
+		text "BATTLE TOWER"
 		line "welcomes you!"
 
 		para "I could show you"
-		line "to a Battle Room."
+		line "to a BATTLE ROOM."
 		done
 	promptbutton
 	checkevent EVENT_BATTLE_TOWER_INTRO
-	iftruefwd .BattleTowerMenu
+	;iftruefwd .BattleTowerMenu
+	jp z, .BattleTowerMenu
 
 	; only ask once, so set the flag regardless
 	setevent EVENT_BATTLE_TOWER_INTRO
 	writethistext
 		text "Would you like to"
 		line "hear about the"
-		cont "Battle Tower?"
+		cont "BATTLE TOWER?"
 		done
 	yesorno
 	iffalsefwd .BattleTowerMenu
 
 .Explanation:
 	writethistext
-		text "Battle Tower is a"
+		text "BATTLE TOWER is a"
 		line "facility made for"
-		cont "#mon battles."
+		cont "#MON battles."
 
-		para "Countless #mon"
+		para "Countless #MON"
 		line "trainers gather"
 
 		para "from all over to"
 		line "hold battles in"
 
 		para "specially designed"
-		line "Battle Rooms."
+		line "BATTLE ROOMS."
 
 		para "There are many"
-		line "Battle Rooms in"
-		cont "the Battle Tower."
+		line "BATTLE ROOMS in"
+		cont "the BATTLE TOWER."
 
-		para "Each Room holds"
+		para "Each ROOM holds"
 		line "seven trainers."
 
 		para "Beat them all to"
-		line "get Battle Points."
+		line "get BATTLE POINTS."
 
 		para "To interrupt a"
 		line "session, you must"
@@ -203,8 +204,8 @@ BattleTower1FReceptionistScript:
 		para "save. If not, you"
 		line "won't be able to"
 
-		para "resume your Room"
-		line "challenge."
+		para "resume your ROOM"
+		line "CHALLENGE."
 		prompt
 	; fallthrough
 .BattleTowerMenu:
@@ -212,7 +213,7 @@ BattleTower1FReceptionistScript:
 	setscene 1
 	writethistext
 		text "Want to go into a"
-		line "Battle Room?"
+		line "BATTLE ROOM?"
 		done
 	loadmenu MenuDataHeader_BattleInfoCancel
 	verticalmenu
@@ -227,14 +228,14 @@ BattleTower1FReceptionistScript:
 
 .Challenge:
 	writethistext
-		text "Choose #mon"
+		text "Choose #MON"
 		line "to enter."
 		prompt
 	special Special_BattleTower_SelectParticipants
 	iffalse .BattleTowerMenu
 	writethistext
 		text "Before entering"
-		line "the Battle Room,"
+		line "the BATTLE ROOM,"
 
 		para "your progress will"
 		line "be saved."
@@ -260,7 +261,7 @@ Script_ReturnToBattleTowerChallenge:
 	; Everything ready to go for challenge start
 	writethistext
 		text "Right this way to"
-		line "your Battle Room."
+		line "your BATTLE ROOM."
 		done
 	waitbutton
 	closetext
@@ -295,9 +296,9 @@ MenuDataHeader_BattleInfoCancel:
 MenuData2_BattleInfoCancel:
 	db $a0 ; flags
 	db 3
-	db "Battle@"
-	db "Info@"
-	db "Cancel@"
+	db "BATTLE@"
+	db "INFO@"
+	db "CANCEL@"
 
 BattleTowerPharmacistScript:
 	faceplayer
@@ -314,25 +315,25 @@ BattleTowerPharmacistScript:
 		cont "sleeve--I'll swap"
 
 		para "their items for"
-		line "mine with Trick!"
+		line "mine with TRICK!"
 		done
 	waitbutton
 	setevent EVENT_LISTENED_TO_TRICK_INTRO
 BattleTowerTutorTrickScript:
 	writethistext
 		text "I'll teach your"
-		line "#mon how to"
+		line "#MON how to"
 
-		para "use Trick…"
-		line "for a Silver Leaf."
+		para "use TRICK…"
+		line "for a SILVER LEAF."
 		done
 	waitbutton
 	checkitem SILVER_LEAF
 	iffalsefwd .NoSilverLeaf
 	writethistext
 		text "Should I teach"
-		line "your #mon"
-		cont "Trick?"
+		line "your #MON"
+		cont "TRICK?"
 		done
 	yesorno
 	iffalsefwd .TutorRefused
@@ -349,20 +350,20 @@ BattleTowerTutorTrickScript:
 .NoSilverLeaf
 	jumpthisopenedtext
 		text "Tch. You don't have"
-		line "a Silver Leaf…"
+		line "a SILVER LEAF…"
 		done
 
 .TeachMove
 	takeitem SILVER_LEAF
 	jumpthisopenedtext
-		text "Now your #mon"
-		line "can use Trick too!"
+		text "Now your #MON"
+		line "can use TRICK too!"
 		cont "Isn't it devious?"
 		done
 
 Text_BattleTowerCooltrainerF:
 	text "There are lots of"
-	line "Battle Rooms, but"
+	line "BATTLE ROOMS, but"
 
 	para "I'm going to win"
 	line "them all!"
@@ -376,7 +377,7 @@ Text_BattleTowerGranny:
 	line "in battle."
 
 	para "Making your"
-	line "#mon hold items"
+	line "#MON hold items"
 
 	para "is the key to"
 	line "winning battles."
@@ -387,26 +388,26 @@ Text_BattleTowerBugCatcher:
 	line "how far I can go"
 
 	para "using just bug"
-	line "#mon."
+	line "#MON."
 
 	para "Don't let there be"
-	line "any fire #mon…"
+	line "any fire #MON…"
 	done
 
 PokemonJournalPalmerScript:
 	setflag ENGINE_READ_PALMER_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Tower Tycoon"
-	cont "Palmer!"
+	para "SPECIAL FEATURE:"
+	line "TOWER TYCOON"
+	cont "PALMER!"
 
-	para "Palmer is reported"
+	para "PALMER is reported"
 	line "to have a son in"
 
-	para "the Sinnoh region"
+	para "the SINNOH region"
 	line "who wants to be a"
 	cont "trainer like him."
 	done

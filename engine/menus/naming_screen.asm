@@ -113,7 +113,7 @@ NamingScreen:
 	jmp .StoreSpriteIconParams
 
 .PlayerNameString:
-	db "Your name?@"
+	db "YOUR NAME?@"
 
 .Rival:
 	ld hl, RivalSpriteGFX
@@ -125,7 +125,7 @@ NamingScreen:
 	jmp .StoreSpriteIconParams
 
 .RivalNameString:
-	db "Rival's name?@"
+	db "RIVAL'S NAME?@"
 
 .TrendyPhrase:
 	ld hl, ArtistSpriteGFX
@@ -137,7 +137,7 @@ NamingScreen:
 	jr .StoreSpriteIconParams
 
 .TrendyPhraseString:
-	db "What's trendy?@"
+	db "WHAT'S TRENDY?@"
 
 .Box:
 	ld de, vTiles0 tile $00
@@ -160,7 +160,7 @@ NamingScreen:
 	jr .StoreBoxIconParams
 
 .BoxNameString:
-	db "Box name?@"
+	db "BOX NAME?@"
 
 .LoadSprite:
 	push bc
@@ -344,12 +344,12 @@ NamingScreenJoypadLoop:
 	call NamingScreen_GetLastCharacter
 	call NamingScreen_TryAddCharacter
 	jr c, .start
-	ld a, [wNamingScreenLetterCase]
-	and a ; already lowercase? (a == 1)
-	ret nz
-	ld a, [wNamingScreenCurNameLength]
-	dec a ; first character uppercase, rest lowercase (by default)
-	jr z, .select
+	;ld a, [wNamingScreenLetterCase]
+	;and a ; already lowercase? (a == 1)
+	;ret nz
+	;ld a, [wNamingScreenCurNameLength]
+	;dec a ; first character uppercase, rest lowercase (by default)
+	;jr z, .select
 	ret
 
 .start
@@ -1101,4 +1101,4 @@ NamingScreen_DrawBorders:
 	db NAMINGSCREEN_BORDER + 7
 
 .ShiftDelEnd:
-	db "Shift  Del   End@"
+	db "SHIFT  DEL   END@"

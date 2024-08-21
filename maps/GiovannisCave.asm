@@ -108,7 +108,7 @@ GiovannisCaveRadioAfterTimeTravelText:
 	text "You cannot turn on"
 	line "the radio."
 
-	para "Giovanni must have"
+	para "GIOVANNI must have"
 	line "left it here…"
 	done
 
@@ -164,7 +164,7 @@ GiovannisCaveGiovanniIntroText:
 	cont "no place for kids"
 	cont "like you."
 
-	para "Lyra: Huh? That's"
+	para "LYRA: Huh? That's"
 	line "the guy we just"
 
 	para "saw arguing with"
@@ -188,7 +188,7 @@ GiovannisCaveGiovanniMemoriesText:
 	para "…"
 
 	para "I'm on my way to"
-	line "Goldenrod City to"
+	line "GOLDENROD CITY to"
 
 	para "answer the call"
 	line "and join my team."
@@ -199,40 +199,40 @@ GiovannisCaveGiovanniMemoriesText:
 	done
 
 GiovannisCaveLyraQuestionsText:
-	text "Lyra: Three years"
-	line "ago…? Goldenrod"
-	cont "City…?"
+	text "LYRA: Three years"
+	line "ago…? GOLDENROD"
+	cont "CITY…?"
 	done
 
 GiovannisCaveLyraRecognizesGiovanniText:
-	text "This is who Team"
-	line "Rocket was trying"
+	text "This is who TEAM"
+	line "ROCKET was trying"
 	cont "to reach!"
 
 	para "Their boss,"
-	line "Giovanni!"
+	line "GIOVANNI!"
 
 	para "<PLAYER>, when did"
-	line "you meet Giovanni"
+	line "you meet GIOVANNI"
 	cont "before…?"
 	done
 
 GiovannisCaveBroadcastText:
 	text "“… …Ahem, we are"
-	line "Team Rocket!"
+	line "TEAM ROCKET!"
 	cont "After three years"
 	cont "of preparation, we"
 	cont "have risen again"
 	cont "from the ashes!"
-	cont "Giovanni! Can you"
+	cont "GIOVANNI! Can you"
 	cont "hear? We did it!"
 	cont "Where is our boss?"
 	cont "Is he listening?”"
 
-	para "Lyra: Team Rocket"
+	para "LYRA: TEAM ROCKET"
 	line "has occupied the"
 
-	para "Radio Tower right"
+	para "RADIO TOWER right"
 	line "now…"
 
 	para "You're there, but"
@@ -240,7 +240,7 @@ GiovannisCaveBroadcastText:
 	done
 
 GiovannisCaveGiovanniIMustGoText:
-	text "Giovanni: My old"
+	text "GIOVANNI: My old"
 	line "associates need"
 	cont "me…"
 
@@ -248,10 +248,10 @@ GiovannisCaveGiovanniIMustGoText:
 	line "the failure of"
 	cont "three years ago!"
 
-	para "Team Rocket will"
+	para "TEAM ROCKET will"
 	line "be born again!"
 
-	para "Lyra: Hah!"
+	para "LYRA: Hah!"
 	line "<PLAYER> already"
 	cont "stopped you!"
 	cont "…Will stop you."
@@ -262,7 +262,7 @@ GiovannisCaveGiovanniIMustGoText:
 	para "…Traveling through"
 	line "time is confusing!"
 
-	para "Giovanni: Enough"
+	para "GIOVANNI: Enough"
 	line "chatter! Get out"
 	cont "of my way!"
 	done
@@ -273,7 +273,7 @@ GiovannisCaveGiovanniBeatenText:
 	done
 
 GiovannisCaveGiovanniAfterText:
-	text "Giovanni: How is"
+	text "GIOVANNI: How is"
 	line "this possible…?"
 
 	para "The past three"
@@ -289,14 +289,14 @@ GiovannisCaveGiovanniAfterText:
 
 GiovannisCaveBroadcastAfterText:
 	text "“… …Hey! Where has"
-	line "Giovanni gone?"
+	line "GIOVANNI gone?"
 	cont "I wonder if he is"
 	cont "listening to our"
 	cont "broadcast… …”"
 	done
 
 GiovannisCaveLyraFeelsSorryText:
-	text "Lyra: They keep"
+	text "LYRA: They keep"
 	line "calling for their"
 	cont "boss."
 
@@ -310,7 +310,7 @@ GiovannisCaveLyraFeelsSorryText:
 	done
 
 GiovannisCaveLyraWantsToLeaveText:
-	text "Lyra: Not again…!"
+	text "LYRA: Not again…!"
 	line "I've had enough!"
 
 	para "Please let us go"

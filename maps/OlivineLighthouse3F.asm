@@ -75,8 +75,8 @@ OlivineLighthouse3FBattleGirlEmy:
 	jumpthisopenedtext
 
 .AfterText2:
-	text "One of the Elite"
-	line "Four, Bruno, is a"
+	text "One of the ELITE"
+	line "FOUR, BRUNO, is a"
 	cont "fighter like me."
 
 	para "To become as"
@@ -85,7 +85,7 @@ OlivineLighthouse3FBattleGirlEmy:
 	done
 
 .IntroText:
-	text "As a Battle Girl,"
+	text "As a BATTLE GIRL,"
 	line "I train intensely"
 	cont "every day."
 
@@ -94,7 +94,7 @@ OlivineLighthouse3FBattleGirlEmy:
 
 	para "Can you beat all"
 	line "the trainers in"
-	cont "this Lighthouse?"
+	cont "this LIGHTHOUSE?"
 
 	para "If you can, then"
 	line "I will battle you."
@@ -106,7 +106,7 @@ OlivineLighthouse3FBattleGirlEmy:
 
 	para "Then you have one"
 	line "opponent left--"
-	cont "Chuck's own stu-"
+	cont "CHUCK's own stu-"
 	cont "dent--me!"
 
 	para "Ready to spar?"
@@ -119,7 +119,7 @@ OlivineLighthouse3FBattleGirlEmy:
 
 .SeenText:
 	text "From behind my"
-	line "Protect Pads, I"
+	line "PROTECT PADS, I"
 	cont "attack! Ki-yaah!"
 	done
 
@@ -135,7 +135,7 @@ OlivineLighthouse3FBattleGirlEmy:
 	para "But you can become"
 	line "even stronger."
 
-	para "These Protect Pads"
+	para "These PROTECT PADS"
 	line "will let you make"
 
 	para "contact with your"
@@ -156,19 +156,19 @@ GenericTrainerGentlemanPreston:
 	generictrainer GENTLEMAN, PRESTON, EVENT_BEAT_GENTLEMAN_PRESTON, GentlemanPrestonSeenText, GentlemanPrestonBeatenText
 
 	text "Jasmine used to"
-	line "use Rock #mon"
-	cont "like Onix."
+	line "use rock-type #MON"
+	cont "like ONIX."
 	done
 
 GenericTrainerSailorTerrell:
 	generictrainer SAILOR, TERRELL, EVENT_BEAT_SAILOR_TERRELL, SailorTerrellSeenText, SailorTerrellBeatenText
 
 	text "Every time I come"
-	line "back to Olivine, I"
-	cont "visit the Gym."
+	line "back to OLIVINE, I"
+	cont "visit the GYM."
 
-	para "The Gym Leader's"
-	line "#mon type has"
+	para "The GYM LEADER's"
+	line "#MON type has"
 
 	para "changed without me"
 	line "noticing."
@@ -192,7 +192,7 @@ BirdKeeperTheoAfterBattleText:
 	line "you go up?"
 
 	para "I want to visit"
-	line "the sick #mon,"
+	line "the sick #MON,"
 
 	para "but I can't get up"
 	line "there…"
@@ -203,7 +203,7 @@ Bird_keeperTheoFinalText:
 	line "you go up?"
 
 	para "I heard the sick"
-	line "#mon is better"
+	line "#MON is better"
 	cont "now, but I can't"
 	cont "get up there…"
 	done
@@ -222,7 +222,7 @@ SailorTerrellBeatenText:
 GentlemanPrestonSeenText:
 	text "I travel the world"
 	line "to train my #-"
-	cont "mon. I wish to"
+	cont "MON. I wish to"
 	cont "battle with you."
 	done
 

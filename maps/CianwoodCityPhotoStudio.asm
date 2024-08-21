@@ -60,11 +60,11 @@ CianwoodPhotoStudioFishingGuruScript:
 	jumpopenedtext PhotoStudioEggPictureText
 
 PhotoStudioGreetingText:
-	text "I am Cameron"
-	line "the Photographer."
+	text "I am CAMERON"
+	line "the PHOTOGRAPHER."
 
 	para "You have magnifi-"
-	line "cent #mon with"
+	line "cent #MON with"
 	cont "you."
 
 	para "How about a photo"
@@ -74,7 +74,7 @@ PhotoStudioGreetingText:
 PhotoStudioWhichMonText:
 	text "OK! Big smile now!"
 
-	para "Which #mon"
+	para "Which #MON"
 	line "should I photo-"
 	cont "graph?"
 	done
@@ -116,6 +116,6 @@ PhotoStudioNoPictureText:
 	done
 
 PhotoStudioEggPictureText:
-	text "An Egg? My talent"
+	text "An EGG? My talent"
 	line "is worth more…"
 	done

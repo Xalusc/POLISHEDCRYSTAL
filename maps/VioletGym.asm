@@ -72,7 +72,7 @@ VioletGymFalknerScript:
 GenericTrainerBird_keeperRod:
 	generictrainer BIRD_KEEPER, ROD, EVENT_BEAT_BIRD_KEEPER_ROD, Bird_keeperRodSeenText, Bird_keeperRodBeatenText
 
-	text "Falkner's skills"
+	text "FALKNER's skills"
 	line "are for real!"
 
 	para "Don't get cocky"
@@ -106,51 +106,51 @@ VioletGymStatue:
 	jumpstd gymstatue3
 
 FalknerIntroText:
-	text "I'm Falkner, the"
-	line "Violet #mon Gym"
-	cont "Leader!"
+	text "I'm FALKNER, the"
+	line "VIOLET #MON GYM"
+	cont "LEADER!"
 
 	para "People say you can"
-	line "clip Flying-type"
+	line "clip flying-type"
 
-	para "#mon's wings"
+	para "#MON's wings"
 	line "with a jolt of"
 	cont "electricity…"
 
 	para "I won't allow such"
 	line "insults to bird"
-	cont "#mon!"
+	cont "#MON!"
 
 	para "I'll show you the"
 	line "real power of the"
 
 	para "magnificent bird"
-	line "#mon!"
+	line "#MON!"
 	done
 
 FalknerWinLossText:
 	text "…Darn! My dad's"
 	line "cherished bird"
-	cont "#mon…"
+	cont "#MON…"
 
 	para "All right."
 	line "Take this."
 
 	para "It's the official"
-	line "#mon League"
-	cont "Zephyr Badge."
+	line "#MON LEAGUE"
+	cont "ZEPHYR BADGE."
 	done
 
 ReceivedZephyrBadgeText:
 	text "<PLAYER> received"
-	line "the Zephyr Badge."
+	line "the ZEPHYR BADGE."
 	done
 
 FalknerZephyrBadgeText:
-	text "The Zephyr Badge"
+	text "The ZEPHYR BADGE"
 	line "enables you to"
 
-	para "command #mon,"
+	para "command #MON,"
 	line "even traded ones,"
 	cont "up to <LV>20."
 
@@ -160,7 +160,7 @@ FalknerZephyrBadgeText:
 
 FalknerTMMudSlapText:
 	text "By using a TM, a"
-	line "#mon will"
+	line "#MON will"
 
 	para "instantly learn a"
 	line "new move."
@@ -170,7 +170,7 @@ FalknerTMMudSlapText:
 	cont "you want."
 
 	para "TM51 contains"
-	line "Roost."
+	line "ROOST."
 
 	para "It lands on the"
 	line "ground to restore"
@@ -178,13 +178,13 @@ FalknerTMMudSlapText:
 	done
 
 FalknerFightDoneText:
-	text "There are #mon"
-	line "Gyms in cities and"
+	text "There are #MON"
+	line "GYMS in cities and"
 	cont "towns ahead."
 
 	para "You should test"
 	line "your skills at"
-	cont "these Gyms."
+	cont "these GYMS."
 
 	para "I'm going to train"
 	line "harder to become"
@@ -201,7 +201,7 @@ Bird_keeperRodSeenText:
 	line "training night and"
 
 	para "day to become bird"
-	line "#mon masters."
+	line "#MON masters."
 
 	para "Come on!"
 	done
@@ -213,7 +213,7 @@ Bird_keeperRodBeatenText:
 Bird_keeperAbeSeenText:
 	text "Let me see if you"
 	line "are good enough to"
-	cont "face Falkner!"
+	cont "face FALKNER!"
 	done
 
 Bird_keeperAbeBeatenText:
@@ -235,10 +235,10 @@ VioletGymGuyText:
 	para "You believe?"
 	line "Then listen."
 
-	para "The Grass-type is"
+	para "The grass-type is"
 	line "weak against the"
 
-	para "Flying-type. Keep"
+	para "flying-type. Keep"
 	line "this in mind."
 	done
 
@@ -246,19 +246,19 @@ VioletGymGuyWinText:
 	text "Nice battle! Keep"
 	line "it up, and you'll"
 
-	para "be the Champ in no"
+	para "be the CHAMP in no"
 	line "time at all!"
 	done
 
 VioletGymGuyFalknerAwayText:
 	text "Hey! You can't"
-	line "challenge Falkner"
+	line "challenge FALKNER"
 	cont "right now."
 
-	para "He's in Dark Cave"
-	line "taming an Ursa-"
+	para "He's in DARK CAVE"
+	line "taming an URSA-"
 
-	para "ring that attacked"
+	para "RING that attacked"
 	line "a young trainer."
 
 	para "Come back later."

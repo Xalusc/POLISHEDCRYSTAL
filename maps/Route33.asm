@@ -148,14 +148,14 @@ HikerAnthony1BeatenText:
 	done
 
 HikerAnthony1AfterText:
-	text "We Hikers are at"
+	text "We HIKERS are at"
 	line "our best in the"
 	cont "mountains."
 	done
 
 HikerAnthonyDunsparceText:
 	text "Hey, did you get a"
-	line "Dunsparce?"
+	line "DUNSPARCE?"
 
 	para "I caught one too."
 
@@ -166,7 +166,7 @@ HikerAnthonyDunsparceText:
 
 SchoolgirlImogenSeenText:
 	text "I'm the best in my"
-	line "class at #mon."
+	line "class at #MON."
 	done
 
 SchoolgirlImogenBeatenText:
@@ -175,5 +175,5 @@ SchoolgirlImogenBeatenText:
 	done
 
 Route33SignText:
-	text "Route 33"
+	text "ROUTE 33"
 	done

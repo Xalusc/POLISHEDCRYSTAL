@@ -65,7 +65,7 @@ GenericTrainerFisherPaton:
 	generictrainer FISHER, PATON, EVENT_BEAT_FISHER_PATON, FisherPatonSeenText, FisherPatonBeatenText
 
 	text "You're working"
-	line "on a #dex?"
+	line "on a #DEX?"
 	cont "That's neat!"
 	done
 
@@ -85,7 +85,7 @@ GenericTrainerSwimmerfKatie:
 GenericTrainerSwimmermJames:
 	generictrainer SWIMMERM, JAMES, EVENT_BEAT_SWIMMERM_JAMES, SwimmermJamesSeenText, SwimmermJamesBeatenText
 
-	text "Can't a Swimmer"
+	text "Can't a SWIMMER"
 	line "use a rowboat"
 	cont "sometimes?"
 	done
@@ -94,8 +94,8 @@ GenericTrainerSwimmermJames:
 GoldenrodHarborMagikarpScript:
 	jumpthistext
 
-	text "This is a Fish"
-	line "#mon! Huh?"
+	text "This is a fish"
+	line "#MON! Huh?"
 
 	para "It's only a doll…"
 	done
@@ -175,10 +175,10 @@ GoldenrodHarborPokefanmScript:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Magikarp    ¥1400@"
-	db "Marill      ¥5600@"
-	db "Octillery  ¥11200@"
-	db "Cancel@"
+	db "MAGIKARP    ¥1400@"
+	db "MARILL      ¥5600@"
+	db "OCTILLERY  ¥11200@"
+	db "CANCEL@"
 
 GoldenrodHarborYoungsterScript:
 	faceplayer
@@ -255,42 +255,42 @@ GoldenrodHarborYoungsterScript:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Magna P.    ¥6400@"
-	db "Tropic P.   ¥9600@"
-	db "Jumbo P.   ¥12800@"
-	db "Cancel@"
+	db "MAGNA P.    ¥6400@"
+	db "TROPIC P.   ¥9600@"
+	db "JUMBO P.   ¥12800@"
+	db "CANCEL@"
 
 GoldenrodHarborFisherText:
 	text "If you're fishing,"
 	line "you have to be"
 
 	para "quiet so you don't"
-	line "scare the #mon."
+	line "scare the #MON."
 
 	para "But to be heard"
 	line "over the waves,"
 
 	para "you have to say"
-	line "things LOUD!"
+	line "things loud!"
 	done
 
 Text_GoldenrodHarborTutorHyperVoice:
 	text "I can teach your"
-	line "#mon how to"
+	line "#MON how to"
 
-	para "use Hyper Voice"
-	line "for a Silver Leaf."
+	para "use HYPER VOICE"
+	line "for a SILVER LEAF."
 	done
 
 Text_GoldenrodHarborTutorNoSilverLeaf:
 	text "You don't have a"
-	line "Silver Leaf!"
+	line "SILVER LEAF!"
 	done
 
 Text_GoldenrodHarborTutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Hyper Voice?"
+	line "your #MON"
+	cont "HYPER VOICE?"
 	done
 
 Text_GoldenrodHarborTutorRefused:
@@ -298,19 +298,19 @@ Text_GoldenrodHarborTutorRefused:
 	done
 
 Text_GoldenrodHarborTutorTaught:
-	text "Now your #mon"
+	text "Now your #MON"
 	line "knows how to use"
-	cont "Hyper Voice!"
+	cont "HYPER VOICE!"
 	done
 
 FisherPatonSeenText:
 	text "The fish I caught"
 	line "was attached to"
-	cont "another #mon!"
+	cont "another #MON!"
 	done
 
 FisherPatonBeatenText:
-	text "Aren't #mon"
+	text "Aren't #MON"
 	line "interesting?"
 	done
 
@@ -343,31 +343,31 @@ GoldenrodHarborDollVendorText:
 
 GoldenrodHarborMagikarpDollText:
 	text "<PLAYER> bought"
-	line "Magikarp Doll."
+	line "MAGIKARP DOLL."
 	done
 
 GoldenrodHarborMagikarpDollSentText:
-	text "Magikarp Doll"
+	text "MAGIKARP DOLL"
 	line "was sent home."
 	done
 
 GoldenrodHarborMarillDollText:
 	text "<PLAYER> bought"
-	line "Marill Doll."
+	line "MARILL DOLL."
 	done
 
 GoldenrodHarborMarillDollSentText:
-	text "Marill Doll"
+	text "MARILL DOLL"
 	line "was sent home."
 	done
 
 GoldenrodHarborOctilleryDollText:
 	text "<PLAYER> bought"
-	line "Octillery Doll."
+	line "OCTILLERY DOLL."
 	done
 
 GoldenrodHarborOctilleryDollSentText:
-	text "Octillery Doll"
+	text "OCTILLERY DOLL"
 	line "was sent home."
 	done
 
@@ -391,31 +391,31 @@ GoldenrodHarborPlantVendorText:
 
 GoldenrodHarborMagnaPlantText:
 	text "<PLAYER> bought"
-	line "Magna Plant."
+	line "MAGNA PLANT."
 	done
 
 GoldenrodHarborMagnaPlantSentText:
-	text "Magna Plant"
+	text "MAGNA PLANT"
 	line "was sent home."
 	done
 
 GoldenrodHarborTropicPlantText:
 	text "<PLAYER> bought"
-	line "Tropic Plant."
+	line "TROPIC PLANT."
 	done
 
 GoldenrodHarborTropicPlantSentText:
-	text "Tropic Plant"
+	text "TROPIC PLANT"
 	line "was sent home."
 	done
 
 GoldenrodHarborJumboPlantText:
 	text "<PLAYER> bought"
-	line "Jumbo Plant."
+	line "JUMBO PLANT."
 	done
 
 GoldenrodHarborJumboPlantSentText:
-	text "Jumbo Plant"
+	text "JUMBO PLANT"
 	line "was sent home."
 	done
 
@@ -430,11 +430,11 @@ GoldenrodHarborLass2Text:
 	done
 
 GoldenrodHarborSignText:
-	text "Goldenrod Harbor"
+	text "GOLDENROD HARBOR"
 	done
 
 GoldenrodHarborAdvancedTipsSignText:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
 	para "Sometimes you'll"
 	line "get lucky with a"
@@ -453,5 +453,5 @@ GoldenrodHarborCrateSignText:
 
 GoldenrodHarborSailboatText:
 	text "It's a sailboat"
-	line "named SeaKing."
+	line "named SEA-KING."
 	done

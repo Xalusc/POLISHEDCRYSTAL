@@ -117,16 +117,16 @@ EusinesHouseGrampsScript:
 
 ReceivedAbraDollText:
 	text "<PLAYER> received"
-	line "Abra Doll."
+	line "ABRA DOLL."
 	done
 
 AbraDollSentHomeText:
-	text "Abra Doll"
+	text "ABRA DOLL"
 	line "was sent home."
 	done
 
 CeladonEusineText1:
-	text "Eusine: Hi!"
+	text "EUSINE: Hi!"
 
 	para "I'm back visiting"
 	line "my hometown."
@@ -143,14 +143,14 @@ EusineLeavesCeladonText:
 	line "fresh rumors of a"
 
 	para "rainbow-colored"
-	line "#mon appearing"
-	cont "at Bell Tower."
+	line "#MON appearing"
+	cont "at BELL TOWER."
 
 	para "I've just had my"
 	line "party healed, so"
 
 	para "now I'm headed to"
-	line "Ecruteak."
+	line "ECRUTEAK."
 
 	para "I'll be seeing"
 	line "you, <PLAYER>!"
@@ -162,7 +162,7 @@ EusineNoBeastsText:
 
 	para "Have you caught"
 	line "the legendary"
-	cont "beast #mon?"
+	cont "beast #MON?"
 
 	para "………………"
 
@@ -173,16 +173,16 @@ EusineNoBeastsText:
 	done
 
 EusineShowsRaikouText:
-	text "This is Raikou:"
+	text "This is RAIKOU:"
 	done
 
 EusineShowsEnteiText:
-	text "This is Entei:"
+	text "This is ENTEI:"
 	done
 
 EusineShowsSuicuneText:
 	text "This, of course,"
-	line "is Suicune:"
+	line "is SUICUNE:"
 	done
 
 EusineQuestHintText:
@@ -201,29 +201,29 @@ EusinesHouseGrampsGrandsonHomeText:
 	done
 
 EusinesHouseGrampsEusineSearchingForSuicuneText:
-	text "My grandson Eusine"
-	line "is in Johto,"
+	text "My grandson EUSINE"
+	line "is in JOHTO,"
 
 	para "searching far and"
-	line "wide for Suicune."
+	line "wide for SUICUNE."
 
 	para "I taught him all"
 	line "about the legend-"
-	cont "ary #mon!"
+	cont "ary #MON!"
 	done
 
 EusinesHouseGrampsEusineSearchingForHoOhText:
-	text "My grandson Eusine"
+	text "My grandson EUSINE"
 	line "is on another"
 	cont "adventure."
 
 	para "He left to visit"
-	line "Bell Tower in"
-	cont "Ecruteak City."
+	line "BELL TOWER in"
+	cont "ECRUTEAK CITY."
 	done
 
 EusinesHouseGrampsThankYouGiftText:
-	text "My grandson Eusine"
+	text "My grandson EUSINE"
 	line "called."
 
 	para "He's doing well."
@@ -239,7 +239,7 @@ EusinesHouseGrampsThankYouGiftText:
 	done
 
 EusinesHouseGrampsEusineTravelingWorldText:
-	text "Eusine is out"
+	text "EUSINE is out"
 	line "traveling the"
 	cont "world."
 

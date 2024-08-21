@@ -29,25 +29,25 @@ VioletNicknameSpeechHouseTeacherText:
 
 	para "For the nicknames"
 	line "she gives to her"
-	cont "#mon, I mean."
+	cont "#MON, I mean."
 	done
 
 VioletNicknameSpeechHouseLassText:
-	text "I call my Eevee"
-	line "Strawberry!"
+	text "I call my EEVEE"
+	line "STRAWBERRY!"
 	done
 
 VioletNicknameSpeechHouseGrampsText:
-	text "The Zephyr Badge"
+	text "The ZEPHYR BADGE"
 	line "is named after an"
 
 	para "ancient god of the"
 	line "west wind."
 
 	para "Very fitting for a"
-	line "Flying-type Gym."
+	line "flying-type GYM."
 	done
 
 VioletNicknameSpeechHouseBirdText:
-	text "Strawberry: Vui!"
+	text "STRAWBERRY: Vui!"
 	done

@@ -55,9 +55,9 @@ CeladonUniversity2FCooltrainerfScript:
 	jumpthisopenedtext
 
 .Text5:
-	text "Antidotes cure"
+	text "ANTIDOTES cure"
 	line "poison in #-"
-	cont "mon, but a person"
+	cont "MON, but a person"
 
 	para "would get sick"
 	line "by drinking one."
@@ -68,7 +68,7 @@ CeladonUniversity2FCooltrainerfScript:
 	jumpthisopenedtext
 
 	text "Oh… Keep your"
-	line "Fresh Water then…"
+	line "FRESH WATER then…"
 	done
 
 .Text1:
@@ -79,17 +79,17 @@ CeladonUniversity2FCooltrainerfScript:
 	cont "vending machines…"
 
 	para "Do you have any"
-	line "Fresh Water?"
+	line "FRESH WATER?"
 	done
 
 .Text2:
 	text "Give away a"
-	line "Fresh Water?"
+	line "FRESH WATER?"
 	done
 
 .Text3:
 	text "<PLAYER> gave away"
-	line "the Fresh Water."
+	line "the FRESH WATER."
 	done
 
 .Text4:
@@ -112,7 +112,7 @@ CeladonUniversity2FCooltrainermText:
 
 CeladonUniversity2FYoungster1Text:
 	text "I failed the"
-	line "Hyper Test again…"
+	line "HYPER TEST again…"
 
 	para "But I won't"
 	line "give up!"
@@ -121,35 +121,35 @@ CeladonUniversity2FYoungster1Text:
 CeladonUniversity2FCowgirlText:
 	text "My class is going"
 	line "on a field trip to"
-	cont "the Safari Zone!"
+	cont "the SAFARI ZONE!"
 	done
 
 CeladonUniversity2FBug_catcherText:
-	text "Prof.Willow sends"
+	text "PROF.WILLOW sends"
 	line "his assistants to"
 
 	para "wander all over"
 	line "the city and study"
 
-	para "the #mon that"
+	para "the #MON that"
 	line "live here."
 	done
 
 CeladonUniversity2FLassText:
 	text "In addition to"
-	line "being the Celadon"
-	cont "Gym Leader,"
+	line "being the CELADON"
+	cont "GYM LEADER,"
 
-	para "Erika was top of"
+	para "ERIKA was top of"
 	line "her class here at"
-	cont "the university."
+	cont "the UNIVERSITY."
 
 	para "I wish I was as"
 	line "cool as her."
 	done
 
 CeladonUniversity2FYoungster2Text:
-	text "Prof.Westwood is a"
+	text "PROF.WESTWOOD is a"
 	line "little eccentric."
 
 	para "Sometimes he apol-"
@@ -160,30 +160,30 @@ CeladonUniversity2FYoungster2Text:
 	done
 
 CeladonUniversity2FCafeteriaSignText:
-	text "Cafeteria"
+	text "CAFETERIA"
 	done
 
 CeladonUniversity2FHyperTestSignText:
-	text "Hyper Test Room"
+	text "HYPER TEST ROOM"
 	done
 
 CeladonUniversity2FPoolSignText:
-	text "Swimming Pool"
+	text "SWIMMING POOL"
 	done
 
 CeladonUniversity2FWillowsOfficeSignText:
-	text "Prof.Willow's"
-	line "Office"
+	text "PROF.WILLOW'S"
+	line "OFFICE"
 	done
 
 CeladonUniversity2FNursesOfficeSignText:
-	text "Nurse's"
-	line "Office"
+	text "NURSE'S"
+	line "OFFICE"
 	done
 
 CeladonUniversity2FWestwoodsOfficeSignText:
-	text "Prof.Westwood's"
-	line "Office"
+	text "PROF.WESTWOOD'S"
+	line "OFFICE"
 	done
 
 CeladonUniversity2FMagikarpSign:
@@ -194,7 +194,7 @@ CeladonUniversity2FMagikarpSign:
 	closepokepic
 	jumpthistext
 
-	text "A Magikarp is"
+	text "A MAGIKARP is"
 	line "swimming around."
 	done
 
@@ -205,7 +205,7 @@ CeladonUniversity2FCuboneSign:
 	closepokepic
 	jumpthistext
 
-	text "It's the Thick Club"
+	text "It's the THICK CLUB"
 	line "and skull helmet"
-	cont "of a Cubone."
+	cont "of a CUBONE."
 	done

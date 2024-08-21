@@ -35,14 +35,14 @@ GenericTrainerGruntM29:
 	text "Sure, we've been"
 	line "hacking the tails"
 
-	para "off Slowpoke and"
+	para "off SLOWPOKE and"
 	line "selling them."
 
 	para "Everything we do"
 	line "is for profit."
 
 	para "That's right!"
-	line "We're Team Rocket,"
+	line "We're TEAM ROCKET,"
 
 	para "and we'll do any-"
 	line "thing for money!"
@@ -88,17 +88,17 @@ GenericTrainerGruntM2:
 	generictrainer GRUNTM, 2, EVENT_BEAT_ROCKET_GRUNTM_2, GruntM2SeenText, GruntM2BeatenText
 
 	text "We need the money,"
-	line "but selling Slow-"
-	cont "pokeTails?"
+	line "but selling SLOW-"
+	cont "POKETAILS?"
 
 	para "It's tough being a"
-	line "Rocket Grunt!"
+	line "ROCKET GRUNT!"
 	done
 
 GenericTrainerGruntF1:
 	generictrainer GRUNTF, 1, EVENT_BEAT_ROCKET_GRUNTF_1, GruntF1SeenText, GruntF1BeatenText
 
-	text "SlowpokeTails"
+	text "SLOWPOKETAILS"
 	line "grow back fast!"
 
 	para "What's wrong with"
@@ -137,10 +137,10 @@ KurtSlowpokeWellVictoryMovementData:
 	step_end
 
 KurtLeaveSlowpokeWellText:
-	text "Kurt: Way to go,"
+	text "KURT: Way to go,"
 	line "<PLAYER>!"
 
-	para "Team Rocket has"
+	para "TEAM ROCKET has"
 	line "taken off."
 
 	para "My back's better"
@@ -176,7 +176,7 @@ Proton2SeenText:
 	line "scariest and"
 
 	para "cruelest guy in"
-	line "Team Rocket…"
+	line "TEAM ROCKET…"
 
 	para "If you interrupt"
 	line "our work, don't"
@@ -190,7 +190,7 @@ Proton2BeatenText:
 	done
 
 TrainerProton2WhenTalkText:
-	text "Yeah, Team Rocket"
+	text "Yeah, TEAM ROCKET"
 	line "was broken up"
 	cont "three years ago."
 
@@ -204,11 +204,11 @@ TrainerProton2WhenTalkText:
 	done
 
 GruntM2SeenText:
-	text "Quit taking Slow-"
-	line "pokeTails?"
+	text "Quit taking SLOW-"
+	line "POKETAILS?"
 
 	para "If we obeyed you,"
-	line "Team Rocket's rep"
+	line "TEAM ROCKET's rep"
 	cont "would be ruined!"
 	done
 
@@ -218,7 +218,7 @@ GruntM2BeatenText:
 	done
 
 GruntF1SeenText:
-	text "Stop taking Tails?"
+	text "Stop taking TAILS?"
 
 	para "Yeah, just try to"
 	line "defeat all of us!"
@@ -229,27 +229,27 @@ GruntF1BeatenText:
 	done
 
 SlowpokeWellB1FSlowpokeWithMailText:
-	text "A Slowpoke with"
+	text "A SLOWPOKE with"
 	line "its tail cut off…"
 
-	para "Huh? It has Mail."
+	para "Huh? It has MAIL."
 	line "Read it?"
 	done
 
 SlowpokeWellB1FSlowpokeMailText:
 	text "<PLAYER> read the"
-	line "Mail."
+	line "MAIL."
 
 	para "Be good and look"
 	line "after the house"
 
 	para "with Grandpa and"
-	line "Slowpoke."
+	line "SLOWPOKE."
 
 	para "Love, Dad"
 	done
 
 SlowpokeWellB1FTaillessSlowpokeText:
-	text "A Slowpoke with"
+	text "A SLOWPOKE with"
 	line "its tail cut off…"
 	done

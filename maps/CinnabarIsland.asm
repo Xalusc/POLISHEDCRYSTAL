@@ -61,15 +61,15 @@ if !DEF(DEBUG)
 	line "to see that you're"
 	cont "a trainer…"
 
-	para "My name's Blue."
+	para "My name's BLUE."
 
 	para "I was once the"
-	line "Champion, although"
+	line "CHAMPION, although"
 
 	para "it was for only a"
 	line "short time…"
 
-	para "That meddling Red"
+	para "That meddling RED"
 	line "did me in…"
 
 	para "Anyway, what do"
@@ -96,7 +96,7 @@ if !DEF(DEBUG)
 	para "We can go on win-"
 	line "ning and losing in"
 
-	para "#mon. But if"
+	para "#MON. But if"
 	line "nature so much as"
 
 	para "twitches, we can"
@@ -121,7 +121,7 @@ CinnabarIslandBlueBattleText:
 CinnabarIslandBlueReadyText:
 	text "If you want to"
 	line "battle me, come to"
-	cont "the Viridian Gym."
+	cont "the VIRIDIAN GYM."
 
 	para "I'll take you on"
 	line "then."
@@ -131,8 +131,8 @@ CinnabarIslandBlueNotReadyText:
 	text "If you want to"
 	line "battle me, show me"
 
-	para "how many Kanto"
-	line "badges you've got."
+	para "how many KANTO"
+	line "BADGES you've got."
 
 	para "Less than seven…"
 	line "You're not ready"
@@ -143,15 +143,15 @@ CinnabarIslandGymSignText:
 	text "There's a notice"
 	line "here…"
 
-	para "“Cinnabar Gym has"
-	line "relocated to Sea-"
-	cont "foam Islands.”"
+	para "“CINNABAR GYM has"
+	line "relocated to SEA-"
+	cont "FOAM ISLANDS.”"
 
-	para "-- Blaine"
+	para "-- BLAINE"
 	done
 
 CinnabarIslandSignText:
-	text "Cinnabar Island"
+	text "CINNABAR ISLAND"
 
 	para "The Fiery Town of"
 	line "Burning Desire"
@@ -160,7 +160,7 @@ CinnabarIslandSignText:
 CinnabarIslandVolcanoWarningSignText:
 	text "CAUTION"
 
-	para "Cinnabar Volcano"
+	para "CINNABAR VOLCANO"
 	line "is dormant, but"
 	cont "still active!"
 

@@ -131,7 +131,7 @@ RadioTower1FLuckyNumberManScript:
 RadioTower1FLuckyNumberManComeAgainText:
 	text "Please come back"
 	line "tomorrow for the"
-	cont "next Lucky Number."
+	cont "next LUCKY NUMBER."
 	done
 
 RadioTower1FRadioCardWomanScript:
@@ -188,7 +188,7 @@ RadioTower1FRadioCardWomanScript:
 	end
 
 .RadioCardText:
-	db "Radio Card@"
+	db "RADIO CARD@"
 
 .WrongAnswer:
 	playsound SFX_WRONG
@@ -258,12 +258,12 @@ RadioTower1FReceptionistNoToursText:
 
 RadioTower1FLuckyNumberManAskToPlayText:
 	text "Hi, are you here"
-	line "for the Lucky Num-"
-	cont "ber Show?"
+	line "for the LUCKY NUM-"
+	cont "BER SHOW?"
 	done
 
 IntroduceFelicityText:
-	text "I'm Felicity,"
+	text "I'm FELICITY,"
 	line "your attendant"
 	cont "today."
 	done
@@ -271,7 +271,7 @@ IntroduceFelicityText:
 ExplainLuckyNumberShowText:
 	text "Want me to check"
 	line "the ID numbers of"
-	cont "your #mon?"
+	cont "your #MON?"
 
 	para "If you get lucky,"
 	line "you win a prize."
@@ -303,7 +303,7 @@ WonFirstPlaceText:
 	line "prize winner!"
 
 	para "You have won a"
-	line "Master Ball!"
+	line "MASTER BALL!"
 	done
 
 WonSecondPlaceText:
@@ -313,7 +313,7 @@ WonSecondPlaceText:
 
 	para "You've won second"
 	line "prize, a rare"
-	cont "Bottle Cap!"
+	cont "BOTTLE CAP!"
 	done
 
 WonThirdPlaceText:
@@ -322,7 +322,7 @@ WonThirdPlaceText:
 	cont "three numbers!"
 
 	para "You've won third"
-	line "prize, a PP Max!"
+	line "prize, a PP MAX!"
 	done
 
 WonFourthPlaceText:
@@ -331,7 +331,7 @@ WonFourthPlaceText:
 	cont "two numbers."
 
 	para "You've won fourth"
-	line "prize, a PP Up."
+	line "prize, a PP UP."
 	done
 
 WonFifthPlaceText:
@@ -341,7 +341,7 @@ WonFifthPlaceText:
 
 	para "You've won fifth"
 	line "prize, a"
-	cont "Rare Candy."
+	cont "RARE CANDY."
 	done
 
 RadioTower1FLuckyNumberManNoneOfYourIDNumbersMatchText:
@@ -364,10 +364,10 @@ RadioTower1FRadioCardWomanOfferQuizText:
 
 	para "Answer five ques-"
 	line "tions correctly to"
-	cont "win a Radio Card."
+	cont "win a RADIO CARD."
 
 	para "Slide it into your"
-	line "#gear to play"
+	line "#GEAR to play"
 
 	para "the radio anytime,"
 	line "anywhere."
@@ -379,7 +379,7 @@ RadioTower1FRadioCardWomanOfferQuizText:
 RadioTower1FRadioCardWomanQuestion1Text:
 	text "Question 1:"
 
-	para "Is there a #mon"
+	para "Is there a #MON"
 	line "that appears only"
 	cont "in the morning?"
 	done
@@ -388,7 +388,7 @@ RadioTower1FRadioCardWomanQuestion2Text:
 	text "Correct!"
 	line "Question 2:"
 
-	para "Nidorina can only"
+	para "NIDORINA can only"
 	line "be female. True?"
 	done
 
@@ -396,7 +396,7 @@ RadioTower1FRadioCardWomanQuestion3Text:
 	text "Bull's-eye!"
 	line "Question 3:"
 
-	para "Can Magikarp learn"
+	para "Can MAGIKARP learn"
 	line "any moves via TM?"
 	done
 
@@ -404,10 +404,10 @@ RadioTower1FRadioCardWomanQuestion4Text:
 	text "So far so good!"
 	line "Question 4:"
 
-	para "Does Kurt, the"
-	line "# Ball creator,"
+	para "Does KURT, the"
+	line "# BALL creator,"
 
-	para "use apricots as"
+	para "use APRICOTS as"
 	line "ingredients?"
 	done
 
@@ -416,10 +416,10 @@ RadioTower1FRadioCardWomanQuestion5Text:
 	line "Here's the final"
 	cont "question:"
 
-	para "Do Goldenrod Game"
-	line "Corner's slots"
+	para "Do GOLDENROD GAME"
+	line "CORNER's slots"
 
-	para "have Charmander"
+	para "have CHARMANDER"
 	line "on their reels?"
 	done
 
@@ -428,11 +428,11 @@ RadioTower1FRadioCardWomanYouWinText:
 	line "Congratulations!"
 
 	para "Here's your prize,"
-	line "a Radio Card!"
+	line "a RADIO CARD!"
 	done
 
 RadioTower1FPokegearIsARadioText:
-	text "<PLAYER>'s #gear"
+	text "<PLAYER>'s #GEAR"
 	line "can now double as"
 	cont "a radio!"
 	done
@@ -449,7 +449,7 @@ RadioTower1FRadioCardWomanNotTakingQuizText:
 	done
 
 RadioTower1FLassText:
-	text "Ben is a fabulous"
+	text "BEN is a fabulous"
 	line "DJ."
 
 	para "His sweet voice"
@@ -457,8 +457,8 @@ RadioTower1FLassText:
 	done
 
 RadioTower1FYoungsterText:
-	text "I love Mary, from"
-	line "#mon Talk."
+	text "I love MARY, from"
+	line "#MON TALK."
 
 	para "I only know what"
 	line "she sounds like,"
@@ -468,13 +468,13 @@ RadioTower1FYoungsterText:
 GruntM3SeenText:
 	text "We've finally"
 	line "taken over the"
-	cont "Radio Tower!"
+	cont "RADIO TOWER!"
 
 	para "Now everyone will"
 	line "get to experience"
 
 	para "the true terror of"
-	line "Team Rocket!"
+	line "TEAM ROCKET!"
 
 	para "We'll show you"
 	line "how scary we are!"
@@ -486,11 +486,11 @@ GruntM3BeatenText:
 	done
 
 RadioTower1FWhitney1Text:
-	text "Hi! I'm Whitney!"
+	text "Hi! I'm WHITNEY!"
 
 	para "I heard about the"
 	line "quiz to win a"
-	cont "Radio Card,"
+	cont "RADIO CARD,"
 
 	para "so I came here"
 	line "to get one…"
@@ -500,35 +500,35 @@ RadioTower1FWhitney1Text:
 	done
 
 RadioTower1FWhitney2Text:
-	text "Whitney: Wow, you"
+	text "WHITNEY: Wow, you"
 	line "did it!"
 
 	para "I thought the"
 	line "fourth answer"
-	cont "was apricots…"
+	cont "was APRICOTS…"
 
 	para "Oops! I should get"
-	line "back to the Gym!"
+	line "back to the GYM!"
 	done
 
 RadioTower1FDirectoryText:
-	text "1F Reception"
-	line "2F Sales"
+	text "1F RECEPTION"
+	line "2F SALES"
 
-	para "3F Personnel"
-	line "4F Production"
+	para "3F PERSONNEL"
+	line "4F PRODUCTION"
 
-	para "5F Director's"
-	line "   Office"
+	para "5F DIRECTOR'S"
+	line "   OFFICE"
 	done
 
 RadioTower1FLuckyChannelSignText:
-	text "Lucky Channel!"
+	text "LUCKY CHANNEL!"
 
-	para "Win with #mon"
+	para "Win with #MON"
 	line "ID numbers!"
 
-	para "Trade your #mon"
+	para "Trade your #MON"
 	line "to collect differ-"
 	cont "ent ID numbers!"
 	done

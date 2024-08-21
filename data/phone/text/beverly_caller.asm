@@ -11,9 +11,9 @@ BeverlyMadeMonEvenCuterText:
 BeverlyDefeatedMonText:
 	text "I happened to come"
 	line "across a wild"
-	cont "Snubbull recently."
+	cont "SNUBBULL recently."
 
-	para "My Snubbull, I"
+	para "My SNUBBULL, I"
 	line "assure you, was"
 
 	para "far cuter than the"
@@ -22,7 +22,7 @@ BeverlyDefeatedMonText:
 
 BeverlyLostAMonText:
 	text "I happened to see"
-	line "a wild Marill the"
+	line "a wild MARILL the"
 
 	para "other day."
 	line "Or so I thought."
@@ -43,7 +43,7 @@ BeverlyHangUpText:
 
 BeverlyFoundItemText:
 	text "My husband got"
-	line "some Nuggets."
+	line "some NUGGETS."
 
 	para "If you'd like, you"
 	line "could have one as"
@@ -61,16 +61,16 @@ BeverlyFoundItemText:
 	done
 
 BeverlyLetsChatAboutMonAgainText:
-	text "Are your #mon"
+	text "Are your #MON"
 	line "in prime form?"
 
 	para "Let's chat about"
-	line "#mon again."
+	line "#MON again."
 	done
 
 BeverlyComePickUpText:
 	text "Pardon?"
-	line "Oh, the Nugget?"
+	line "Oh, the NUGGET?"
 
 	para "There's no need to"
 	line "hurry. Come see me"

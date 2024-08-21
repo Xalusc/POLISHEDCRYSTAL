@@ -81,17 +81,17 @@ Route41MarlonScript:
 	end
 
 .IntroText:
-	text "Marlon: Uihaa!"
+	text "MARLON: Uihaa!"
 
 	para "Sup, so you're"
 	line "<PLAYER>!"
 
-	para "The name's Marlon,"
+	para "The name's MARLON,"
 	line "man of the sea!"
 
-	para "Me 'n' my #mon"
+	para "Me 'n' my #MON"
 	line "swam here from"
-	cont "the Unova region!"
+	cont "the UNOVA region!"
 	done
 
 .ChallengeText:
@@ -127,7 +127,7 @@ Route41MarlonScript:
 	text "You totally rocked"
 	line "that!"
 
-	para "You got this Trai-"
+	para "You got this trai-"
 	line "ner thing down!"
 	done
 
@@ -145,8 +145,8 @@ GenericTrainerSwimmerfKaylee:
 
 	text "There's supposed"
 	line "to be a big #-"
-	cont "mon deep beneath"
-	cont "Whirl Islands."
+	cont "MON deep beneath"
+	cont "WHIRL ISLANDS."
 
 	para "I wonder what it"
 	line "could be?"
@@ -157,7 +157,7 @@ GenericTrainerSwimmerfSusie:
 
 	text "Wasn't there a hit"
 	line "song about a boy"
-	cont "riding a Lapras?"
+	cont "riding a LAPRAS?"
 	done
 
 GenericTrainerSwimmerfDenise:
@@ -178,14 +178,14 @@ GenericTrainerSwimmerfKara:
 
 	text "I heard roars from"
 	line "deep inside the"
-	cont "Islands."
+	cont "ISLANDS."
 	done
 
 GenericTrainerSwimmerfWendy:
 	generictrainer SWIMMERF, WENDY, EVENT_BEAT_SWIMMERF_WENDY, SwimmerfWendySeenText, SwimmerfWendyBeatenText
 
 	text "The clusters of"
-	line "Staryu light up"
+	line "STARYU light up"
 	cont "at the same time."
 
 	para "It's so beautiful,"
@@ -204,11 +204,11 @@ GenericTrainerSwimmermGeorge:
 	generictrainer SWIMMERM, GEORGE, EVENT_BEAT_SWIMMERM_GEORGE, SwimmermGeorgeSeenText, SwimmermGeorgeBeatenText
 
 	text "It's so far to"
-	line "Cianwood."
+	line "CIANWOOD."
 
 	para "But it's no easy"
 	line "return trip to"
-	cont "Olivine either."
+	cont "OLIVINE either."
 
 	para "What should I do?"
 	done
@@ -220,7 +220,7 @@ GenericTrainerSwimmermBerke:
 	line "stormy night…"
 
 	para "I saw this giant"
-	line "#mon flying"
+	line "#MON flying"
 	cont "from the islands."
 
 	para "It was scattering"
@@ -240,7 +240,7 @@ GenericTrainerSwimmermMathew:
 	generictrainer SWIMMERM, MATHEW, EVENT_BEAT_SWIMMERM_MATHEW, SwimmermMathewSeenText, SwimmermMathewBeatenText
 
 	text "A secret about"
-	line "Whirl Islands…"
+	line "WHIRL ISLANDS…"
 
 	para "It's pitch-black"
 	line "inside!"
@@ -273,7 +273,7 @@ SwimmermCharlieBeatenText:
 SwimmermGeorgeSeenText:
 	text "I'm a bit tired."
 	line "If I win, lend me"
-	cont "your #mon."
+	cont "your #MON."
 	done
 
 SwimmermGeorgeBeatenText:
@@ -309,7 +309,7 @@ SwimmermKirkBeatenText:
 SwimmermMathewSeenText:
 	text "Are you seeking"
 	line "the secrets of"
-	cont "Whirl Islands?"
+	cont "WHIRL ISLANDS?"
 	done
 
 SwimmermMathewBeatenText:
@@ -329,7 +329,7 @@ SwimmermLewisBeatenText:
 
 SwimmerfKayleeSeenText:
 	text "I'm on my way to"
-	line "Whirl Islands."
+	line "WHIRL ISLANDS."
 
 	para "I'm going explor-"
 	line "ing with friends."
@@ -343,7 +343,7 @@ SwimmerfKayleeBeatenText:
 SwimmerfSusieSeenText:
 	text "You look so ele-"
 	line "gant, riding your"
-	cont "#mon."
+	cont "#MON."
 	done
 
 SwimmerfSusieBeatenText:
@@ -378,7 +378,7 @@ SwimmerfKaraBeatenText:
 	done
 
 SwimmerfWendySeenText:
-	text "At night, Staryu"
+	text "At night, STARYU"
 	line "gather near the"
 	cont "water's surface."
 	done

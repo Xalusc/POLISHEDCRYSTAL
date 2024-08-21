@@ -29,14 +29,14 @@ GenericTrainerPILooker:
 	generictrainer PI, LOOKER, EVENT_BEAT_PI_LOOKER, PILookerSeenText, PILookerBeatenText
 
 	text "My code name,"
-	line "it is Looker."
+	line "it is LOOKER."
 
 	para "It is what they"
 	line "all call me."
 
 	para "I am on the look-"
 	line "out for members"
-	cont "of Team Rocket."
+	cont "of TEAM ROCKET."
 
 	para "What?! You defeat-"
 	line "ed them?"
@@ -48,10 +48,10 @@ GenericTrainerCooltrainermSean:
 	generictrainer COOLTRAINERM, SEAN, EVENT_BEAT_COOLTRAINERM_SEAN, CooltrainermSeanSeenText, CooltrainermSeanBeatenText
 
 	text "Trainers from"
-	line "Johto can battle"
+	line "JOHTO can battle"
 
-	para "with Kanto Gym"
-	line "Leaders."
+	para "with KANTO GYM"
+	line "LEADERS."
 	done
 
 GenericTrainerCooltrainerfCarol:
@@ -64,11 +64,11 @@ GenericTrainerCooltrainerfCarol:
 GenericTrainerPokemaniacEthan:
 	generictrainer POKEMANIAC, ETHAN, EVENT_BEAT_POKEMANIAC_ETHAN, PokemaniacEthanSeenText, PokemaniacEthanBeatenText
 
-	text "Lily's nice, but"
-	line "Mary's the best!"
+	text "LILY's nice, but"
+	line "MARY's the best!"
 
 	para "I want to check"
-	line "out Johto's radio"
+	line "out JOHTO's radio"
 	cont "programs!"
 	done
 
@@ -79,7 +79,7 @@ GenericTrainerHikerNoland:
 	line "are any mountains"
 
 	para "worth climbing in"
-	line "Kanto?"
+	line "KANTO?"
 	done
 
 GenericTrainerGentlemanEdward:
@@ -154,8 +154,8 @@ PILookerSeenText:
 	line "How did you unmask"
 
 	para "me as a member of"
-	line "the International"
-	cont "Police?!"
+	line "the INTERNATIONAL"
+	cont "POLICE?!"
 	done
 
 PILookerBeatenText:
@@ -164,7 +164,7 @@ PILookerBeatenText:
 	done
 
 CooltrainermSeanSeenText:
-	text "I'm going to Kanto"
+	text "I'm going to KANTO"
 	line "to test my skills."
 	done
 
@@ -174,7 +174,7 @@ CooltrainermSeanBeatenText:
 
 CooltrainerfCarolSeenText:
 	text "I'm training to"
-	line "become the Champ!"
+	line "become the CHAMP!"
 	done
 
 CooltrainerfCarolBeatenText:
@@ -183,9 +183,9 @@ CooltrainerfCarolBeatenText:
 	done
 
 PokemaniacEthanSeenText:
-	text "Do you know Lily?"
+	text "Do you know LILY?"
 	line "She's a hot DJ in"
-	cont "Kanto."
+	cont "KANTO."
 	done
 
 PokemaniacEthanBeatenText:

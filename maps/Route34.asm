@@ -423,11 +423,11 @@ OfficerfMaraScript:
 GenericTrainerBreederJulie:
 	generictrainer BREEDER, JULIE, EVENT_BEAT_BREEDER_JULIE, BreederJulieSeenText, BreederJulieBeatenText
 
-	text "One of my #mon"
-	line "has an Adamant"
+	text "One of my #MON"
+	line "has an ADAMANT"
 
 	para "nature. Another"
-	line "has a Lax nature."
+	line "has a LAX nature."
 
 	para "It seems to make"
 	line "a difference in"
@@ -480,15 +480,15 @@ Route34RichBoyIrvingScript:
 
 .IntroText:
 	text "I don't need to"
-	line "gamble for Coins."
+	line "gamble for coins."
 
 	para "I'm rich, so I"
 	line "bought my #-"
-	cont "mon with cash!"
+	cont "MON with cash!"
 
 	para "They're strong"
 	line "enough that we"
-	cont "beat Azalea's Gym!"
+	cont "beat AZALEA's GYM!"
 
 	para "You want to battle"
 	line "them? Fine--just"
@@ -496,7 +496,7 @@ Route34RichBoyIrvingScript:
 	para "beat everyone else"
 	line "here first!"
 
-	para "Even the Officer,"
+	para "Even the OFFICER,"
 	line "although she may"
 
 	para "not battle you"
@@ -545,7 +545,7 @@ Route34RichBoyIrvingScript:
 GenericTrainerPokefanmBrandon:
 	generictrainer POKEFANM, BRANDON, EVENT_BEAT_POKEFANM_BRANDON, PokefanmBrandonSeenText, PokefanmBrandonBeatenText
 
-	text "My #mon knew"
+	text "My #MON knew"
 	line "moves I didn't"
 	cont "know it had."
 
@@ -562,8 +562,8 @@ TrainerCooltrainerfIrene:
 	iftrue_jumptext CooltrainerfIreneAfterText2
 	jumpthistext
 
-	text "Irene: My sister"
-	line "Kate will get you"
+	text "IRENE: My sister"
+	line "KATE will get you"
 	cont "for this!"
 	done
 
@@ -576,9 +576,9 @@ TrainerCooltrainerfJenn:
 	iftrue_jumptext CooltrainerfJennAfterText2
 	jumpthistext
 
-	text "Jenn: Don't get"
+	text "JENN: Don't get"
 	line "cocky! My sister"
-	cont "Kate is tough!"
+	cont "KATE is tough!"
 	done
 
 TrainerCooltrainerfKate:
@@ -597,7 +597,7 @@ TrainerCooltrainerfKate:
 	jumpthisopenedtext
 
 CooltrainerfKateAfterText:
-	text "Kate: I'm sorry we"
+	text "KATE: I'm sorry we"
 	line "jumped you."
 
 	para "We never expected"
@@ -625,14 +625,14 @@ Route34MovementData_LyraEntersDayCare:
 	step_end
 
 Route34LyraText_Grandpa:
-	text "Lyra: Grandpa!"
+	text "LYRA: Grandpa!"
 	done
 
 Route34LyraGoodWorkText:
-	text "Lyra: Good work,"
+	text "LYRA: Good work,"
 	line "Grandpa!"
 
-	para "The #mon you"
+	para "The #MON you"
 	line "raised for me is"
 	cont "healthy as can be!"
 
@@ -641,7 +641,7 @@ Route34LyraGoodWorkText:
 	done
 
 Route34LyraGreetingText:
-	text "Lyra: Hi, <PLAYER>!"
+	text "LYRA: Hi, <PLAYER>!"
 	done
 
 Route34LyraIntroductionTable:
@@ -656,7 +656,7 @@ Route34LyraIntroductionTable:
 	line "He's a trainer."
 
 	para "He's quite good at"
-	line "raising #mon."
+	line "raising #MON."
 
 	para "Well, not as good"
 	line "as you, of course!"
@@ -669,7 +669,7 @@ Route34LyraIntroductionTable:
 	line "She's a trainer."
 
 	para "She's quite good at"
-	line "raising #mon."
+	line "raising #MON."
 
 	para "Well, not as good"
 	line "as you, of course!"
@@ -683,7 +683,7 @@ Route34LyraIntroductionTable:
 
 	para "They're quite good"
 	line "at raising #-"
-	cont "mon."
+	cont "MON."
 
 	para "Well, not as good"
 	line "as you, of course!"
@@ -706,7 +706,7 @@ Route34LyraLossText:
 	done
 
 Route34LyraFollowMeText:
-	text "Lyra: Let me"
+	text "LYRA: Let me"
 	line "introduce you to"
 	cont "Grandma, too!"
 	done
@@ -714,7 +714,7 @@ Route34LyraFollowMeText:
 BreederJulieSeenText:
 	text "This is where I"
 	line "train my baby"
-	cont "#mon!"
+	cont "#MON!"
 	done
 
 BreederJulieBeatenText:
@@ -725,7 +725,7 @@ BreederJulieBeatenText:
 CamperTodd1SeenText:
 	text "I'm confident in"
 	line "my ability to"
-	cont "raise #mon."
+	cont "raise #MON."
 
 	para "Want to see?"
 	done
@@ -737,9 +737,9 @@ CamperTodd1BeatenText:
 
 CamperTodd1AfterText:
 	text "Maybe I should"
-	line "take one to a Day-"
+	line "take one to a DAY-"
 
-	para "Care. Or maybe use"
+	para "CARE. Or maybe use"
 	line "some items…"
 	done
 
@@ -796,8 +796,8 @@ OfficerfMaraDaytimeText:
 
 PokefanmBrandonSeenText:
 	text "I just got my"
-	line "#mon back from"
-	cont "Day-Care."
+	line "#MON back from"
+	cont "DAY-CARE."
 
 	para "Let's see how much"
 	line "stronger it got!"
@@ -809,17 +809,17 @@ PokefanmBrandonBeatenText:
 	done
 
 CooltrainerfIreneSeenText:
-	text "Irene: Kyaaah!"
+	text "IRENE: Kyaaah!"
 	line "Someone found us!"
 	done
 
 CooltrainerfIreneBeatenText:
-	text "Irene: Ohhh!"
+	text "IRENE: Ohhh!"
 	line "Too strong!"
 	done
 
 CooltrainerfIreneAfterText2:
-	text "Irene: Isn't this"
+	text "IRENE: Isn't this"
 	line "beach great?"
 
 	para "It's our secret"
@@ -827,35 +827,35 @@ CooltrainerfIreneAfterText2:
 	done
 
 CooltrainerfJennSeenText:
-	text "Jenn: You can't"
-	line "beat Irene and go"
+	text "JENN: You can't"
+	line "beat IRENE and go"
 	cont "unpunished!"
 	done
 
 CooltrainerfJennBeatenText:
-	text "Jenn: So sorry,"
-	line "Irene! Sis!"
+	text "JENN: So sorry,"
+	line "IRENE! Sis!"
 	done
 
 CooltrainerfJennAfterText2:
-	text "Jenn: Sunlight"
+	text "JENN: Sunlight"
 	line "makes your body"
 	cont "stronger."
 	done
 
 CooltrainerfKateSeenText:
-	text "Kate: You sure"
+	text "KATE: You sure"
 	line "were mean to my"
 	cont "little sisters!"
 	done
 
 CooltrainerfKateBeatenText:
-	text "Kate: No! I can't"
+	text "KATE: No! I can't"
 	line "believe I lost."
 	done
 
 CooltrainerfKateOfferPowerHerbText:
-	text "Kate: You're too"
+	text "KATE: You're too"
 	line "strong. I didn't"
 	cont "stand a chance."
 
@@ -864,37 +864,37 @@ CooltrainerfKateOfferPowerHerbText:
 	done
 
 Route34SignText:
-	text "Route 34"
+	text "ROUTE 34"
 
-	para "Goldenrod City -"
-	line "Azalea Town"
+	para "GOLDENROD CITY -"
+	line "AZALEA TOWN"
 
-	para "Ilex Forest"
-	line "Somewhere Between"
+	para "ILEX FOREST"
+	line "SOMEWHERE BETWEEN"
 	done
 
 Route34TrainerTipsText:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "Berry trees grow"
-	line "new Berries"
+	para "BERRY trees grow"
+	line "new BERRIES"
 	cont "every day."
 
 	para "Make a note of"
 	line "which trees bear"
-	cont "which Berries."
+	cont "which BERRIES."
 	done
 
 Route34AdvancedTipsSignText:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
-	para "Some #mon have"
+	para "Some #MON have"
 	line "inherent potential"
 
 	para "to be stronger"
 	line "than others!"
 
-	para "But all #mon"
+	para "But all #MON"
 	line "can put in effort"
 	cont "during battle, or"
 
@@ -903,8 +903,8 @@ Route34AdvancedTipsSignText:
 	done
 
 DayCareSignText:
-	text "Day-Care"
+	text "DAY-CARE"
 
 	para "Let Us Raise Your"
-	line "#mon For You!"
+	line "#MON For You!"
 	done

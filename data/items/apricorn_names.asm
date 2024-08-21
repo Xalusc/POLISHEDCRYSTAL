@@ -1,11 +1,11 @@
 ApricornNames::
 	list_start ApricornNames
 	li "?"
-	li "Red Apricorn"
-	li "Blu Apricorn"
-	li "Ylw Apricorn"
-	li "Grn Apricorn"
-	li "Wht Apricorn"
-	li "Blk Apricorn"
-	li "Pnk Apricorn"
+	li "RED APRICORN"
+	li "BLU APRICORN"
+	li "YLW APRICORN"
+	li "GRN APRICORN"
+	li "WHT APRICORN"
+	li "BLK APRICORN"
+	li "PNK APRICORN"
 	assert_list_length NUM_APRICORNS + 1

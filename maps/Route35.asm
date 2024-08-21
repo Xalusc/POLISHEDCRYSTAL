@@ -36,12 +36,12 @@ Route35_MapScriptHeader:
 GenericTrainerBreederTheresa:
 	generictrainer BREEDER, THERESA, EVENT_BEAT_BREEDER_THERESA, BreederTheresaSeenText, BreederTheresaBeatenText
 
-	text "I take my #mon"
+	text "I take my #MON"
 	line "to get haircuts"
 
-	para "in Goldenrod City,"
+	para "in GOLDENROD CITY,"
 	line "and blessings in"
-	cont "Ecruteak City."
+	cont "ECRUTEAK CITY."
 
 	para "They're so happy!"
 	done
@@ -98,13 +98,13 @@ GenericTrainerCamperIvan:
 
 	text "Music on the radio"
 	line "changes the moods"
-	cont "of wild #mon."
+	cont "of wild #MON."
 	done
 
 GenericTrainerCoupleGailandeli1:
 	generictrainer COUPLE, GAILANDELI1, EVENT_BEAT_COUPLE_GAIL_AND_ELI, CoupleGailandeli1SeenText, CoupleGailandeli1BeatenText
 
-	text "Eli: I was humili-"
+	text "ELI: I was humili-"
 	line "ated in front of"
 	cont "my girlfriend…"
 	done
@@ -112,15 +112,15 @@ GenericTrainerCoupleGailandeli1:
 GenericTrainerCoupleGailandeli2:
 	generictrainer COUPLE, GAILANDELI2, EVENT_BEAT_COUPLE_GAIL_AND_ELI, CoupleGailandeli2SeenText, CoupleGailandeli2BeatenText
 
-	text "Gail: I can count"
-	line "on my #mon more"
+	text "GAIL: I can count"
+	line "on my #MON more"
 	cont "than my boyfriend."
 	done
 
 GenericTrainerPicnickerKim:
 	generictrainer PICNICKER, KIM, EVENT_BEAT_PICNICKER_KIM, PicnickerKimSeenText, PicnickerKimBeatenText
 
-	text "The Gym Badges are"
+	text "The GYM BADGES are"
 	line "pretty. I collect"
 	cont "them."
 	done
@@ -222,9 +222,9 @@ TrainerBug_catcherArnie1:
 GenericTrainerFirebreatherWalt:
 	generictrainer FIREBREATHER, WALT, EVENT_BEAT_FIREBREATHER_WALT, FirebreatherWaltSeenText, FirebreatherWaltBeatenText
 
-	text "The #mon March"
+	text "The #MON March"
 	line "on the radio lures"
-	cont "wild #mon."
+	cont "wild #MON."
 	done
 
 TrainerOfficerDirk:
@@ -254,7 +254,7 @@ TrainerOfficerDirk:
 
 CamperIvanSeenText:
 	text "I've been getting"
-	line "#mon data off"
+	line "#MON data off"
 
 	para "my radio. I think"
 	line "I'm good."
@@ -265,30 +265,30 @@ CamperIvanBeatenText:
 	done
 
 CoupleGailandeli1SeenText:
-	text "Eli: I'm gonna"
+	text "ELI: I'm gonna"
 	line "show my girlfriend"
 	cont "I'm hot stuff!"
 	done
 
 CoupleGailandeli1BeatenText:
-	text "Eli: I wish you'd"
+	text "ELI: I wish you'd"
 	line "have lost for me…"
 	done
 
 CoupleGailandeli2SeenText:
-	text "Gail: My boy-"
+	text "GAIL: My boy-"
 	line "friend's weak, so I"
 	cont "can't rely on him."
 	done
 
 CoupleGailandeli2BeatenText:
-	text "Gail: Oh, my!"
+	text "GAIL: Oh, my!"
 	line "You're so strong!"
 	done
 
 PicnickerKimSeenText:
 	text "Are you going to"
-	line "the Gym? Me too!"
+	line "the GYM? Me too!"
 	done
 
 PicnickerKimBeatenText:
@@ -298,7 +298,7 @@ PicnickerKimBeatenText:
 
 BreederTheresaSeenText:
 	text "How do you care"
-	line "for your #mon?"
+	line "for your #MON?"
 	done
 
 BreederTheresaBeatenText:
@@ -308,7 +308,7 @@ BreederTheresaBeatenText:
 
 JugglerIrwin1SeenText:
 	text "Behold my graceful"
-	line "Ball dexterity!"
+	line "BALL dexterity!"
 	done
 
 JugglerIrwin1BeatenText:
@@ -319,7 +319,7 @@ JugglerIrwin1BeatenText:
 JugglerIrwinAfterBattleText:
 	text "I was going to"
 	line "dazzle you with my"
-	cont "prize #mon."
+	cont "prize #MON."
 
 	para "But your prowess"
 	line "electrified me!"
@@ -327,7 +327,7 @@ JugglerIrwinAfterBattleText:
 
 Bug_catcherArnie1SeenText:
 	text "I'll go anywhere"
-	line "if bug #mon"
+	line "if bug #MON"
 	cont "appear there."
 	done
 
@@ -337,16 +337,16 @@ Bug_catcherArnie1BeatenText:
 	done
 
 BugCatcherArnieAfterBattleText:
-	text "My Venonat won me"
+	text "My VENONAT won me"
 	line "the Bug-Catching"
 
 	para "Contest at the"
-	line "National Park."
+	line "NATIONAL PARK."
 	done
 
 BugCatcherArnieYanmaText:
 	text "Wow… Look at all"
-	line "those Yanma!"
+	line "those YANMA!"
 
 	para "I'm so blown away,"
 	line "I can't move."
@@ -381,7 +381,7 @@ OfficerDirkAfterBattleText:
 	done
 
 OfficerDirkPrettyToughText:
-	text "Your #mon look"
+	text "Your #MON look"
 	line "pretty tough."
 
 	para "You could go any-"
@@ -389,16 +389,16 @@ OfficerDirkPrettyToughText:
 	done
 
 Route35SignText:
-	text "Route 35"
+	text "ROUTE 35"
 	done
 
 Route35AdvancedTipsSignText:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
 	para "You can register"
-	line "up to four Key"
+	line "up to four KEY"
 
-	para "Items for quick"
+	para "ITEMS for quick"
 	line "use via the"
-	cont "Select button!"
+	cont "SELECT button!"
 	done

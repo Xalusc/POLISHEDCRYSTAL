@@ -1,8 +1,8 @@
 WadeAreYourMonGrowingText:
-	text "Are your #mon"
+	text "Are your #MON"
 	line "growing?"
 
-	para "My #mon are"
+	para "My #MON are"
 	line "growing a bit too"
 
 	para "quickly for me."
@@ -43,7 +43,7 @@ WadeLostAMonText:
 	line "the last second."
 
 	para "I know it's a"
-	line "common #mon…"
+	line "common #MON…"
 
 	para "But it does annoy"
 	line "me that it got"
@@ -54,7 +54,7 @@ WadeLostAMonText:
 
 WadeBattleRematchText:
 	text "Do you feel like a"
-	line "#mon battle?"
+	line "#MON battle?"
 
 	para "It won't be like"
 	line "last time!"
@@ -76,7 +76,7 @@ WadeBugCatchingContestText:
 	text "The Bug-Catching"
 	line "Contest is at the"
 
-	para "National Park"
+	para "NATIONAL PARK"
 	line "today."
 
 	para "Are you going,"
@@ -88,7 +88,7 @@ WadeBugCatchingContestText:
 
 WadeFoundItemText:
 	text "I found all kinds"
-	line "of Berries. If you"
+	line "of BERRIES. If you"
 
 	para "want, I'll share"
 	line "some with you."
@@ -100,7 +100,7 @@ WadeFoundItemText:
 	done
 
 WadeNoBerriesText:
-	text "Huh? Berries?"
+	text "Huh? BERRIES?"
 
 	para "Sorry, I haven't"
 	line "found any yet."

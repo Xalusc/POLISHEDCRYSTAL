@@ -148,17 +148,17 @@ GenericTrainerSupernerdEric:
 GenericTrainerSupernerdTeru:
 	generictrainer SUPER_NERD, TERU, EVENT_BEAT_SUPER_NERD_TERU, SupernerdTeruSeenText, SupernerdTeruBeatenText
 
-	text "I know my #mon"
+	text "I know my #MON"
 	line "type alignments."
 
 	para "But I only use one"
-	line "type of #mon."
+	line "type of #MON."
 	done
 
 GenericTrainerPokemaniacIssac:
 	generictrainer POKEMANIAC, ISSAC, EVENT_BEAT_POKEMANIAC_ISSAC, PokemaniacIssacSeenText, PokemaniacIssacBeatenText
 
-	text "Your #mon will"
+	text "Your #MON will"
 	line "like you more if"
 
 	para "you give them"
@@ -169,16 +169,16 @@ GenericTrainerPokemaniacDonald:
 	generictrainer POKEMANIAC, DONALD, EVENT_BEAT_POKEMANIAC_DONALD, PokemaniacDonaldSeenText, PokemaniacDonaldBeatenText
 
 	text "Are you making a"
-	line "#dex? Here's a"
+	line "#DEX? Here's a"
 	cont "hot tip."
 
-	para "The Hiker on Route"
-	line "33, Anthony, is a"
+	para "The HIKER on ROUTE"
+	line "33, ANTHONY, is a"
 	cont "good guy."
 
 	para "He'll phone you if"
 	line "he sees any rare"
-	cont "#mon."
+	cont "#MON."
 	done
 
 GenericTrainerCosplayerClara:
@@ -421,7 +421,7 @@ PiersScript:
 
 PiersAfterText:
 	text "If you want to be-"
-	line "come the Champion,"
+	line "come the CHAMPION,"
 
 	para "you better get"
 	line "goin'!"
@@ -464,7 +464,7 @@ PiersRematchScript:
 PiersRematchAfterText:
 	text "I have a little"
 	line "sister."
-	cont "Her name's Marnie."
+	cont "Her name's MARNIE."
 
 	para "She's about as"
 	line "cute as they come."
@@ -476,7 +476,7 @@ PiersRematchAfterText:
 	line "sing, play music,"
 
 	para "battle with #-"
-	line "mon, or something"
+	line "MON, or something"
 	cont "totally new."
 
 	para "But whatever she"
@@ -488,14 +488,14 @@ PiersRematchAfterText:
 	done
 
 PiersIntroText:
-	text "Piers: The only"
+	text "PIERS: The only"
 	line "thing a humble"
 	cont "singer can do"
 	cont "is sing a humble"
 	cont "song… ♪"
 
-	para "My name's Piers."
-	line "I'm not from Johto,"
+	para "My name's PIERS."
+	line "I'm not from JOHTO,"
 
 	para "but I came here"
 	line "to sing on the"
@@ -523,8 +523,8 @@ PiersNoBattleText:
 
 PiersSeenText:
 	text "I make dark music"
-	line "and use Dark-type"
-	cont "#mon!"
+	line "and use dark-type"
+	cont "#MON!"
 
 	para "It's time to rock!"
 	done
@@ -539,7 +539,7 @@ PiersRewardText:
 	line "able to battle."
 
 	para "Seems like my"
-	line "#mon feel the"
+	line "#MON feel the"
 	cont "same way."
 
 	para "Here's something"
@@ -550,13 +550,13 @@ PiersRewardText:
 	done
 
 PiersRematchIntroAgainText:
-	text "Piers: Hey there,"
+	text "PIERS: Hey there,"
 	line "<PLAYER>."
 	done
 
 PiersRematchSeenText:
 	text "Hah! So you're the"
-	line "new Champion."
+	line "new CHAMPION."
 
 	para "You're a big deal"
 	line "now!"
@@ -580,12 +580,12 @@ PiersRematchBeatenText:
 
 SupernerdEricSeenText:
 	text "I got booted out"
-	line "of the Game Cor-"
-	cont "ner."
+	line "of the GAME COR-"
+	cont "NER."
 
 	para "I was trying to"
 	line "cheat using my"
-	cont "#mon…"
+	cont "#MON…"
 	done
 
 SupernerdEricBeatenText:
@@ -609,7 +609,7 @@ SupernerdTeruBeatenText:
 	done
 
 PokemaniacIssacSeenText:
-	text "My #mon just"
+	text "My #MON just"
 	line "got a haircut!"
 
 	para "I'll show you how"
@@ -622,7 +622,7 @@ PokemaniacIssacBeatenText:
 
 PokemaniacDonaldSeenText:
 	text "I think you have"
-	line "some rare #mon"
+	line "some rare #MON"
 	cont "with you."
 
 	para "Let me see them!"
@@ -639,7 +639,7 @@ CosplayerClaraSeenText:
 
 CosplayerClaraBeatenText:
 	text "You thought I was"
-	line "a #mon?"
+	line "a #MON?"
 
 	para "Nope! It's just"
 	line "quality cosplay."
@@ -654,22 +654,22 @@ GoldenrodUndergroundTheDoorIsOpenText:
 	done
 
 GoldenrodUndergroundBasementKeyOpenedDoorText:
-	text "The Basement Key"
+	text "The BASEMENT KEY"
 	line "opened the door."
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherOfferHaircutText:
 	text "Welcome!"
 
-	para "I run the #mon"
-	line "Salon!"
+	para "I run the #MON"
+	line "SALON!"
 
 	para "I'm the older and"
 	line "better of the two"
-	cont "Haircut Brothers."
+	cont "HAIRCUT BROTHERS."
 
 	para "I can make your"
-	line "#mon beautiful"
+	line "#MON beautiful"
 	cont "for just ¥500."
 
 	para "Would you like me"
@@ -677,7 +677,7 @@ GoldenrodUndergroundOlderHaircutBrotherOfferHaircutText:
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherAskWhichMonText:
-	text "Which #mon"
+	text "Which #MON"
 	line "should I work on?"
 	done
 
@@ -708,22 +708,22 @@ GoldenrodUndergroundOlderHaircutBrotherOneHaircutADayText:
 
 GoldenrodUndergroundYoungerHaircutBrotherOfferHaircutText:
 	text "Welcome to the"
-	line "#mon Salon!"
+	line "#MON SALON!"
 
 	para "I'm the younger"
 	line "and less expen-"
 	cont "sive of the two"
-	cont "Haircut Brothers."
+	cont "HAIRCUT BROTHERS."
 
 	para "I'll spiff up your"
-	line "#mon for just"
+	line "#MON for just"
 	cont "¥300."
 
 	para "So? How about it?"
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherAskWhichMonText:
-	text "OK, which #mon"
+	text "OK, which #MON"
 	line "should I do?"
 	done
 

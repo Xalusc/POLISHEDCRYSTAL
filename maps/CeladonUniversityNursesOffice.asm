@@ -35,16 +35,16 @@ CeladonUniversityNursesOfficeNurseText:
 	cont "well?"
 
 	para "Or are your #-"
-	line "mon tuckered out?"
+	line "MON tuckered out?"
 
 	para "Please rest here"
 	line "for a while!"
 	done
 
 CeladonUniversityNursesOfficeSignText:
-	text "A healthy #mon"
+	text "A healthy #MON"
 	line "is a happy #-"
-	cont "mon!"
+	cont "MON!"
 
 	para "Don't let your"
 	line "friends faint"

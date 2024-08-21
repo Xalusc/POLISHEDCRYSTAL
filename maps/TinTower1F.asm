@@ -325,7 +325,7 @@ TinTower1FSage3EntersMovement:
 	step_end
 
 TinTowerEusineSuicuneText:
-	text "Eusine: Awesome!"
+	text "EUSINE: Awesome!"
 	line "Too awesome, even!"
 
 	para "I've never seen a"
@@ -334,23 +334,23 @@ TinTowerEusineSuicuneText:
 	para "That was truly"
 	line "inspiring to see."
 
-	para "Suicune was tough,"
+	para "SUICUNE was tough,"
 	line "but you were even"
 
 	para "more incredible,"
 	line "<PLAYER>."
 
-	para "I heard Suicune's"
+	para "I heard SUICUNE's"
 	line "mystic power"
 
 	para "summons a rainbow-"
-	line "colored #mon."
+	line "colored #MON."
 
 	para "Maybe, just maybe,"
 	line "what went on today"
 
 	para "will cause that"
-	line "#mon to appear."
+	line "#MON to appear."
 
 	para "I'm going to study"
 	line "the legends more."
@@ -367,16 +367,16 @@ TinTower1FSage1Text:
 	line "legend…"
 
 	para "When the souls of"
-	line "#mon and humans"
+	line "#MON and humans"
 
 	para "commune, from the"
 	line "heavens descends a"
 
-	para "#mon of rainbow"
+	para "#MON of rainbow"
 	line "colors…"
 
 	para "Could it mean the"
-	line "legendary #mon"
+	line "legendary #MON"
 
 	para "are testing us"
 	line "humans?"
@@ -384,14 +384,14 @@ TinTower1FSage1Text:
 
 TinTower1FSage2Text:
 if DEF(FAITHFUL)
-	text "When the Brass"
+	text "When the BRASS"
 else
-	text "When the Gong"
+	text "When the GONG"
 endc
-	line "Tower burned down,"
+	line "TOWER burned down,"
 
 	para "three nameless"
-	line "#mon were said"
+	line "#MON were said"
 
 	para "to have perished."
 	line "It was tragic."
@@ -399,20 +399,20 @@ endc
 	para "However…"
 
 	para "A rainbow-colored"
-	line "#mon…"
+	line "#MON…"
 
 	para "In other words…"
 
-	para "Ho-Oh descended"
+	para "HO-OH descended"
 	line "from the sky and"
 
 	para "gave new life to"
-	line "the three #mon."
+	line "the three #MON."
 
 	para "They are…"
 
-	para "Suicune, Entei and"
-	line "Raikou."
+	para "SUICUNE, ENTEI and"
+	line "RAIKOU."
 
 	para "That is what they"
 	line "say."
@@ -426,7 +426,7 @@ TinTower1FSage3Text:
 	line "friendship and"
 
 	para "hope between #-"
-	line "mon and people."
+	line "MON and people."
 
 	para "That was 700 years"
 	line "ago, but the ideal"
@@ -436,11 +436,11 @@ TinTower1FSage3Text:
 	done
 
 TinTower1FSage4Text1:
-	text "Ho-Oh appears to"
+	text "HO-OH appears to"
 	line "have descended"
 
 	para "upon this, the"
-	line "Bell Tower!"
+	line "BELL TOWER!"
 	done
 
 TinTower1FSage5Text1:
@@ -465,7 +465,7 @@ TinTowerEusineHoOhText:
 	text "I knew it."
 
 	para "I knew you'd get"
-	line "to see the #mon"
+	line "to see the #MON"
 
 	para "of rainbow colors,"
 	line "<PLAYER>."
@@ -477,13 +477,13 @@ TinTowerEusineHoOhText:
 	line "bad, I might say."
 
 	para "I'm going to keep"
-	line "studying #mon"
+	line "studying #MON"
 
 	para "to become a famous"
-	line "#Maniac!"
+	line "#MANIAC!"
 
 	para "If you're ever in"
-	line "Celadon City,"
+	line "CELADON CITY,"
 
 	para "will you say hi to"
 	line "my grandpa?"
@@ -497,7 +497,7 @@ TinTowerEusineHoOhText:
 
 TinTower1FSage4Text2:
 	text "The legendary"
-	line "#mon are said"
+	line "#MON are said"
 
 	para "to embody three"
 	line "powers…"
@@ -514,7 +514,7 @@ TinTower1FSage4Text2:
 
 TinTower1FSage5Text3:
 	text "When the legendary"
-	line "#mon appeared…"
+	line "#MON appeared…"
 
 	para "They struck terror"
 	line "in those who saw"
@@ -526,7 +526,7 @@ TinTower1FSage5Text3:
 	line "futile attacks."
 
 	para "The legendary"
-	line "#mon, knowing"
+	line "#MON, knowing"
 
 	para "their own power,"
 	line "fled, ignoring the"
@@ -535,20 +535,20 @@ TinTower1FSage5Text3:
 
 TinTower1FSage6Text2:
 	text "Of the legendary"
-	line "#mon, Suicune"
+	line "#MON, SUICUNE"
 
 	para "is said to be the"
-	line "closest to Ho-Oh."
+	line "closest to HO-OH."
 
 	para "I hear there may"
 	line "also be a link to"
 
-	para "#mon known as"
-	line "Unown."
+	para "#MON known as"
+	line "UNOWN."
 
-	para "The #mon Unown"
+	para "The #MON UNOWN"
 	line "must be sharing a"
 
 	para "cooperative bond"
-	line "with Suicune."
+	line "with SUICUNE."
 	done

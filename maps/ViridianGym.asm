@@ -63,7 +63,7 @@ ViridianGymGuyScript:
 GenericTrainerAceDuoAraandbela1:
 	generictrainer ACE_DUO, ARAANDBELA1, EVENT_BEAT_ACE_DUO_ARA_AND_BELA, AceDuoAraandbela1SeenText, AceDuoAraandbela1BeatenText
 
-	text "Ara: Me, I should"
+	text "ARA: Me, I should"
 	line "be a pretty good"
 	cont "practice partner…"
 	done
@@ -71,7 +71,7 @@ GenericTrainerAceDuoAraandbela1:
 GenericTrainerAceDuoAraandbela2:
 	generictrainer ACE_DUO, ARAANDBELA2, EVENT_BEAT_ACE_DUO_ARA_AND_BELA, AceDuoAraandbela2SeenText, AceDuoAraandbela2BeatenText
 
-	text "Bela: Our practice"
+	text "BELA: Our practice"
 	line "battles didn't pre-"
 	cont "pare us for this."
 	done
@@ -80,7 +80,7 @@ GenericTrainerCooltrainerfSalma:
 	generictrainer COOLTRAINERF, SALMA, EVENT_BEAT_COOLTRAINERF_SALMA, CooltrainerfSalmaSeenText, CooltrainerfSalmaBeatenText
 
 	text "There are many"
-	line "Gyms in the world,"
+	line "GYMS in the world,"
 
 	para "but I really like"
 	line "this one!"
@@ -97,7 +97,7 @@ GenericTrainerCooltrainerfBonita:
 GenericTrainerAceDuoElanandida1:
 	generictrainer ACE_DUO, ELANANDIDA1, EVENT_BEAT_ACE_DUO_ELAN_AND_IDA, AceDuoElanandida1SeenText, AceDuoElanandida1BeatenText
 
-	text "Elan: You're"
+	text "ELAN: You're"
 	line "stronger than we"
 	cont "anticipated!"
 	done
@@ -105,7 +105,7 @@ GenericTrainerAceDuoElanandida1:
 GenericTrainerAceDuoElanandida2:
 	generictrainer ACE_DUO, ELANANDIDA2, EVENT_BEAT_ACE_DUO_ELAN_AND_IDA, AceDuoElanandida2SeenText, AceDuoElanandida2BeatenText
 
-	text "Ida: If all you"
+	text "IDA: If all you"
 	line "have is strength,"
 	cont "you won't do well."
 
@@ -122,11 +122,11 @@ ViridianGymStatue:
 	jumpstd gymstatue2
 
 LeaderBlueBeforeText:
-	text "Blue: Yo! Finally"
+	text "BLUE: Yo! Finally"
 	line "got here, huh?"
 
 	para "I wasn't in the"
-	line "mood at Cinnabar,"
+	line "mood at CINNABAR,"
 
 	para "but now I'm ready"
 	line "to battle you."
@@ -135,9 +135,9 @@ LeaderBlueBeforeText:
 
 	para "You're telling me"
 	line "you conquered all"
-	cont "the Gyms in Johto?"
+	cont "the GYMS in JOHTO?"
 
-	para "Heh! Johto's Gyms"
+	para "Heh! JOHTO's GYMS"
 	line "must be pretty"
 	cont "pathetic then."
 
@@ -150,12 +150,12 @@ LeaderBlueBeforeText:
 	para "battling you right"
 	line "now."
 
-	para "Ready, Johto"
-	line "Champ?"
+	para "Ready, JOHTO"
+	line "CHAMP?"
 	done
 
 LeaderBlueWinText:
-	text "Blue: What?"
+	text "BLUE: What?"
 
 	para "How the heck did I"
 	line "lose to you?"
@@ -165,26 +165,26 @@ LeaderBlueWinText:
 	para "Tch, all right…"
 	line "Here, take this--"
 
-	para "it's the Earth"
-	line "Badge."
+	para "it's the EARTH"
+	line "BADGE."
 	done
 
 Text_ReceivedEarthBadge:
 	text "<PLAYER> received"
-	line "the Earth Badge."
+	line "the EARTH BADGE."
 	done
 
 LeaderBlueAfterText:
-	text "Blue: Here! Take"
+	text "BLUE: Here! Take"
 	line "this as well!"
 	done
 
 BlueOutroText:
-	text "It contains Stone"
-	line "Edge. It's not only"
+	text "It contains STONE"
+	line "EDGE. It's not only"
 
-	para "for Rock-type"
-	line "#mon, got it?"
+	para "for rock-type"
+	line "#MON, got it?"
 
 	para "…"
 
@@ -195,10 +195,10 @@ BlueOutroText:
 	line "a good trainer."
 
 	para "With eight badges"
-	line "from Kanto, you"
+	line "from KANTO, you"
 
 	para "can challenge the"
-	line "Elite Four again."
+	line "ELITE FOUR again."
 
 	para "They won't go easy"
 	line "on a trainer who"
@@ -207,12 +207,12 @@ BlueOutroText:
 	para "You can practice"
 	line "with me at the"
 
-	para "Fighting Dojo in"
-	line "Saffron City on"
+	para "FIGHTING DOJO in"
+	line "SAFFRON CITY on"
 	cont "Mondays."
 
-	para "All of the Gym"
-	line "Leaders show up"
+	para "All of the GYM"
+	line "LEADERS show up"
 	cont "there to train."
 
 	para "I'm going to beat"
@@ -223,7 +223,7 @@ BlueOutroText:
 	done
 
 LeaderBlueEpilogueText:
-	text "Blue: Listen, you."
+	text "BLUE: Listen, you."
 
 	para "You'd better not"
 	line "lose until I beat"
@@ -231,17 +231,17 @@ LeaderBlueEpilogueText:
 	done
 
 ViridianGymGuyText:
-	text "Yo, Champ in"
+	text "Yo, CHAMP in"
 	line "making!"
 
 	para "How's it going?"
 	line "Looks like you're"
 	cont "on a roll."
 
-	para "The Gym Leader is"
+	para "The GYM LEADER is"
 	line "a guy who battled"
 
-	para "the Champion three"
+	para "the CHAMPION three"
 	line "years ago."
 
 	para "He's no pushover."
@@ -262,24 +262,24 @@ ViridianGymGuyWinText:
 	done
 
 AceDuoAraandbela1SeenText:
-	text "Ara: Come on,"
+	text "ARA: Come on,"
 	line "fight us and see"
 	cont "how good we are!"
 	done
 
 AceDuoAraandbela1BeatenText:
-	text "Ara: We were"
+	text "ARA: We were"
 	line "deceived!"
 	done
 
 AceDuoAraandbela2SeenText:
-	text "Bela: Come on,"
+	text "BELA: Come on,"
 	line "fight us and see"
 	cont "how good we are!"
 	done
 
 AceDuoAraandbela2BeatenText:
-	text "Bela: We were"
+	text "BELA: We were"
 	line "deceived!"
 	done
 
@@ -288,7 +288,7 @@ CooltrainerfSalmaSeenText:
 
 	para "You've never seen"
 	line "such a wonderful"
-	cont "Gym, have you?"
+	cont "GYM, have you?"
 	done
 
 CooltrainerfSalmaBeatenText:
@@ -302,33 +302,33 @@ CooltrainerfBonitaSeenText:
 	done
 
 CooltrainerfBonitaBeatenText:
-	text "All of my #mon…"
+	text "All of my #MON…"
 
 	para "All dizzy and"
 	line "fainting…"
 	done
 
 AceDuoElanandida1SeenText:
-	text "Elan: All right,"
+	text "ELAN: All right,"
 	line "let's get this"
 	cont "fight started!"
 	done
 
 AceDuoElanandida1BeatenText:
-	text "Elan: Well, this"
+	text "ELAN: Well, this"
 	line "is surprising."
 	done
 
 AceDuoElanandida2SeenText:
-	text "Ida: I'm Ida! Next"
-	line "to me is Elan!"
+	text "IDA: I'm IDA! Next"
+	line "to me is ELAN!"
 
 	para "Together, we're an"
-	line "Ace Duo!"
+	line "ACE DUO!"
 	done
 
 AceDuoElanandida2BeatenText:
-	text "Ida: Wow. You're"
+	text "IDA: Wow. You're"
 	line "really something."
 	done
 

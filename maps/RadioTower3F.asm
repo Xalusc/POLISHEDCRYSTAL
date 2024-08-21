@@ -92,7 +92,7 @@ GenericTrainerGruntM8:
 	line "losing!"
 
 	para "Darn it! I hate"
-	line "useless #mon!"
+	line "useless #MON!"
 	done
 
 GenericTrainerGruntM9:
@@ -100,7 +100,7 @@ GenericTrainerGruntM9:
 
 	text "What?! You made it"
 	line "past our men in"
-	cont "the Underground?"
+	cont "the UNDERGROUND?"
 
 	para "How could you?"
 	done
@@ -142,7 +142,7 @@ RadioTower3FSuperNerdText:
 	text "We have recordings"
 	line "of the cries of"
 
-	para "all #mon that"
+	para "all #MON that"
 	line "have been found."
 
 	para "We must have about"
@@ -151,14 +151,14 @@ RadioTower3FSuperNerdText:
 
 RadioTower3FGymGuideText_Rockets:
 	text "To trainers, #-"
-	line "mon are their"
+	line "MON are their"
 	cont "beloved partners."
 
 	para "It's terrible how"
-	line "Team Rocket is"
+	line "TEAM ROCKET is"
 
 	para "trying to control"
-	line "#mon."
+	line "#MON."
 	done
 
 RadioTower3FGymGuideText:
@@ -174,7 +174,7 @@ RadioTower3FGymGuideText:
 	done
 
 RadioTower3FCooltrainerFIsDirectorSafeText:
-	text "Is the Director"
+	text "Is the DIRECTOR"
 	line "safe?"
 	done
 
@@ -187,7 +187,7 @@ RadioTower3FCooltrainerFYoureMyHeroText:
 	done
 
 RadioTower3FCooltrainerFItsAGBCSoundsText:
-	text "That's GBC Sounds."
+	text "That's GBC SOUNDS."
 
 	para "It's chock full of"
 	line "songs you can"
@@ -218,7 +218,7 @@ GruntM7SeenText:
 
 	para "I'm to crush any-"
 	line "one who challenges"
-	cont "Team Rocket!"
+	cont "TEAM ROCKET!"
 	done
 
 GruntM7BeatenText:
@@ -227,7 +227,7 @@ GruntM7BeatenText:
 
 GruntM8SeenText:
 	text "It feels great"
-	line "ordering #mon"
+	line "ordering #MON"
 	cont "to commit crimes."
 	done
 
@@ -260,20 +260,20 @@ RocketScientistMarcBeatenText:
 	done
 
 RadioTower3FCardKeySlotText:
-	text "It's the Card Key"
+	text "It's the CARD KEY"
 	line "slot."
 	done
 
 InsertedTheCardKeyText:
 	text "<PLAYER> inserted"
-	line "the Card Key."
+	line "the CARD KEY."
 	done
 
 RadioTower3FPersonnelSignText:
-	text "3F Personnel"
+	text "3F PERSONNEL"
 	done
 
 RadioTower3FPokemonMusicSignText:
-	text "#mon Music with"
-	line "Host DJ Ben"
+	text "#MON MUSIC with"
+	line "Host DJ BEN"
 	done

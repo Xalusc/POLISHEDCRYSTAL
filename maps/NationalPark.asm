@@ -74,10 +74,10 @@ GenericTrainerBugManiacLou:
 	generictrainer BUG_MANIAC, LOU, EVENT_BEAT_BUG_MANIAC_LOU, BugManiacLouSeenText, BugManiacLouBeatenText
 
 	text "I used to be just"
-	line "a Bug Catcher,"
+	line "a BUG CATCHER,"
 
 	para "but I evolved into"
-	line "a Bug Maniac!"
+	line "a BUG MANIAC!"
 	done
 
 GenericTrainerSchoolgirlEliza:
@@ -85,7 +85,7 @@ GenericTrainerSchoolgirlEliza:
 
 	text "I don't care!"
 	line "I still love"
-	cont "Oddish."
+	cont "ODDISH."
 	done
 
 GenericTrainerSchoolboyJohnny:
@@ -93,7 +93,7 @@ GenericTrainerSchoolboyJohnny:
 
 	text "Yeah, well, I"
 	line "still prefer"
-	cont "Bellsprout."
+	cont "BELLSPROUT."
 	done
 
 NationalParkGameboyKidScript:
@@ -214,7 +214,7 @@ GenericTrainerPokefanmWilliam:
 	generictrainer POKEFANM, WILLIAM, EVENT_BEAT_POKEFANM_WILLIAM, PokefanmWilliamSeenText, PokefanmWilliamBeatenText
 
 	text "I lost the battle,"
-	line "but my #mon win"
+	line "but my #MON win"
 
 	para "the prize for"
 	line "being most lovely."
@@ -304,7 +304,7 @@ NationalParkLassText:
 	done
 
 NationalParkPokefanFText:
-	text "This is Mail I got"
+	text "This is MAIL I got"
 	line "from my daughter."
 	cont "It cheers me up."
 	done
@@ -320,7 +320,7 @@ NationalParkTeacher1Text:
 	line "time."
 
 	para "You must be a"
-	line "#mon trainer."
+	line "#MON trainer."
 
 	para "Since you're work-"
 	line "ing so hard, I"
@@ -330,8 +330,8 @@ NationalParkTeacher1Text:
 	done
 
 NationalParkTeacher1Text_GotQuickClaw:
-	text "Let a #mon hold"
-	line "that Quick Claw."
+	text "Let a #MON hold"
+	line "that QUICK CLAW."
 
 	para "Sometimes it will"
 	line "strike first"
@@ -339,25 +339,25 @@ NationalParkTeacher1Text_GotQuickClaw:
 	done
 
 SchoolgirlElizaSeenText:
-	text "Oddish is just"
+	text "ODDISH is just"
 	line "the cutest!"
 
 	para "Don't you agree?"
 	done
 
 SchoolgirlElizaBeatenText:
-	text "My poor Oddish…"
+	text "My poor ODDISH…"
 	done
 
 SchoolboyJohnnySeenText:
-	text "Bellsprout is just"
+	text "BELLSPROUT is just"
 	line "the coolest!"
 
 	para "Aren't I right?"
 	done
 
 SchoolboyJohnnyBeatenText:
-	text "Bellsprout, no…"
+	text "BELLSPROUT, no…"
 	done
 
 NationalParkTeacher2Text:
@@ -370,23 +370,23 @@ NationalParkTeacher2Text:
 	done
 
 NationalParkPersianText:
-	text "Persian: Fufushaa!"
+	text "PERSIAN: Fufushaa!"
 	done
 
 NationalParkGameboyKidText:
 	text "I'm studying my"
-	line "#dex."
+	line "#DEX."
 
 	para "I want to collect"
 	line "a living #-"
 
-	para "dex with one of"
-	line "each #mon."
+	para "DEX with one of"
+	line "each #MON."
 	done
 
 SchoolboyJack1SeenText:
 	text "The world of"
-	line "#mon is deep."
+	line "#MON is deep."
 
 	para "There are still"
 	line "lots of things we"
@@ -409,12 +409,12 @@ SchoolboyJackTradeMonText:
 	para "There are {d:NUM_TMS} kinds"
 	line "of TMs."
 
-	para "Traded #mon"
+	para "Traded #MON"
 	line "level up faster."
 	done
 
 PokefanfBeverly1SeenText:
-	text "My #mon are"
+	text "My #MON are"
 	line "simply darling."
 
 	para "Let me tell you"
@@ -429,13 +429,13 @@ PokefanfBeverly1BeatenText:
 
 PokefanBeverlyCuteMonText:
 	text "I must say, your"
-	line "#mon are quite"
+	line "#MON are quite"
 	cont "cute, too."
 	done
 
 PokefanmWilliamSeenText:
 	text "We adore our #-"
-	line "mon, even if they"
+	line "MON, even if they"
 	cont "dislike us."
 
 	para "That's what being"
@@ -443,18 +443,18 @@ PokefanmWilliamSeenText:
 	done
 
 PokefanmWilliamBeatenText:
-	text "M-my #mon!"
+	text "M-my #MON!"
 	done
 
 PokefanFBeverlyMarillFriendText:
 	text "My friend keeps a"
-	line "Marill!"
+	line "MARILL!"
 
 	para "I find them very"
 	line "endearing."
 
 	para "Oh, I wish for a"
-	line "Marill of my own…"
+	line "MARILL of my own…"
 	done
 
 LassKriseSeenText:
@@ -471,7 +471,7 @@ LassKriseBeatenText: ; text > text
 BugManiacLouSeenText:
 	text "Nobody can beat"
 	line "my passion for"
-	cont "bug #mon!"
+	cont "bug #MON!"
 	done
 
 BugManiacLouBeatenText:
@@ -493,7 +493,7 @@ OfficermKeithAfterText:
 	text "The park stays"
 	line "open at night,"
 
-	para "because Officers"
+	para "because OFFICERS"
 	line "like me keep it"
 	cont "safe!"
 	done
@@ -503,15 +503,15 @@ OfficermKeithDaytimeText:
 	line "park, are you?"
 
 	para "Always take a"
-	line "#mon with you"
+	line "#MON with you"
 
 	para "if you go in the"
 	line "tall grass!"
 	done
 
 NationalParkRelaxationSquareText:
-	text "Relaxation Square"
-	line "National Park"
+	text "RELAXATION SQUARE"
+	line "NATIONAL PARK"
 	done
 
 NationalParkBattleNoticeText:
@@ -521,14 +521,14 @@ NationalParkBattleNoticeText:
 	para "Please battle only"
 	line "in the grass."
 
-	para "National Park"
-	line "Warden's Office"
+	para "NATIONAL PARK"
+	line "WARDEN'S OFFICE"
 	done
 
 NationalParkTrainerTipsText:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "#mon become"
+	para "#MON become"
 	line "happier from"
 
 	para "haircuts, bless-"

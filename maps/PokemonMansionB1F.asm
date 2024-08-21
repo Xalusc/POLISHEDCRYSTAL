@@ -35,13 +35,13 @@ GenericTrainerScientistBraydon:
 	text "This place was"
 	line "once the site of"
 
-	para "serious #mon"
+	para "serious #MON"
 	line "research."
 	done
 
 ScientistBraydonSeenText:
 	text "I miss the old"
-	line "Cinnabar Lab…"
+	line "CINNABAR LAB…"
 	done
 
 ScientistBraydonBeatenText:
@@ -52,7 +52,7 @@ ScientistBraydonBeatenText:
 PokemonMansionDiaryText:
 	text "Diary: July 5"
 
-	para "A new #mon was"
+	para "A new #MON was"
 	line "discovered deep in"
 	cont "the jungle."
 
@@ -60,17 +60,17 @@ PokemonMansionDiaryText:
 
 	para "We christened the"
 	line "newly discovered"
-	cont "#mon, Mew."
+	cont "#MON, MEW."
 
 	para "Diary: Feb. 6"
 
-	para "Mew gave birth."
+	para "MEW gave birth."
 	line "We named the"
-	cont "newborn Mewtwo."
+	cont "newborn MEWTWO."
 
 	para "Diary: Sept. 1"
 
-	para "Mewtwo is far"
+	para "MEWTWO is far"
 	line "too powerful."
 
 	para "We have failed to"

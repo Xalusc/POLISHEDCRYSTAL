@@ -48,7 +48,7 @@ ShamoutiIslandAlolanExeggutorScript:
 	text "The weird tree is…"
 	line "fast asleep?"
 
-	para "Is it a #mon?"
+	para "Is it a #MON?"
 	done
 
 .Awake:
@@ -68,13 +68,13 @@ ShamoutiIslandAlolanExeggutorScript:
 	end
 
 .PokeFluteText:
-	text "The #gear was"
+	text "The #GEAR was"
 	line "placed near the"
 	cont "weird tree…"
 	done
 
 .WokeUpText:
-	text "The #mon"
+	text "The #MON"
 	line "woke up!"
 	done
 
@@ -99,13 +99,13 @@ ShamoutiIslandYoungsterScript:
 	jumpthisopenedtext
 
 .Text2:
-	text "A shiny Pikachu"
+	text "A shiny PIKACHU"
 	line "would be a real"
-	cont "Pikablu."
+	cont "PIKABLU."
 
 	para "I've never found"
 	line "one, but I'm happy"
-	cont "with my Marill."
+	cont "with my MARILL."
 	done
 
 .Text1:
@@ -115,7 +115,7 @@ ShamoutiIslandYoungsterScript:
 	done
 
 ShamoutiIslandPikabluText:
-	text "Pikablu: Rill!"
+	text "PIKABLU: Rill!"
 	done
 
 ShamoutiIslandFisherText:
@@ -134,14 +134,14 @@ ShamoutiIslandFisherText:
 	done
 
 ShamoutiIslandSignText:
-	text "Shamouti Island"
+	text "SHAMOUTI ISLAND"
 	done
 
 ShamoutiHotelSignText:
-	text "Shamouti Hotel"
+	text "SHAMOUTI HOTEL"
 	done
 
 ShamoutiTouristCenterSignText:
-	text "Shamouti Tourist"
-	line "Center"
+	text "SHAMOUTI TOURIST"
+	line "CENTER"
 	done

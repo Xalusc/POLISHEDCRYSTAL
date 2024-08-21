@@ -58,7 +58,7 @@ MomOtherAreaText:
 	text "?"
 
 	para "Good luck on your"
-	line "#mon quest!"
+	line "#MON quest!"
 	done
 
 MomDeterminedText:
@@ -125,7 +125,7 @@ MomPhoneNoPokemonText:
 	text "Hello?"
 
 	para "Oh, hi, <PLAYER>!"
-	line "Wasn't Prof.Elm"
+	line "Wasn't PROF.ELM"
 	cont "waiting for you?"
 	done
 
@@ -135,8 +135,8 @@ MomPhoneNoPokedexText:
 	para "Oh, hi, <PLAYER>!"
 	line "You're on a big"
 
-	para "mission for Prof."
-	line "Elm? Be good!"
+	para "mission for PROF."
+	line "ELM? Be good!"
 	done
 
 MomPhoneNoGymQuestText:
@@ -153,9 +153,9 @@ MomPhoneLectureText:
 	text "Hello?"
 
 	para "……<PLAYER>?"
-	line "I heard from Prof."
+	line "I heard from PROF."
 
-	para "Elm that you went"
+	para "ELM that you went"
 	line "on a long trip."
 
 	para "I wish you would"

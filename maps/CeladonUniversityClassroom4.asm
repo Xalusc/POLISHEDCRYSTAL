@@ -70,15 +70,15 @@ CeladonUniversityClassroom4RaymondScript:
 	jumpopenedtext .FinalText
 
 .IntroText1:
-	text "Hey! I'm Raymond!"
-	line "Just call me Ray."
+	text "Hey! I'm RAYMOND!"
+	line "Just call me RAY."
 
 	para "I'm one of top four"
-	line "trainers at Cela-"
-	cont "don University."
+	line "trainers at CELA-"
+	cont "DON UNIVERSITY."
 
 	para "We're known as the"
-	line "Celadon Four!"
+	line "CELADON FOUR!"
 
 	para "Want to see our"
 	line "skill yourself?"
@@ -89,11 +89,11 @@ CeladonUniversityClassroom4RaymondScript:
 	done
 
 .IntroText2:
-	text "Hey! I'm Raymond!"
-	line "Just call me Ray."
+	text "Hey! I'm RAYMOND!"
+	line "Just call me RAY."
 
 	para "I'm one of the"
-	line "Celadon Four!"
+	line "CELADON FOUR!"
 
 	para "You're looking to"
 	line "fight us all?"
@@ -119,7 +119,7 @@ CeladonUniversityClassroom4RaymondScript:
 .AfterText1:
 	text "How could this be?"
 	line "I'm one of the"
-	cont "Celadon Four!"
+	cont "CELADON FOUR!"
 
 	para "I may have lost,"
 	line "but my three pals"
@@ -131,8 +131,8 @@ CeladonUniversityClassroom4RaymondScript:
 
 .AfterText2:
 	text "You've beaten all"
-	line "of the Celadon"
-	cont "Four?"
+	line "of the CELADON"
+	cont "FOUR?"
 
 	para "No way!"
 
@@ -142,21 +142,21 @@ CeladonUniversityClassroom4RaymondScript:
 
 .FinalText:
 	text "If you've conquered"
-	line "the Celadon Four,"
+	line "the CELADON FOUR,"
 
 	para "you can bear any"
 	line "burden."
 	done
 
 CeladonUniversityClassroom4CandelaText:
-	text "Hi! I'm Candela."
-	line "I teach #mon"
-	cont "Battling!"
+	text "Hi! I'm CANDELA."
+	line "I teach #MON"
+	cont "battling!"
 
 	para "I'm researching"
 	line "ways to enhance"
 
-	para "#mon's natural"
+	para "#MON's natural"
 	line "power in the pur-"
 	cont "suit of strength."
 	done
@@ -166,16 +166,16 @@ CeladonUniversityClassroom4TeacherText:
 	line "stitute."
 
 	para "The usual instruc-"
-	line "tor, Candela, went"
+	line "tor, CANDELA, went"
 
-	para "off to Shamouti"
-	line "Island for some"
+	para "off to SHAMOUTI"
+	line "ISLAND for some"
 	cont "reason."
 	done
 
 CeladonUniversityClassroom4Bug_catcherText:
 	text "My lecturer said"
-	line "my #mon could"
+	line "my #MON could"
 
 	para "really battle with"
 	line "the best of them."
@@ -187,16 +187,16 @@ CeladonUniversityClassroom4Bug_catcherText:
 
 CeladonUniversityClassroom4FisherText:
 	text "The prof said my"
-	line "#mon was a"
+	line "#MON was a"
 	cont "wonder!"
 
 	para "It's a breath-"
-	line "taking #mon."
+	line "taking #MON."
 	done
 
 CeladonUniversityClassroom4LadyText:
 	text "The professor said"
-	line "my #mon simply"
+	line "my #MON simply"
 	cont "amazed her."
 
 	para "I guess it really"
@@ -220,7 +220,7 @@ CeladonUniversityClassroom4Rich_boyScript:
 
 .Text1:
 	text "We're learning"
-	line "about #mon"
+	line "about #MON"
 	cont "abilities."
 
 	para "Some species can"
@@ -233,20 +233,20 @@ CeladonUniversityClassroom4Rich_boyScript:
 
 .Text2:
 	text "There are some"
-	line "rare “hidden"
-	cont "abilities” that"
+	line "rare “HIDDEN"
+	cont "ABILITIES” that"
 
-	para "an Ability Cap"
+	para "an ABILITY CAP"
 	line "can't change."
 
 	para "But! If a #-"
-	line "mon holding an"
+	line "MON holding an"
 
-	para "Ability Cap has"
-	line "an Egg, its baby"
+	para "ABILITY CAP has"
+	line "an EGG, its baby"
 
 	para "might have a"
-	line "hidden ability!"
+	line "HIDDEN ABILITY!"
 	done
 
 CeladonUniversityClassroom4BlackboardText:
@@ -292,7 +292,7 @@ CeladonUniversityClassroom4Bookshelf1:
 	done
 
 CeladonUniversityClassroom4Bookshelf2Text:
-	text "It's a #mon"
+	text "It's a #MON"
 	line "coloring book."
 
 	para "What's this doing"

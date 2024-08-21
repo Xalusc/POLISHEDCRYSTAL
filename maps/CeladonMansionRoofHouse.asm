@@ -30,7 +30,7 @@ CeladonMansionRoofHousePharmacistScript:
 	jumpthisopenedtext
 
 .CurseText:
-	text "TM03 is Curse."
+	text "TM03 is CURSE."
 
 	para "It's a terrifying"
 	line "move that slowly"
@@ -60,7 +60,7 @@ CeladonMansionRoofHousePharmacistScript:
 	line "there was a little"
 
 	para "boy who was given"
-	line "a new Bicycle…"
+	line "a new BICYCLE…"
 
 	para "He wanted to try"
 	line "it right away…"
@@ -100,7 +100,7 @@ CeladonMansionRoofHousePharmacistScript:
 
 	para "The boy had been"
 	line "riding uphill on"
-	cont "Cycling Road!"
+	cont "CYCLING ROAD!"
 
 	para "…"
 	line "Ba-dum ba-dum!"

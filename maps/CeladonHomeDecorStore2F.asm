@@ -91,10 +91,10 @@ CeladonHomeDecorStore2FClerkScript:
 .MenuData2:
 	db $80 ; flags
 	db 4 ; items
-	db "Pink      ¥62000@"
-	db "PolkaDot  ¥94000@"
-	db "Pikachu  ¥126000@"
-	db "Cancel@"
+	db "PINK      ¥62000@"
+	db "POLKADOT  ¥94000@"
+	db "PIKACHU  ¥126000@"
+	db "CANCEL@"
 
 CeladonHomeDecorStore2FClerkText:
 	text "Welcome! Are you"
@@ -104,31 +104,31 @@ CeladonHomeDecorStore2FClerkText:
 
 BoughtPinkBedText:
 	text "<PLAYER> bought"
-	line "Pink Bed."
+	line "PINK BED."
 	done
 
 PinkBedSentText:
-	text "Pink Bed"
+	text "PINK BED"
 	line "was sent home."
 	done
 
 BoughtPolkaDotBedText:
 	text "<PLAYER> bought"
-	line "PolkaDot Bed."
+	line "POLKADOT BED."
 	done
 
 PolkaDotBedSentText:
-	text "PolkaDot Bed"
+	text "POLKADOT BED"
 	line "was sent home."
 	done
 
 BoughtPikachuBedText:
 	text "<PLAYER> bought"
-	line "Pikachu Bed."
+	line "PIKACHU BED."
 	done
 
 PikachuBedSentText:
-	text "Pikachu Bed"
+	text "PIKACHU BED"
 	line "was sent home."
 	done
 
@@ -147,12 +147,12 @@ CeladonHomeDecorStore2FPokefanfText:
 	line "cost more than"
 	cont "generic ones."
 
-	para "But the Pikachu"
-	line "Bed is so cute…"
+	para "But the PIKACHU"
+	line "BED is so cute…"
 	done
 
 CeladonHomeDecorStore2FDirectoryText:
 	text "Soft and Fluffy!"
 
-	para "2F: Beds"
+	para "2F: BEDS"
 	done

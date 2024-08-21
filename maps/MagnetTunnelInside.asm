@@ -286,7 +286,7 @@ MagnetTunnelInsideMachineText5:
 	text "This machine isn't"
 	line "running properly!"
 
-	para "Multiple WARNING"
+	para "Multiple warning"
 	line "messages rapidly"
 
 	para "flash across the"
@@ -347,14 +347,14 @@ MagnetTunnelInsideEngineerText2:
 	para "on this tunnel,"
 	line "the number of wild"
 
-	para "Electric-type"
-	line "#mon here has"
+	para "electric-type"
+	line "#MON here has"
 	cont "more than doubled."
 	done
 
 MagnetTunnelInsideScientistText:
 	text "Every day, more"
-	line "Magnemite arrive"
+	line "MAGNEMITE arrive"
 	cont "and cause issues."
 
 	para "The foreman thinks"
@@ -377,7 +377,7 @@ GenericTrainerEngineerGraden:
 	line "tunnel to make a"
 
 	para "path for the new"
-	line "Magnet Train"
+	line "MAGNET TRAIN"
 	cont "railway, but…"
 
 	para "Little did I know,"

@@ -78,8 +78,8 @@ BrunoScript:
 	end
 
 .SeenText:
-	text "I am Bruno of the"
-	line "Elite Four."
+	text "I am BRUNO of the"
+	line "ELITE FOUR."
 
 	para "I always train to"
 	line "the extreme be-"
@@ -125,14 +125,14 @@ BrunoScript:
 	text "Hello again."
 
 	para "As one of the"
-	line "Elite Four, I will"
+	line "ELITE FOUR, I will"
 	cont "stand up to your"
 	cont "challenge!"
 
 	para "It would disturb"
 	line "me for you to"
 	cont "underestimate my"
-	cont "fighting #mon."
+	cont "fighting #MON."
 
 	para "Get ready!"
 	done

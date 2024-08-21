@@ -27,10 +27,10 @@ GenericTrainerBird_keeperToby:
 	generictrainer BIRD_KEEPER, TOBY, EVENT_BEAT_BIRD_KEEPER_TOBY, Bird_keeperTobySeenText, Bird_keeperTobyBeatenText
 
 	text "I plan to train in"
-	line "the Yellow Forest"
+	line "the YELLOW FOREST"
 
 	para "to teach my #-"
-	line "mon how to Fly."
+	line "MON how to FLY."
 	done
 
 GenericTrainerSailorHarry:
@@ -40,7 +40,7 @@ GenericTrainerSailorHarry:
 	line "ple around the"
 
 	para "world live happily"
-	line "with #mon."
+	line "with #MON."
 	done
 
 TrainerLassDana1:
@@ -254,14 +254,14 @@ GenericTrainerBeautyValencia:
 	generictrainer BEAUTY, VALENCIA, EVENT_BEAT_BEAUTY_VALENCIA, BeautyValenciaSeenText, BeautyValenciaBeatenText
 
 	text "When I see #-"
-	line "mon, it seems to"
+	line "MON, it seems to"
 	cont "soothe my nerves."
 	done
 
 GenericTrainerBeautyOlivia:
 	generictrainer BEAUTY, OLIVIA, EVENT_BEAT_BEAUTY_OLIVIA, BeautyOliviaSeenText, BeautyOliviaBeatenText
 
-	text "Moomoo Milk is"
+	text "MOOMOO MILK is"
 	line "good for beauty"
 	cont "and health."
 
@@ -273,7 +273,7 @@ GenericTrainerBeautyOlivia:
 Bird_keeperTobySeenText:
 	text "Fly high into the"
 	line "sky, my beloved"
-	cont "bird #mon!"
+	cont "bird #MON!"
 	done
 
 Bird_keeperTobyBeatenText:
@@ -297,7 +297,7 @@ SchoolboyChadSoManyTestsText:
 	line "many tests, I"
 
 	para "don't have much"
-	line "time for #mon."
+	line "time for #MON."
 
 	para "So when I do get"
 	line "to play, I really"
@@ -306,7 +306,7 @@ SchoolboyChadSoManyTestsText:
 
 LassDana1SeenText:
 	text "You seem to be"
-	line "good at #mon."
+	line "good at #MON."
 
 	para "If you are, how"
 	line "about giving me"
@@ -322,7 +322,7 @@ LassDanaMoomooMilkText:
 	text "I know something"
 	line "good!"
 
-	para "Moomoo Farm's milk"
+	para "MOOMOO FARM's milk"
 	line "is famous for its"
 	cont "flavor."
 	done
@@ -332,12 +332,12 @@ BeautyValenciaSeenText:
 	line "cute trainer!"
 
 	para "May I see your"
-	line "#mon?"
+	line "#MON?"
 	done
 
 BeautyValenciaBeatenText:
 	text "I'm glad I got to"
-	line "see your #mon!"
+	line "see your #MON!"
 	done
 
 SailorHarrySeenText:
@@ -345,7 +345,7 @@ SailorHarrySeenText:
 	line "seas, so I know"
 
 	para "about all sorts of"
-	line "#mon!"
+	line "#MON!"
 	done
 
 SailorHarryBeatenText:
@@ -355,26 +355,26 @@ SailorHarryBeatenText:
 
 BeautyOliviaSeenText:
 	text "Don't you think my"
-	line "#mon and I are"
+	line "#MON and I are"
 	cont "beautiful?"
 	done
 
 BeautyOliviaBeatenText:
-	text "We drink Moomoo"
-	line "Milk every day."
+	text "We drink MOOMOO"
+	line "MILK every day."
 	done
 
 Route38SignText:
-	text "Route 38"
+	text "ROUTE 38"
 
-	para "Olivine City -"
-	line "Ecruteak City"
+	para "OLIVINE CITY -"
+	line "ECRUTEAK CITY"
 	done
 
 Route38TrainerTipsText:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "If a #mon is"
+	para "If a #MON is"
 	line "trying to evolve,"
 	cont "you can stop it."
 
@@ -383,26 +383,26 @@ Route38TrainerTipsText:
 	cont "tion."
 
 	para "That startles the"
-	line "#mon and stops"
+	line "#MON and stops"
 	cont "its evolution."
 	done
 
 Route38AdvancedTipsText:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
-	para "Press Start in the"
+	para "Press START in the"
 	line "PC Storage System"
 
 	para "to quickly focus"
-	line "on the Box name!"
+	line "on the BOX name!"
 
 	para "You can change the"
 	line "name and theme of"
-	cont "each Box!"
+	cont "each BOX!"
 
-	para "Press Select to"
+	para "Press SELECT to"
 	line "change what the"
 
-	para "A button does"
-	line "for #mon!"
+	para "A Button does"
+	line "for #MON!"
 	done

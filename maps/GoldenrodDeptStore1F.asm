@@ -21,19 +21,19 @@ GoldenrodDeptStore1F_MapScriptHeader:
 	object_event 11,  5, SPRITE_GENTLEMAN, SPRITEMOVEDATA_WANDER, 1, 1, -1, -1, 0, OBJECTTYPE_COMMAND, jumptextfaceplayer, GoldenrodDeptStore1FGentlemanText, -1
 
 GoldenrodDeptStore1FReceptionistText:
-	text "Welcome to Golden-"
-	line "rod Dept.Store."
+	text "Welcome to GOLDEN-"
+	line "ROD DEPT.STORE."
 	done
 
 GoldenrodDeptStore1FGentlemanText:
-	text "The Dept.Store"
+	text "The DEPT.STORE"
 	line "has a decent se-"
 	cont "lection."
 
 	para "But some items"
 	line "are only available"
 
-	para "as Game Corner"
+	para "as GAME CORNER"
 	line "prizes."
 	done
 
@@ -52,19 +52,19 @@ GoldenrodDeptStore1FBugCatcherText:
 	done
 
 GoldenrodDeptStore1FDirectoryText:
-	text "1F Service Counter"
+	text "1F SERVICE COUNTER"
 
-	para "2F Trainer's"
-	line "   Market"
+	para "2F TRAINER'S"
+	line "   MARKET"
 
-	para "3F Battle"
-	line "   Collection"
+	para "3F BATTLE"
+	line "   COLLECTION"
 
-	para "4F Medicine Box"
+	para "4F MEDICINE BOX"
 
-	para "5F TM Corner"
+	para "5F TM CORNER"
 
-	para "6F Tranquil Square"
+	para "6F TRANQUIL SQUARE"
 
-	para "Rooftop Lookout"
+	para "ROOFTOP LOOKOUT"
 	done

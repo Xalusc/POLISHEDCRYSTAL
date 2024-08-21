@@ -51,15 +51,15 @@ CeladonDeptStore6FYoungsterText:
 
 CeladonDeptStore3FGameboyKid1Text:
 	text "I traded my"
-	line "#mon while"
+	line "#MON while"
 
 	para "it was holding"
-	line "an Up-Grade."
+	line "an UP-GRADE."
 	done
 
 CeladonDeptStore3FGameboyKid2Text:
 	text "Yay! I'm finally"
-	line "getting a Porygon!"
+	line "getting a PORYGON!"
 
 	para "I'm no good at the"
 	line "slots, so I could"
@@ -68,11 +68,11 @@ CeladonDeptStore3FGameboyKid2Text:
 	line "coins…"
 
 	para "I'll raise it with"
-	line "an Up-Grade to"
+	line "an UP-GRADE to"
 	cont "make it evolve!"
 	done
 
 CeladonDeptStore6FDirectoryText:
-	text "6F: Rooftop Atrium"
-	line "Vending Machines"
+	text "6F: ROOFTOP ATRIUM"
+	line "VENDING MACHINES"
 	done

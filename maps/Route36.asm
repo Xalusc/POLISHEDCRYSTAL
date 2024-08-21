@@ -317,18 +317,18 @@ Route36CooltrainerfChiaraScript:
 
 .IntroText:
 	text "I saw how you woke"
-	line "up that Sudowoodo."
+	line "up that SUDOWOODO."
 
 	para "You did great!"
 
 	para "And you have a"
-	line "Plain Badge."
+	line "PLAIN BADGE."
 	cont "So do I!"
 
 	para "How about this?"
 	line "Take out all the"
 
-	para "trainers on Routes"
+	para "trainers on ROUTES"
 	line "36 and 37."
 
 	para "Then I'll fight"
@@ -343,8 +343,8 @@ Route36CooltrainerfChiaraScript:
 	para "Then it's time for"
 	line "our showdown!"
 
-	para "I use a Binding"
-	line "Band to press my"
+	para "I use a BINDING"
+	line "BAND to press my"
 	cont "advantage."
 
 	para "Think you're ready"
@@ -466,26 +466,26 @@ Route36SuicuneMovement:
 
 UseSquirtbottleText:
 	text "It's a weird tree."
-	line "Use SquirtBottle?"
+	line "Use SQUIRTBOTTLE?"
 	done
 
 UsedSquirtbottleText:
 	text "<PLAYER> used the"
-	line "SquirtBottle."
+	line "SQUIRTBOTTLE."
 	done
 
 SudowoodoAttackedText:
 	text "The weird tree"
 	line "doesn't like the"
-	cont "SquirtBottle!"
+	cont "SQUIRTBOTTLE!"
 
 	para "The weird tree"
 	line "attacked!"
 	done
 
 FloriaTextAfterPlainBadge:
-	text "I'm the Flower"
-	line "Shop's Floria!"
+	text "I'm the FLOWER"
+	line "SHOP's FLORIA!"
 
 	para "Listen, listen!"
 
@@ -496,7 +496,7 @@ FloriaTextAfterPlainBadge:
 	line "jumped right up!"
 
 	para "It just has to be"
-	line "a #mon."
+	line "a #MON."
 
 	para "I bet it would be"
 	line "shocked out of its"
@@ -510,8 +510,8 @@ FloriaTextAfterPlainBadge:
 	done
 
 FloriaTextAfterSquirtBottle:
-	text "I'm the Flower"
-	line "Shop's Floria!"
+	text "I'm the FLOWER"
+	line "SHOP's FLORIA!"
 
 	para "When I told my sis"
 	line "about the jiggly"
@@ -534,7 +534,7 @@ FloriaTextAfterSquirtBottle:
 FloriaTextAfterSudowoodo:
 	text "I just knew that"
 	line "wiggly tree was a"
-	cont "#mon!"
+	cont "#MON!"
 
 	para "I was going to"
 	line "shock it out of"
@@ -543,10 +543,10 @@ FloriaTextAfterSudowoodo:
 	line "you beat me to it!"
 
 	para "Oh well, I'll head"
-	line "back to the Flower"
-	cont "Shop."
+	line "back to the FLOWER"
+	cont "SHOP."
 
-	para "I'm Floria, by the"
+	para "I'm FLORIA, by the"
 	line "way."
 
 	para "Ta-ta!"
@@ -577,9 +577,9 @@ RockSmashGuyText2:
 RockSmashGuyText3:
 	text "That happens to be"
 if DEF(FAITHFUL)
-	line "Rock Smash."
+	line "ROCK SMASH."
 else
-	line "Brick Break."
+	line "BRICK BREAK."
 endc
 
 	para "You can shatter"
@@ -600,12 +600,12 @@ endc
 Route36LassText_OddTree:
 	text "An odd tree is"
 	line "blocking the way"
-	cont "to Goldenrod City."
+	cont "to GOLDENROD CITY."
 
 	para "I wanted to go see"
-	line "the huge #mon"
+	line "the huge #MON"
 
-	para "Center they just"
+	para "CENTER they just"
 	line "opened…"
 	done
 
@@ -615,7 +615,7 @@ Route36LassText_ClearedSudowoodo:
 	cont "trace."
 
 	para "Oh! That tree was"
-	line "really a #mon?"
+	line "really a #MON?"
 	done
 
 PsychicMarkSeenText:
@@ -628,9 +628,9 @@ PsychicMarkBeatenText:
 	done
 
 SchoolgirlMollySeenText:
-	text "Mr.Earl taught me"
+	text "MR.EARL taught me"
 	line "how to battle with"
-	cont "#mon!"
+	cont "#MON!"
 	done
 
 SchoolgirlMollyBeatenText:
@@ -640,7 +640,7 @@ SchoolgirlMollyBeatenText:
 SchoolboyAlan1SeenText:
 	text "Thanks to my stud-"
 	line "ies, I'm ready for"
-	cont "any #mon!"
+	cont "any #MON!"
 	done
 
 SchoolboyAlan1BeatenText:
@@ -658,10 +658,10 @@ SchoolboyAlanBooksText:
 	done
 
 MeetArthurText:
-	text "Arthur: Who are"
+	text "ARTHUR: Who are"
 	line "you?"
 
-	para "I'm Arthur of"
+	para "I'm ARTHUR of"
 	line "Thursday."
 	done
 
@@ -671,18 +671,18 @@ ArthurGivesGiftText:
 	done
 
 ArthurGaveGiftText:
-	text "Arthur: A #mon"
-	line "that uses Rock-"
+	text "ARTHUR: A #MON"
+	line "that uses rock-"
 
 	para "type moves should"
 	line "hold on to that."
 
-	para "It pumps up Rock-"
+	para "It pumps up rock-"
 	line "type attacks."
 	done
 
 ArthurThursdayText:
-	text "Arthur: I'm Arthur"
+	text "ARTHUR: I'm ARTHUR"
 	line "of Thursday. I'm"
 
 	para "the second son out"
@@ -690,24 +690,24 @@ ArthurThursdayText:
 	done
 
 ArthurNotThursdayText:
-	text "Arthur: Today's"
+	text "ARTHUR: Today's"
 	line "not Thursday. How"
 	cont "disappointing."
 	done
 
 Route36SignText:
-	text "Route 36"
+	text "ROUTE 36"
 	done
 
 RuinsOfAlphNorthSignText:
-	text "Ruins of Alph"
-	line "North Entrance"
+	text "RUINS OF ALPH"
+	line "NORTH ENTRANCE"
 	done
 
 Route36TrainerTips1Text:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "#mon stats"
+	para "#MON stats"
 	line "vary--even within"
 	cont "the same species."
 
@@ -718,13 +718,13 @@ Route36TrainerTips1Text:
 	line "ences will become"
 
 	para "pronounced as the"
-	line "#mon grow."
+	line "#MON grow."
 	done
 
 Route36TrainerTips2Text:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "Use Dig to return"
+	para "Use DIG to return"
 	line "to the entrance of"
 	cont "any place."
 
@@ -736,7 +736,7 @@ Route36TrainerTips2Text:
 	done
 
 Route36AdvancedTips1Text:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
 	para "You can pick from"
 	line "twenty different"
@@ -744,14 +744,14 @@ Route36AdvancedTips1Text:
 
 	para "eight different"
 	line "text typefaces in"
-	cont "the Options!"
+	cont "the OPTIONS!"
 	done
 
 Route36AdvancedTips2Text:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
 	para "Treating your"
-	line "#mon with hair-"
+	line "#MON with hair-"
 	cont "cuts, blessings or"
 
 	para "massages can make"

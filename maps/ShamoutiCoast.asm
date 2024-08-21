@@ -59,7 +59,7 @@ GenericTrainerSwimmerfMarina:
 	line "ded on a desert"
 	cont "island, I'd take…"
 
-	para "my #mon, of"
+	para "my #MON, of"
 	line "course!"
 	done
 
@@ -83,8 +83,8 @@ GenericTrainerFisherDallas:
 	text "No matter where I"
 	line "fish, I just keep"
 
-	para "reeling in Bottle"
-	line "Caps."
+	para "reeling in BOTTLE"
+	line "CAPS."
 
 	para "It's driving me"
 	line "nuts!"
@@ -104,7 +104,7 @@ GenericTrainerSightseerfPilar:
 	generictrainer SIGHTSEERF, PILAR, EVENT_BEAT_SIGHTSEERF_PILAR, .SeenText, .BeatenText
 
 	text "¡Qué fuertes son"
-	line "tus #mon!"
+	line "tus #MON!"
 
 	para "Debes de haber"
 	line "viajado un montón"
@@ -131,30 +131,30 @@ GenericTrainerSightseersCyandvi1:
 	generictrainer SIGHTSEERS, CYANDVI1, EVENT_BEAT_SIGHTSEERS_CY_AND_VI, .SeenText, .BeatenText
 
 ; text > text
-	text "Cy: TODO"
+	text "CY: TODO"
 	done
 
 .SeenText: ; text > text
-	text "Cy: TODO"
+	text "CY: TODO"
 	done
 
 .BeatenText: ; text > text
-	text "Cy: TODO"
+	text "CY: TODO"
 	done
 
 GenericTrainerSightseersCyandvi2:
 	generictrainer SIGHTSEERS, CYANDVI2, EVENT_BEAT_SIGHTSEERS_CY_AND_VI, .SeenText, .BeatenText
 
 ; text > text
-	text "Vi: TODO"
+	text "VI: TODO"
 	done
 
 .SeenText: ; text > text
-	text "Vi: TODO"
+	text "VI: TODO"
 	done
 
 .BeatenText: ; text > text
-	text "Vi: TODO"
+	text "VI: TODO"
 	done
 
 GenericTrainerSwimmermAshe:

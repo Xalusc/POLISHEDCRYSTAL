@@ -69,21 +69,21 @@ Route39RuggedRoadGateOfficerCannotPassText:
 	text "Whoa, where are"
 	line "you going?"
 
-	para "The Rugged Road to"
-	line "Snowtop Mountain"
+	para "The RUGGED ROAD to"
+	line "SNOWTOP MOUNTAIN"
 	cont "is really harsh!"
 
 	para "I can't let you"
 	line "risk it without"
-	cont "any Go-Goggles."
+	cont "any GO-GOGGLES."
 	done
 
 Route39RuggedRoadGateOfficerText:
-	text "The trek to Snow-"
-	line "top Mountain can"
+	text "The trek to SNOW-"
+	line "TOP MOUNTAIN can"
 	cont "be dangerous!"
 
 	para "That's why a #-"
-	line "mon Center was"
+	line "MON CENTER was"
 	cont "built there."
 	done

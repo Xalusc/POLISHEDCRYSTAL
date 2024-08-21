@@ -224,7 +224,7 @@ GenericTrainerCamperGrant:
 GenericTrainerAceDuoThomandkae1:
 	generictrainer ACE_DUO, THOMANDKAE1, EVENT_BEAT_ACE_DUO_THOM_AND_KAE, AceDuoThomandkae1SeenText, AceDuoThomandkae1BeatenText
 
-	text "Thom: Your power"
+	text "THOM: Your power"
 	line "is impossible to"
 	cont "predict!"
 	done
@@ -232,7 +232,7 @@ GenericTrainerAceDuoThomandkae1:
 GenericTrainerAceDuoThomandkae2:
 	generictrainer ACE_DUO, THOMANDKAE2, EVENT_BEAT_ACE_DUO_THOM_AND_KAE, AceDuoThomandkae2SeenText, AceDuoThomandkae2BeatenText
 
-	text "Kae: I figured you"
+	text "KAE: I figured you"
 	line "were an ordinary"
 
 	para "lone trainer."
@@ -242,7 +242,7 @@ GenericTrainerAceDuoThomandkae2:
 GenericTrainerCoupleDuffandeda1:
 	generictrainer COUPLE, DUFFANDEDA1, EVENT_BEAT_COUPLE_DUFF_AND_EDA, CoupleDuffandeda1SeenText, CoupleDuffandeda1BeatenText
 
-	text "Duff: Thank you"
+	text "DUFF: Thank you"
 	line "for the awe-"
 	cont "inspiring battle!"
 	done
@@ -250,7 +250,7 @@ GenericTrainerCoupleDuffandeda1:
 GenericTrainerCoupleDuffandeda2:
 	generictrainer COUPLE, DUFFANDEDA2, EVENT_BEAT_COUPLE_DUFF_AND_EDA, CoupleDuffandeda2SeenText, CoupleDuffandeda2BeatenText
 
-	text "Eda: You should"
+	text "EDA: You should"
 	line "find a wonderful"
 	cont "partner, too."
 	done
@@ -260,7 +260,7 @@ GenericTrainerCowgirlDaniela:
 
 	text "Have you ever"
 	line "tried to ride a"
-	cont "Tauros?"
+	cont "TAUROS?"
 	done
 
 GenericTrainerGruntF6:
@@ -268,7 +268,7 @@ GenericTrainerGruntF6:
 
 	text "If we treated"
 	line "every single"
-	cont "#mon well,"
+	cont "#MON well,"
 
 	para "how would we"
 	line "make money?"
@@ -286,7 +286,7 @@ GenericTrainerGruntM26:
 	generictrainer GRUNTM, 26, EVENT_BEAT_ROCKET_GRUNTM_26, GruntM26SeenText, GruntM26BeatenText
 
 	text "How we treat"
-	line "#mon is none"
+	line "#MON is none"
 	cont "of your business!"
 	done
 
@@ -304,7 +304,7 @@ CamperGrantSeenText:
 	text "I'm not good with"
 	line "crowds, so I'm"
 	cont "camping out here"
-	cont "with my #mon!"
+	cont "with my #MON!"
 	done
 
 CamperGrantBeatenText:
@@ -314,7 +314,7 @@ CamperGrantBeatenText:
 	done
 
 AceDuoThomandkae1SeenText:
-	text "Thom: One plus one"
+	text "THOM: One plus one"
 	line "is two. But the"
 
 	para "two of us together"
@@ -322,23 +322,23 @@ AceDuoThomandkae1SeenText:
 	done
 
 AceDuoThomandkae1BeatenText:
-	text "Thom: That wasn't"
+	text "THOM: That wasn't"
 	line "what I expected…"
 	done
 
 AceDuoThomandkae2SeenText:
-	text "Kae: The two of us"
+	text "KAE: The two of us"
 	line "aren't just some"
 	cont "boring pair!"
 	done
 
 AceDuoThomandkae2BeatenText:
-	text "Kae: You're"
+	text "KAE: You're"
 	line "unusual, too!"
 	done
 
 CoupleDuffandeda1SeenText:
-	text "Duff: Watching"
+	text "DUFF: Watching"
 	line "over my girlfriend"
 
 	para "makes my heart"
@@ -346,12 +346,12 @@ CoupleDuffandeda1SeenText:
 	done
 
 CoupleDuffandeda1BeatenText:
-	text "Duff: I was no"
+	text "DUFF: I was no"
 	line "match for you…"
 	done
 
 CoupleDuffandeda2SeenText:
-	text "Eda: My feelings"
+	text "EDA: My feelings"
 	line "for my boyfriend"
 
 	para "are as wide and"
@@ -359,7 +359,7 @@ CoupleDuffandeda2SeenText:
 	done
 
 CoupleDuffandeda2BeatenText:
-	text "Eda: You're really"
+	text "EDA: You're really"
 	line "something…"
 	done
 
@@ -374,10 +374,10 @@ CowgirlDanielaBeatenText:
 
 GruntF6SeenText:
 	text "Why should we"
-	line "raise #mon like"
+	line "raise #MON like"
 	cont "ordinary trainers?"
 
-	para "We're Team Rocket!"
+	para "We're TEAM ROCKET!"
 	done
 
 GruntF6BeatenText:
@@ -387,7 +387,7 @@ GruntF6BeatenText:
 GruntM23SeenText:
 	text "Aww, are you here"
 	line "to save the cute"
-	cont "little #mon?"
+	cont "little #MON?"
 	done
 
 GruntM23BeatenText:
@@ -421,16 +421,16 @@ Route47SealedCaveSign:
 	done
 
 Route47QuietCaveSignText:
-	text "Route 47"
+	text "ROUTE 47"
 
-	para "West to"
-	line "Quiet Cave"
+	para "WEST TO"
+	line "QUIET CAVE"
 	done
 
 Route47AdvancedTipsSignText:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
-	para "Some #mon found"
+	para "Some #MON found"
 	line "in certain areas"
 
 	para "may know a move"

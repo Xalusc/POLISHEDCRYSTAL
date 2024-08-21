@@ -67,10 +67,10 @@ GoldenrodGymWhitneyScript:
 	setevent EVENT_GOT_TM45_ATTRACT
 	jumpthisopenedtext
 
-	text "It's Attract!"
+	text "It's ATTRACT!"
 	line "It makes full use"
 
-	para "of a #mon's"
+	para "of a #MON's"
 	line "charm."
 
 	para "Isn't it just per-"
@@ -81,7 +81,7 @@ GoldenrodGymWhitneyScript:
 GenericTrainerLassCathy:
 	generictrainer LASS, CATHY, EVENT_BEAT_LASS_CATHY, LassCathySeenText, LassCathyBeatenText
 
-	text "Do my #mon"
+	text "Do my #MON"
 	line "think I'm cute?"
 	done
 
@@ -98,11 +98,11 @@ WhitneyCriesScript:
 GenericTrainerSrandjrJoandcath1:
 	generictrainer SR_AND_JR, JOANDCATH1, EVENT_BEAT_SR_AND_JR_JO_AND_CATH, SrandjrJoandcath1SeenText, SrandjrJoandcath1BeatenText
 
-	text "Jo: I'm helping my"
-	line "junior Cath to"
+	text "JO: I'm helping my"
+	line "junior CATH to"
 
-	para "earn a badge"
-	line "from Whitney."
+	para "earn a BADGE"
+	line "from WHITNEY."
 
 	para "She's improving"
 	line "gradually."
@@ -111,8 +111,8 @@ GenericTrainerSrandjrJoandcath1:
 GenericTrainerSrandjrJoandcath2:
 	generictrainer SR_AND_JR, JOANDCATH2, EVENT_BEAT_SR_AND_JR_JO_AND_CATH, SrandjrJoandcath2SeenText, SrandjrJoandcath2BeatenText
 
-	text "Cath: I keep on"
-	line "losing to Whitney."
+	text "CATH: I keep on"
+	line "losing to WHITNEY."
 	cont "It's depressing."
 
 	para "I'm OK! If I lose,"
@@ -131,7 +131,7 @@ GenericTrainerBeautyVictoria:
 GenericTrainerBeautySamantha:
 	generictrainer BEAUTY, SAMANTHA, EVENT_BEAT_BEAUTY_SAMANTHA, BeautySamanthaSeenText, BeautySamanthaBeatenText
 
-	text "I taught Meowth"
+	text "I taught MEOWTH"
 	line "moves for taking"
 	cont "on any type…"
 	done
@@ -141,21 +141,21 @@ GoldenrodGymGuyScript:
 	iftrue_jumptextfaceplayer GoldenrodGymGuyWinText
 	jumpthistextfaceplayer
 
-	text "Yo! Champ in"
+	text "Yo! CHAMP in"
 	line "making!"
 
-	para "This Gym is home"
-	line "to Normal-type"
-	cont "#mon trainers."
+	para "This GYM is home"
+	line "to normal-type"
+	cont "#MON trainers."
 
 	para "I recommend you"
-	line "use Fighting-type"
-	cont "#mon."
+	line "use fighting-type"
+	cont "#MON."
 
 	para "But be careful--"
-	line "Fairy #mon"
+	line "fairy-type #MON"
 
-	para "resist Fighting-"
+	para "resist fighting-"
 	line "type moves,"
 
 	para "and they're used"
@@ -185,13 +185,13 @@ JoWalksAwayMovement:
 	step_end
 
 WhitneyBeforeText:
-	text "Hi! I'm Whitney!"
+	text "Hi! I'm WHITNEY!"
 
 	para "Everyone was into"
-	line "#mon, so I got"
+	line "#MON, so I got"
 	cont "into it too!"
 
-	para "#mon are"
+	para "#MON are"
 	line "super cute!"
 
 	para "You want to bat-"
@@ -223,23 +223,23 @@ WhitneyWhatDoYouWantText:
 	text "…Sniff…"
 
 	para "What? What do you"
-	line "want? A Badge?"
+	line "want? A BADGE?"
 
 	para "Oh, right."
 	line "I forgot. Here's"
-	cont "the Plain Badge."
+	cont "the PLAIN BADGE."
 	done
 
 PlayerReceivedPlainBadgeText:
 	text "<PLAYER> received"
-	line "the Plain Badge."
+	line "the PLAIN BADGE."
 	done
 
 WhitneyPlainBadgeText:
-	text "The Plain Badge"
-	line "lets your #mon"
+	text "The PLAIN BADGE"
+	line "lets your #MON"
 
-	para "use Strength out-"
+	para "use STRENGTH out-"
 	line "side of battle."
 
 	para "Oh, you can have"
@@ -256,7 +256,7 @@ WhitneyGoodCryText:
 
 LassCathySeenText:
 	text "Don't let my"
-	line "#mon's cute"
+	line "#MON's cute"
 
 	para "looks fool you."
 	line "They can whip you!"
@@ -268,8 +268,8 @@ LassCathyBeatenText:
 	done
 
 SrandjrJoandcath1SeenText:
-	text "Jo: If you want to"
-	line "face Whitney,"
+	text "JO: If you want to"
+	line "face WHITNEY,"
 
 	para "you'll have to go"
 	line "through me!"
@@ -279,13 +279,13 @@ SrandjrJoandcath1SeenText:
 	done
 
 SrandjrJoandcath1BeatenText:
-	text "Jo: Losing isn't"
+	text "JO: Losing isn't"
 	line "cool at all!"
 	done
 
 SrandjrJoandcath2SeenText:
-	text "Cath: I'm trying"
-	line "to beat Whitney,"
+	text "CATH: I'm trying"
+	line "to beat WHITNEY,"
 	cont "but my senior and"
 
 	para "I can beat you"
@@ -293,13 +293,13 @@ SrandjrJoandcath2SeenText:
 	done
 
 SrandjrJoandcath2BeatenText:
-	text "Cath: Oh, no,"
+	text "CATH: Oh, no,"
 	line "no, no!"
 	done
 
 JoWhitneyCriesText:
 	text "Oh, no. You made"
-	line "Whitney cry."
+	line "WHITNEY cry."
 
 	para "It's OK. She'll"
 	line "stop soon. She"
@@ -328,7 +328,7 @@ BeautySamanthaSeenText:
 	done
 
 BeautySamanthaBeatenText:
-	text "No! Oh, Meowth,"
+	text "No! Oh, MEOWTH,"
 	line "I'm so sorry!"
 	done
 

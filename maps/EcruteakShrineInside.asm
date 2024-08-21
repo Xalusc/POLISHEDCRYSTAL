@@ -100,31 +100,31 @@ EcruteakShrineInsideReiScript:
 .MenuData2:
 	db $80 ; flags
 	db 3 ; items
-	db "Blessing@"
-	db "Battle@"
-	db "Cancel@"
+	db "BLESSING@"
+	db "BATTLE@"
+	db "CANCEL@"
 
 EcruteakShrineInsideReiGreetingText:
-	text "Rei: Oh, hello."
+	text "REI: Oh, hello."
 	line "Welcome to our"
 	cont "shrine."
 
 	para "Did you come to"
 	line "have me bless one"
-	cont "of your #mon?"
+	cont "of your #MON?"
 
 	para "Or would you like"
 	line "to battle?"
 	done
 
 EcruteakShrineInsideReiBlessText:
-	text "Rei: OK, which"
-	line "#mon should I"
+	text "REI: OK, which"
+	line "#MON should I"
 	cont "bless?"
 	done
 
 EcruteakShrineInsideReiBlessingText:
-	text "Rei: May you be"
+	text "REI: May you be"
 	line "at ease, and find"
 	cont "peace."
 	done
@@ -136,12 +136,12 @@ EcruteakShrineInsideHappinessText:
 	done
 
 EcruteakShrineInsideReiBlessEggText:
-	text "Rei: I can't"
-	line "bless an Egg."
+	text "REI: I can't"
+	line "bless an EGG."
 	done
 
 EcruteakShrineInsideReiBattleText:
-	text "Rei: Very well."
+	text "REI: Very well."
 	line "Evil spirits,"
 	cont "begone!"
 	done
@@ -151,12 +151,12 @@ EcruteakShrineInsideReiBeatenText:
 	done
 
 EcruteakShrineInsideReiComeAgainText:
-	text "Rei: Please come"
+	text "REI: Please come"
 	line "again tomorrow."
 	done
 
 EcruteakShrineInsideReiCancelText:
-	text "Rei: Please come"
+	text "REI: Please come"
 	line "back if you change"
 	cont "your mind."
 	done
@@ -171,20 +171,20 @@ EcruteakShrineInsideSageText:
 	text "Most of us here at"
 	line "the shrine train"
 
-	para "Hoothoot and"
-	line "Sentret to battle"
+	para "HOOTHOOT and"
+	line "SENTRET to battle"
 	cont "ghosts."
 
-	para "Rei is unique."
-	line "She uses Fire and"
-	cont "Psychic types."
+	para "REI is unique."
+	line "She uses fire- and"
+	cont "psychic-types."
 	done
 
 EcruteakShrineInsideGrannyText:
 	text "I'm glad they didn't"
 	line "approve a stop in"
-	cont "Ecruteak for the"
-	cont "Magnet Train."
+	cont "ECRUTEAK for the"
+	cont "MAGNET TRAIN."
 
 	para "It would ruin our"
 	line "traditional land-"

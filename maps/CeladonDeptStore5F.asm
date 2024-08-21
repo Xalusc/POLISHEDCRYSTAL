@@ -24,13 +24,13 @@ CeladonDeptStore5FGentlemanText:
 	text "I want to buy some"
 	line "items that raise"
 
-	para "#mon stats, but"
+	para "#MON stats, but"
 	line "I don't have"
 	cont "enough money…"
 	done
 
 CeladonDeptStore5FSailorText:
-	text "I want PP Up, so I"
+	text "I want PP UP, so I"
 	line "can raise the PP"
 
 	para "of moves. But you"
@@ -40,7 +40,7 @@ CeladonDeptStore5FSailorText:
 CeladonDeptStore5FTeacherText:
 	text "Using items on"
 	line "them makes #-"
-	cont "mon happy."
+	cont "MON happy."
 
 	para "They hate certain"
 	line "items, though…"
@@ -48,7 +48,7 @@ CeladonDeptStore5FTeacherText:
 
 CeladonDeptStore5FDirectoryText:
 	text "Bring Out"
-	line "#mon Potential"
+	line "#MON Potential"
 
-	para "5F: Drug Store"
+	para "5F: DRUG STORE"
 	done

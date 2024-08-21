@@ -23,17 +23,17 @@ PokemonJournalBlueScript:
 	setflag ENGINE_READ_BLUE_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Leader Blue!"
+	para "SPECIAL FEATURE:"
+	line "LEADER BLUE!"
 
-	para "Blue supposedly"
+	para "BLUE supposedly"
 	line "visits his cher-"
-	cont "ished #mon"
+	cont "ished #MON"
 
 	para "every year in the"
-	line "House of Souls."
+	line "HOUSE OF SOULS."
 	done
 
 ViridianPokeCenter1FCooltrainermScript:
@@ -42,16 +42,16 @@ ViridianPokeCenter1FCooltrainermScript:
 	jumpthistextfaceplayer
 
 	text "Where in the world"
-	line "is Viridian's Gym"
+	line "is VIRIDIAN's GYM"
 
-	para "Leader? I wanted"
+	para "LEADER? I wanted"
 	line "to challenge him."
 	done
 
 .BlueText:
 	text "There are strong"
-	line "Gym Trainers at"
-	cont "the Viridian Gym."
+	line "GYM trainers at"
+	cont "the VIRIDIAN GYM."
 
 	para "Someday I'm going"
 	line "to join them!"
@@ -59,15 +59,15 @@ ViridianPokeCenter1FCooltrainermScript:
 
 ViridianPokeCenter1FCooltrainerfText:
 	text "I heard that the"
-	line "Gym in Cinnabar is"
+	line "GYM in CINNABAR is"
 	cont "gone."
 
 	para "I wonder what be-"
-	line "came of Blaine,"
-	cont "the Gym Leader."
+	line "came of BLAINE,"
+	cont "the GYM LEADER."
 	done
 
 ViridianPokeCenter1FBugCatcherText:
 	text "My dream is to be-"
-	line "come a Gym Leader."
+	line "come a GYM LEADER."
 	done

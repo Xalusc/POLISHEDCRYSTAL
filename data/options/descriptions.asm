@@ -14,23 +14,23 @@ InitialOptionDescriptions:
 	assert_table_length NUM_INITIAL_OPTIONS
 
 .InitialOptionDesc_Natures:
-	text "Natures raise one"
+	text "NATURES raise one"
 	line "stat but lower"
 	cont "another by 10%."
 
 	para "Introduced in"
-	line "Gen 3."
+	line "GEN 3."
 	prompt
 
 .InitialOptionDesc_Abilities:
-	text "Abilities may have"
+	text "ABILITIES may have"
 	line "effects inside"
 
 	para "and outside of"
 	line "battle."
 
 	para "Introduced in"
-	line "Gen 3."
+	line "GEN 3."
 	prompt
 
 .InitialOptionDesc_PSS:
@@ -39,7 +39,7 @@ InitialOptionDescriptions:
 	cont "pendently of type."
 
 	para "Introduced in"
-	line "Gen 4."
+	line "GEN 4."
 	prompt
 
 .InitialOptionDesc_EVs:
@@ -57,7 +57,7 @@ InitialOptionDescriptions:
 	line "a total of {d:MODERN_EV_LIMIT}."
 
 	para "Replaced stat exp-"
-	line "erience in Gen 3."
+	line "erience in GEN 3."
 	prompt
 
 .InitialOptionDesc_ExpScaling:
@@ -71,11 +71,11 @@ InitialOptionDescriptions:
 	line "er leveled ones."
 
 	para "Introduced in"
-	line "Gen 5 and 7."
+	line "GEN 5 and 7."
 	prompt
 
 .InitialOptionDesc_AffectionBonus:
-	text "Your #mon will"
+	text "Your #MON will"
 	line "gain benefits in"
 	cont "battle when they"
 
@@ -83,12 +83,12 @@ InitialOptionDescriptions:
 	line "with you."
 
 	para "Introduced in"
-	line "Gen 6."
+	line "GEN 6."
 	prompt
 
 .InitialOptionDesc_ColorVariation:
 	text "Individual #-"
-	line "mon, both regular"
+	line "MON, both regular"
 	cont "and shiny, will"
 
 	para "have their colors"
@@ -101,7 +101,7 @@ InitialOptionDescriptions:
 	line "stat quality."
 
 	para "Inspired by"
-	line "Stadium's color"
+	line "STADIUM's color"
 
 	para "variation based"
 	line "on nicknames."
@@ -109,18 +109,18 @@ InitialOptionDescriptions:
 
 .InitialOptionDesc_PerfectIVs:
 	text "Stats are calcu-"
-	line "lated as if IVs"
+	line "lated as if DVs"
 
 	para "were perfect 15s,"
-	line "for your #mon"
+	line "for your #MON"
 	cont "and opponents'."
 	prompt
 
 .InitialOptionDesc_TradedMon:
-	text "Traded #mon"
+	text "Traded #MON"
 	line "will obey you and"
 	cont "can be nicknamed,"
 
-	para "but Exp. Points"
+	para "but EXP. Points"
 	line "won't be boosted."
 	prompt

@@ -114,8 +114,8 @@ WiseTriosRoomSageAllowsPassageMovement:
 WiseTriosRoomSage1Text:
 	text "Astounding…"
 
-	para "Suicune, Entei and"
-	line "Raikou have arisen"
+	para "SUICUNE, ENTEI and"
+	line "RAIKOU have arisen"
 	cont "from their sleep…"
 
 	para "Is the legend"
@@ -124,7 +124,7 @@ WiseTriosRoomSage1Text:
 
 WiseTriosRoomSage2Text:
 	text "We train at the"
-	line "Burned Tower, but"
+	line "BURNED TOWER, but"
 
 	para "we've never heard"
 	line "of a hole opening"
@@ -137,16 +137,16 @@ WiseTriosRoomSage2Text:
 	done
 
 WiseTriosRoomSage3BlocksExitText:
-	text "Bell Tower may be"
+	text "BELL TOWER may be"
 	line "entered by those"
 
-	para "bearing Ecruteak's"
-	line "Gym Badge."
+	para "bearing ECRUTEAK's"
+	line "GYM BADGE."
 
 	para "However, now that"
-	line "Suicune, Raikou"
+	line "SUICUNE, RAIKOU"
 
-	para "and Entei have"
+	para "and ENTEI have"
 	line "arisen, I ask you"
 
 	para "to refrain from"
@@ -154,11 +154,11 @@ WiseTriosRoomSage3BlocksExitText:
 	done
 
 WiseTriosRoomSage3Text:
-	text "We, the Wise Trio,"
+	text "We, the WISE TRIO,"
 	line "are the protectors"
 
 	para "of the legendary"
-	line "#mon."
+	line "#MON."
 	done
 
 ElderGakuSeenText:
@@ -169,22 +169,22 @@ ElderGakuSeenText:
 	line "has the ability to"
 
 	para "touch the souls of"
-	line "#mon, a #mon"
+	line "#MON, a #MON"
 
 	para "will come forth to"
 	line "put that trainer"
 
 	para "to test at the"
-	line "Bell Tower."
+	line "BELL TOWER."
 
 	para "The legend has"
 	line "come true!"
 
 	para "The legendary"
-	line "#mon Suicune"
+	line "#MON SUICUNE"
 	cont "has arrived!"
 
-	para "We, the Wise Trio,"
+	para "We, the WISE TRIO,"
 	line "shall test your"
 
 	para "worthiness to go"
@@ -200,8 +200,8 @@ SageGakuAfterBattleText:
 	text "Ah, so it is you"
 	line "who claim to have"
 
-	para "seen Suicune,"
-	line "Entei and Raikou"
+	para "seen SUICUNE,"
+	line "ENTEI and RAIKOU"
 	cont "while they slept?"
 
 	para "Unbelievable!"
@@ -230,16 +230,16 @@ SageMasaAfterBattleText:
 	cont "towers here."
 
 if DEF(FAITHFUL)
-	para "The Brass Tower,"
+	para "The BRASS TOWER,"
 else
-	para "The Gong Tower,"
+	para "The GONG TOWER,"
 endc
 	line "which was said to"
 
-	para "waken #mon, and"
-	line "the Bell Tower,"
+	para "waken #MON, and"
+	line "the BELL TOWER,"
 
-	para "where #mon were"
+	para "where #MON were"
 	line "said to rest."
 
 	para "The view from the"
@@ -251,14 +251,14 @@ endc
 	para "At the time, an"
 	line "immense, silver-"
 
-	para "colored #mon"
+	para "colored #MON"
 	line "was said to make"
 
 	para "its roost atop the"
 if DEF(FAITHFUL)
-	line "Brass Tower."
+	line "BRASS TOWER."
 else
-	line "Gong Tower."
+	line "GONG TOWER."
 endc
 
 	para "However…"
@@ -278,7 +278,7 @@ endc
 	cont "the blaze."
 
 	para "And that is how"
-	line "the Burned Tower"
+	line "the BURNED TOWER"
 	cont "came to be."
 	done
 
@@ -297,19 +297,19 @@ SageKojiAfterBattleQuestionText:
 	line "trainer who is"
 
 	para "awaited by the"
-	line "legendary #mon?"
+	line "legendary #MON?"
 	done
 
 SageKojiAfterBattleSpeechText:
 	text "I see…"
 
-	para "We, the Wise Trio,"
+	para "We, the WISE TRIO,"
 	line "have been given"
 
 	para "the responsibility"
 	line "of protecting the"
 
-	para "legendary #mon."
+	para "legendary #MON."
 	line "We are to allow"
 
 	para "passage only to"
@@ -320,15 +320,15 @@ SageKojiAfterBattleSpeechText:
 
 	para "Please, do go on"
 	line "and enter the"
-	cont "Bell Tower ahead."
+	cont "BELL TOWER ahead."
 
-	para "Suicune will put"
+	para "SUICUNE will put"
 	line "you to the test."
 	done
 
 SageKojiAfterBattleFinalText:
 	text "Please, do go on."
 
-	para "Suicune will put"
+	para "SUICUNE will put"
 	line "you to the test."
 	done

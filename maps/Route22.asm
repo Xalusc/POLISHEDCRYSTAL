@@ -57,13 +57,13 @@ KukuiScript:
 	cont "you still won!"
 
 	para "No wonder you're"
-	line "the Champion!"
+	line "the CHAMPION!"
 
 	para "I need to train"
 	line "harder before I'm"
 
 	para "ready for the"
-	line "League."
+	line "LEAGUE."
 
 	para "And when I do,"
 	line "I'll battle you"
@@ -72,7 +72,7 @@ KukuiScript:
 
 .IntroText:
 	text "Hey there!"
-	line "The name's Kukui."
+	line "The name's KUKUI."
 
 	para "So, you go by"
 	line "<PLAYER>? 10-4,"
@@ -80,17 +80,17 @@ KukuiScript:
 
 	para "I'm from the far-"
 	line "off region of"
-	cont "Alola!"
+	cont "ALOLA!"
 
 	para "But we don't have a"
-	line "#mon League, so"
+	line "#MON LEAGUE, so"
 
-	para "I came to Kanto to"
-	line "battle the Elite"
-	cont "Four here, yeah!"
+	para "I came to KANTO to"
+	line "battle the ELITE"
+	cont "FOUR here, yeah!"
 
 	para "Huh? You're the"
-	line "new Champion?"
+	line "new CHAMPION?"
 
 	para "Woo, no wonder you"
 	line "look so stylin'!"
@@ -98,7 +98,7 @@ KukuiScript:
 	para "My team and I feel"
 	line "ready. How about"
 
-	para "we skip the League"
+	para "we skip the LEAGUE"
 	line "and challenge you"
 	cont "right now?"
 	done
@@ -139,32 +139,32 @@ KukuiScript:
 	done
 
 Route22CooltrainerfText:
-	text "The name “Kanto”"
+	text "The name “KANTO”"
 	line "means “east of the"
 	cont "barrier.”"
 
 	para "I suppose the"
 	line "barrier must be"
-	cont "Mt.Silver."
+	cont "MT.SILVER."
 	done
 
 VictoryRoadEntranceSignText:
-	text "Route 22"
+	text "ROUTE 22"
 
-	para "#mon League"
-	line "Reception Gate"
+	para "#MON LEAGUE"
+	line "RECEPTION GATE"
 	done
 
 Route22AdvancedTipsSignText:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
-	para "Starting a New"
-	line "Game+ will keep"
+	para "Starting a NEW"
+	line "GAME+ will keep"
 
 	para "your previous"
 	line "game's money,"
-	cont "Battle Points, and"
+	cont "BATTLE POINTS, and"
 
-	para "any #mon stored"
+	para "any #MON stored"
 	line "in the PC!"
 	done

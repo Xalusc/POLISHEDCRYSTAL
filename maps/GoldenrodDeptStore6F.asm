@@ -19,10 +19,10 @@ GoldenrodDeptStore6F_MapScriptHeader:
 
 GoldenrodDeptStore6FLassText:
 	text "Do you listen to"
-	line "Lucky Channel?"
+	line "LUCKY CHANNEL?"
 
 	para "If you want to"
-	line "win, trade #mon"
+	line "win, trade #MON"
 
 	para "with as many peo-"
 	line "ple as possible to"
@@ -36,7 +36,7 @@ GoldenrodDeptStore6FSuperNerdText:
 	line "try the vending"
 	cont "machine's drinks."
 
-	para "Your #mon will"
+	para "Your #MON will"
 	line "love them too."
 	done
 
@@ -44,5 +44,5 @@ GoldenrodDeptStore6FDirectoryText:
 	text "Take a Break from"
 	line "Shopping!"
 
-	para "6F Tranquil Square"
+	para "6F TRANQUIL SQUARE"
 	done

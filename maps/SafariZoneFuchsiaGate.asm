@@ -19,16 +19,16 @@ SafariZoneFuchsiaGate_MapScriptHeader:
 SafariZoneFuchsiaGateOfficerText:
 	text "Hi there!"
 
-	para "The Warden is"
+	para "The WARDEN is"
 	line "gone, so we're not"
 
-	para "running the Safari"
-	line "Game right now."
+	para "running the SAFARI"
+	line "GAME right now."
 
 	para "You'll have to"
 	line "bring your own"
 
-	para "Balls if you want"
+	para "BALLS if you want"
 	line "to catch any"
-	cont "#mon."
+	cont "#MON."
 	done

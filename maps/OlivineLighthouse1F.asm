@@ -41,7 +41,7 @@ OlivineLighthouse1FSailorScript:
 .Text1:
 	text "People are train-"
 	line "ing hard at this"
-	cont "Lighthouse."
+	cont "LIGHTHOUSE."
 
 	para "You should take"
 	line "this."
@@ -49,12 +49,12 @@ OlivineLighthouse1FSailorScript:
 
 OlivineLighthouse1FPokefanFText:
 	text "In the past, #-"
-	line "mon used to light"
+	line "MON used to light"
 
 	para "the sea around"
-	line "Olivine at night."
+	line "OLIVINE at night."
 
-	para "The Lighthouse was"
+	para "The LIGHTHOUSE was"
 	line "made in honor of"
-	cont "those #mon."
+	cont "those #MON."
 	done

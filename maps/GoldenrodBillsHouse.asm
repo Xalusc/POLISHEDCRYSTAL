@@ -280,7 +280,7 @@ BillsGrandpa:
 	text "Hm?"
 
 	para "That's not the"
-	line "#mon that I was"
+	line "#MON that I was"
 	cont "told about."
 	done
 
@@ -314,16 +314,16 @@ BillsSister:
 	jumpthisopenedtext
 
 	text "My brother made"
-	line "the PC #mon"
+	line "the PC #MON"
 	cont "storage system."
 
 	para "I was going to"
-	line "give you Bill's"
+	line "give you BILL's"
 	cont "number…"
 	done
 
 BillsGrandpaIntroText:
-	text "Hm? You know Bill?"
+	text "Hm? You know BILL?"
 	line "He's my grandson."
 
 	para "He's in Kanto. He"
@@ -335,7 +335,7 @@ BillsGrandpaIntroText:
 
 BillsGrandpaAskToSeeMonText:
 	text "If you have that"
-	line "#mon, may I see"
+	line "#MON, may I see"
 	cont "it, please?"
 	done
 
@@ -375,7 +375,7 @@ BillsGrandpaComeAgainText:
 BillsGrandpaShownAllThePokemonText:
 	text "Thanks for showing"
 	line "me so many cute"
-	cont "#mon."
+	cont "#MON."
 
 	para "I really enjoyed"
 	line "myself. I'm glad"
@@ -385,17 +385,17 @@ BillsGrandpaShownAllThePokemonText:
 	done
 
 BillsGrandpaSnubbullText:
-	text "My grandson Bill"
+	text "My grandson BILL"
 	line "told me about a"
 
 	para "short, pink canine"
-	line "#mon with blue"
+	line "#MON with blue"
 	cont "polka dots."
 	done
 
 BillsGrandpaTogepiText:
 	text "Do you know of a"
-	line "#mon that has a"
+	line "#MON that has a"
 
 	para "shell covered in"
 	line "red and blue"
@@ -408,7 +408,7 @@ BillsGrandpaTogepiText:
 
 BillsGrandpaMurkrowText:
 	text "Do you know of a"
-	line "bird #mon that"
+	line "bird #MON that"
 
 	para "has a crooked"
 	line "yellow beak and"
@@ -425,30 +425,30 @@ BillsGrandpaOddishText:
 	text "Ah, my grandson"
 	line "mentioned a round,"
 
-	para "blue #mon that"
+	para "blue #MON that"
 	line "has leaves growing"
 	cont "on its head."
 	done
 
 BillsGrandpaJigglypuffText:
-	text "Bill told me about"
-	line "a pink #mon"
+	text "BILL told me about"
+	line "a pink #MON"
 
 	para "with a hypnotic"
 	line "singing voice."
 	done
 
 BillsGrandpaBellsproutText:
-	text "My grandson Bill"
+	text "My grandson BILL"
 	line "mentioned a green"
 
-	para "#mon that walks"
+	para "#MON that walks"
 	line "on its roots."
 	done
 
 BillsGrandpaStaryuText:
 	text "Do you know of a"
-	line "sea #mon that"
+	line "sea #MON that"
 
 	para "has a red sphere"
 	line "in its body?"
@@ -465,22 +465,22 @@ BillsGrandpaStaryuText:
 	done
 
 BillsGrandpaGrowlitheText:
-	text "Bill told me about"
-	line "a #mon that is"
+	text "BILL told me about"
+	line "a #MON that is"
 
 	para "very loyal to its"
 	line "trainer."
 
 	para "It's supposed to"
-	line "Roar well."
+	line "ROAR well."
 	done
 
 BillsGrandpaPichuText:
 	text "Do you know that"
 	line "hugely popular"
-	cont "#mon?"
+	cont "#MON?"
 
-	para "The #mon that"
+	para "The #MON that"
 	line "has a yellow body"
 	cont "and red cheeks."
 
@@ -493,19 +493,19 @@ BillsGrandpaPichuText:
 
 BillsMomText_BeforeEcruteak:
 	text "Oh, you collect"
-	line "#mon? My son"
-	cont "Bill is an expert."
+	line "#MON? My son"
+	cont "BILL is an expert."
 
 	para "He just got called"
-	line "to the #mon"
+	line "to the #MON"
 
-	para "Center in Ecruteak"
-	line "City."
+	para "CENTER in ECRUTEAK"
+	line "CITY."
 
 	para "My husband went"
-	line "off to the Game"
+	line "off to the GAME"
 
-	para "Corner without"
+	para "CORNER without"
 	line "being called…"
 	done
 
@@ -513,8 +513,8 @@ BillsMomText_AfterEcruteak:
 	text "My husband was"
 	line "once known as a"
 
-	para "#Maniac."
-	line "Bill must have"
+	para "#MANIAC."
+	line "BILL must have"
 
 	para "taken after his"
 	line "father."
@@ -536,7 +536,7 @@ BillsSisterUsefulNumberText:
 
 RecordedBillsNumberText:
 	text "<PLAYER> recorded"
-	line "Bill's number."
+	line "BILL's number."
 	done
 
 BillsSisterPhoneFullText:
@@ -546,8 +546,8 @@ BillsSisterPhoneFullText:
 
 BillsSisterStorageSystemText:
 	text "My big brother"
-	line "Bill made the PC"
+	line "BILL made the PC"
 
-	para "#mon storage"
+	para "#MON storage"
 	line "system."
 	done

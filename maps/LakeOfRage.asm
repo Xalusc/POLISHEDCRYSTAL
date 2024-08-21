@@ -78,15 +78,15 @@ LakeOfRageFloodScript:
 	endcallback
 
 LakeOfRageSignText:
-	text "Lake of Rage,"
+	text "LAKE OF RAGE,"
 	line "also known as"
-	cont "Gyarados Lake."
+	cont "GYARADOS LAKE."
 	done
 
 LakeOfRageAdvancedTipsSignText:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
-	para "The Hidden Power"
+	para "The HIDDEN POWER"
 	line "move can take on"
 if DEF(FAITHFUL)
 	cont "any type, except"
@@ -95,7 +95,7 @@ else
 endc
 
 	para "the newly disco-"
-	line "vered Fairy type!"
+	line "vered fairy-type!"
 	done
 
 LakeOfRageFishingGuruSign:
@@ -111,8 +111,8 @@ LakeOfRageFishingGuruSign:
 	endtext
 
 .Text:
-	text "Fishing Guru's"
-	line "House"
+	text "FISHING GURU'S"
+	line "HOUSE"
 	done
 
 LakeOfRageLanceScript:
@@ -151,10 +151,10 @@ LakeOfRageLanceScript:
 
 .OverheardText:
 	text "This lake is full"
-	line "of Gyarados but"
+	line "of GYARADOS but"
 	cont "nothing else…"
 
-	para "So the Magikarp"
+	para "So the MAGIKARP"
 	line "are being forced"
 	cont "to evolve…"
 	done
@@ -165,7 +165,7 @@ LakeOfRageLanceScript:
 	cont "rumors?"
 
 	para "You're <PLAYER>?"
-	line "I'm Lance, a"
+	line "I'm LANCE, a"
 	cont "trainer like you."
 
 	para "I heard some ru-"
@@ -188,10 +188,10 @@ LakeOfRageLanceScript:
 	done
 
 .YesText:
-	text "Lance: Excellent!"
+	text "LANCE: Excellent!"
 
 	para "It seems that the"
-	line "lake's Magikarp"
+	line "lake's MAGIKARP"
 
 	para "are being forced"
 	line "to evolve."
@@ -199,7 +199,7 @@ LakeOfRageLanceScript:
 	para "A mysterious radio"
 	line "broadcast coming"
 
-	para "from Mahogany is"
+	para "from MAHOGANY is"
 	line "the cause."
 
 	para "I'll be waiting"
@@ -213,7 +213,7 @@ LakeOfRageLanceScript:
 	done
 
 .QuestionText:
-	text "Lance: Hm? Are you"
+	text "LANCE: Hm? Are you"
 	line "going to help me?"
 	done
 
@@ -256,12 +256,12 @@ LakeOfRageRedGyaradosScript:
 	end
 
 .GyaradosText:
-	text "Gyarados: Gyashaa!"
+	text "GYARADOS: Gyashaa!"
 	done
 
 .RedScaleText:
 	text "<PLAYER> found"
-	line "Red Scale."
+	line "RED SCALE."
 	done
 
 WesleyScript:
@@ -284,27 +284,27 @@ WesleyScript:
 	setevent EVENT_GOT_BLACK_BELT_FROM_WESLEY
 	jumpthisopenedtext
 
-	text "Wesley: Black Belt"
+	text "WESLEY: BLACK BELT"
 	line "beefs up the power"
-	cont "of Fighting moves."
+	cont "of fighting moves."
 	done
 
 .NotWednesday:
 	jumpthisopenedtext
 
-	text "Wesley: Today's"
+	text "WESLEY: Today's"
 	line "not Wednesday."
 	cont "That's too bad."
 	done
 
 .MeetText:
-	text "Wesley: Well, how"
+	text "WESLEY: Well, how"
 	line "do you do?"
 
 	para "Seeing as how it's"
 	line "Wednesday today,"
 
-	para "I'm Wesley of"
+	para "I'm WESLEY of"
 	line "Wednesday."
 	done
 
@@ -315,7 +315,7 @@ WesleyScript:
 	done
 
 .WednesdayText:
-	text "Wesley: Since you"
+	text "WESLEY: Since you"
 	line "found me, you must"
 
 	para "have met my broth-"
@@ -328,7 +328,7 @@ WesleyScript:
 GenericTrainerCooltrainermAaron:
 	generictrainer COOLTRAINERM, AARON, EVENT_BEAT_COOLTRAINERM_AARON, .SeenText, .BeatenText
 
-	text "#mon and their"
+	text "#MON and their"
 	line "trainer become"
 
 	para "powerful through"
@@ -356,12 +356,12 @@ GenericTrainerCooltrainerfLois:
 
 	text "Come to think of"
 	line "it, I've seen a"
-	cont "pink Butterfree."
+	cont "pink BUTTERFREE."
 	done
 
 .SeenText:
 	text "What happened to"
-	line "the red Gyarados?"
+	line "the red GYARADOS?"
 
 	para "It's gone?"
 
@@ -381,12 +381,12 @@ GenericTrainerFisherAndre:
 
 	text "I won't lose as an"
 	line "angler! I catch"
-	cont "#mon all day."
+	cont "#MON all day."
 	done
 
 FisherAndreSeenText:
 	text "Let me battle with"
-	line "the #mon I just"
+	line "the #MON I just"
 	cont "caught!"
 	done
 
@@ -395,14 +395,14 @@ FisherAndreBeatenText:
 	line "pert angler, but"
 
 	para "I stink as a #-"
-	line "mon trainer…"
+	line "MON trainer…"
 	done
 
 GenericTrainerFisherRaymond:
 	generictrainer FISHER, RAYMOND, EVENT_BEAT_FISHER_RAYMOND, FisherRaymondSeenText, FisherRaymondBeatenText
 
 	text "Why can't I catch"
-	line "any good #mon?"
+	line "any good #MON?"
 	done
 
 FisherRaymondSeenText:
@@ -410,7 +410,7 @@ FisherRaymondSeenText:
 	line "do, all I catch"
 
 	para "are the same #-"
-	line "mon…"
+	line "MON…"
 	done
 
 FisherRaymondBeatenText:
@@ -423,21 +423,21 @@ LakeOfRageGrampsScript:
 	iftrue_jumptextfaceplayer .Text2
 	jumpthistextfaceplayer
 
-	text "The Gyarados are"
+	text "The GYARADOS are"
 	line "angry!"
 
 	para "It's a bad omen!"
 	done
 
 .Text2:
-	text "Hahah! The Magi-"
-	line "karp are biting!"
+	text "Hahah! The MAGI-"
+	line "KARP are biting!"
 	done
 
 LakeOfRageSuperNerdText:
 	text "I heard this lake"
 	line "was made by ram-"
-	cont "paging Gyarados."
+	cont "paging GYARADOS."
 
 	para "I wonder if there"
 	line "is any connection"
@@ -450,10 +450,10 @@ LakeOfRageCooltrainerFText:
 	text "Did my eyes de-"
 	line "ceive me? I saw a"
 
-	para "red Gyarados in"
+	para "red GYARADOS in"
 	line "the lake…"
 
 	para "But I thought"
-	line "Gyarados were"
+	line "GYARADOS were"
 	cont "usually blue?"
 	done

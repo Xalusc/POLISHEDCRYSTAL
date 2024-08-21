@@ -70,7 +70,7 @@ MurkySwampCherylScript:
 
 .ChallengeText:
 	text "Hello, my name's"
-	line "Cheryl."
+	line "CHERYL."
 	cont "And you are…?"
 
 	para "OK, so your name"
@@ -89,13 +89,13 @@ MurkySwampCherylScript:
 
 .YesText:
 	text "I should warn you,"
-	line "my #mon can be"
+	line "my #MON can be"
 	cont "quite rambunc-"
 	cont "tious."
 	done
 
 .NoText:
-	text "Oh, but my #mon"
+	text "Oh, but my #MON"
 	line "were itching for"
 	cont "a battle…"
 	done
@@ -129,8 +129,8 @@ MurkySwampCherylScript:
 
 .GoodbyeText:
 	text "I'm heading to the"
-	line "Battle Tower near"
-	cont "Olivine City."
+	line "BATTLE TOWER near"
+	cont "OLIVINE CITY."
 
 	para "Have you heard of"
 	line "it?"
@@ -167,20 +167,20 @@ MurkySwampNurseBeatriceScript:
 	done
 
 .SeenText:
-	text "I'm a Nurse!"
+	text "I'm a nurse!"
 
 	line "Defeat me and I'll"
-	cont "heal your #mon!"
+	cont "heal your #MON!"
 	done
 
 .BeatenText:
 	text "But first I need"
 	line "to heal my own"
-	cont "#mon…"
+	cont "#MON…"
 	done
 
 .AfterText:
-	text "Making #mon"
+	text "Making #MON"
 	line "feel better--"
 
 	para "that's why I"
@@ -255,7 +255,7 @@ MurkySwampPokemaniacText:
 	line "with water."
 
 	para "But the rare #-"
-	line "mon here make it"
+	line "MON here make it"
 
 	para "worth exploring"
 	line "anyway!"

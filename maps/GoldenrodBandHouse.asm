@@ -21,8 +21,8 @@ GoldenrodBandHouseRocker1Text:
 	line "our cover band."
 
 	para "Give us a listen"
-	line "on the Variety"
-	cont "Channel!"
+	line "on the VARIETY"
+	cont "CHANNEL!"
 	done
 
 GoldenrodBandHouseRocker2Text:

@@ -82,12 +82,12 @@ Route45Dragon_tamerScript:
 
 .AfterText2:
 	text "The art of train-"
-	line "ing Dragon-type"
-	cont "#mon is just"
+	line "ing dragon-type"
+	cont "#MON is just"
 	cont "amazing."
 
 	para "You should become"
-	line "a Dragon Tamer"
+	line "a dragon tamer"
 	cont "too."
 	done
 
@@ -104,14 +104,14 @@ Route45Dragon_tamerScript:
 	para "Win against every"
 	line "trainer on this"
 
-	para "route and I'll"
+	para "ROUTE and I'll"
 	line "battle you."
 	done
 
 .QuestionText:
 	text "Oh, you're ready."
 	line "It's time for a"
-	cont "duel: your #mon"
+	cont "duel: your #MON"
 	cont "versus my dragons."
 
 	para "Should we start"
@@ -130,12 +130,12 @@ Route45Dragon_tamerScript:
 
 	para "dragons' unyield-"
 	line "ing focus."
-	cont "Go, Dragonite!"
+	cont "Go, DRAGONITE!"
 	done
 
 .BeatenText:
 	text "How powerful!"
-	line "My #mon were"
+	line "My #MON were"
 	cont "no match for you."
 	done
 
@@ -245,9 +245,9 @@ GenericTrainerHikerErik:
 	generictrainer HIKER, ERIK, EVENT_BEAT_HIKER_ERIK, HikerErikSeenText, HikerErikBeatenText
 
 	text "I'll head back to"
-	line "Blackthorn's Ice"
+	line "BLACKTHORN's ICE"
 
-	para "Path and train"
+	para "PATH and train"
 	line "some more."
 	done
 
@@ -255,10 +255,10 @@ GenericTrainerHikerMichael:
 	generictrainer HIKER, MICHAEL, EVENT_BEAT_HIKER_MICHAEL, HikerMichaelSeenText, HikerMichaelBeatenText
 
 	text "Boy, do I love"
-	line "HP Up! Mmmm, yum!"
+	line "HP UP! Mmmm, yum!"
 
 	para "I keep drinking my"
-	line "#mon's!"
+	line "#MON's!"
 
 	para "I can't help it!"
 	done
@@ -355,14 +355,14 @@ GenericTrainerHikerTimothy:
 	line "ever happen to me"
 
 	para "was discovering"
-	line "#mon."
+	line "#MON."
 	done
 
 GenericTrainerCooltrainermRyan:
 	generictrainer COOLTRAINERM, RYAN, EVENT_BEAT_COOLTRAINERM_RYAN, CooltrainermRyanSeenText, CooltrainermRyanBeatenText
 
 	text "I see you're rais-"
-	line "ing your #mon"
+	line "ing your #MON"
 	cont "with care."
 
 	para "The bond you build"
@@ -379,14 +379,14 @@ GenericTrainerCooltrainerfKelly:
 
 	para "I want to win, but"
 	line "I also don't want"
-	cont "to harm #mon."
+	cont "to harm #MON."
 	done
 
 GenericTrainerCamperQuentin:
 	generictrainer CAMPER, QUENTIN, EVENT_BEAT_CAMPER_QUENTIN, CamperQuentinSeenText, CamperQuentinBeatenText
 
 	text "Have you been to"
-	line "the Battle Tower?"
+	line "the BATTLE TOWER?"
 
 	para "I never, ever lose"
 	line "there, but…"
@@ -394,7 +394,7 @@ GenericTrainerCamperQuentin:
 
 BattleGirlNozomiSeenText:
 	text "This is no place"
-	line "for weak #mon!"
+	line "for weak #MON!"
 	done
 
 BattleGirlNozomiBeatenText:
@@ -406,7 +406,7 @@ HikerErikSeenText:
 	line "anything!"
 
 	para "Let me see if your"
-	line "#mon have been"
+	line "#MON have been"
 	cont "raised properly!"
 	done
 
@@ -424,12 +424,12 @@ HikerMichaelSeenText:
 	done
 
 HikerMichaelBeatenText:
-	text "My #mon weren't"
+	text "My #MON weren't"
 	line "spunky enough!"
 	done
 
 HikerParry1SeenText:
-	text "My #mon are"
+	text "My #MON are"
 	line "power packed!"
 	done
 
@@ -454,7 +454,7 @@ HikerTimothySeenText:
 	line "there."
 
 	para "Why do I train"
-	line "#mon?"
+	line "#MON?"
 
 	para "Because they're"
 	line "there!"
@@ -519,7 +519,7 @@ BlackbeltKenjiNightText:
 CooltrainermRyanSeenText:
 	text "What are your"
 	line "thoughts on rais-"
-	cont "ing #mon?"
+	cont "ing #MON?"
 	done
 
 CooltrainermRyanBeatenText:
@@ -551,10 +551,10 @@ CamperQuentinSeenText:
 
 CamperQuentinBeatenText:
 	text "I was tough at the"
-	line "Battle Tower…"
+	line "BATTLE TOWER…"
 	done
 
 Route45SignText:
-	text "Route 45"
-	line "Mountain Rd. Ahead"
+	text "ROUTE 45"
+	line "MOUNTAIN RD. AHEAD"
 	done

@@ -23,17 +23,17 @@ Route35CoastNorth_MapScriptHeader:
 	smashrock_event 11, 20
 
 Route35CoastNorthPokeathlonDomeSignText:
-	text "The #athlon"
+	text "The #ATHLON"
 	line "Project Has"
 	cont "Started!"
 	done
 
 Route35CoastNorthAdvancedTipsSignText:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
 	para "You can cast a"
 	line "fishing line even"
 
-	para "from a Surfing"
-	line "#mon's back!"
+	para "from a SURFing"
+	line "#MON's back!"
 	done

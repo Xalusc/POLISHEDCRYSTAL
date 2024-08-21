@@ -48,61 +48,61 @@ FuchsiaCityFlyPoint:
 	endcallback
 
 FuchsiaCityYoungsterText:
-	text "One of the Elite"
-	line "Four used to be"
+	text "One of the ELITE"
+	line "FOUR used to be"
 
-	para "the Leader of"
-	line "Fuchsia's Gym."
+	para "the LEADER of"
+	line "FUCHSIA's GYM."
 	done
 
 FuchsiaCityPokefanMText:
-	text "Koga's daughter"
+	text "KOGA's daughter"
 	line "succeeded him as"
 
-	para "the Gym Leader"
+	para "the GYM LEADER"
 	line "after he joined"
-	cont "the Elite Four."
+	cont "the ELITE FOUR."
 	done
 
 FuchsiaCityTeacherText:
-	text "The Safari Game is"
+	text "The SAFARI GAME is"
 	line "canceled…"
 
 	para "At least the"
-	line "Safari Zone is"
+	line "SAFARI ZONE is"
 	cont "still open."
 
 	para "You'll need a"
-	line "strong #mon"
+	line "strong #MON"
 
 	para "to explore it,"
 	line "though."
 	done
 
 FuchsiaCityPokefanFText:
-	text "When the Safari"
-	line "Zone Warden left,"
+	text "When the SAFARI"
+	line "ZONE WARDEN left,"
 
 	para "there was nobody"
 	line "to maintain the"
 	cont "town zoo."
 
-	para "So the #mon"
+	para "So the #MON"
 	line "were released back"
 	cont "into the wild."
 	done
 
 FuchsiaCitySignText:
-	text "Fuchsia City"
+	text "FUCHSIA CITY"
 
 	para "Behold! It's"
 	line "Passion Pink!"
 	done
 
 FuchsiaGymSignText:
-	text "Fuchsia City"
-	line "#mon Gym"
-	cont "Leader: Janine"
+	text "FUCHSIA CITY"
+	line "#MON GYM"
+	cont "LEADER: JANINE"
 
 	para "The Poisonous"
 	line "Ninja Master"
@@ -112,7 +112,7 @@ SafariZoneOfficeSignText:
 	text "There's a notice"
 	line "here…"
 
-	para "Safari Zone Office"
+	para "SAFARI ZONE OFFICE"
 	line "is closed until"
 	cont "further notice."
 	done
@@ -122,16 +122,16 @@ SafariZoneOfficeClosedSignText:
 	done
 
 WardensHomeSignText:
-	text "Safari Zone"
-	line "Warden's Home"
+	text "SAFARI ZONE"
+	line "WARDEN'S HOME"
 	done
 
 SafariZoneClosedSignText:
-	text "The Warden is"
+	text "The WARDEN is"
 	line "traveling abroad."
 
 	para "Therefore, the"
-	line "Safari Game is"
+	line "SAFARI GAME is"
 	cont "canceled."
 	done
 
@@ -157,8 +157,8 @@ HouseForSaleSignText:
 FuchsiaCityCarefulSwimmingSignText:
 	text "Please be careful"
 	line "if you are swim-"
-	cont "ming to Seafoam"
-	cont "Islands."
+	cont "ming to SEAFOAM"
+	cont "ISLANDS."
 
-	para "Fuchsia Police"
+	para "FUCHSIA POLICE"
 	done

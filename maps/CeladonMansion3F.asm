@@ -66,18 +66,18 @@ MapCeladonMansion3FSignpost3Script:
 GameFreakGameDesignerText:
 	text "Is that right?"
 
-	para "I'm the Game"
-	line "Designer!"
+	para "I'm the GAME"
+	line "DESIGNER!"
 
 	para "Filling up your"
-	line "#dex is tough,"
+	line "#DEX is tough,"
 	cont "but don't give up!"
 	done
 
 GameFreakGameDesignerCompletedPokedexText:
 	text "Wow! Excellent!"
 	line "You completed your"
-	cont "#dex!"
+	cont "#DEX!"
 
 	para "Congratulations!"
 	done
@@ -88,16 +88,16 @@ GameFreakGameDesignerPauseForDiplomaText:
 	cont "here you go!"
 
 	para "A crisp new"
-	line "Diploma!"
+	line "DIPLOMA!"
 	done
 
 GameFreakGameDesignerGiveDiplomaText:
 	text "<PLAYER> received"
-	line "Diploma!"
+	line "DIPLOMA!"
 	done
 
 GameFreakGameDesignerDiplomaSentText:
-	text "Diploma"
+	text "DIPLOMA"
 	line "was sent home."
 	done
 
@@ -109,32 +109,32 @@ GameFreakGameDesignerAfterDiplomaText:
 GameFreakDesignerGaveDiplomaText:
 	text "Congratulations"
 	line "for completing"
-	cont "your #dex!"
+	cont "your #DEX!"
 
 	para "You should show"
-	line "off that Diploma!"
+	line "off that DIPLOMA!"
 	done
 
 GameFreakGraphicArtistText:
-	text "I'm the Graphic"
-	line "Artist."
+	text "I'm the GRAPHIC"
+	line "ARTIST."
 
 	para "I drew you!"
 	done
 
 GameFreakProgrammerText:
 	text "Who, me? I'm the"
-	line "Programmer."
+	line "PROGRAMMER."
 
-	para "Use the Wonder"
-	line "Trade Hub!"
+	para "Use the WONDER"
+	line "TRADE HUB!"
 	done
 
 GameFreakCharacterDesignerText:
-	text "Isn't Lyra"
+	text "Isn't LYRA"
 	line "adorable?"
 
-	para "Jasmine's pretty"
+	para "JASMINE's pretty"
 	line "too."
 
 	para "Oh, I love them!"
@@ -142,7 +142,7 @@ GameFreakCharacterDesignerText:
 
 CeladonMansion3FDevRoomSignText:
 	text "GAME FREAK"
-	line "Development Room"
+	line "DEVELOPMENT ROOM"
 	done
 
 CeladonMansion3FDrawingText:
@@ -163,5 +163,5 @@ CeladonMansion3FReferenceMaterialText:
 	text "It's crammed with"
 	line "reference materi-"
 	cont "als. There's even"
-	cont "a # Doll."
+	cont "a # DOLL."
 	done

@@ -61,15 +61,15 @@ JackThunderTriviaText:
 	text "Did you know?"
 
 	para "When it's raining,"
-	line "Thunder is sure to"
+	line "THUNDER is sure to"
 	cont "strike."
 	done
 
 JackRolloutTriviaText:
 	text "Did you know…?"
 
-	para "If you use Defense"
-	line "Curl, Rollout's"
+	para "If you use DEFENSE"
+	line "CURL, ROLLOUT's"
 
 	para "power goes way up"
 	line "past normal."
@@ -79,7 +79,7 @@ JackSolarbeamTriviaText:
 	text "Did you know…?"
 
 	para "If the sunlight is"
-	line "harsh, Solar Beam"
+	line "harsh, SOLAR BEAM"
 
 	para "doesn't need to be"
 	line "charged up."
@@ -89,9 +89,9 @@ JackStompTriviaText:
 	text "Did you know…?"
 
 	para "If the opponent"
-	line "uses Minimize,"
+	line "uses MINIMIZE,"
 
-	para "your Stomp becomes"
+	para "your STOMP becomes"
 	line "more powerful."
 	done
 
@@ -99,9 +99,9 @@ JackGustTriviaText:
 	text "Did you know…?"
 
 	para "If your opponent"
-	line "is Flying, your"
+	line "is FLYing, your"
 
-	para "Gust becomes much"
+	para "GUST becomes much"
 	line "more powerful."
 	done
 
@@ -111,10 +111,10 @@ JackKnockOffTriviaText:
 	para "If your opponent"
 	line "is holding an item"
 
-	para "that your Knock"
-	line "Off can remove,"
+	para "that your KNOCK"
+	line "OFF can remove,"
 
-	para "your Knock Off"
+	para "your KNOCK OFF"
 	line "becomes more"
 	cont "powerful."
 	done
@@ -123,9 +123,9 @@ JackEarthquakeTriviaText:
 	text "Did you know…?"
 
 	para "If your opponent"
-	line "uses Dig, your"
+	line "uses DIG, your"
 
-	para "Earthquake becomes"
+	para "EARTHQUAKE becomes"
 	line "more powerful."
 	done
 
@@ -133,27 +133,27 @@ JackMagnitudeTriviaText:
 	text "Did you know…?"
 
 	para "If your opponent"
-	line "uses Dig, your"
+	line "uses DIG, your"
 
-	para "Magnitude becomes"
+	para "MAGNITUDE becomes"
 	line "more powerful."
 	done
 
 JackSandstormTriviaText:
 	text "Did you know…?"
 
-	para "The Rock, Ground"
-	line "and Steel types"
+	para "The rock, ground"
+	line "and steel types"
 
 	para "can't be hurt by"
-	line "Sandstorm."
+	line "SANDSTORM."
 	done
 
 JackSunnyDayTriviaText:
 	text "Did you know…?"
 
 	para "If the sunlight is"
-	line "harsh, Water-type"
+	line "harsh, water-type"
 
 	para "moves become much"
 	line "weaker."
@@ -163,7 +163,7 @@ JackRainDanceTriviaText:
 	text "Did you know…?"
 
 	para "When it's raining,"
-	line "Fire-type moves"
+	line "fire-type moves"
 
 	para "become much weaker"
 	line "than usual."

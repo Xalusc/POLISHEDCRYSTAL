@@ -24,7 +24,7 @@ CopycatsHouse1FPokefanMText:
 	para "Her mimicry has"
 	line "earned her the"
 
-	para "nickname Copycat"
+	para "nickname COPYCAT"
 	line "around here."
 	done
 
@@ -42,7 +42,7 @@ CopycatsHouse1FPokefanFScript:
 
 .Text2:
 	text "She recently lost"
-	line "the # Doll that"
+	line "the # DOLL that"
 
 	para "a boy gave her"
 	line "three years ago."
@@ -53,5 +53,5 @@ CopycatsHouse1FPokefanFScript:
 	done
 
 CopycatsHouse1FBlisseyText:
-	text "Blissey: Bliisii!"
+	text "BLISSEY: Bliisii!"
 	done

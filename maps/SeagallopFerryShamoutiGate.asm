@@ -90,9 +90,9 @@ VermilionValenciaMenuDataHeader:
 .MenuData2:
 	db $80 ; flags
 	db 3 ; items
-	db "Vermilion City@"
-	db "Valencia Island@"
-	db "Cancel@"
+	db "VERMILION CITY@"
+	db "VALENCIA ISLAND@"
+	db "CANCEL@"
 
 SeagallopFerryShamoutiGatePlayerDepartMovementData:
 	step_down
@@ -125,14 +125,14 @@ SeagallopFerryShamoutiWhichIslandText:
 
 SeagallopFerryShamoutiToVermilionQuestionText:
 	text "Ready to head back"
-	line "to Vermilion City?"
+	line "to VERMILION CITY?"
 	done
 
 SeagallopFerryShamoutiDepartureText:
 	text "All right!"
 
 	para "All aboard the"
-	line "Seagallop Ferry!"
+	line "SEAGALLOP FERRY!"
 	done
 
 SeagallopFerryShamoutiIslandRefusedText:

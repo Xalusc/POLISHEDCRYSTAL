@@ -173,23 +173,23 @@ INCLUDE "gfx/new_game/init_bg.pal"
 INCBIN "gfx/new_game/init_bg.2bpp.lz"
 
 .InitialOptionsString:
-	text  "Natures"
+	text  "NATURES"
 	next1 "            :"
-	next1 "Abilities"
+	next1 "ABILITIES"
 	next1 "            :"
-	next1 "Phys/Spcl split"
+	next1 "PHYS/SPCL SPLIT"
 	next1 "            :"
-	next1 "EV gain"
+	next1 "EV GAIN"
 	next1 "            :"
-	next1 "Exp. scaling"
+	next1 "EXP. SCALING"
 	next1 "            :"
-	next1 "Affection bonus"
+	next1 "AFFECTION BONUS"
 	next1 "            :"
-	next1 "Color variation"
+	next1 "COLOR VARIATION"
 	next1 "            :"
-	next1 "Perfect stats"
+	next1 "PERFECT STATS"
 	next1 "            :"
-	next1 "Traded <PK><MN> obey"
+	next1 "TRADED <PK><MN> OBEY"
 	next1 "            :"
 	done
 
@@ -445,11 +445,11 @@ InitialOptions_TradedMon:
 	ret
 
 NoString:
-	db "No @"
+	db "NO @"
 YesString:
-	db "Yes@"
+	db "YES@"
 AllString:
-	db "All@"
+	db "ALL@"
 ModernString:
 	db "{-3d:MODERN_EV_LIMIT}@"
 

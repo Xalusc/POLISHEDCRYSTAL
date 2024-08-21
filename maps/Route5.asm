@@ -22,29 +22,29 @@ Route5PokefanMText:
 	text "The road is closed"
 	line "until the problem"
 
-	para "at the Power Plant"
+	para "at the POWER PLANT"
 	line "is solved."
 	done
 
 Route5UndergroundPathSignText:
-	text "Underground Path"
+	text "UNDERGROUND PATH"
 
-	para "Cerulean City -"
-	line "Vermilion City"
+	para "CERULEAN CITY -"
+	line "VERMILION CITY"
 	done
 
 Route5AdvancedTipsSignText:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
-	para "Berserk Gene is"
+	para "BERSERK GENE is"
 	line "a powerful held"
 
 	para "item, but it"
 	line "causes confusion."
 
-	para "But a #mon"
-	line "with the Own Tempo"
+	para "But a #MON"
+	line "with the OWN TEMPO"
 
-	para "Ability won't"
+	para "ABILITY won't"
 	line "get confused!"
 	done

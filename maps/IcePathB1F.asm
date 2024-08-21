@@ -89,7 +89,7 @@ GenericTrainerSkierBecky:
 	done
 
 BoarderMaxSeenText:
-	text "Blackthorn can't be"
+	text "BLACKTHORN can't be"
 	line "much farther…"
 	done
 

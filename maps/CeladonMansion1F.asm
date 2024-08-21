@@ -26,8 +26,8 @@ CeladonMansion1F_MapScriptHeader:
 CeladonMansionManagersSuiteSign:
 	jumpthistext
 
-	text "Celadon Condo"
-	line "Manager's Suite"
+	text "CELADON CONDO"
+	line "MANAGER'S SUITE"
 	done
 
 CeladonMansionManagerScript:
@@ -80,7 +80,7 @@ CeladonMansionManagerScript:
 	line "like hot mint tea."
 
 	para "It can change a"
-	line "#mon's very"
+	line "#MON's very"
 	cont "nature!"
 	done
 
@@ -97,15 +97,15 @@ CeladonMansionManagerScript:
 	line "dearie."
 
 	para "I'm having tea with"
-	line "my dear #mon."
+	line "my dear #MON."
 
 	para "If you had a"
-	line "Mint Leaf,"
+	line "MINT LEAF,"
 
 	para "I'd invite you"
 	line "to join me."
 
-	para "#mon love mint"
+	para "#MON love mint"
 	line "in their tea."
 
 	para "It has a lasting"
@@ -118,24 +118,24 @@ CeladonMansionManagerScript:
 	line "dearie."
 
 	para "I see you have a"
-	line "Mint Leaf."
+	line "MINT LEAF."
 
 	para "Would you like"
 	line "me to steep it"
 
 	para "in some tea for"
-	line "your #mon?"
+	line "your #MON?"
 	done
 
 .RefusedText:
 	text "Don't go filling up"
-	line "on Lemonade and"
-	cont "Soda Pop, now!"
+	line "on LEMONADE and"
+	cont "SODA POP, now!"
 	done
 
 .AcceptedText:
 	text "Which one of your"
-	line "#mon wants tea?"
+	line "#MON wants tea?"
 	done
 
 .LikedFlavorText:
@@ -189,22 +189,22 @@ CeladonMansionManagerScript:
 	db $80 ; flags
 	db 5 ; items
 	; this order is meaningful to calculate the new nature
-	db "Spicy@" ; atk
-	db "Sour@" ; def
-	db "Sweet@" ; spe
-	db "Dry@" ; sat
-	db "Bitter@" ; sdf
+	db "SPICY@" ; atk
+	db "SOUR@" ; def
+	db "SWEET@" ; spe
+	db "DRY@" ; sat
+	db "BITTER@" ; sdf
 
 CeladonMansion1FMeowthText:
-	text "Meowth: Meow!"
+	text "MEOWTH: Meow!"
 	done
 
 CeladonMansion1FClefairyText:
-	text "Clefairy: Clef"
+	text "CLEFAIRY: Clef"
 	line "cleff!"
 	done
 
 CeladonMansion1FNidoranFText:
-	text "Nidoran: Kya"
+	text "NIDORAN: Kya"
 	line "kyaoo!"
 	done

@@ -140,24 +140,24 @@ MystriStageEggScript:
 
 MystriStageCynthiaIntroText:
 	text "My name is"
-	line "Cynthia. I am a"
-	cont "#mon trainer."
+	line "CYNTHIA. I am a"
+	cont "#MON trainer."
 
 	para "And you are?"
 
 	para "…I see. The power"
-	line "of the Unown"
+	line "of the UNOWN"
 	cont "brought you here."
 	done
 
 MystriStageCynthiaSpeechText:
-	text "Cynthia: These are"
-	line "the Sinjoh Ruins."
+	text "CYNTHIA: These are"
+	line "the SINJOH RUINS."
 
 	para "A long time ago…"
 	line "people came from"
 
-	para "Sinnoh, my home"
+	para "SINNOH, my home"
 	line "region, to live"
 	cont "here."
 
@@ -169,17 +169,17 @@ MystriStageCynthiaSpeechText:
 	cont "their traditions."
 
 	para "We are standing on"
-	line "the Mystri Stage."
+	line "the MYSTRI STAGE."
 
 	para "People once cele-"
 	line "brated here with"
 	cont "music and dance."
 
-	para "Cynthia: I study"
+	para "CYNTHIA: I study"
 	line "myths about"
 
 	para "ancient sites like"
-	line "the Sinjoh Ruins."
+	line "the SINJOH RUINS."
 
 	para "One claims that"
 	line "this stage is"
@@ -190,27 +190,27 @@ MystriStageCynthiaSpeechText:
 	para "It speaks of when"
 	line "“the lead enters"
 
-	para "the Mystri Stage"
+	para "the MYSTRI STAGE"
 	line "at last…”"
 	done
 
 MystriStageCynthiaLeadText2:
-	text "Cynthia: What?"
+	text "CYNTHIA: What?"
 	line "You read that"
 
 	para "phrase in the"
-	line "Ruins of Alph?"
+	line "RUINS OF ALPH?"
 
 	para "That is very"
 	line "intriguing."
 
 	para "Could “the lead”"
-	line "be a #mon?"
+	line "be a #MON?"
 	cont "Or a person?"
 	done
 
 MystriStageCynthiaIdeaText:
-	text "Cynthia: …I have"
+	text "CYNTHIA: …I have"
 	line "an idea. Call it"
 
 	para "a trainer's"
@@ -224,7 +224,7 @@ MystriStageCynthiaIdeaText:
 	done
 
 MystriStageCynthiaNotNowText:
-	text "Cynthia: But I"
+	text "CYNTHIA: But I"
 	line "don't think we"
 
 	para "should battle now."
@@ -232,24 +232,24 @@ MystriStageCynthiaNotNowText:
 
 	para "Come back when"
 	line "you've beaten the"
-	cont "Elite Four."
+	cont "ELITE FOUR."
 	done
 
 MystriStageCynthiaChallengeText:
-	text "Cynthia: Are you"
+	text "CYNTHIA: Are you"
 	line "prepared to be my"
 	cont "opponent?"
 	done
 
 MystriStageCynthiaNoText:
-	text "Cynthia: Come back"
+	text "CYNTHIA: Come back"
 	line "when you're ready."
 	done
 
 MystriStageCynthiaYesText:
-	text "Cynthia: Before"
+	text "CYNTHIA: Before"
 	line "I send out my"
-	cont "#mon,"
+	cont "#MON,"
 
 	para "my heart always"
 	line "begins to race…"
@@ -264,7 +264,7 @@ MystriStageCynthiaWinText:
 	done
 
 MystriStageCynthiaItemText:
-	text "Cynthia: That was"
+	text "CYNTHIA: That was"
 	line "beyond my expec-"
 	cont "tation!"
 
@@ -279,19 +279,19 @@ MystriStageCynthiaItemText:
 	done
 
 MystriStageCynthiaAfterText:
-	text "Cynthia: But did"
+	text "CYNTHIA: But did"
 	line "our battle affect"
-	cont "the Mystri Stage?"
+	cont "the MYSTRI STAGE?"
 	done
 
 MystriStageCynthiaEggText:
-	text "Cynthia: Could it"
-	line "be… an Egg?"
+	text "CYNTHIA: Could it"
+	line "be… an EGG?"
 
 	para "Did we just"
 	line "witness the very"
 
-	para "moment an Egg was"
+	para "moment an EGG was"
 	line "brought to this"
 	cont "world?"
 
@@ -300,16 +300,16 @@ MystriStageCynthiaEggText:
 	done
 
 MystriStageCynthiaFinalText:
-	text "Cynthia: An Egg"
+	text "CYNTHIA: An EGG"
 	line "is the cradle of"
 	cont "every being."
 
 	para "The planet itself"
-	line "is an Egg in a"
+	line "is an EGG in a"
 	cont "sense…"
 
 	para "Life that comes"
-	line "from an Egg will"
+	line "from an EGG will"
 	cont "come to an end in"
 
 	para "due course… to"
@@ -318,13 +318,13 @@ MystriStageCynthiaFinalText:
 
 MystriStageEggText:
 	text "<PLAYER> found"
-	line "a mysterious Egg!"
+	line "a mysterious EGG!"
 	done
 
 MystriStageNoRoomText:
 	text "You don't have"
 	line "room for this,"
-	cont "even in your Box!"
+	cont "even in your BOX!"
 	done
 
 MystriStageMovementData_CynthiaStepsUp:

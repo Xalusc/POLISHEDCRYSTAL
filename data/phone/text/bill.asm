@@ -2,30 +2,30 @@ BillPhoneMornGreetingText:
 	text "Good morning!"
 
 	para "This is the #-"
-	line "mon Storage System"
+	line "MON STORAGE SYSTEM"
 
-	para "Administration"
-	line "Service."
+	para "ADMINISTRATION"
+	line "SERVICE."
 	done
 
 BillPhoneDayGreetingText:
 	text "Good day!"
 
 	para "This is the #-"
-	line "mon Storage System"
+	line "MON STORAGE SYSTEM"
 
-	para "Administration"
-	line "Service."
+	para "ADMINISTRATION"
+	line "SERVICE."
 	done
 
 BillPhoneNiteGreetingText:
 	text "Good evening!"
 
 	para "This is the #-"
-	line "mon Storage System"
+	line "MON STORAGE SYSTEM"
 
-	para "Administration"
-	line "Service."
+	para "ADMINISTRATION"
+	line "SERVICE."
 	done
 
 BillPhoneGenericText:
@@ -76,9 +76,9 @@ BillPhoneNewlyFullText:
 	line "It's me, Bill!"
 
 	para "Thanks for using"
-	line "my Storage System."
+	line "my STORAGE SYSTEM."
 
-	para "That last #mon"
+	para "That last #MON"
 	line "overtaxed my"
 	cont "systems!"
 	prompt
@@ -88,7 +88,7 @@ BillWholePCFullText:
 	line "a whole server."
 
 	para "You'll have to"
-	line "release #mon"
+	line "release #MON"
 	cont "to make space."
 	done
 
@@ -108,7 +108,7 @@ BillFlushBySaving:
 BillThankYouText:
 	text "Thank you for"
 	line "using the PC"
-	cont "Storage System!"
+	cont "STORAGE SYSTEM!"
 	done
 
 BillCallMeToSwitch:
@@ -123,11 +123,11 @@ BillCallMeToSwitch:
 BillPhoneSecondBadgeText:
 	text "Hey there,"
 	line "trainers!"
-	cont "It's me, Bill!"
+	cont "It's me, BILL!"
 
 	para "I'm just calling to"
 	line "warn y'all about"
-	cont "Wonder Trading."
+	cont "WONDER TRADING."
 
 	para "The machine has"
 	line "been unstable"
@@ -137,13 +137,13 @@ BillPhoneSecondBadgeText:
 	line "quite complete."
 
 	para "So if you're in"
-	line "Goldenrod City,"
+	line "GOLDENROD CITY,"
 
 	para "be careful with"
-	line "Wonder Trading."
+	line "WONDER TRADING."
 
 	para "You might get a"
-	line "weird #mon"
+	line "weird #MON"
 	cont "in exchange."
 
 	para "That's all."

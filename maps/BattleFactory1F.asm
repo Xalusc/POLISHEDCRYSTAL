@@ -62,7 +62,7 @@ BattleFactory1FContinueChallenge:
 		line "You didn't save"
 
 		para "before exiting"
-		line "the Battle Room."
+		line "the BATTLE ROOM."
 
 		para "I'm awfully sorry,"
 		line "but your challenge"
@@ -109,7 +109,7 @@ Script_CommitBattleFactoryResult:
 BattleFactory1FRulesScript:
 	opentext
 	writethistext
-		text "Battle Factory"
+		text "BATTLE FACTORY"
 		line "rules are written"
 		cont "here."
 
@@ -119,9 +119,9 @@ BattleFactory1FRulesScript:
 	iffalse_endtext
 	jumpthisopenedtext
 		text "You are given six"
-		line "rental #mon."
+		line "rental #MON."
 
-		para "Three #mon may"
+		para "Three #MON may"
 		line "enter battles."
 
 		para "All three must be"
@@ -133,7 +133,7 @@ BattleFactory1FRulesScript:
 
 		para "After winning a"
 		line "battle, you may"
-		cont "trade a #mon"
+		cont "trade a #MON"
 		cont "with the opponent."
 		done
 
@@ -152,11 +152,11 @@ BattleFactory1FStreakText:
 BattleFactory1FReceptionistScript:
 	opentext
 	writethistext
-		text "Battle Factory"
+		text "BATTLE FACTORY"
 		line "welcomes you!"
 
 		para "I can show you to"
-		line "the Battle Floor."
+		line "the BATTLE FLOOR."
 		done
 	promptbutton
 	checkevent EVENT_BATTLE_FACTORY_INTRO
@@ -174,23 +174,23 @@ BattleFactory1FReceptionistScript:
 
 .Explanation:
 	writethistext
-		text "Battle Factory is"
+		text "BATTLE FACTORY is"
 		line "a facility where"
 		cont "you battle using"
-		cont "rental #mon."
+		cont "rental #MON."
 
-		para "Countless #mon"
+		para "Countless #MON"
 		line "trainers gather"
 
 		para "from all over to"
 		line "hold battles on"
-		cont "the Battle Floor."
+		cont "the BATTLE FLOOR."
 
 		para "Each challenge"
 		line "has 7 trainers."
 
 		para "Beat them all to"
-		line "get Battle Points."
+		line "get BATTLE POINTS."
 
 		para "To interrupt a"
 		line "session, you must"
@@ -198,8 +198,8 @@ BattleFactory1FReceptionistScript:
 		para "save. If not, you"
 		line "won't be able to"
 
-		para "resume your Floor"
-		line "challenge."
+		para "resume your FLOOR"
+		line "CHALLENGE."
 		prompt
 	; fallthrough
 .BattleFactoryMenu:
@@ -207,7 +207,7 @@ BattleFactory1FReceptionistScript:
 	setscene $1
 	writethistext
 		text "Want to head onto"
-		line "the Battle Floor?"
+		line "the BATTLE FLOOR?"
 		done
 	loadmenu MenuDataHeader_BattleInfoCancel
 	verticalmenu
@@ -223,7 +223,7 @@ BattleFactory1FReceptionistScript:
 .Challenge:
 	writethistext
 		text "Before entering"
-		line "the Battle Floor,"
+		line "the BATTLE FLOOR,"
 
 		para "your progress will"
 		line "be saved."
@@ -255,7 +255,7 @@ Script_ReturnToRentalChallenge:
 	; Everything ready to go for challenge start
 	writethistext
 		text "Right this way to"
-		line "the Battle Floor."
+		line "the BATTLE FLOOR."
 		done
 	waitbutton
 	closetext
@@ -281,13 +281,13 @@ PokemonJournalThortonScript:
 	setflag ENGINE_READ_THORTON_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Factory Head"
-	cont "Thorton!"
+	para "SPECIAL FEATURE:"
+	line "FACTORY HEAD"
+	cont "THORTON!"
 
-	para "Thorton is said to"
+	para "THORTON is said to"
 	line "only believe in"
 
 	para "what he can prove"

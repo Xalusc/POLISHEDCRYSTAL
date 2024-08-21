@@ -61,8 +61,8 @@ CherrygroveBayTutorEarthPowerScript:
 GenericTrainerSwimmermThomas:
 	generictrainer SWIMMERM, THOMAS, EVENT_BEAT_SWIMMERM_THOMAS, .SeenText, .BeatenText
 
-	text "My #mon knows"
-	line "how to Surf, but"
+	text "My #MON knows"
+	line "how to SURF, but"
 	cont "I prefer swimming."
 	done
 
@@ -81,7 +81,7 @@ GenericTrainerSwimmerfSally:
 
 	text "I like drifting on"
 	line "the waves along-"
-	cont "side my #mon!"
+	cont "side my #MON!"
 	done
 
 .SeenText:
@@ -102,7 +102,7 @@ GenericTrainerSwimmerfTara:
 
 	text "There's a grove of"
 	line "golden trees north"
-	cont "of Ecruteak City."
+	cont "of ECRUTEAK CITY."
 
 	para "I'd love to visit"
 	line "someday."
@@ -141,7 +141,7 @@ GenericTrainerHikerTony:
 
 CherrygroveBayFisherText:
 	text "I can watch"
-	line "Cherrygrove City"
+	line "CHERRYGROVE CITY"
 
 	para "from afar while"
 	line "I fish."
@@ -149,10 +149,10 @@ CherrygroveBayFisherText:
 
 CherrygroveBayHikerText:
 	text "I don't believe in"
-	line "legendary #mon"
+	line "legendary #MON"
 	cont "creation myths."
 
-	para "Johto was formed"
+	para "JOHTO was formed"
 	line "over millions of"
 
 	para "years by the power"
@@ -161,21 +161,21 @@ CherrygroveBayHikerText:
 
 Text_CherrygroveBayTutorEarthPower:
 	text "I can teach your"
-	line "#mon how to"
+	line "#MON how to"
 
-	para "use Earth Power"
-	line "for a Silver Leaf."
+	para "use EARTH POWER"
+	line "for a SILVER LEAF."
 	done
 
 Text_CherrygroveBayTutorNoSilverLeaf:
 	text "You don't have any"
-	line "Silver Leaves…"
+	line "SILVER LEAVES…"
 	done
 
 Text_CherrygroveBayTutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Earth Power?"
+	line "your #MON"
+	cont "EARTH POWER?"
 	done
 
 Text_CherrygroveBayTutorRefused:
@@ -183,7 +183,7 @@ Text_CherrygroveBayTutorRefused:
 	done
 
 Text_CherrygroveBayTutorTaught:
-	text "Now your #mon"
+	text "Now your #MON"
 	line "knows how to use"
-	cont "Earth Power."
+	cont "EARTH POWER."
 	done

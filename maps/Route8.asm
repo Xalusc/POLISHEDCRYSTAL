@@ -33,8 +33,8 @@ Route8_MapScriptHeader:
 GenericTrainerBikerDwayne:
 	generictrainer BIKER, DWAYNE, EVENT_BEAT_BIKER_DWAYNE, BikerDwayneSeenText, BikerDwayneBeatenText
 
-	text "The Kanto #mon"
-	line "Federation will"
+	text "The KANTO #MON"
+	line "FEDERATION will"
 	cont "never fall!"
 	done
 
@@ -42,7 +42,7 @@ GenericTrainerBikerHarris:
 	generictrainer BIKER, HARRIS, EVENT_BEAT_BIKER_HARRIS, BikerHarrisSeenText, BikerHarrisBeatenText
 
 	text "Wiped out by some"
-	line "punk from Johto…"
+	line "punk from JOHTO…"
 	done
 
 GenericTrainerBikerZeke:
@@ -63,7 +63,7 @@ GenericTrainerSupernerdSam:
 GenericTrainerSupernerdTom:
 	generictrainer SUPER_NERD, TOM, EVENT_BEAT_SUPER_NERD_TOM, SupernerdTomSeenText, SupernerdTomBeatenText
 
-	text "Gym Badges are"
+	text "GYM BADGES are"
 	line "proof of your"
 	cont "skill at battles."
 	done
@@ -83,7 +83,7 @@ GenericTrainerGentlemanMilton:
 GenericTrainerCoupleMoeandlulu1:
 	generictrainer COUPLE, MOEANDLULU1, EVENT_BEAT_COUPLE_MOE_AND_LULU, CoupleMoeandlulu1SeenText, CoupleMoeandlulu1BeatenText
 
-	text "Moe: In short,"
+	text "MOE: In short,"
 	line "you're just too"
 	cont "strong…"
 	done
@@ -91,8 +91,8 @@ GenericTrainerCoupleMoeandlulu1:
 GenericTrainerCoupleMoeandlulu2:
 	generictrainer COUPLE, MOEANDLULU2, EVENT_BEAT_COUPLE_MOE_AND_LULU, CoupleMoeandlulu2SeenText, CoupleMoeandlulu2BeatenText
 
-	text "Lulu: It's not that"
-	line "Moe's weak, it's"
+	text "LULU: It's not that"
+	line "MOE's weak, it's"
 
 	para "that you're too"
 	line "strong!"
@@ -109,8 +109,8 @@ GenericTrainerLassMeadow:
 	done
 
 Route8BikerDwayneProtestText:
-	text "We're the Kanto"
-	line "#mon Federation"
+	text "We're the KANTO"
+	line "#MON FEDERATION"
 	cont "trainer group."
 
 	para "We're holding a"
@@ -118,20 +118,20 @@ Route8BikerDwayneProtestText:
 	done
 
 Route8BikerZekeProtestText:
-	text "We're the Kanto"
-	line "#mon Federa-"
-	cont "tion!"
+	text "We're the KANTO"
+	line "#MON FEDERA-"
+	cont "TION!"
 
 	para "The cops can't"
 	line "stop us from"
 
-	para "using the Under-"
-	line "ground Path!"
+	para "using the UNDER-"
+	line "GROUND PATH!"
 	done
 
 BikerDwayneSeenText:
-	text "We're the Kanto"
-	line "#mon Federation"
+	text "We're the KANTO"
+	line "#MON FEDERATION"
 	cont "trainer group."
 
 	para "We'll drive you"
@@ -145,9 +145,9 @@ BikerDwayneBeatenText:
 Route8BikerHarrisProtestText:
 BikerHarrisSeenText:
 	text "The cops shut down"
-	line "our Underground"
+	line "our UNDERGROUND"
 
-	para "Path! That really"
+	para "PATH! That really"
 	line "fries me!"
 	done
 
@@ -156,9 +156,9 @@ BikerHarrisBeatenText:
 	done
 
 BikerZekeSeenText:
-	text "We're the Kanto"
-	line "#mon Federa-"
-	cont "tion!"
+	text "We're the KANTO"
+	line "#MON FEDERA-"
+	cont "TION!"
 	cont "Right on!"
 	done
 
@@ -167,18 +167,18 @@ BikerZekeBeatenText:
 	done
 
 SupernerdSamSeenText:
-	text "How does the Mag-"
-	line "net Train work?"
+	text "How does the MAG-"
+	line "NET TRAIN work?"
 	done
 
 SupernerdSamBeatenText:
 	text "I just want to see"
-	line "the Magnet Train…"
+	line "the MAGNET TRAIN…"
 	done
 
 SupernerdTomSeenText:
 	text "Hm… You've got"
-	line "many Gym Badges."
+	line "many GYM BADGES."
 	done
 
 SupernerdTomBeatenText:
@@ -198,21 +198,21 @@ GentlemanMiltonBeatenText:
 	done
 
 CoupleMoeandlulu1SeenText:
-	text "Moe: Do I look"
+	text "MOE: Do I look"
 	line "weak? Don't make"
 	cont "me laugh!"
 
-	para "When I'm with Lulu,"
+	para "When I'm with LULU,"
 	line "I've got a hundred"
 	cont "times the courage!"
 	done
 
 CoupleMoeandlulu1BeatenText:
-	text "Moe: Uwaaaahhh…"
+	text "MOE: Uwaaaahhh…"
 	done
 
 CoupleMoeandlulu2SeenText:
-	text "Lulu: Moe and I"
+	text "LULU: MOE and I"
 	line "make a great pair!"
 
 	para "You should prepare"
@@ -220,7 +220,7 @@ CoupleMoeandlulu2SeenText:
 	done
 
 CoupleMoeandlulu2BeatenText:
-	text "Lulu: Eeek!"
+	text "LULU: Eeek!"
 	done
 
 LassMeadowSeenText:

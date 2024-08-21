@@ -199,15 +199,15 @@ SupernerdPatBeatenText:
 
 Route25MewYoungsterText:
 	text "One time I saw a"
-	line "Mew around here!"
+	line "MEW around here!"
 
 	para "You don't believe"
-	line "me? Slowpoke saw"
+	line "me? SLOWPOKE saw"
 	cont "it too!"
 	done
 
 Route25SlowpokeText1:
-	text "Slowpoke: …"
+	text "SLOWPOKE: …"
 
 	para "…… …… ……"
 	done
@@ -248,7 +248,7 @@ CooltrainermKevinAfterBattleText:
 	line "battle!"
 
 	para "You and your #-"
-	line "mon are truly out-"
+	line "MON are truly out-"
 	cont "standing!"
 	done
 
@@ -266,5 +266,5 @@ NuggetBridgeNotClearedText:
 
 	para "There's a shortcut"
 	line "just below us back"
-	cont "to Route 24."
+	cont "to ROUTE 24."
 	done

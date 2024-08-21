@@ -35,10 +35,10 @@ GenericTrainerLassDuplica:
 	line "impressions!"
 
 	para "Someday I'll become"
-	line "a Fuchsia Gym"
+	line "a FUCHSIA GYM"
 
-	para "Trainer and mimic"
-	line "Janine."
+	para "trainer and mimic"
+	line "JANINE."
 	done
 
 GenericTrainerCamperAmos:
@@ -46,24 +46,24 @@ GenericTrainerCamperAmos:
 
 	text "I'll search far"
 	line "and wide for new"
-	cont "#mon."
+	cont "#MON."
 	done
 
 GenericTrainerTamerBrett:
 	generictrainer TAMER, BRETT, EVENT_BEAT_TAMER_BRETT, TamerBrettSeenText, TamerBrettBeatenText
 
 	text "You have to com-"
-	line "mand #mon with"
+	line "mand #MON with"
 	cont "confidence."
 
-	para "Earning Badges can"
+	para "Earning BADGES can"
 	line "help with that."
 	done
 
 LassDuplicaSeenText:
 	text "To truly use"
-	line "Ditto, you must"
-	cont "know all #mon!"
+	line "DITTO, you must"
+	cont "know all #MON!"
 	done
 
 LassDuplicaBeatenText:
@@ -72,9 +72,9 @@ LassDuplicaBeatenText:
 	done
 
 CamperAmosSeenText:
-	text "Plenty of #mon"
-	line "live in the Safari"
-	cont "Zone."
+	text "Plenty of #MON"
+	line "live in the SAFARI"
+	cont "ZONE."
 
 	para "I'm here to catch"
 	line "'em all!"
@@ -89,7 +89,7 @@ CamperAmosBeatenText:
 TamerBrettSeenText:
 	text "Do you know how to"
 	line "handle aggressive"
-	cont "#mon?"
+	cont "#MON?"
 	done
 
 TamerBrettBeatenText:
@@ -97,8 +97,8 @@ TamerBrettBeatenText:
 	done
 
 SafariZoneWestAreaSignText:
-	text "Safari Zone"
-	line "West Area"
+	text "SAFARI ZONE"
+	line "WEST AREA"
 	done
 
 SafariZoneWestRestHouseSignText:
@@ -106,24 +106,24 @@ SafariZoneWestRestHouseSignText:
 	done
 
 SafariZoneWestTrainerTips1SignText:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "Fire-type #mon"
+	para "Fire-type #MON"
 	line "cannot be burnt,"
 
-	para "Electric types"
+	para "electric-types"
 	line "can't be paralyzed,"
 
-	para "and Ice types can't"
+	para "and ice-types can't"
 	line "be frozen solid."
 	done
 
 SafariZoneWestTrainerTips2SignText:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
 	para "In a sandstorm,"
-	line "Rock-type #mon"
+	line "rock-type #MON"
 
 	para "get a boost to"
-	line "their Sp.Def."
+	line "their SPCL.DEF."
 	done

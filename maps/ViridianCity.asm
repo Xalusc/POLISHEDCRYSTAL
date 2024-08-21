@@ -95,7 +95,7 @@ ViridianCityCoffeeGrampsQuestionText:
 	line "like much now, but"
 
 	para "I was an expert at"
-	line "catching #mon."
+	line "catching #MON."
 
 	para "Do you believe me?"
 	done
@@ -120,20 +120,20 @@ ViridianCityCoffeeGrampsDoubtedText:
 	done
 
 ViridianCityGrampsNearGymText:
-	text "This Gym didn't"
-	line "have a Leader"
+	text "This GYM didn't"
+	line "have a LEADER"
 	cont "until recently."
 
 	para "A young man from"
-	line "Pallet became the"
+	line "PALLET became the"
 
-	para "Leader, but he's"
+	para "LEADER, but he's"
 	line "often away."
 	done
 
 ViridianCityGrampsNearGymBlueReturnedText:
 	text "Are you going to"
-	line "battle the Leader?"
+	line "battle the LEADER?"
 
 	para "Good luck to you."
 	line "You'll need it."
@@ -146,7 +146,7 @@ ViridianCityDreamEaterFisherText:
 	line "off in the sun."
 
 	para "…I had this dream"
-	line "about a Drowzee"
+	line "about a DROWZEE"
 
 	para "eating my dream."
 	line "And…"
@@ -161,23 +161,23 @@ ViridianCityDreamEaterFisherText:
 
 Text_ViridianCityTutorDreamEater:
 	text "I can teach your"
-	line "#mon to eat"
+	line "#MON to eat"
 	cont "dreams."
 
 	para "I just want a"
-	line "Silver Leaf in"
+	line "SILVER LEAF in"
 	cont "exchange."
 	done
 
 Text_ViridianCityTutorNoSilverLeaf:
 	text "You don't have any"
-	line "Silver Leaves…"
+	line "SILVER LEAVES…"
 	done
 
 Text_ViridianCityTutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Dream Eater?"
+	line "your #MON"
+	cont "DREAM EATER?"
 	done
 
 Text_ViridianCityTutorRefused: ; text > text
@@ -185,9 +185,9 @@ Text_ViridianCityTutorRefused: ; text > text
 	done
 
 Text_ViridianCityTutorTaught:
-	text "Now your #mon"
+	text "Now your #MON"
 	line "knows how to use"
-	cont "Dream Eater…"
+	cont "DREAM EATER…"
 
 	para "…Zzzzz…"
 	done
@@ -197,43 +197,43 @@ ViridianCityYoungsterText:
 	line "are many items on"
 
 	para "the ground in"
-	line "Viridian Forest."
+	line "VIRIDIAN FOREST."
 	done
 
 ViridianCityYoungster2Text:
-	text "The leader of Team"
-	line "Rocket was the Gym"
+	text "The leader of TEAM"
+	line "ROCKET was the GYM"
 
-	para "Leader here for a"
+	para "LEADER here for a"
 	line "time, but one day"
 
 	para "three years ago"
 	line "he vanished."
 
 	para "He wasn't usually"
-	line "at the Gym anyway…"
+	line "at the GYM anyway…"
 	done
 
 ViridianCitySignText:
-	text "Viridian City"
+	text "VIRIDIAN CITY"
 
 	para "The Eternally"
 	line "Green Paradise"
 	done
 
 ViridianGymSignText:
-	text "Viridian City"
-	line "#mon Gym"
-	cont "Leader: …"
+	text "VIRIDIAN CITY"
+	line "#MON GYM"
+	cont "LEADER: …"
 
 	para "The rest of the"
 	line "text is illegible…"
 	done
 
 ViridianCityTrainerTips1Text:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
-	para "Catch #mon"
+	para "Catch #MON"
 	line "and expand your"
 	cont "collection!"
 
@@ -243,13 +243,13 @@ ViridianCityTrainerTips1Text:
 	done
 
 ViridianCityTrainerTips2Text:
-	text "Trainer Tips"
+	text "TRAINER TIPS"
 
 	para "The world is a"
 	line "big place!"
 
 	para "Don't just run or"
-	line "Fly everywhere--"
+	line "FLY everywhere--"
 	cont "look around you!"
 
 	para "You'll find new and"
@@ -257,7 +257,7 @@ ViridianCityTrainerTips2Text:
 	done
 
 TrainerHouseSignText:
-	text "Trainer House"
+	text "TRAINER HOUSE"
 
 	para "The Club for Top"
 	line "Trainer Battles"

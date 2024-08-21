@@ -45,25 +45,25 @@ AgathaAfterScript:
 	jumpopenedtext AgathaAfterText
 
 MrFujiText:
-	text "Mr.Fuji: Welcome."
+	text "MR.FUJI: Welcome."
 
 	para "Hmm… You appear to"
 	line "be raising your"
 
-	para "#mon in a kind"
+	para "#MON in a kind"
 	line "and loving manner."
 
-	para "#mon lovers"
+	para "#MON lovers"
 	line "come here to pay"
 
 	para "their respects to"
-	line "departed #mon."
+	line "departed #MON."
 
 	para "Please offer con-"
 	line "dolences for the"
 
 	para "souls of the de-"
-	line "parted #mon."
+	line "parted #MON."
 
 	para "I'm sure that will"
 	line "make them happy."
@@ -71,22 +71,22 @@ MrFujiText:
 
 SoulHouseTeacherText:
 	text "There are other"
-	line "graves of #mon"
+	line "graves of #MON"
 	cont "here, I think."
 
 	para "There are many"
 	line "chambers that only"
-	cont "Mr.Fuji may enter."
+	cont "MR.FUJI may enter."
 	done
 
 SoulHouseLassText:
 	text "I came with my mom"
-	line "to visit #mon"
+	line "to visit #MON"
 	cont "graves…"
 	done
 
 SoulHouseGrannyText:
-	text "The #mon that"
+	text "The #MON that"
 	line "lived with me…"
 
 	para "I loved them like"
@@ -94,25 +94,25 @@ SoulHouseGrannyText:
 	done
 
 AgathaSeenText:
-	text "Agatha: Hello,"
+	text "AGATHA: Hello,"
 	line "child."
 
 	para "My name is"
-	line "Agatha."
+	line "AGATHA."
 
 	para "I fought for years"
 	line "as a member of"
-	cont "the Elite Four."
+	cont "the ELITE FOUR."
 
 	para "…………"
 
 	para "Have you come to"
-	line "mourn a #mon?"
+	line "mourn a #MON?"
 
 	para "It might not be"
 	line "here any longer."
 
-	para "Mr.Fuji kept many"
+	para "MR.FUJI kept many"
 	line "of the graves"
 	cont "elsewhere after"
 
@@ -156,7 +156,7 @@ AgathaRewardText:
 	line "with a deep"
 
 	para "connection to"
-	line "your #mon."
+	line "your #MON."
 
 	para "Here, take this"
 	line "TM!"

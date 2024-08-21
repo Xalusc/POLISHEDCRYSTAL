@@ -40,7 +40,7 @@ RalphLostAMonText:
 	line "about it until he"
 
 	para "shared his #"
-	line "Balls with me."
+	line "BALLS with me."
 
 	para "Hahah, that sure"
 	line "made my day!"
@@ -100,11 +100,11 @@ RalphNoItemText:
 	text "Yeah, I know."
 
 	para "You're looking for"
-	line "rare #mon."
+	line "rare #MON."
 
 	para "Recently, all I've"
 	line "been catching are"
-	cont "Magikarp, though…"
+	cont "MAGIKARP, though…"
 	done
 
 RalphReminderText:
@@ -126,7 +126,7 @@ RalphHurryText:
 
 	para "Aren't you coming"
 	line "over to fish for"
-	cont "Qwilfish?"
+	cont "QWILFISH?"
 
 	para "I'm on ROUTE 32,"
 	line "so hurry up!"

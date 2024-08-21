@@ -29,7 +29,7 @@ PalletTownFlyPoint:
 
 PalletTownTeacherText:
 	text "I'm raising #-"
-	line "mon too."
+	line "MON too."
 
 	para "They serve as my"
 	line "private guards."
@@ -59,21 +59,21 @@ PalletTownYoungsterText:
 	done
 
 PalletTownSignText:
-	text "Pallet Town"
+	text "PALLET TOWN"
 
 	para "A Tranquil Setting"
 	line "of Peace & Purity"
 	done
 
 RedsHouseSignText:
-	text "Red's House"
+	text "RED'S HOUSE"
 	done
 
 OaksLabSignText:
-	text "Oak #mon"
-	line "Research Lab"
+	text "OAK #MON"
+	line "RESEARCH LAB"
 	done
 
 BluesHouseSignText:
-	text "Blue's House"
+	text "BLUE'S HOUSE"
 	done

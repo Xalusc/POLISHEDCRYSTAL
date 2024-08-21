@@ -23,7 +23,7 @@ GenericTrainerVeteranmRemy:
 	line "when it comes to"
 
 	para "knowledge about"
-	line "#mon!"
+	line "#MON!"
 	done
 
 VeteranmRemySeenText:
@@ -31,7 +31,7 @@ VeteranmRemySeenText:
 	line "through here, you"
 
 	para "can challenge the"
-	line "Elite Four!"
+	line "ELITE FOUR!"
 	done
 
 VeteranmRemyBeatenText:

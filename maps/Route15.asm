@@ -65,7 +65,7 @@ GenericTrainerSchoolboyTommy:
 GenericTrainerSchoolboyBilly:
 	generictrainer SCHOOLBOY, BILLY, EVENT_BEAT_SCHOOLBOY_BILLY, SchoolboyBillySeenText, SchoolboyBillyBeatenText
 
-	text "If #mon were a"
+	text "If #MON were a"
 	line "subject at school,"
 	cont "I'd be the best!"
 	done
@@ -83,7 +83,7 @@ GenericTrainerPokefanfBoone:
 
 	text "When you battle,"
 	line "you get to see"
-	cont "#mon you've"
+	cont "#MON you've"
 	cont "never seen before."
 
 	para "It's so great!"
@@ -92,8 +92,8 @@ GenericTrainerPokefanfBoone:
 GenericTrainerPokefanfEleanor:
 	generictrainer POKEFANF, ELEANOR, EVENT_BEAT_POKEFANF_ELEANOR, PokefanfEleanorSeenText, PokefanfEleanorBeatenText
 
-	text "My #mon aren't"
-	line "weak! Your #mon"
+	text "My #MON aren't"
+	line "weak! Your #MON"
 	cont "are too strong!"
 	done
 
@@ -101,14 +101,14 @@ GenericTrainerTwinsKayandtia1:
 	generictrainer TWINS, KAYANDTIA1, EVENT_BEAT_TWINS_KAY_AND_TIA, TwinsKayandtia1SeenText, TwinsKayandtia1BeatenText
 
 	text "Absolute truth--"
-	line "I'm Kay! Maybe…"
+	line "I'm KAY! Maybe…"
 	done
 
 GenericTrainerTwinsKayandtia2:
 	generictrainer TWINS, KAYANDTIA2, EVENT_BEAT_TWINS_KAY_AND_TIA, TwinsKayandtia2SeenText, TwinsKayandtia2BeatenText
 
 	text "Maybe truth--I'm"
-	line "Tia! Absolutely!"
+	line "TIA! Absolutely!"
 	done
 
 TeacherColetteSeenText:
@@ -142,7 +142,7 @@ SchoolboyKippSeenText:
 	done
 
 SchoolboyKippBeatenText:
-	text "Sorry, Mom!"
+	text "Sorry, mom!"
 	line "I was beaten!"
 	done
 
@@ -158,9 +158,9 @@ SchoolboyTommyBeatenText:
 
 SchoolgirlFaithSeenText:
 	text "We're on a field"
-	line "trip to Lavender"
+	line "trip to LAVENDER"
 
-	para "Radio Tower for"
+	para "RADIO TOWER for"
 	line "social studies."
 	done
 
@@ -181,7 +181,7 @@ SchoolboyBillyBeatenText:
 
 PokefanfBooneSeenText:
 	text "Hey, your"
-	line "#mon…"
+	line "#MON…"
 
 	para "Show me. Show me."
 	line "Show me!"
@@ -194,7 +194,7 @@ PokefanfBooneBeatenText:
 
 PokefanfEleanorSeenText:
 	text "All right,"
-	line "#mon, time for"
+	line "#MON, time for"
 	cont "a battle!"
 	done
 
@@ -204,33 +204,33 @@ PokefanfEleanorBeatenText:
 
 TwinsKayandtia1SeenText:
 	text "We're the twins"
-	line "Kay and Tia!"
+	line "KAY and TIA!"
 
 	para "Do you know which"
 	line "one I am?"
 	done
 
 TwinsKayandtia1BeatenText:
-	text "Tia and Kay both"
+	text "TIA and KAY both"
 	line "lost…"
 	done
 
 TwinsKayandtia2SeenText:
 	text "We're the twins"
-	line "Kay and Tia!"
+	line "KAY and TIA!"
 
 	para "Do you know which"
 	line "one I am?"
 	done
 
 TwinsKayandtia2BeatenText:
-	text "Tia and Kay both"
+	text "TIA and KAY both"
 	line "lost…"
 	done
 
 Route15SignText:
-	text "Route 15"
+	text "ROUTE 15"
 
-	para "Fuchsia City -"
-	line "Lavender Town"
+	para "FUCHSIA CITY -"
+	line "LAVENDER TOWN"
 	done

@@ -16,13 +16,13 @@ VioletOnixTradeHouse_MapScriptHeader:
 	object_event  6,  5, SPRITE_SCHOOLBOY, SPRITEMOVEDATA_WALK_UP_DOWN, 2, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_COMMAND, trade, NPC_TRADE_KYLE, -1
 
 VioletKylesHousePokefanMText:
-	text "A #mon you get"
+	text "A #MON you get"
 	line "in a trade grows"
 	cont "quickly."
 
 	para "But if you don't"
-	line "have the right Gym"
+	line "have the right GYM"
 
-	para "Badge, they may"
+	para "BADGE, they may"
 	line "disobey you."
 	done

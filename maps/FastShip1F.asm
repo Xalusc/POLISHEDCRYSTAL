@@ -67,9 +67,9 @@ FastShip1FSailor1Script:
 	iftrue_jumpopenedtext FastShip1FSailor1Text_ToOlivine
 	jumpthisopenedtext
 
-	text "Fast Ship S.S.Aqua"
+	text "FAST SHIP S.S.AQUA"
 	line "is en route to"
-	cont "Vermilion City."
+	cont "VERMILION CITY."
 
 	para "We will make an"
 	line "announcement when"
@@ -194,9 +194,9 @@ FastShip1F_PlayerLeavesShipRightMovement:
 	step_end
 
 FastShip1FSailor1Text_ToOlivine:
-	text "Fast Ship S.S.Aqua"
+	text "FAST SHIP S.S.AQUA"
 	line "is en route to"
-	cont "Olivine City."
+	cont "OLIVINE CITY."
 
 	para "We will make an"
 	line "announcement when"
@@ -206,7 +206,7 @@ FastShip1FSailor1Text_ToOlivine:
 FastShip1FSailor2Text_FirstTime:
 	text "Here's your cabin."
 
-	para "If your #mon"
+	para "If your #MON"
 	line "are hurt, take a"
 	cont "nap in the bed."
 
@@ -218,7 +218,7 @@ FastShip1FSailor2Text:
 	text "Here's your cabin."
 
 	para "You can heal your"
-	line "#mon by taking"
+	line "#MON by taking"
 	cont "a nap in the bed."
 
 	para "The ship will"
@@ -250,13 +250,13 @@ FastShip1FGrandpaText:
 	done
 
 FastShip1FSailor1Text_InOlivine:
-	text "Fast Ship S.S.Aqua"
+	text "FAST SHIP S.S.AQUA"
 	line "has arrived in"
-	cont "Olivine City."
+	cont "OLIVINE CITY."
 	done
 
 FastShip1FSailor1Text_InVermilion:
-	text "Fast Ship S.S.Aqua"
+	text "FAST SHIP S.S.AQUA"
 	line "has arrived in"
-	cont "Vermilion City."
+	cont "VERMILION CITY."
 	done

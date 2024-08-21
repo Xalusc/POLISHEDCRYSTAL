@@ -29,8 +29,8 @@ DarkCaveBlackthornEntrancePharmacistScript:
 	jumpthisopenedtext
 
 .PharmacistText2:
-	text "BlackGlasses ups"
-	line "the power of Dark-"
+	text "BLACKGLASSES ups"
+	line "the power of dark-"
 	cont "type moves."
 	done
 
@@ -38,8 +38,8 @@ DarkCaveBlackthornEntrancePharmacistScript:
 	text "Whoa! You startled"
 	line "me there!"
 
-	para "I had my Black-"
-	line "Glasses on, so I"
+	para "I had my BLACK-"
+	line "GLASSES on, so I"
 
 	para "didn't notice you"
 	line "at all."
@@ -51,7 +51,7 @@ DarkCaveBlackthornEntrancePharmacistScript:
 	line "worry about it."
 
 	para "I'll give you a"
-	line "pair of Black-"
-	cont "Glasses, so forget"
+	line "pair of BLACK-"
+	cont "GLASSES, so forget"
 	cont "you saw me, OK?"
 	done

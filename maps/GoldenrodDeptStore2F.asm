@@ -29,7 +29,7 @@ GoldenrodDeptStore2FClerk2Script:
 	pokemart MARTTYPE_STANDARD, MART_GOLDENROD_2F_2_EEVEE
 
 GoldenrodDeptStore2FYoungsterText:
-	text "#gear has no"
+	text "#GEAR has no"
 	line "storage limit."
 
 	para "But getting too"
@@ -38,18 +38,18 @@ GoldenrodDeptStore2FYoungsterText:
 	done
 
 GoldenrodDeptStore2FCooltrainerFText:
-	text "I got my Abra at"
-	line "the Game Corner."
+	text "I got my ABRA at"
+	line "the GAME CORNER."
 
 	para "Now it's my best"
 	line "partner."
 	done
 
 GoldenrodDeptStore2FGentlemanText:
-	text "This Dept.Store"
+	text "This DEPT.STORE"
 	line "makes me realize"
 
-	para "that Goldenrod is"
+	para "that GOLDENROD is"
 	line "a big city."
 
 	para "The selection here"
@@ -61,6 +61,6 @@ GoldenrodDeptStore2FDirectoryText:
 	text "Your Travel"
 	line "Companion"
 
-	para "2F Trainer's"
-	line "   Market"
+	para "2F TRAINER'S"
+	line "   MARKET"
 	done

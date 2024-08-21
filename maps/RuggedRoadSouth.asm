@@ -67,21 +67,21 @@ RuggedRoadSouth_FinishBridge:
 	jmp GenericFinishBridge
 
 RuggedRoadSouthAdvancedTipsSignText:
-	text "Advanced Tips!"
+	text "ADVANCED TIPS!"
 
-	para "If your #mon"
+	para "If your #MON"
 	line "KOs its opponent,"
 
 	para "and it's holding a"
-	line "Power item that"
+	line "POWER ITEM that"
 	cont "ups effort gain,"
 
-	para "every #mon that"
+	para "every #MON that"
 	line "participated in"
 
 	para "the battle or"
 	line "that's holding an"
 
-	para "Exp.Share will"
+	para "EXP.SHARE will"
 	line "gain from it!"
 	done

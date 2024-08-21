@@ -19,11 +19,11 @@ CeladonHotelRoom1_MapScriptHeader:
 CeladonHotelRoom1CooltrainerMText:
 	text "Where I come from,"
 	line "there aren't any"
-	cont "# Balls."
+	cont "# BALLS."
 
-	para "People use Capture"
-	line "Stylers to be-"
-	cont "friend #mon."
+	para "People use CAPTURE"
+	line "STYLERS to be-"
+	cont "friend #MON."
 	done
 
 CeladonHotelRoom1LassText:

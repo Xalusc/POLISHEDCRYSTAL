@@ -77,7 +77,7 @@ BattleTowerOutsidePanUpHelperScript:
 	step_end
 
 BattleTowerOutsideSignText:
-	text "Battle Tower"
+	text "BATTLE TOWER"
 
 	para "Take the Ultimate"
 	line "Trainer Challenge!"
@@ -119,7 +119,7 @@ BattleTowerOutsideAnabelScript:
 
 .ChallengeText:
 	text "Greetings… My name"
-	line "is Anabel."
+	line "is ANABEL."
 
 	para "…You are <PLAYER>?"
 	line "I have heard sev-"
@@ -159,7 +159,7 @@ BattleTowerOutsideAnabelScript:
 
 	para "I will be waiting"
 	line "for you in this"
-	cont "Battle Tower."
+	cont "BATTLE TOWER."
 
 	para "Until the next"
 	line "time we meet…"
@@ -170,19 +170,19 @@ BattleTowerOutsideYoungsterScript:
 	iftrue_jumptextfaceplayer .OpenText
 	jumpthistextfaceplayer
 
-	text "Wow, the Battle"
-	line "Tower is huge! My"
+	text "Wow, the BATTLE"
+	line "TOWER is huge! My"
 
 	para "neck is tired from"
 	line "looking up at it."
 	done
 
 .OpenText:
-	text "Wow, the Battle"
-	line "Tower is huge!"
+	text "Wow, the BATTLE"
+	line "TOWER is huge!"
 
 	para "There must be many"
-	line "kinds of #mon"
+	line "kinds of #MON"
 	cont "in there!"
 	done
 
@@ -198,12 +198,12 @@ BattleTowerOutsideBeautyScript:
 	line "anything, I guess"
 
 	para "it must be for"
-	line "#mon battles."
+	line "#MON battles."
 	done
 
 .OpenText:
 	text "You can use only"
-	line "three #mon."
+	line "three #MON."
 
 	para "It's so hard to"
 	line "decide which three"
@@ -224,6 +224,6 @@ BattleTowerOutsideSailorText:
 	done
 
 BattleTowerOutsideDoorsClosedText:
-	text "The Battle Tower's"
+	text "The BATTLE TOWER's"
 	line "doors are closed…"
 	done

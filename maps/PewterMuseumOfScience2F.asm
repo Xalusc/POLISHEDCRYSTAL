@@ -68,8 +68,8 @@ Museum2FMoonStoneSignpostScript:
 
 Museum2FScientistText:
 	text "Meteorites struck"
-	line "Mt.Moon near"
-	cont "Pewter City."
+	line "MT.MOON near"
+	cont "PEWTER CITY."
 
 	para "We have one"
 	line "on display."
@@ -80,10 +80,10 @@ Museum2FScientistText:
 
 
 Museum2FLassText:
-	text "#mon revived"
+	text "#MON revived"
 	line "from fossils are"
 
-	para "all part Rock-"
+	para "all part rock-"
 	line "type."
 
 	para "Were they always"
@@ -105,7 +105,7 @@ Museum2FPokefanMImperialText:
 	para "You know what else"
 	line "can defy gravity?"
 
-	para "Seismic Toss,"
+	para "SEISMIC TOSS,"
 	line "of course!"
 	done
 
@@ -138,27 +138,27 @@ Museum2FPokefanMMetricText:
 	para "You know what else"
 	line "can defy gravity?"
 
-	para "Seismic Toss,"
+	para "SEISMIC TOSS,"
 	line "of course!"
 	done
 
 Text_Museum2FTutorSeismicToss:
 	text "I can teach your"
-	line "#mon to use"
+	line "#MON to use"
 
-	para "Seismic Toss for"
-	line "one Silver Leaf."
+	para "SEISMIC TOSS for"
+	line "one SILVER LEAF."
 	done
 
 Text_Museum2FTutorNoSilverLeaf:
 	text "You don't have a"
-	line "Silver Leaf!"
+	line "SILVER LEAF!"
 	done
 
 Text_Museum2FTutorQuestion:
 	text "Should I teach"
-	line "your #mon"
-	cont "Seismic Toss?"
+	line "your #MON"
+	cont "SEISMIC TOSS?"
 	done
 
 Text_Museum2FTutorRefused:
@@ -166,36 +166,36 @@ Text_Museum2FTutorRefused:
 	done
 
 Text_Museum2FTutorTaught:
-	text "Now your #mon"
+	text "Now your #MON"
 	line "knows how to use"
-	cont "Seismic Toss!"
+	cont "SEISMIC TOSS!"
 	done
 
 Museum2FMoonStoneSignpostText:
 	text "Meteorite that"
-	line "fell on Mt.Moon."
-	cont "(Moon Stone)"
+	line "fell on MT.MOON."
+	cont "(MOON STONE)"
 	done
 
 Museum2FSpaceShuttleSignpostText:
-	text "Space Shuttle"
+	text "SPACE SHUTTLE"
 	done
 
 PokemonJournalStevenScript:
 	setflag ENGINE_READ_STEVEN_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Rock Hound Steven!"
+	para "SPECIAL FEATURE:"
+	line "ROCK HOUND STEVEN!"
 
-	para "Steven Stone is"
+	para "STEVEN STONE is"
 	line "said to assist"
-	cont "Devon Corp, which"
+	cont "DEVON CORP, which"
 
 	para "is run by his fa-"
-	line "ther Joseph Stone,"
+	line "ther JOSEPH STONE,"
 
 	para "by hunting down"
 	line "rare minerals and"
@@ -206,16 +206,16 @@ PokemonJournalCynthiaScript: ; TODO: move to Goldenrod Museum
 	setflag ENGINE_READ_CYNTHIA_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Researcher"
-	cont "Cynthia!"
+	para "SPECIAL FEATURE:"
+	line "RESEARCHER"
+	cont "CYNTHIA!"
 
-	para "Cynthia is said to"
+	para "CYNTHIA is said to"
 	line "have learned many"
 
 	para "legends and myths"
 	line "from her grand-"
-	cont "mother in Sinnoh."
+	cont "mother in SINNOH."
 	done

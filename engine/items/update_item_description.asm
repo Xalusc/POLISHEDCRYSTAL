@@ -37,7 +37,7 @@ UpdateItemDescription:
 	farjp PrintItemDescription
 
 BagString:
-	db "Bag @"
+	db "PACK @"
 
 UpdateTMHMDescriptionAndOwnership:
 	hlcoord 1, 1

@@ -62,8 +62,8 @@ LizBattleRematchText:
 	done
 
 LizWrongNumberText:
-	text "Hi, Tania. How are"
-	line "you? This is Liz."
+	text "Hi, TANIA. How are"
+	line "you? This is LIZ."
 
 	para "I'm fine, but I'm"
 	line "bored silly!"
@@ -83,7 +83,7 @@ LizRuinsOfAlphGossipText:
 	para "I was listening to"
 	line "the radio in the"
 
-	para "Ruins of Alph when"
+	para "RUINS OF ALPH when"
 	line "an odd broadcast"
 
 	para "suddenly cut it on"
@@ -97,9 +97,9 @@ LizFalknerGossipText:
 	text "Listen, listen!"
 
 	para "Don't you think"
-	line "Falkner of Violet"
+	line "FALKNER of VIOLET"
 
-	para "Gym is cool and"
+	para "GYM is cool and"
 	line "handsome?"
 
 	para "But they say his"
@@ -109,7 +109,7 @@ LizFalknerGossipText:
 	line "road, is even more"
 
 	para "cool and handsome"
-	line "than Falkner."
+	line "than FALKNER."
 
 	para "I wish I could"
 	line "meet him!"
@@ -118,11 +118,11 @@ LizFalknerGossipText:
 LizEarlGossipText:
 	text "Listen, listen!"
 
-	para "Do you know Earl,"
+	para "Do you know EARL,"
 	line "the teacher who"
 
-	para "runs the #mon"
-	line "Academy in Violet?"
+	para "runs the #MON"
+	line "ACADEMY in VIOLET?"
 
 	para "I saw him doing"
 	line "pirouettes while"
@@ -134,13 +134,13 @@ LizEarlGossipText:
 LizSurfPikachuGossipText:
 	text "Listen, listen!"
 
-	para "I collect #mon"
+	para "I collect #MON"
 	line "plush dolls."
 
 	para "But I can't seem"
 	line "to get a hold of a"
 
-	para "Surf Pikachu Doll."
+	para "SURF PIKACHU DOLL."
 	line "None of my friends"
 
 	para "have it. It must"
@@ -155,10 +155,10 @@ LizMooMooMilkGossipText:
 	text "Listen, listen!"
 
 	para "Do you know about"
-	line "Moomoo Milk?"
+	line "MOOMOO MILK?"
 
 	para "You can buy it at"
-	line "Moomoo Farm."
+	line "MOOMOO FARM."
 
 	para "It's supposed to"
 	line "be good for health"
@@ -173,8 +173,8 @@ LizMooMooMilkGossipText:
 LizSalonGossipText:
 	text "Listen, listen!"
 
-	para "There's a #mon"
-	line "Salon in Goldenrod"
+	para "There's a #MON"
+	line "SALON in GOLDENROD"
 
 	para "that's run by two"
 	line "brothers."
@@ -201,15 +201,15 @@ LizSalonGossipText:
 LizWhitneyGossipText:
 	text "Listen, listen!"
 
-	para "Goldenrod Gym's"
-	line "Whitney began"
+	para "GOLDENROD GYM's"
+	line "WHITNEY began"
 
 	para "battling only a"
 	line "little while ago!"
 
-	para "But the #mon"
-	line "League chose her"
-	cont "as a Gym Leader!"
+	para "But the #MON"
+	line "LEAGUE chose her"
+	cont "as a GYM LEADER!"
 
 	para "I bet she must be"
 	line "totally talented."
@@ -223,16 +223,16 @@ LizBugCatchingContestGossipText:
 
 	para "Bug-Catching"
 	line "Contest at the"
-	cont "National Park?"
+	cont "NATIONAL PARK?"
 
 	para "I did once, but"
 	line "all I could catch"
-	cont "was a Caterpie."
+	cont "was a CATERPIE."
 
 	para "But guess what!"
 
 	para "I won with that"
-	line "Caterpie. Isn't"
+	line "CATERPIE. Isn't"
 	cont "that great?"
 	done
 

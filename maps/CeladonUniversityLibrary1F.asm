@@ -53,7 +53,7 @@ CeladonUniversityLibrary1FGentlemanText:
 	done
 
 CeladonUniversityLibrary1FCooltrainerfText:
-	text "Prof.Oak used to"
+	text "PROF.OAK used to"
 	line "teach here, so the"
 
 	para "library has copies"
@@ -70,18 +70,18 @@ CeladonUniversityLibrary1FGameboyKidScript:
 	end
 
 .Text:
-	text "My #dex has a"
+	text "My #DEX has a"
 	line "game upgrade."
 
-	para "I'm playing Tetris!"
+	para "I'm playing TETRIS!"
 	done
 
 CeladonUniversityLibrary1FPokefan_fText:
 	text "We have a mutual"
 	line "lending agreement"
 
-	para "with Canalave"
-	line "Library in Sinnoh."
+	para "with CANALAVE"
+	line "LIBRARY in SINNOH."
 	done
 
 CeladonUniversityLibrary1FCooltrainermScript:
@@ -112,9 +112,9 @@ CeladonUniversityLibrary1FCooltrainermScript:
 
 .Text2:
 	text "If you want your"
-	line "#mon to hang in"
+	line "#MON to hang in"
 	cont "there, give them"
-	cont "that Focus Band."
+	cont "that FOCUS BAND."
 	done
 
 CeladonUniversityLibrary1FTeacherText:
@@ -125,14 +125,14 @@ CeladonUniversityLibrary1FTeacherText:
 	line "thing, just shout."
 
 	para "Quietly, though."
-	line "This IS a library."
+	line "This is a library."
 	done
 
 CeladonUniversityLibrary1FBookText:
 	text "It's a book about"
 	line "flower arranging."
 
-	para "A Sunflora is on"
+	para "A SUNFLORA is on"
 	line "the cover."
 	done
 
@@ -157,12 +157,12 @@ CeladonUniversityLibrary1FBookshelf1Text:
 	line "an old photograph"
 	cont "in this book."
 
-	para "Erika and a man"
+	para "ERIKA and a man"
 	line "with a gentle"
 
 	para "smile are posing"
 	line "happily alongside"
-	cont "an Oddish."
+	cont "an ODDISH."
 	done
 
 CeladonUniversityLibrary1FBookshelf2Text:
@@ -170,10 +170,10 @@ CeladonUniversityLibrary1FBookshelf2Text:
 	line "containing many"
 
 	para "pictures of"
-	line "#mon."
+	line "#MON."
 
-	para "“Todd Snap's Scrap-"
-	line "folio” is written"
+	para "“TODD SNAP'S SCRAP-"
+	line "FOLIO” is written"
 	cont "on the cover."
 	done
 
@@ -181,7 +181,7 @@ CeladonUniversityLibrary1FBookshelf3Text:
 	text "It's a book about"
 	line "a man who taught"
 
-	para "his #mon to"
+	para "his #MON to"
 	line "play a musical"
 	cont "instrument."
 
@@ -191,21 +191,21 @@ CeladonUniversityLibrary1FBookshelf3Text:
 
 CeladonUniversityLibrary1FBookshelf4Text:
 	text "It's a book about"
-	line "#mon palin-"
+	line "#MON palin-"
 	cont "dromes."
 
-	para "There's an Eevee"
-	line "and a Girafarig"
+	para "There's an EEVEE"
+	line "and a GIRAFARIG"
 	cont "on the cover."
 	done
 
 CeladonUniversityLibrary1FBookshelf5Text:
 	text "This book is about"
-	line "Toy #mon that"
+	line "toy #MON that"
 
 	para "come to life after"
 	line "being wound up by"
-	cont "a Wonder Key."
+	cont "a WONDER KEY."
 
 	para "They look kinda"
 	line "cute."
@@ -213,11 +213,11 @@ CeladonUniversityLibrary1FBookshelf5Text:
 
 CeladonUniversityLibrary1FBookshelf6Text:
 	text "It's a book about"
-	line "a #mon puppet"
+	line "a #MON puppet"
 	cont "that can't tell"
 	cont "lies."
 
-	para "“Pinpokéo” is"
+	para "“PINPOKéO” is"
 	line "written on the"
 	cont "cover."
 	done
@@ -229,7 +229,7 @@ CeladonUniversityLibrary1FBookshelf7Text:
 	para "This is a video"
 	line "game!"
 
-	para "A #mon pinball"
+	para "A #MON pinball"
 	line "machine is shown"
 
 	para "proudly on the"
@@ -238,13 +238,13 @@ CeladonUniversityLibrary1FBookshelf7Text:
 
 CeladonUniversityLibrary1FBookshelf8Text:
 	text "It's a book writ-"
-	line "ten by a fishing"
-	cont "guru providing"
+	line "ten by a FISHING"
+	cont "GURU providing"
 
 	para "advice to new"
 	line "anglers."
 
-	para "“Odds and Rods” is"
+	para "“ODDS AND RODS” is"
 	line "written on the"
 	cont "cover."
 	done
@@ -253,33 +253,33 @@ CeladonUniversityLibrary1FBookshelf9Text:
 	text "It's a manual"
 	line "explaining the"
 
-	para "#mon Trading"
-	line "Card game."
+	para "#MON TRADING"
+	line "CARD GAME."
 	done
 
 CeladonUniversityLibrary1FBookshelf10Text:
 	text "It's a cookbook"
-	line "full of #mon-"
+	line "full of #MON-"
 	cont "themed recipes!"
 
-	para "Jigglypuff Jello,"
-	line "Charmander Chut-"
-	cont "ney, Munchlax"
-	cont "Snacks…"
+	para "JIGGLYPUFF JELLO,"
+	line "CHARMANDER CHUT-"
+	cont "NEY, MUNCHLAX"
+	cont "SNACKS…"
 	done
 
 CeladonUniversityLibrary1FBookshelf11Text:
 	text "It's a guide to"
-	line "Poffin blending."
+	line "POFFIN blending."
 
-	para "A famous #mon"
+	para "A famous #MON"
 	line "breeder is on the"
 	cont "cover."
 	done
 
 CeladonUniversityLibrary1FBookshelf12Text:
-	text "“The Secret Life"
-	line "of Laughter” by"
-	cont "Joe King."
+	text "“THE SECRET LIFE"
+	line "OF LAUGHTER” by"
+	cont "JOE KING."
 	cont "Puntastic!"
 	done

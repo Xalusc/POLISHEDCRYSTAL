@@ -41,7 +41,7 @@ ViridianSchoolHouseLass1Text:
 	text "Wait! I thought"
 	line "that, like, all"
 
-	para "Fire-type moves"
+	para "fire-type moves"
 	line "were special?"
 	done
 
@@ -59,11 +59,11 @@ ViridianSchoolHouseYoungsterScript:
 
 .Text2:
 	text "“What doesn't KO"
-	line "a #mon makes"
+	line "a #MON makes"
 	cont "it stronger.”"
 
 	para "That's the effect"
-	line "of a Weak Policy."
+	line "of a WEAK POLICY."
 	done
 
 .Text1:
@@ -97,12 +97,12 @@ ViridianSchoolHouseLass2Text:
 
 ViridianSchoolHouseBlackboardText:
 	text "Physical moves use"
-	line "the Attack and"
-	cont "Defense stats."
+	line "the ATTACK and"
+	cont "DEFENSE stats."
 
 	para "Special moves use"
-	line "the Sp.Atk and"
-	cont "Sp.Def stats."
+	line "the SPCL.ATK and"
+	cont "SPCL.DEF stats."
 
 	para "Status moves do"
 	line "not cause damage"
@@ -113,18 +113,18 @@ PokemonJournalKiyoScript:
 	setflag ENGINE_READ_KIYO_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Karate King Kiyo!"
+	para "SPECIAL FEATURE:"
+	line "KARATE KING KIYO!"
 
-	para "Kiyo is said to"
+	para "KIYO is said to"
 	line "have studied under"
 
-	para "Chuck of Cianwood"
-	line "City. He is"
+	para "CHUCK of CIANWOOD"
+	line "CITY. He is"
 
 	para "rumored to still"
 	line "be training some-"
-	cont "where in Johto."
+	cont "where in JOHTO."
 	done

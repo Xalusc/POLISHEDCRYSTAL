@@ -24,12 +24,12 @@ PokemonJournalChuckScript:
 	setflag ENGINE_READ_CHUCK_JOURNAL
 	jumpthistext
 
-	text "#mon Journal"
+	text "#MON JOURNAL"
 
-	para "Special Feature:"
-	line "Leader Chuck!"
+	para "SPECIAL FEATURE:"
+	line "LEADER CHUCK!"
 
-	para "Chuck is said to"
+	para "CHUCK is said to"
 	line "really like sweet"
 	cont "desserts."
 
@@ -61,7 +61,7 @@ CianwoodGymGuyScript:
 	waitendtext
 
 .Text:
-	text "The #mon Gym"
+	text "The #MON GYM"
 	line "trainers here are"
 	cont "macho bullies."
 
@@ -70,30 +70,30 @@ CianwoodGymGuyScript:
 	cont "after me."
 
 	para "Here's some ad-"
-	line "vice: the Gym"
+	line "vice: the GYM"
 
-	para "Leader uses the"
-	line "Fighting-type."
+	para "LEADER uses the"
+	line "fighting-type."
 
 	para "So you should"
 	line "confound him with"
-	cont "Psychic #mon."
+	cont "psychic #MON."
 
 	para "Wipe out his #-"
-	line "mon before they"
+	line "MON before they"
 
 	para "can use their"
 	line "physical strength."
 
 	para "And those boulders"
 	line "in the middle of"
-	cont "the Gym?"
+	cont "the GYM?"
 
 	para "If you don't move"
 	line "them correctly,"
 
 	para "you won't reach"
-	line "the Gym Leader."
+	line "the GYM LEADER."
 
 	para "If you get stuck,"
 	line "go outside."
@@ -105,7 +105,7 @@ CianwoodGymGuyScript:
 
 	para "Here, use this"
 	line "and teach your"
-	cont "#mon Strength!"
+	cont "#MON STRENGTH!"
 	done
 
 .StrengthText2:
@@ -120,16 +120,16 @@ CianwoodGymGuyScript:
 
 CianwoodPokeCenter1FLassText:
 	text "Did you meet the"
-	line "#Maniac?"
+	line "#MANIAC?"
 
 	para "He's always brag-"
 	line "ging about his"
-	cont "rare #mon."
+	cont "rare #MON."
 	done
 
 CianwoodPokeCenter1FSuperNerdText:
 	text "I love showing off"
-	line "the #mon that"
+	line "the #MON that"
 
 	para "I've raised."
 	line "Don't you?"
@@ -138,12 +138,12 @@ CianwoodPokeCenter1FSuperNerdText:
 	line "into a bunch of"
 
 	para "battles, and show"
-	line "off my #mon!"
+	line "off my #MON!"
 	done
 
 CianwoodPokeCenter1FRichBoyText:
 	text "There's no #"
-	line "Mart in this town,"
+	line "MART in this town,"
 
 	para "so we have to im-"
 	line "port products from"

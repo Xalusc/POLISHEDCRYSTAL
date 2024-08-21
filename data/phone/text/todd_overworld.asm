@@ -1,8 +1,8 @@
 ToddAskNumber1Text:
 	text "From here, I can"
-	line "see Goldenrod's"
+	line "see GOLDENROD's"
 
-	para "Dept.Store. They"
+	para "DEPT.STORE. They"
 	line "have bargain sales"
 
 	para "up on the rooftop"
@@ -24,8 +24,8 @@ ToddAskNumber2Text:
 	done
 
 ToddNumberAcceptedText:
-	text "I check Goldenrod"
-	line "Dept.Store every"
+	text "I check GOLDENROD"
+	line "DEPT.STORE every"
 
 	para "day, so I know"
 	line "when there's a"
@@ -54,5 +54,5 @@ ToddRematchText:
 	line "I even cut back my"
 
 	para "shopping to raise"
-	line "my #mon better!"
+	line "my #MON better!"
 	done
