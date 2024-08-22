@@ -8,20 +8,22 @@ Here's a few examples (original Polished Crystal on the left, this version on th
 ![running-shoes](screenshots/running-shoes.png)
 ![running-shoes2](screenshots/running-shoes2.bmp)
 ![town-map](screenshots/town-map.png)
-![town-map2](screenshots/town-map2.bmp)
+![town-map2](screenshots/town-map2.bmp)  
+
 ![lyra](screenshots/lyra.png)
 ![lyra2](screenshots/lyra2.bmp)
 ![nuzlocke-mode](screenshots/nuzlocke-mode.png)
-![pokeball](screenshots/pokeball.bmp)
+![pokeball](screenshots/pokeball.bmp)  
   
-![elder-li](screenshots/elder-li.png) 
+![elder-li](screenshots/elder-li.png)
 ![trainerlyra](screenshots/trainerlyra.bmp)
 ![remoraid](screenshots/remoraid.png)
-![sentret](screenshots/sentret.bmp)
+![sentret](screenshots/sentret.bmp)  
+
 ![stats](screenshots/stats.png)
 ![stats2](screenshots/stats2.bmp)
 ![weavile](screenshots/weavile.png)
-![cyndaquil](screenshots/cyndaquil.bmp)
+![cyndaquil](screenshots/cyndaquil.bmp)  
 
 The original Polished Crystal README is below, minus the screenshots section.
 
