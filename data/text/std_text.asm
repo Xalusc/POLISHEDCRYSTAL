@@ -341,7 +341,7 @@ GymStatue_ThreeWinningTrainersText:
 	text "WINNING TRAINERS:"
 	line "<RIVAL>"
 	cont "<PLAYER>"
-	cont "Lyra"
+	cont "LYRA"
 	done
 
 CoinVendor_WelcomeText:

@@ -1,5 +1,31 @@
-# Pokémon Polished Crystal
+# POKéMON POLISHED CRYSTAL
 
+This is a modification of the [Pokémon Polished Crystal ROM Hack](https://github.com/Rangi42/polishedcrystal) by [rangi](https://github.com/Rangi42).
+It's essentially the exact same game, but names have been restored to the Gen 2 naming convention.
+This means that Pokémon names, characters, locations, items, stats, and some other words have been changed to ALL CAPS.
+Here's a few examples (original Polished Crystal on the left, this version on the right):
+
+![running-shoes](screenshots/running-shoes.png)
+![running-shoes2](screenshots/running-shoes2.bmp)
+![town-map](screenshots/town-map.png)
+![town-map2](screenshots/town-map2.bmp)
+![lyra](screenshots/lyra.png)
+![lyra2](screenshots/lyra2.bmp)
+![nuzlocke-mode](screenshots/nuzlocke-mode.png)
+![pokeball](screenshots/pokeball.bmp)
+  
+![elder-li](screenshots/elder-li.png) 
+![trainerlyra](screenshots/trainerlyra.bmp)
+![remoraid](screenshots/remoraid.png)
+![sentret](screenshots/sentret.bmp)
+![stats](screenshots/stats.png)
+![stats2](screenshots/stats2.bmp)
+![weavile](screenshots/weavile.png)
+![cyndaquil](screenshots/cyndaquil.bmp)
+
+The original Polished Crystal README is below, minus the screenshots section.
+
+# Original README
 This is a custom Pokémon game based on [the Pokémon Crystal disassembly](https://github.com/pret/pokecrystal).
 
 My goal is to create what the title says: an improved, polished version of Pokémon Crystal. It fixes bugs, takes into account the official game changes since 2001, and adds some new ideas of my own. Many features restore what was removed from R/B/Y, or original to HG/SS.
@@ -49,66 +75,3 @@ You can post questions or comments on any of these sites. But please read the [F
 * [/r/PokemonROMHacks](https://www.reddit.com/r/PokemonROMhacks/comments/51kbcn/pok%C3%A9mon_polished_crystal_200/)
 * [Nuzlocke Forums](http://s7.zetaboards.com/Nuzlocke_Forum/topic/11003710/)
 * [Pokémon Hackers Online](http://www.pokemonhackersonline.com/showthread.php?t=15811)
-
-
-## Screenshots
-
-![title-screen](screenshots/title-screen.png)
-![running-shoes](screenshots/running-shoes.png)
-![town-map](screenshots/town-map.png)
-![lyra](screenshots/lyra.png)
-  
-![cherrygrove-city](screenshots/cherrygrove-city.png)
-![pokemon-center](screenshots/pokemon-center.png)
-![nuzlocke-mode](screenshots/nuzlocke-mode.png)
-![oaks-aide](screenshots/oaks-aide.png)
-  
-![elder-li](screenshots/elder-li.png)
-![move-tutor](screenshots/move-tutor.png)
-![moss-rock](screenshots/moss-rock.png)
-![rich-boy](screenshots/rich-boy.png)
-  
-![tm58](screenshots/tm58.png)
-![game-corner-prizes](screenshots/game-corner-prizes.png)
-![goldenrod-move-tutor](screenshots/goldenrod-move-tutor.png)
-![eviolite](screenshots/eviolite.png)
-  
-![wonder-trade](screenshots/wonder-trade.png)
-![ecruteak-shrine](screenshots/ecruteak-shrine.png)
-![cowgirl](screenshots/cowgirl.png)
-![olivine-city](screenshots/olivine-city.png)
-  
-![remoraid](screenshots/remoraid.png)
-![team-rocket](screenshots/team-rocket.png)
-![steelix](screenshots/steelix.png)
-![custom-map](screenshots/custom-map.png)
-  
-![ice-rock](screenshots/ice-rock.png)
-![hex-maniac](screenshots/hex-maniac.png)
-![route-45](screenshots/route-45.png)
-![stats](screenshots/stats.png)
-
-![sitrus-berry](screenshots/sitrus-berry.png)
-![weavile](screenshots/weavile.png)
-![move-reminder](screenshots/move-reminder.png)
-![moves](screenshots/moves.png)
-  
-![sylveon-moonblast](screenshots/sylveon-moonblast.png)
-![togetic-fairy-wind](screenshots/togetic-fairy-wind.png)
-![aerodactyl-fossil](screenshots/aerodactyl-fossil.png)
-![cerulean-city](screenshots/cerulean-city.png)
-  
-![celadon-city](screenshots/celadon-city.png)
-![fly-to-rock-tunnel](screenshots/fly-to-rock-tunnel.png)
-![viridian-forest](screenshots/viridian-forest.png)
-![mismagius](screenshots/mismagius.png)
-  
-![fighting-dojo](screenshots/fighting-dojo.png)
-![silph-co](screenshots/silph-co.png)
-![new-balls](screenshots/new-balls.png)
-![rock-tunnel](screenshots/rock-tunnel.png)
-  
-![safari-zone](screenshots/safari-zone.png)
-![soul-house](screenshots/soul-house.png)
-![cinnabar-island](screenshots/cinnabar-island.png)
-![seafoam-islands](screenshots/seafoam-islands.png)
